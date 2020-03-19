@@ -1,2 +1,2 @@
-date,country,abbreviation_canton,name_canton,lat,long,hospitalized_with_symptoms,intensive_therapy,total_hospitalized,home_isolation,total_currently_positive,new_positives,recovered,deaths,total_cases,tests
+date,country,abbreviation_canton,name_canton,lat,long,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,deaths,total_positive_cases,tests_performed
 2020-03-18 17:00:00,CH,Zurich,42.35122196,13.39843823,99,41,140,109,249,33,7,7,263,2054
