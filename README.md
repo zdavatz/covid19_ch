@@ -7,3 +7,6 @@
 
 ## Todesfälle in der Schweiz
 * [Wikipedia](https://de.wikipedia.org/wiki/COVID-19-Pandemie_in_der_Schweiz#Todesf%C3%A4lle)
+
+## Daten manuell gesammelt
+* [Dänu](https://github.com/daenuprobst/covid19-cases-switzerland)
