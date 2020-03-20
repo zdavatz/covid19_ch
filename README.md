@@ -68,4 +68,4 @@
 
 ## Hochrechnungen
 * https://neherlab.org/covid19/
-* http://gabgoh.github.io/COVID/index.html
+* http://gabgoh.github.io/COVID/index.html by https://twitter.com/gabeeegoooh
