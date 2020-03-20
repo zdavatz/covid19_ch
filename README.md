@@ -50,6 +50,7 @@
 
 # Landkarte der Schweiz für die Covid19 Fälle
 * [Desktop Version](https://ddrobotec.maps.arcgis.com/apps/opsdashboard/index.html#/5ed2e108dbab4235a7318d1cfe147e7a)
+* [Mobile Version](https://ddrobotec.maps.arcgis.com/apps/opsdashboard/index.html#/3fa74da8e6c74229af19661eb7fa97d2)
 
 ## Esri Visualisierungen
 * [Schweiz-1](http://covid19.ddrobotec.com)
