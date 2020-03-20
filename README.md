@@ -3,7 +3,7 @@
 ### Data per Canton
 
 **Directory:**  data-cantons-csv<br>
-**Structure daily file:** dd-covid19-ch-cantons-yyyymmdd.csv [dd-covid19-ch-cantons-20200318.csv](https://github.com/zdavatz/covid19_ch/blob/master/data-cantons-csv/dd-covid19-ch-cantons-20200318-example.csv)<br>
+**Structure daily file:** dd-covid19-ch-cantons-yyyymmdd.csv see sample file [dd-covid19-ch-cantons-20200318.csv](https://github.com/zdavatz/covid19_ch/blob/master/data-cantons-csv/dd-covid19-ch-cantons-20200318-example.csv)<br>
 **File most recent data (latest):** dd-covid19-ch-cantons-latest.csv
 
 | Field Name                      | Description                       | Description                            | Format                        | Example             |
