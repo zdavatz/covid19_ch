@@ -33,7 +33,7 @@
 **File most recent data (latest):** dd-covid19-ch-switzerland-latest.csv<br>
 
 | Field Name                            | Description                            | Format                                    | Example             |
-|---------------------------------------|----------------------------------------|-------------------------------------------|---------------------|---------------------|
+|---------------------------------------|----------------------------------------|-------------------------------------------|---------------------|
 | **date**                              | Date of notification                   | YYYY-MM-DD HH:MM:SS (ISO 8601) Swiss time | 2020-03-05 12:15:45 |
 | **country**                           | Country of reference                   | XYZ (ISO 3166-1 alpha-2)                  | CH                  |
 | **hospitalized_with_symptoms**        | Hospitalised patients with symptoms    | Number                                    | 3                   |
