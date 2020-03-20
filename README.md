@@ -3,7 +3,7 @@
 ### Data for Switzerland
 
 **Directory:**  [data-switzerland-csv](https://github.com/zdavatz/covid19_ch/tree/master/data-switzerland-csv)<br>
-**Structure daily file:** dd-covid19-ch-switzerland-yyyymmdd.csv [dd-covid19-ch-switzerland-20200318.csv](https://github.com/zdavatz/covid19_ch/blob/master/data-switzerland-csv/dd-covid19-ch-switzerland-20200318-example.csv)<br>
+**Structure daily file:** dd-covid19-ch-switzerland-yyyymmdd.csv see the sample file [dd-covid19-ch-switzerland-20200318.csv](https://github.com/zdavatz/covid19_ch/blob/master/data-switzerland-csv/dd-covid19-ch-switzerland-20200318-example.csv)<br>
 **File most recent data (latest):** [dd-covid19-ch-switzerland-latest.csv](https://github.com/zdavatz/covid19_ch/blob/master/data-switzerland-csv/dd-covid19-ch-switzerland-latest.csv)<br>
 
 | Field Name                            | Description                            | Format                                    | Example             |
