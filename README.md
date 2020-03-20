@@ -1,27 +1,5 @@
 ## Data Formats
 
-### Data for Switzerland
-
-**Directory:**  [data-switzerland-csv](https://github.com/zdavatz/covid19_ch/tree/master/data-switzerland-csv)<br>
-**Structure daily file:** dd-covid19-ch-switzerland-yyyymmdd.csv see the sample file [dd-covid19-ch-switzerland-20200318.csv](https://github.com/zdavatz/covid19_ch/blob/master/data-switzerland-csv/dd-covid19-ch-switzerland-20200318-example.csv)<br>
-**File most recent data (latest):** [dd-covid19-ch-switzerland-latest.csv](https://github.com/zdavatz/covid19_ch/blob/master/data-switzerland-csv/dd-covid19-ch-switzerland-latest.csv)<br>
-
-| Field Name                            | Description                            | Format                                    | Example             |
-|---------------------------------------|----------------------------------------|-------------------------------------------|---------------------|---------------------|
-| **date**                              | Date of notification                   | YYYY-MM-DD HH:MM:SS (ISO 8601) Swiss time | 2020-03-05 12:15:45 |
-| **country**                           | Country of reference                   | XYZ (ISO 3166-1 alpha-2)                  | CH                  |
-| **hospitalized_with_symptoms**        | Hospitalised patients with symptoms    | Number                                    | 3                   |
-| **intensive_care**                    | Intensive care                         | Number                                    | 3                   |
-| **total_hospitalized**                | Total hospitalised patients            | Number                                    | 3                   |
-| **home_confinment**                   | Home confinement                       | Number                                    | 3                   |
-| **total_currently_positive_cases**    | Total amount of current positive cases (Hospitalised patients + Home confinement)  | Number              | 3                   |
-| **new_positive_cases**                | News amount of current positive cases (Hospitalised patients + Home confinement)   | Number              | 3                   |
-| **recoverd**                          | Recovered                              | Number                                    | 3                   |
-| **deaths**                            | Death                                  | Number                                    | 3                   |
-| **total_positive_cases**              | Total amount of positive cases         | Number                                    | 3                   |
-| **tests_performed**                   | Tests performed                        | Number                                    | 3                   |
-
-
 ### Data per Canton
 
 **Directory:**  [data-cantons-csv](https://github.com/zdavatz/covid19_ch/tree/master/data-cantons-csv)<br>
@@ -48,10 +26,34 @@
 | **tests_performed**                     | Tests performed                        | Number                                      | 3                   |
 
 
+### Data for Switzerland
+
+**Directory:**  data-switzerland-csv<br>
+**Structure daily file:** dd-covid19-ch-switzerland-yyyymmdd.csv (dd-covid19-ch-switzerland-20200316.csv)<br>
+**File most recent data (latest):** dd-covid19-ch-switzerland-latest.csv<br>
+
+| Field Name                            | Description                            | Format                                    | Example             |
+|---------------------------------------|----------------------------------------|-------------------------------------------|---------------------|---------------------|
+| **date**                              | Date of notification                   | YYYY-MM-DD HH:MM:SS (ISO 8601) Swiss time | 2020-03-05 12:15:45 |
+| **country**                           | Country of reference                   | XYZ (ISO 3166-1 alpha-2)                  | CH                  |
+| **hospitalized_with_symptoms**        | Hospitalised patients with symptoms    | Number                                    | 3                   |
+| **intensive_care**                    | Intensive care                         | Number                                    | 3                   |
+| **total_hospitalized**                | Total hospitalised patients            | Number                                    | 3                   |
+| **home_confinment**                   | Home confinement                       | Number                                    | 3                   |
+| **total_currently_positive_cases**    | Total amount of current positive cases (Hospitalised patients + Home confinement)  | Number              | 3                   |
+| **new_positive_cases**                | News amount of current positive cases (Hospitalised patients + Home confinement)   | Number              | 3                   |
+| **recoverd**                          | Recovered                              | Number                                    | 3                   |
+| **deaths**                            | Death                                  | Number                                    | 3                   |
+| **total_positive_cases**              | Total amount of positive cases         | Number                                    | 3                   |
+| **tests_performed**                   | Tests performed                        | Number                                    | 3                   |
+
+
 # Landkarte der Schweiz für die Covid19 Fälle
 * [Desktop Version](https://ddrobotec.maps.arcgis.com/apps/opsdashboard/index.html#/5ed2e108dbab4235a7318d1cfe147e7a)
 
 ## Esri Visualisierungen
+* [Schweiz-1](http://covid19.ddrobotec.com)
+* [Schweiz-2](https://ddrobotec.maps.arcgis.com/apps/opsdashboard/index.html#/5ed2e108dbab4235a7318d1cfe147e7a)
 * [JohnHopkins](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 * [Italy](http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1)
 * [UK](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
