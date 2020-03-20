@@ -69,5 +69,5 @@
 * http://gabgoh.github.io/COVID/index.html by https://twitter.com/gabeeegoooh
 
 ## Medienberichte
-* [Die Zahl der Todesfälle haben wir aus Wikipedia entnommen](https://www.republik.ch/2020/03/20/die-zahl-der-todesfaelle-haben-wir-aus-wikipedia-entnommen)
-* [Bis ein toter Coronavirus-Patient in der Statistik auftaucht, können über 30 Stunden vergehen](https://www.nzz.ch/schweiz/coronavirus-das-bag-kommt-bei-erfassung-der-faelle-kaum-hinterher-ld.1547359?mktcid=smch&mktcval=twpost_2020-03-20)
+* [Die Zahl der Todesfälle haben wir aus Wikipedia entnommen](https://www.republik.ch/2020/03/20/die-zahl-der-todesfaelle-haben-wir-aus-wikipedia-entnommen) Republik 20.3.2020
+* [Bis ein toter Coronavirus-Patient in der Statistik auftaucht, können über 30 Stunden vergehen](https://www.nzz.ch/schweiz/coronavirus-das-bag-kommt-bei-erfassung-der-faelle-kaum-hinterher-ld.1547359?mktcid=smch&mktcval=twpost_2020-03-20) NZZ 20.3.2020
