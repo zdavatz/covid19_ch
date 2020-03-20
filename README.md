@@ -8,10 +8,10 @@
 
 | Field Name                      | Description                       | Description                            | Format                        | Example             |
 |-----------------------------------|----------------------------------------|---------------------------------------------|---------------------|---------------------|
-| **date**                          | Date of notification                   | YYYY-MM-DD HH:MM:SS (ISO 8601) Ora italiana | 2020-03-05 12:15:45 |
+| **date**                          | Date of notification                   | YYYY-MM-DD HH:MM:SS (ISO 8601) Swiss time   | 2020-03-05 12:15:45 |
 | **country**                       | Country of reference                   | XY                                          | CH                  |
 | **abbreviation_canton**           | Abbreviation of canton                 | Number                                      | 13                  |
-| **name_canton**                   | Name of the canton                     | Testo                                       | Abruzzo             |
+| **name_canton**                   | Name of the canton                     | Text                                        | Zurich              |
 | **lat**                           | Latitude                               | WGS84                                       | 42.6589177          |
 | **long**                          | Longitude                              | WGS84                                       | 13.70439971         |
 | **hospitalized_with_symptoms**    | Hospitalised patients with symptoms    | Number                                      | 3                   |
@@ -19,7 +19,7 @@
 | **total_hospitalized**            | Total hospitalised patients            | Number                                      | 3                   |
 | **home_confinment**               | Home confinement                       | Number                                      | 3                   |
 | **total_now_positive_cases**      | Total amount of current positive cases (Hospitalised patients + Home confinement)    | Number              | 3                   |
-| **new_positive_cases**            | News amount of current positive cases (Actual total amount of current positive cases - total amount of current positive cases of the previous day)  | Numero                        | 3                   |
+| **new_positive_cases**            | News amount of current positive cases (Actual total amount of current positive cases - total amount of current positive cases of the previous day)  | Number                        | 3                   |
 | **recovered**                     | Recovered                              | Number                                      | 3                   |
 | **deaths**                        | Death                                  | Number                                      | 3                   |
 | **total_positive_cases**          | Total amount of positive cases         | Number                                      | 3                   |
