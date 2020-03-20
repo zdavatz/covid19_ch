@@ -65,3 +65,7 @@
 
 ## Daten manuell gesammelt
 * [Dänu Probst](https://github.com/daenuprobst/covid19-cases-switzerland)
+
+## Hochrechnungen
+* https://neherlab.org/covid19/
+* http://gabgoh.github.io/COVID/index.html
