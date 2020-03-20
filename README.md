@@ -4,7 +4,7 @@
 
 **Directory:**  data-switzerland-csv<br>
 **Structure daily file:** dd-covid19-ch-switzerland-yyyymmdd.csv (dd-covid19-ch-switzerland-20200316.csv)<br>
-**File most recent data (latest):** dd-covid19-ch-switzerland-latest.csv
+**File most recent data (latest):** dd-covid19-ch-switzerland-latest.csv<br>
 
 | Field Name                            | Description                            | Format                                    | Example             |
 |---------------------------------------|----------------------------------------|-------------------------------------------|---------------------|---------------------|
@@ -26,7 +26,7 @@
 
 **Directory:**  [data-cantons-csv](https://github.com/zdavatz/covid19_ch/tree/master/data-cantons-csv)<br>
 **Structure daily file:** dd-covid19-ch-cantons-yyyymmdd.csv see sample file [dd-covid19-ch-cantons-20200318.csv](https://github.com/zdavatz/covid19_ch/blob/master/data-cantons-csv/dd-covid19-ch-cantons-20200318-example.csv)<br>
-**File most recent data (latest):** [dd-covid19-ch-cantons-latest.csv](https://github.com/zdavatz/covid19_ch/blob/master/data-cantons-csv/dd-covid19-ch-cantons-latest.csv)
+**File most recent data (latest):** [dd-covid19-ch-cantons-latest.csv](https://github.com/zdavatz/covid19_ch/blob/master/data-cantons-csv/dd-covid19-ch-cantons-latest.csv)<br>
 
 | Field Name                              | Description                            | Description                                 | Format              | Example             |
 |-----------------------------------------|----------------------------------------|---------------------------------------------|---------------------|---------------------|
