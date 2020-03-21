@@ -68,6 +68,9 @@ def convert_from_openzh(df):
     df['name_canton'] = list(map(lambda name: name_and_numbers_cantons[name]['name'], cantons_col ))
     df['number_canton'] = list(map(lambda name: name_and_numbers_cantons[name]['number'], cantons_col ))
 
+    # Replace NaN values with valid time in order to sort
+    df['time'] = df['time'].fillna('00:00')
+
     return df
 
 def to_int(s):
@@ -76,7 +79,11 @@ def to_int(s):
 
 def aggregate_latest_by_canton(df):
     # index set of latest entries per canton
+    # Latest by date
     idx = df.groupby(['abbreviation_canton'])['date'].transform(max) == df['date']
+    df = df[idx]    
+    # Latest by time
+    idx = df.groupby(['abbreviation_canton'])['time'].transform(max) == df['time']
     # Select rows given by index set
     return df[idx]
 
