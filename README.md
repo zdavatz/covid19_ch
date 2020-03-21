@@ -1,4 +1,4 @@
-## Data Formats
+## Data Structures
 
 ### Data per Canton
 
@@ -18,11 +18,11 @@
 | **intensive_care**                      | Intensive care                         | Number                                      | 3                   |
 | **total_hospitalized**                  | Total hospitalised patients            | Number                                      | 3                   |
 | **home_confinment**                     | Home confinement                       | Number                                      | 3                   |
-| **total_currently_positive_cases**      | Total amount of current positive cases (Hospitalised patients + Home confinement)    | Number              | 3                   |
-| **new_positive_cases**                  | News amount of current positive cases (Actual total amount of current positive cases - total amount of current positive cases of the previous day)  | Number                        | 3                   |
+| **total_currently_positive**            | Total amount of current positive cases (Hospitalised patients + Home confinement)    | Number              | 3                   |
+| **new_positive**                        | News amount of current positive cases (Actual total amount of current positive cases - total amount of current positive cases of the previous day)  | Number                        | 3                   |
 | **recovered**                           | Recovered                              | Number                                      | 3                   |
 | **deaths**                              | Death                                  | Number                                      | 3                   |
-| **total_positive_cases**                | Total amount of positive cases         | Number                                      | 3                   |
+| **total_positive**                      | Total amount of positive cases         | Number                                      | 3                   |
 | **tests_performed**                     | Tests performed                        | Number                                      | 3                   |
 
 
@@ -40,13 +40,13 @@
 | **intensive_care**                    | Intensive care                         | Number                                    | 3                   |
 | **total_hospitalized**                | Total hospitalised patients            | Number                                    | 3                   |
 | **home_confinment**                   | Home confinement                       | Number                                    | 3                   |
-| **total_currently_positive_cases**    | Total amount of current positive cases (Hospitalised patients + Home confinement)  | Number              | 3                   |
-| **new_positive_cases**                | News amount of current positive cases (Hospitalised patients + Home confinement)   | Number              | 3                   |
+| **total_currently_positives**         | Total amount of current positive cases (Hospitalised patients + Home confinement)  | Number              | 3                   |
+| **new_positive**                      | New amount of current positive cases (Hospitalised patients + Home confinement)    | Number              | 3                   |
 | **recoverd**                          | Recovered                              | Number                                    | 3                   |
 | **deaths**                            | Death                                  | Number                                    | 3                   |
-| **total_positive_cases**              | Total amount of positive cases         | Number                                    | 3                   |
+| **total_positive**                    | Total amount of positive cases         | Number                                    | 3                   |
 | **tests_performed**                   | Tests performed                        | Number                                    | 3                   |
-
+    
 
 # Landkarte der Schweiz für die Covid19 Fälle
 * [Desktop Version](https://ddrobotec.maps.arcgis.com/apps/opsdashboard/index.html#/5ed2e108dbab4235a7318d1cfe147e7a)
