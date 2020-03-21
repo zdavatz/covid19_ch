@@ -63,6 +63,7 @@
 
 ## Daten manuell gesammelt
 * [Dänu Probst](https://github.com/daenuprobst/covid19-cases-switzerland)
+* [Daten gesammelt durch das Statistische Amt des Kanton Zürich](https://github.com/openZH/covid_19/#covid-19-cases-communicated-by-swiss-cantons-and-principality-of-liechtenstein-fl)
 
 ## Hochrechnungen
 * https://neherlab.org/covid19/
