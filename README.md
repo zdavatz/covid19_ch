@@ -6,12 +6,13 @@
 **Structure daily file:** dd-covid19-ch-cantons-yyyymmdd.csv see sample file [dd-covid19-ch-cantons-20200318.csv](https://github.com/zdavatz/covid19_ch/blob/master/data-cantons-csv/dd-covid19-ch-cantons-20200318-example.csv)<br>
 **File most recent data (latest):** [dd-covid19-ch-cantons-latest.csv](https://github.com/zdavatz/covid19_ch/blob/master/data-cantons-csv/dd-covid19-ch-cantons-latest.csv)<br>
 
-| Field Name                              | Description                            | Description                                 | Format              | Example             |
-|-----------------------------------------|----------------------------------------|---------------------------------------------|---------------------|---------------------|
+| Field Name                              | Description                            | Format                                      | Example             |
+|-----------------------------------------|----------------------------------------|---------------------------------------------|---------------------|
 | **date**                                | Date of notification                   | YYYY-MM-DD HH:MM:SS (ISO 8601) Swiss time   | 2020-03-05 12:15:45 |
 | **country**                             | Country of reference                   | XY (ISO 3166-1 alpha-2)                     | CH                  |
 | **abbreviation_canton**                 | Abbreviation of canton                 | XY (ISO 3166-1 alpha-2)                     | ZH                  |
 | **name_canton**                         | Name of the canton                     | Text                                        | Zurich              |
+| **number_canton**                       | Number of the canton                   | Number                                      | 10                  |
 | **lat**                                 | Latitude                               | WGS84                                       | 42.6589177          |
 | **long**                                | Longitude                              | WGS84                                       | 13.70439971         |
 | **hospitalized_with_symptoms**          | Hospitalised patients with symptoms    | Number                                      | 3                   |
