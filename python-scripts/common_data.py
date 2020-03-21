@@ -12,7 +12,9 @@ openZH_per_country_format = 'COVID19_Fallzahlen_%s_total.csv'
 
 # Latest data per canton 
 # https://github.com/daenuprobst/covid19-cases-switzerland
-daenuprobst_csv_url = "https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_cases_switzerland.csv"
+daenuprobst_cases_csv_url = "https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_cases_switzerland.csv"
+daenuprobst_fatalities_csv_url = "https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_fatalities_switzerland.csv"
+daenuprobst_complete_csv_url = "https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid_19_cases_switzerland_standard_format.csv"
 
 #
 # Centres of cantons
