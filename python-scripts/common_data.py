@@ -2,8 +2,26 @@
 field_names = "date,country,abbreviation_canton,name_canton,number_canton,lat,long,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,deaths,total_positive_cases,tests_performed".split(',')
 field_names_short = "date,country,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive,new_positive,recovered,deaths,total_positive,tests_performed".split(',')
 
+# Direct field mappings to our format
+openzh_field_mapping = {
+    "date" : "date",
+    "abbreviation_canton_and_fl" : "abbreviation_canton",
+    "ncumul_tested" : "tests_performed",
+    "ncumul_conf" : "total_positive_cases",
+    "ncumul_hosp" : "total_hospitalized",
+    "ncumul_ICU" : "intensive_care",
+    "ncumul_vent" : "ncumul_vent",
+    "ncumul_released" : "ncumul_released",
+    "ncumul_deceased" : "deaths",
+    "source" : "source",
+    "TotalPosTests1" : "pos_tests_1",
+    "TotalCured" : "recovered"
+}
+
+# Data Sources
+
 # Latest data per canton and for Switzerland
-# Using data provided by the Statistische Amt, Kanton Zuerich on Github
+# Using data provided by OpenZH: Statistische Amt, Kanton Zuerich on Github
 # https://github.com/openZH/covid_19
 
 openZH_base_url = 'https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_total_csv/'

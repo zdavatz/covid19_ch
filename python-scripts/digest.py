@@ -6,6 +6,7 @@ from pathlib import Path
 import os
 import datetime
 from common_data import *
+import web
 
 # 
 # Utilities
@@ -74,18 +75,6 @@ def transform_row_daenuprobst_data(row):
 
     return new_row
 
-#
-# Download 
-#
-def download_file_to_data_folder(url, folder):
-    filename = url[url.rfind("/")+1:]
-    data_folder = folder
-    Path(data_folder).mkdir(parents=True, exist_ok=True)
-    target_path = os.path.join(data_folder, filename)
-    print("Downloading %s to %s" % (url, target_path) )
-    urllib.request.urlretrieve(url, target_path)
-    return target_path
-
 def download_openZH_data():
     csv_path_list = []
     for canton in centres_cantons:
@@ -95,7 +84,7 @@ def download_openZH_data():
             else:
                 filename = openZH_per_country_format % canton
 
-            file_path = download_file_to_data_folder(openZH_base_url + filename, os.path.dirname(__file__)  + "/data")
+            file_path = web.download_file_to_folder(openZH_base_url + filename, data_folder())
             csv_path_list.append(file_path)
         except:
             # no data
@@ -104,7 +93,7 @@ def download_openZH_data():
     return csv_path_list
 
 def download_daenuprobst_data():
-    file_path = download_file_to_data_folder(daenuprobst_csv_url, probst_folder())
+    file_path = web.download_file_to_folder(daenuprobst_csv_url, probst_folder())
 
 #
 # Digest
