@@ -74,6 +74,34 @@ def transform_row_daenuprobst_data(row):
 
     return new_row
 
+def transform_row_daenuprobst_standard_data(row):
+    new_row = {}
+
+    date_format = "%Y-%m-%dT%H:%M:%S:%fZ"
+    date_time_obj = datetime.strptime(row['Date'], date_format)
+
+    canton = row['abbreviation_canton']
+
+    new_row['date'] = date_time_obj.isoformat()
+    new_row['country'] = 'CH'
+    new_row['abbreviation_canton'] = canton
+    new_row['name_canton'] = name_and_numbers_cantons[canton]['name']
+    new_row['number_canton'] = name_and_numbers_cantons[canton]['number']
+    new_row['lat'] = centres_cantons[canton]['lat']
+    new_row['long'] = centres_cantons[canton]['lon']
+    new_row['hospitalized_with_symptoms'] = row['hospitalized_with_symptoms']
+    new_row['intensive_care'] = row['intensive_care']
+    new_row['total_hospitalized'] = row['total_hospitalized']
+    new_row['home_confinment'] = row['home_confinment']
+    new_row['total_currently_positive'] = row['CH']
+    new_row['new_positive'] = row['new_positive_cases']
+    new_row['recovered'] = row['recovered']
+    new_row['deaths'] = row['deaths']
+    new_row['total_positive'] = row['total_positive_cases']
+    new_row['tests_performed'] = row['tests_performed']
+
+    return new_row
+
 #
 # Download 
 #
