@@ -15,6 +15,11 @@ openZH_base_url = 'https://raw.githubusercontent.com/openZH/covid_19/master/fall
 openZH_per_canton_format = 'COVID19_Fallzahlen_Kanton_%s_total.csv'
 openZH_per_country_format = 'COVID19_Fallzahlen_%s_total.csv'
 
+# Latest data per canton 
+# https://github.com/daenuprobst/covid19-cases-switzerland
+daenuprobst_csv_url = "https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_cases_switzerland.csv"
+
+
 field_names = "date,country,abbreviation_canton,name_canton,lat,long,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,deaths,total_positive_cases,tests_performed".split(',')
 
 #
@@ -67,7 +72,7 @@ def download_file_to_data_folder(url):
     urllib.request.urlretrieve(url, target_path)
     return target_path
 
-def transform_row(row):
+def transform_row_openZH_data(row):
     new_row = {}
     # Mapfrom   date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumul_ICU,ncumul_vent,ncumul_released,ncumul_deceased,source
     # to        date,country,abbreviation_canton,name_canton,lat,long,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,deaths,total_positive_cases,tests_performed
@@ -97,23 +102,6 @@ def transform_row(row):
     new_row['tests_performed'] = row['ncumul_tested']
     return new_row
 
-def digest_data_total_series(data_folder):
-    pathlist = Path(data_folder).glob('**/*.csv')
-    table = []
-    for path in pathlist:
-        try:
-            with open(path, newline='') as csvfile:
-                reader = csv.DictReader(csvfile)
-                for row in reader:
-                    new_row = transform_row(row)
-                    table.append(new_row)
-        except:
-            print("Error in " + path.name)
-    
-    # Sorted by time stamp
-    table.sort( key = lambda e: e['date'])
-    return table
-
 def download_openZH_data():
     csv_path_list = []
     for canton in centres_cantons:
@@ -131,6 +119,26 @@ def download_openZH_data():
         
     return csv_path_list
 
+def download_daenuprobst_data():
+    file_path = download_file_to_data_folder(daenuprobst_csv_url)
+
+def digest_data_total_series(data_folder):
+    pathlist = Path(data_folder).glob('**/*.csv')
+    table = []
+    for path in pathlist:
+        try:
+            with open(path, newline='') as csvfile:
+                reader = csv.DictReader(csvfile)
+                for row in reader:
+                    new_row = transform_row_openZH_data(row)
+                    table.append(new_row)
+        except:
+            print("Error in " + path.name)
+    
+    # Sorted by time stamp
+    table.sort( key = lambda e: e['date'])
+    return table
+
 if __name__ == '__main__':
     download_openZH_data()
     table_series = digest_data_total_series(data_folder())
@@ -139,4 +147,4 @@ if __name__ == '__main__':
         writer = csv.DictWriter(csvfile, fieldnames=field_names)
         writer.writeheader()
         writer.writerows(table_series)
-
+    #download_daenuprobst_data()
