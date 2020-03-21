@@ -19,7 +19,7 @@ openZH_per_country_format = 'COVID19_Fallzahlen_%s_total.csv'
 daenuprobst_csv_url = "https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_cases_switzerland.csv"
 
 field_names = "date,country,abbreviation_canton,name_canton,lat,long,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,deaths,total_positive_cases,tests_performed".split(',')
-field_names_short = "date,country,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,deaths,total_positive_cases,tests_performed".split(',')
+field_names_short = "date,country,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive,new_positive,recovered,deaths,total_positive,tests_performed".split(',')
 
 #
 # Centres of cantons
@@ -113,11 +113,11 @@ def transform_row_daenuprobst_data(row):
     new_row['intensive_care'] = 0
     new_row['total_hospitalized'] = 0
     new_row['home_confinment'] = 0
-    new_row['total_currently_positive_cases'] = row['CH']
-    new_row['new_positive_cases'] = 0
+    new_row['total_currently_positive'] = row['CH']
+    new_row['new_positive'] = 0
     new_row['recovered'] = 0
     new_row['deaths'] = 0
-    new_row['total_positive_cases'] = 0
+    new_row['total_positive'] = 0
     new_row['tests_performed'] = 0
 
     return new_row
