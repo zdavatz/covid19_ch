@@ -18,7 +18,7 @@ openZH_per_country_format = 'COVID19_Fallzahlen_%s_total.csv'
 # https://github.com/daenuprobst/covid19-cases-switzerland
 daenuprobst_csv_url = "https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_cases_switzerland.csv"
 
-field_names = "date,country,abbreviation_canton,name_canton,lat,long,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,deaths,total_positive_cases,tests_performed".split(',')
+field_names = "date,country,abbreviation_canton,name_canton,number_canton,lat,long,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,deaths,total_positive_cases,tests_performed".split(',')
 field_names_short = "date,country,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive,new_positive,recovered,deaths,total_positive,tests_performed".split(',')
 
 #
@@ -56,6 +56,36 @@ centres_cantons = {
     "FL": {"lat": 47.166667, "lon": 9.509722}
 }
 
+name_and_numbers_cantons = {
+    "AG": {"name": "Aargau", "number": "01"},
+    "AR": {"name": "Appenzell Ausserrhoden", "number": "15"},
+    "AI": {"name": "Appenzell Innerrhoden", "number": "16"},
+    "BL": {"name": "Basel-Landschaft", "number": "13"},
+    "BS": {"name": "Basel-Stadt", "number": "12"},
+    "BE": {"name": "Bern", "number": "02"},
+    "FR": {"name": "Fribourg", "number": "10"},
+    "GE": {"name": "Genève", "number": "25"},
+    "GL": {"name": "Glarus", "number": "08"},
+    "GR": {"name": "Graubünden", "number": "01"},
+    "JU": {"name": "Jura", "number": "26"},
+    "LU": {"name": "Luzern", "number": "03"},
+    "NE": {"name": "Neuchatel", "number": "24"},
+    "NW": {"name": "Nidwalden", "number": "07"},
+    "OW": {"name": "Obwalden", "number": "06"},
+    "SH": {"name": "Schaffhausen", "number": "14"},
+    "SZ": {"name": "Schwyz", "number": "05"},
+    "SO": {"name": "Solothurn", "number": "11"},
+    "SG": {"name": "St. Gallen", "number": "17"},
+    "TI": {"name": "Ticino", "number": "21"},
+    "TG": {"name": "Thurgau", "number": "01"},
+    "UR": {"name": "Uri", "number": "04"},
+    "VD": {"name": "Vaud", "number": "22"},
+    "VS": {"name": "Valais", "number": "23"},
+    "ZG": {"name": "Zug", "number": "09"},
+    "ZH": {"name": "Zürich", "number": "01"},
+    "FL": {"name": "Fürstentum Lichtenstein", "number": "00"}
+}
+
 # 
 # Utilities
 #
@@ -74,7 +104,7 @@ def output_folder():
 def transform_row_openZH_data(row):
     new_row = {}
     # Mapfrom   date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumul_ICU,ncumul_vent,ncumul_released,ncumul_deceased,source
-    # to        date,country,abbreviation_canton,name_canton,lat,long,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,deaths,total_positive_cases,tests_performed
+    # to        date,country,abbreviation_canton,name_canton,number_canton,lat,long,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,deaths,total_positive_cases,tests_performed
 
     # Deal with inconsistent date time formats
     try:
@@ -86,7 +116,8 @@ def transform_row_openZH_data(row):
     new_row['country'] = 'CH'
     canton = row['abbreviation_canton_and_fl']
     new_row['abbreviation_canton'] = row['abbreviation_canton_and_fl']
-    new_row['name_canton'] = ''
+    new_row['name_canton'] = name_and_numbers_cantons[canton]['name']
+    new_row['number_canton'] = name_and_numbers_cantons[canton]['number']
     new_row['lat'] = centres_cantons[canton]['lat']
     new_row['long'] = centres_cantons[canton]['lon']
     new_row['hospitalized_with_symptoms'] = 0
