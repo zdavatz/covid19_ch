@@ -6,7 +6,6 @@ from pathlib import Path
 import os
 import datetime
 
-
 # Latest data per canton and for Switzerland
 # Using data provided by the Statistische Amt, Kanton Zuerich on Github
 # https://github.com/openZH/covid_19
@@ -19,8 +18,8 @@ openZH_per_country_format = 'COVID19_Fallzahlen_%s_total.csv'
 # https://github.com/daenuprobst/covid19-cases-switzerland
 daenuprobst_csv_url = "https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_cases_switzerland.csv"
 
-
 field_names = "date,country,abbreviation_canton,name_canton,lat,long,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,deaths,total_positive_cases,tests_performed".split(',')
+field_names_short = "date,country,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,deaths,total_positive_cases,tests_performed".split(',')
 
 #
 # Centres of cantons
@@ -63,6 +62,9 @@ centres_cantons = {
 def data_folder():
     return os.path.dirname(__file__)  + "/data"
 
+def probst_folder():
+    return os.path.dirname(__file__) + "/probst"
+
 def output_folder():
     return os.path.dirname(__file__)  + "/output"
 
@@ -97,6 +99,27 @@ def transform_row_openZH_data(row):
     new_row['deaths'] = row['ncumul_deceased']
     new_row['total_positive_cases'] = row['ncumul_conf']
     new_row['tests_performed'] = row['ncumul_tested']
+
+    return new_row
+
+def transform_row_daenuprobst_data(row):
+    new_row = {}
+
+    date_time_obj = datetime.datetime.strptime(row['Date'], '%Y-%m-%d')
+
+    new_row['date'] = date_time_obj
+    new_row['country'] = 'CH'
+    new_row['hospitalized_with_symptoms'] = 0
+    new_row['intensive_care'] = 0
+    new_row['total_hospitalized'] = 0
+    new_row['home_confinment'] = 0
+    new_row['total_currently_positive_cases'] = row['CH']
+    new_row['new_positive_cases'] = 0
+    new_row['recovered'] = 0
+    new_row['deaths'] = 0
+    new_row['total_positive_cases'] = 0
+    new_row['tests_performed'] = 0
+
     return new_row
 
 #
@@ -129,7 +152,7 @@ def download_openZH_data():
     return csv_path_list
 
 def download_daenuprobst_data():
-    file_path = download_file_to_data_folder(daenuprobst_csv_url, os.path.dirname(__file__)  + "/probst")
+    file_path = download_file_to_data_folder(daenuprobst_csv_url, probst_folder())
 
 #
 # Digest
@@ -151,18 +174,58 @@ def digest_data_total_series(data_folder):
     table.sort( key = lambda e: e['date'])
     return table
 
+def digest_daenuprobst_file(data_folder):
+    path = Path(data_folder + "/covid19_cases_switzerland.csv")
+    table = []
+    try:
+        with open(path, mode="r", encoding="utf-8-sig") as csvfile:
+            reader = csv.DictReader(csvfile)
+            for row in reader:
+                new_row = transform_row_daenuprobst_data(row)
+                table.append(new_row)
+    except:
+        print("Error in " + path.name)
+
+    # Sorted by time stamp
+    table.sort( key = lambda e: e['date'])
+    return table
+# 
+# Write 
 #
-# Main
-#
-if __name__ == '__main__':
-    # Download all data
-    download_openZH_data()
-    download_daenuprobst_data()
-    # Digest data
-    table_series = digest_data_total_series(data_folder())
-    # Write data to csv files
+def write_openZH_data(table_series):
     time_series_path = os.path.join(output_folder(), "dd-covid19-ch-cantons-series.csv")
     with open(time_series_path, 'w', newline='') as csvfile:        
         writer = csv.DictWriter(csvfile, fieldnames=field_names)
         writer.writeheader()
         writer.writerows(table_series)
+
+def write_daenuprobst_data(table_series):
+    file_path_switzerland = os.path.join(output_folder(), "dd-covid19-ch-switzerland-latest.csv")
+    with open(file_path_switzerland, 'w', newline='') as csvfile: 
+        writer = csv.DictWriter(csvfile, fieldnames=field_names_short)
+        writer.writeheader()
+        writer.writerows(table_series)
+
+    file_path_cantons = os.path.join(output_folder(), "dd-covid19-ch-cantons-latest.csv")
+    with open(file_path_cantons, 'w', newline='') as csvfile: 
+        writer = csv.DictWriter(csvfile, fieldnames=field_names)
+        writer.writeheader()
+
+
+#
+# Main
+#
+if __name__ == '__main__':
+    # Download openZH data
+    download_openZH_data()
+    # Digest openZH data
+    table_series = digest_data_total_series(data_folder())
+    # Write data to csv files
+    write_openZH_data(table_series)
+    
+    # Download Daenu Probst data
+    download_daenuprobst_data()
+    # Digest daenu probst data
+    table_series = digest_daenuprobst_file(probst_folder())
+    # Write data to csv files
+    write_daenuprobst_data(table_series)
