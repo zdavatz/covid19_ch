@@ -57,21 +57,18 @@ centres_cantons = {
     "FL": {"lat": 47.166667, "lon": 9.509722}
 }
 
+# 
+# Utilities
+#
 def data_folder():
     return os.path.dirname(__file__)  + "/data"
 
 def output_folder():
     return os.path.dirname(__file__)  + "/output"
 
-def download_file_to_data_folder(url):
-    filename = url[url.rfind("/")+1:]
-    data_folder = os.path.dirname(__file__)  + "/data"
-    Path(data_folder).mkdir(parents=True, exist_ok=True)
-    target_path = os.path.join(data_folder, filename)
-    print("Downloading %s to %s" % (url, target_path) )
-    urllib.request.urlretrieve(url, target_path)
-    return target_path
-
+#
+# Transform
+#
 def transform_row_openZH_data(row):
     new_row = {}
     # Mapfrom   date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,ncumul_hosp,ncumul_ICU,ncumul_vent,ncumul_released,ncumul_deceased,source
@@ -102,6 +99,18 @@ def transform_row_openZH_data(row):
     new_row['tests_performed'] = row['ncumul_tested']
     return new_row
 
+#
+# Download 
+#
+def download_file_to_data_folder(url, folder):
+    filename = url[url.rfind("/")+1:]
+    data_folder = folder
+    Path(data_folder).mkdir(parents=True, exist_ok=True)
+    target_path = os.path.join(data_folder, filename)
+    print("Downloading %s to %s" % (url, target_path) )
+    urllib.request.urlretrieve(url, target_path)
+    return target_path
+
 def download_openZH_data():
     csv_path_list = []
     for canton in centres_cantons:
@@ -111,7 +120,7 @@ def download_openZH_data():
             else:
                 filename = openZH_per_country_format % canton
 
-            file_path = download_file_to_data_folder(openZH_base_url + filename)
+            file_path = download_file_to_data_folder(openZH_base_url + filename, os.path.dirname(__file__)  + "/data")
             csv_path_list.append(file_path)
         except:
             # no data
@@ -120,8 +129,11 @@ def download_openZH_data():
     return csv_path_list
 
 def download_daenuprobst_data():
-    file_path = download_file_to_data_folder(daenuprobst_csv_url)
+    file_path = download_file_to_data_folder(daenuprobst_csv_url, os.path.dirname(__file__)  + "/probst")
 
+#
+# Digest
+#
 def digest_data_total_series(data_folder):
     pathlist = Path(data_folder).glob('**/*.csv')
     table = []
@@ -139,12 +151,18 @@ def digest_data_total_series(data_folder):
     table.sort( key = lambda e: e['date'])
     return table
 
+#
+# Main
+#
 if __name__ == '__main__':
+    # Download all data
     download_openZH_data()
+    download_daenuprobst_data()
+    # Digest data
     table_series = digest_data_total_series(data_folder())
+    # Write data to csv files
     time_series_path = os.path.join(output_folder(), "dd-covid19-ch-cantons-series.csv")
     with open(time_series_path, 'w', newline='') as csvfile:        
         writer = csv.DictWriter(csvfile, fieldnames=field_names)
         writer.writeheader()
         writer.writerows(table_series)
-    #download_daenuprobst_data()
