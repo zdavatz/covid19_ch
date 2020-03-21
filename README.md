@@ -67,7 +67,7 @@
 * [Daten gesammelt durch das Statistische Amt des Kanton Zürich](https://github.com/openZH/covid_19/#covid-19-cases-communicated-by-swiss-cantons-and-principality-of-liechtenstein-fl)
 
 ## Spitäler
-* Alle [Spitäler der Schweiz](https://github.com/zdavatz/covid19_ch/blob/master/additional-infos/partner_jur_refdata_21.3.2020.xml) mit GLN Code.
+* Alle [Spitäler der Schweiz](https://github.com/zdavatz/covid19_ch/blob/master/additional-infos/partner_jur_refdata_21.3.2020.xml) mit GLN Code. Daten sind von [Refdata.ch](https://refdata.ch) und können täglich aktulaisiert werden, falls erwünscht.
 
 ## Hochrechnungen
 * https://neherlab.org/covid19/
