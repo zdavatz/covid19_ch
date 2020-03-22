@@ -21,7 +21,7 @@ def data_folder():
     return os.path.dirname(__file__)  + "/data"
 
 def output_folder():
-    return os.path.dirname(__file__)  + "/output"
+    return os.path.dirname(__file__)  + "/output_openzh"
 
 def download_openZH_data():
     csv_path_list = []
