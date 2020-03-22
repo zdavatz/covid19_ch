@@ -18,8 +18,8 @@ def merge_daenuprobst_switzerland_files():
 
     fatalities = pd.read_csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_fatalities_switzerland.csv")
     fatalities = fatalities.drop(['CH'], axis=1)
-    fatalities['deaths'] = fatalities.sum(axis=1).astype('int32')
     fatalities = fatalities.fillna(method='ffill')
+    fatalities['deaths'] = fatalities.sum(axis=1).astype('int32')
 
     print(fatalities)
 
