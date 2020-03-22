@@ -228,7 +228,6 @@ def write_standard_switzerland_data(tables_series):
         ds['tests_performed'] = 0
 
         list_of_ds.append(ds)
-        print(ds)
 
     stats = pd.concat(list_of_ds) 
     stats.to_csv(file_name_base + d + ".csv", mode="w", index=False)
