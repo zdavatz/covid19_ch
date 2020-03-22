@@ -14,6 +14,9 @@ from numpy import nan
 
 date_range = datetime.datetime.today() - start_date
 
+def date_range_of_interest():
+    return [ (start_date + datetime.timedelta(days=x)).strftime("%Y-%m-%d") for x in range(date_range.days+1)]
+
 def data_folder():
     return os.path.dirname(__file__)  + "/data"
 
@@ -49,7 +52,7 @@ def set_canton_info(df):
     return df
 
 def add_full_date_range(df, canton):
-    dates = [ (start_date + datetime.timedelta(days=x)).strftime("%Y-%m-%d") for x in range(date_range.days)]
+    dates = date_range_of_interest()
     existing_dates = df['date']
 
     # TODO: loop is very slow, probably better to use something like pd.concat()
