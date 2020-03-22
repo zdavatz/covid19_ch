@@ -1,3 +1,4 @@
+import datetime
 
 field_names = "date,country,abbreviation_canton,name_canton,number_canton,lat,long,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,deaths,total_positive_cases,tests_performed".split(',')
 field_names_short = "date,country,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive,new_positive,recovered,deaths,total_positive,tests_performed".split(',')
@@ -17,6 +18,9 @@ openzh_field_mapping = {
     "TotalPosTests1" : "pos_tests_1",
     "TotalCured" : "recovered"
 }
+
+# Start date for observation
+start_date = datetime.datetime(2020,2,25)
 
 # Data Sources
 

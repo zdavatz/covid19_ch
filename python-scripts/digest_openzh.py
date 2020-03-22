@@ -10,6 +10,9 @@ import datetime
 from common_data import *
 import pandas as pd
 import web
+from numpy import nan
+
+date_range = datetime.datetime.today() - start_date
 
 def data_folder():
     return os.path.dirname(__file__)  + "/data"
@@ -34,12 +37,44 @@ def download_openZH_data():
         
     return csv_path_list
 
+def set_canton_info(df):
+    cantons_col = df['abbreviation_canton']
+
+    # Generate additional columns
+    df['lat'] = list(map(lambda name: centres_cantons[name]['lat'], cantons_col ))
+    df['long'] = list(map(lambda name: centres_cantons[name]['lon'], cantons_col ))
+    df['name_canton'] = list(map(lambda name: name_and_numbers_cantons[name]['name'], cantons_col ))
+    df['number_canton'] = list(map(lambda name: name_and_numbers_cantons[name]['number'], cantons_col ))
+
+    return df
+
+def add_full_date_range(df, canton):
+    dates = [ (start_date + datetime.timedelta(days=x)).strftime("%Y-%m-%d") for x in range(date_range.days)]
+    existing_dates = df['date']
+
+    # TODO: loop is very slow, probably better to use something like pd.concat()
+    print("Please be patient...")
+    for d in dates:
+        if d not in existing_dates:
+            df = df.append( {"date" : d}, ignore_index=True )
+
+    df.sort_values(by=["date"], inplace = True)
+    df.reset_index(inplace=True, drop=True)
+
+    df['abbreviation_canton'] = canton
+
+    df = set_canton_info(df)
+
+    return df
+
 def merge_openzh_data_to_series(data_folder):
     pathlist = Path(data_folder).glob('**/*.csv')
     openzh_data_frames = []
     for path in pathlist:
         try:
             new_data_frame = pd.read_csv(path)
+            # Drop duplicate date entries, take last of duplicates
+            new_data_frame.drop_duplicates(subset = 'date', keep = 'last', inplace = True, ignore_index = True)
             openzh_data_frames.append(new_data_frame)
         except Exception as e:
             print("Error in %s: %s" % (path.name, e))
@@ -49,10 +84,21 @@ def merge_openzh_data_to_series(data_folder):
 
     openzh_data_frame.reset_index(inplace=True, drop=True)
 
-    #with pd.option_context('display.max_rows', None, 'display.max_columns', None, 'display.max_colwidth', -1):  # more options can be specified also
-    #print(openzh_data_frame)
-    
     return openzh_data_frame
+
+def forward_fill_series_gaps(df):
+    cantons = list(df['abbreviation_canton'].unique())
+
+    cols = ["total_positive_cases", "tests_performed", "total_hospitalized" , "intensive_care", "deaths", "pos_tests_1", "recovered", "lat", "long"]
+
+    for canton in cantons:
+        per_canton_idx = canton == df['abbreviation_canton']
+        df_canton = df[per_canton_idx]
+        # https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.fillna.html#pandas.DataFrame.fillna
+        df_canton[cols] = df_canton[cols].fillna(method='ffill')
+        df[per_canton_idx] = df_canton
+
+    return df
 
 def convert_from_openzh(df):
     # Rename 1:1 columns
@@ -68,8 +114,11 @@ def convert_from_openzh(df):
     df['name_canton'] = list(map(lambda name: name_and_numbers_cantons[name]['name'], cantons_col ))
     df['number_canton'] = list(map(lambda name: name_and_numbers_cantons[name]['number'], cantons_col ))
 
-    # Replace NaN values with valid time in order to sort
+    # Replace time NaN values with valid time in order to sort
     df['time'] = df['time'].fillna('00:00')
+
+    # Forward fill gaps for incremental values which might not be updated every day
+    df = forward_fill_series_gaps(df)
 
     return df
 
@@ -87,6 +136,42 @@ def aggregate_latest_by_canton(df):
     # Select rows given by index set
     return df[idx]
 
+def aggregate_series_by_day_and_country(df : pd.DataFrame):
+    complete_series = [(canton,x) for canton, x in df.groupby('abbreviation_canton')]
+    complete_series = [ forward_fill_series_gaps(add_full_date_range(d[1], d[0])) for d in complete_series ]
+
+    # re-assemble full series by canton
+    df = pd.concat(complete_series, ignore_index = True)
+    # Drop duplicate (date, canton) entries, take last of duplicates
+    df.drop_duplicates(subset = ['date', 'abbreviation_canton'], keep = 'last', inplace = True, ignore_index = True)
+    df.reset_index(inplace=True, drop=True)
+
+    # date,country,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive,new_positive,recovered,deaths,total_positive,tests_performed
+    sum_per_day = df.groupby(
+        ['date']
+    ).agg(
+        # Not present in source data
+        # hospitalized_with_symptoms = ("hospitalized_with_symptoms", sum),
+        intensive_care = ("intensive_care", sum),
+        total_hospitalized = ("total_hospitalized", sum),
+        # Not present in source data
+        # home_confinment = ("home_confinment", sum),
+        
+        # Not sure what the difference is to total_positive_cases
+        total_currently_positive = ("total_positive_cases", sum),
+
+        # TODO: compute new positive on full time series
+        # new_positive = ("new_positive", sum),
+        recovered = ("recovered", sum),
+        deaths = ("deaths", sum),
+        total_positive = ("total_positive_cases", sum),
+        tests_performed = ("tests_performed", sum)
+    )
+
+    sum_per_day['country'] = 'CH'    
+
+    return sum_per_day
+
 if __name__ == '__main__':
     # Download data from OpenZH sources
     download_openZH_data()
@@ -101,3 +186,8 @@ if __name__ == '__main__':
     # Get newest entry for each canton
     latest_per_canton = aggregate_latest_by_canton(series)
     latest_per_canton.to_csv(os.path.join(output_folder(), "dd-covid19-ch-cantons-latest.csv"), index=False)
+
+    # Aggregate series over cantons for country
+    country_series = aggregate_series_by_day_and_country(series)
+    # Note: keep index, it's the date
+    country_series.to_csv(os.path.join(output_folder(), "dd-covid19-ch-switzerland-latest.csv"))
