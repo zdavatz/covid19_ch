@@ -28,6 +28,7 @@ def merge_daenuprobst_switzerland_files():
     switzerland_latest = pd.concat([fatalities['Date']], axis=1)
     switzerland_latest = switzerland_latest.rename(columns={"Date": "date"})
     # Add columns
+    switzerland_latest['country'] = 'CH'
     switzerland_latest['tests_performed'] = 0
     switzerland_latest['total_currently_positive'] = positive_cases['CH']
     switzerland_latest['total_positive'] = positive_cases['CH']

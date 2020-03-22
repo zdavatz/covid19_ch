@@ -21,7 +21,7 @@ def data_folder():
     return os.path.dirname(__file__)  + "/data"
 
 def output_folder():
-    return os.path.dirname(__file__)  + "/output_openzh"
+    return os.path.dirname(os.path.abspath(__file__))  + "/output_openzh"
 
 def download_openZH_data():
     csv_path_list = []
@@ -148,7 +148,7 @@ def aggregate_series_by_day_and_country(df : pd.DataFrame):
     # Drop duplicate (date, canton) entries, take last of duplicates
     df.drop_duplicates(subset = ['date', 'abbreviation_canton'], keep = 'last', inplace = True, ignore_index = True)
     df.reset_index(inplace=True, drop=True)
-
+      
     # date,country,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive,new_positive,recovered,deaths,total_positive,tests_performed
     sum_per_day = df.groupby(
         ['date']
@@ -159,19 +159,26 @@ def aggregate_series_by_day_and_country(df : pd.DataFrame):
         total_hospitalized = ("total_hospitalized", sum),
         # Not present in source data
         # home_confinment = ("home_confinment", sum),
-        
+
         # Not sure what the difference is to total_positive_cases
         total_currently_positive = ("total_positive_cases", sum),
 
         # TODO: compute new positive on full time series
         # new_positive = ("new_positive", sum),
-        recovered = ("recovered", sum),
-        deaths = ("deaths", sum),
-        total_positive = ("total_positive_cases", sum),
-        tests_performed = ("tests_performed", sum)
-    )
 
-    sum_per_day['country'] = 'CH'    
+        total_positive = ("total_positive_cases", sum),
+        tests_performed = ("tests_performed", sum),
+        recovered = ("recovered", sum),
+        deaths = ("deaths", sum)
+    ).astype('Int64')
+
+    sum_per_day.insert(0, 'country', 'CH')  
+    sum_per_day['home_confinment'] = 0
+    sum_per_day['new_positive'] = sum_per_day['total_positive'].diff(periods=1).astype('Int64')
+    sum_per_day['hospitalized_with_symptoms'] = 0
+
+    #reorder columns to simplify comparison with d.probst data
+    sum_per_day = sum_per_day[field_names_switzerland]
 
     return sum_per_day
 
@@ -181,16 +188,16 @@ if __name__ == '__main__':
     # Merge tables into one time
     openzh_series = merge_openzh_data_to_series(data_folder())
     # Write to file with all data using OpenZH format
-    openzh_series.to_csv(os.path.join(output_folder(), "openzh_total_series-latest.csv"), index=False)
+    openzh_series.to_csv(os.path.join(output_folder(), "dd-covid19-ch-openzh-total-series.csv"), index=False)
     # Convert series to our format and decorate data with additional info
     series = convert_from_openzh(openzh_series)
-    series.to_csv(os.path.join(output_folder(), "dd-covid19-ch-cantons-series.csv"), index=False)
+    series.to_csv(os.path.join(output_folder(), "dd-covid19-ch-openzh-cantons-series.csv"), index=False)
 
     # Get newest entry for each canton
     latest_per_canton = aggregate_latest_by_canton(series)
-    latest_per_canton.to_csv(os.path.join(output_folder(), "dd-covid19-ch-cantons-latest.csv"), index=False)
+    latest_per_canton.to_csv(os.path.join(output_folder(), "dd-covid19-ch-openzh-cantons-latest.csv"), index=False)
 
     # Aggregate series over cantons for country
     country_series = aggregate_series_by_day_and_country(series)
     # Note: keep index, it's the date
-    country_series.to_csv(os.path.join(output_folder(), "dd-covid19-ch-switzerland-latest.csv"))
+    country_series.to_csv(os.path.join(output_folder(), "dd-covid19-ch-openzh-switzerland-latest.csv"))
