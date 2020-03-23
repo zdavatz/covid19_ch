@@ -50,7 +50,7 @@ jobs:
           BRANCH: master
           FOLDER: python-scripts/output_openzh
           TARGET_FOLDER: covid19_openzh_data
-          REPOSITORY_NAME: ddrobotec/covid19_ch
+          REPOSITORY_NAME: ddrobotec/ddrobotec.github.io
           CLEAN: true
           SSH: true # SSH must be set to true so the deploy action knows which protocol to deploy with.
           DEBUG: true
