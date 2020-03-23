@@ -289,4 +289,5 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-23,08:00,TI,,1165,261,45,43.0,,48,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187510&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=0120f665ab49651b9d66c876ef272a91,,,,68.0,,46.295617,8.808924,Ticino,21
 2020-03-23,00:00,UR,85,22,1,,,1.0,,https://www.ur.ch/themen/2920,,,,,,46.771849,8.628586,Uri,04
 2020-03-23,00:00,VS,,492,4,,,,12,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais,23
+2020-03-23,08:00,ZG,,62,1,,,10.0,,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,47.157296,8.537294,Zug,09
 2020-03-23,00:00,ZH,855,1068,,,,,5,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7,,,,59.0,11,47.41275,8.65508,Zürich,01

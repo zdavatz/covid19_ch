@@ -231,7 +231,7 @@ def aggregate_series_by_day_and_country(df : pd.DataFrame):
     # Reorder columns to simplify comparison with d.probst data
     sum_per_day = sum_per_day[field_names_switzerland]
 
-    sum_per_day.insert(0, 'lastupdate', datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+    sum_per_day.insert(0, 'last_update', datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 
     return sum_per_day
 
