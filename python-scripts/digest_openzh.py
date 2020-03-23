@@ -18,7 +18,7 @@ def date_range_of_interest():
     return [ (start_date + datetime.timedelta(days=x)).strftime("%Y-%m-%d") for x in range(date_range.days+1)]
 
 def data_folder():
-    return os.path.dirname(__file__)  + "/data"
+    return os.path.dirname(os.path.abspath(__file__))  + "/data"
 
 def output_folder():
     return os.path.dirname(os.path.abspath(__file__))  + "/output_openzh"
