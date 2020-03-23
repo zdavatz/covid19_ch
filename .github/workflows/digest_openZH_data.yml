@@ -40,6 +40,7 @@ jobs:
           pwd
           cd ./python-scripts
           python3.7 digest_openzh.py
+          cp -vr output_openzh publish
       - name: Install SSH Client 🔑
         uses: webfactory/ssh-agent@v0.2.0
         with:
@@ -49,7 +50,7 @@ jobs:
         with:
           BASE_BRANCH: master
           BRANCH: master
-          FOLDER: python-scripts/output_openzh
+          FOLDER: python-scripts/publish
           TARGET_FOLDER: covid19_openzh_data
           REPOSITORY_NAME: ddrobotec/ddrobotec.github.io
           CLEAN: true
