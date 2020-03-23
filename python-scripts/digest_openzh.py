@@ -119,6 +119,10 @@ def convert_from_openzh(df):
 
     # Replace time NaN values with valid time in order to sort
     df['time'] = df['time'].fillna('00:00')
+    
+    # Make sure we have integer types for the countable quanties
+    effective_counter_columns = [item for item in df.columns if item in counter_names]
+    df[ effective_counter_columns ] = df[ effective_counter_columns ].astype('Int64')
 
     # Forward fill gaps for incremental values which might not be updated every day
     df = forward_fill_series_gaps(df)

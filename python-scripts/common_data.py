@@ -1,8 +1,9 @@
 import datetime
+import pandas as pd
 
 field_names = "date,country,abbreviation_canton,name_canton,number_canton,lat,long,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,deaths,total_positive_cases,tests_performed".split(',')
 field_names_short = "date,country,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive,new_positive,recovered,deaths,total_positive,tests_performed".split(',')
-
+counter_names = "hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,recovered,deaths,total_positive_cases,tests_performed".split(',')
 field_names_switzerland = ['country','tests_performed','total_currently_positive','total_positive','new_positive','home_confinment','total_hospitalized','hospitalized_with_symptoms','intensive_care','recovered','deaths']
 
 # Direct field mappings to our format
