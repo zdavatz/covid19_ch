@@ -31,3 +31,8 @@ jobs:
       - name: Conda list
         shell: pwsh
         run: conda list
+      - name: Download and digest data
+        shell: pwsh
+        run: | 
+          cd ./python-scripts
+          python3.7 digest_openzh.py
