@@ -7,7 +7,8 @@ on:
   pull_request:
     branches:
     - 'master'
-
+  schedule:
+    - cron: '0 * * * *'  # Once an hour
 jobs:
   digest:
     name: Download and digest data
