@@ -25,6 +25,9 @@ jobs:
       - name: Conda info
         shell: bash -l {0}
         run: conda info
+      - name: Install Conda Packages
+        shell: pwsh
+        run: conda install pandas
       - name: Conda list
         shell: pwsh
         run: conda list
