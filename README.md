@@ -1,3 +1,5 @@
+![Digest OpenZH Data into CSV files](https://github.com/ddrobotec/covid19_ch/workflows/Digest%20OpenZH%20Data%20into%20CSV%20files/badge.svg)
+
 ## Data Structures
 
 ### Data per Canton
