@@ -184,8 +184,9 @@ def aggregate_latest_by_abbrevation_canton(df):
         'ncumul_ICF': 'Int64'
         })
 
-    # Drop time column
-    df = df.drop('time', 1)
+    df.insert(0, 'timestamp', df['date'] + " " + df['time'])
+    df.insert(0, 'lastupdate', datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+    df.drop(columns=['date','time'], axis=1, inplace=True)
 
     return df
 
@@ -229,6 +230,8 @@ def aggregate_series_by_day_and_country(df : pd.DataFrame):
 
     # Reorder columns to simplify comparison with d.probst data
     sum_per_day = sum_per_day[field_names_switzerland]
+
+    sum_per_day.insert(0, 'lastupdate', datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 
     return sum_per_day
 
