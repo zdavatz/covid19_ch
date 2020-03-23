@@ -3,10 +3,10 @@ name: "Digest OpenZH Data into CSV files"
 on:
   push:
     branches:
-    - '*'
+    - 'master'
   pull_request:
     branches:
-    - '*'
+    - 'master'
 
 jobs:
   digest:
@@ -39,3 +39,17 @@ jobs:
           pwd
           cd ./python-scripts
           python3.7 digest_openzh.py
+      - name: Install SSH Client 🔑
+        uses: webfactory/ssh-agent@v0.2.0
+        with:
+          ssh-private-key: ${{ secrets.DEPLOY_KEY }}
+      - name: Deploy data to ddrobotec.github.io 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v3-test
+        with:
+          BASE_BRANCH: master
+          BRANCH: master
+          FOLDER: python-scripts/output_openzh
+          TARGET_FOLDER: covid19_openzh_data
+          REPOSITORY_NAME: ddrobotec/covid19_ch
+          CLEAN: true
+          SSH: true # SSH must be set to true so the deploy action knows which protocol to deploy with.
