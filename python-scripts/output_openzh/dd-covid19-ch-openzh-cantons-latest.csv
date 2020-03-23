@@ -1,28 +1,28 @@
-date,country,abbreviation_canton,name_canton,number_canton,lat,long,tests_performed,total_currently_positive_cases,total_positive_cases,new_positive_cases,total_hospitalized,intensive_care,recovered,deaths,pos_tests_1,ncumul_ICU_intub,ncumul_vent,ncumul_released,ncumul_ICF,source
-2020-03-22,CH,AG,Aargau,01,47.40966,8.15688,,232,232,0,25,4,,1,,,2,,,https://www.ag.ch/de/aktuelles/medienportal/medienmitteilung/medienmitteilungen/mediendetails_139237.jsp
-2020-03-19,CH,AI,Appenzell Innerrhoden,16,47.317264,9.416754,,6,6,0,1,,,,,,,,,Kantonaler Führungsstab Appenzell Innerrhoden
-2020-03-21,CH,AR,Appenzell Ausserrhoden,15,47.416351999999996,9.36791,,11,11,0,3,,,1,,,,,,https://www.ar.ch/schnellzugriff/medienmitteilungen-der-kantonalen-verwaltung/detail/news/coronavirus-erster-todesfall-in-appenzell-ausserrhoden/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=a88f209df29c38474f9c5f9e1c5dd53f
-2020-03-21,CH,BE,Bern,02,46.823608,7.636667,,377,377,0,,,,3,,,,,,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html
-2020-03-22,CH,BL,Basel-Landschaft,13,47.45176,7.702414,,289,289,0,,,,3,,,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-289-bestaetigte-faelle-in-basel-landschaft
-2020-03-22,CH,BS,Basel-Stadt,12,47.564869,7.615259,235,358,358,0,50,,,5,,,,73,,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-358-bestaetigte-faelle-im-kanton-basel-stadt-gd.html
-2020-03-22,CH,FL,Fürstentum Lichtenstein,00,47.166667,9.509722,99,46,46,0,,,,,,,,,,https://www.regierung.li/media/attachments/139-46-faelle-0322.pdf?t=637204971345932209
-2020-03-18,CH,FR,Fribourg,10,46.718391,7.074008,30,11,11,0,,,,1,,,,,,https://www.fr.ch/de/sr/gesundheit/covid-19/covid-19-im-kanton-freiburg-ist-ein-erster-todesfall-zu-beklagen
-2020-03-22,CH,GE,Genève,25,46.220528,6.132935,,1144,1144,0,179,36,,13,,36,137,,6,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger
-2020-03-19,CH,GL,Glarus,08,46.931042000000005,9.065751,,17,17,0,,,,,,,,,,https://www.suedostschweiz.ch/ereignisse/2020-03-20/die-zahl-der-corona-faelle-im-glarnerland-steigt-stark-an
-2020-03-22,CH,GR,Graubünden,01,46.656248,9.628198,,257,257,0,27,,,5,,,,,,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx
-2020-03-22,CH,JU,Jura,26,47.350744,7.156107,,51,51,0,,,,,,,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html
-2020-03-22,CH,LU,Luzern,03,47.067763,8.1102,,131,131,0,,,,,,,,,,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus
-2020-03-22,CH,NE,Neuchatel,24,46.995534,6.780126,,188,188,0,,,,2,,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Coronavirus.aspx
-2020-03-22,CH,NW,Nidwalden,07,46.926755,8.405302,,36,36,0,,,,,,,,,,https://www.nw.ch/gesundheitsamtdienste/6044
-2020-03-13,CH,OW,Obwalden,06,46.804527,8.144317000000001,6,1,1,0,,,,,,,,,,https://www.ow.ch/de/aktuelles/aktuellesinformationen/amtsmitteilungen/welcome.php?action=showinfo&info_id=63566&ls=0&sq=&kategorie_id=&date_from=&date_to=
-2020-03-20,CH,SG,St. Gallen,17,47.1832,9.274744,,98,98,0,,,,,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
-2020-03-20,CH,SH,Schaffhausen,14,47.71357,8.59167,,14,14,0,,,,,,,,,,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
-2020-03-20,CH,SO,Solothurn,11,47.304135,7.639388,,66,66,0,,,,,,,,,,https://twitter.com/KantonSolothurn/status/1241041303024041989?p=p
-2020-03-15,CH,SZ,Schwyz,05,47.061787,8.756585,1,13,13,0,1,,,,,,,,,https://www.sz.ch/public/upload/assets/45590/MM_Coronavirus_15_3_2020.pdf
-2020-03-22,CH,TG,Thurgau,01,47.568715,9.091957,276,75,75,0,,,,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552
-2020-03-22,CH,TI,Ticino,21,46.295617,8.808924,,939,939,0,246,46,,37,68,,43,,,https://web.archive.org/web/20200322153528/https://www4.ti.ch/dss/dsp/covid19/home/
-2020-03-21,CH,UR,Uri,04,46.771849,8.628586,85,12,12,0,,,,,,,,,,https://www.ur.ch/themen/2920
-2020-03-21,CH,VD,Vaud,22,46.570091,6.557809000000001,,1676,1676,0,175,23,,15,,,,70,,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/
-2020-03-22,CH,VS,Valais,23,46.209567,7.604659,,432,432,0,4,,,10,,,,,,https://www.vs.ch/de/web/coronavirus
-2020-03-20,CH,ZG,Zug,09,47.157296,8.537294,,48,48,0,1,,,,,,,5,,https://www.zg.ch/behoerden/gesundheitsdirektion/direktionssekretariat/aktuell/coronavirus-ausreichende-testkapazitaeten-im-kanton-zug-vorhanden
-2020-03-20,CH,ZH,Zürich,01,47.41275,8.65508,855,773,773,0,,,11,3,59,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7
+lastupdate,timestamp,country,abbreviation_canton,name_canton,number_canton,lat,long,tests_performed,total_currently_positive_cases,total_positive_cases,new_positive_cases,total_hospitalized,intensive_care,recovered,deaths,pos_tests_1,ncumul_ICU_intub,ncumul_vent,ncumul_released,ncumul_ICF,source
+2020-03-23 10:01:53,2020-03-22 12:00,CH,AG,Aargau,01,47.40966,8.15688,,232,232,0,25,4,,1,,,,,,https://www.ag.ch/de/aktuelles/medienportal/medienmitteilung/medienmitteilungen/mediendetails_139237.jsp
+2020-03-23 10:01:53,2020-03-19 00:00,CH,AI,Appenzell Innerrhoden,16,47.317264,9.416754,,6,6,0,1,,,,,,,,,Kantonaler Führungsstab Appenzell Innerrhoden
+2020-03-23 10:01:53,2020-03-21 00:00,CH,AR,Appenzell Ausserrhoden,15,47.416351999999996,9.36791,,11,11,0,3,,,1,,,,,,https://www.ar.ch/schnellzugriff/medienmitteilungen-der-kantonalen-verwaltung/detail/news/coronavirus-erster-todesfall-in-appenzell-ausserrhoden/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=a88f209df29c38474f9c5f9e1c5dd53f
+2020-03-23 10:01:53,2020-03-23 00:00,CH,BE,Bern,02,46.823608,7.636667,,470,470,0,,,,5,,,,,,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html
+2020-03-23 10:01:53,2020-03-22 14:00,CH,BL,Basel-Landschaft,13,47.45176,7.702414,,289,289,0,,,,3,,,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-289-bestaetigte-faelle-in-basel-landschaft
+2020-03-23 10:01:53,2020-03-22 10:30,CH,BS,Basel-Stadt,12,47.564869,7.615259,235,358,358,0,50,,,5,,,,73,,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-358-bestaetigte-faelle-im-kanton-basel-stadt-gd.html
+2020-03-23 10:01:53,2020-03-22 00:00,CH,FL,Fürstentum Lichtenstein,00,47.166667,9.509722,99,46,46,0,,,,,,,,,,https://www.regierung.li/media/attachments/139-46-faelle-0322.pdf?t=637204971345932209
+2020-03-23 10:01:53,2020-03-18 17:00,CH,FR,Fribourg,10,46.718391,7.074008,30,11,11,0,,,,1,,,,,,https://www.fr.ch/de/sr/gesundheit/covid-19/covid-19-im-kanton-freiburg-ist-ein-erster-todesfall-zu-beklagen
+2020-03-23 10:01:53,2020-03-22 00:00,CH,GE,Genève,25,46.220528,6.132935,,1144,1144,0,179,36,,13,,36,137,,6,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger
+2020-03-23 10:01:53,2020-03-19 00:00,CH,GL,Glarus,08,46.931042000000005,9.065751,,17,17,0,,,,,,,,,,https://www.suedostschweiz.ch/ereignisse/2020-03-20/die-zahl-der-corona-faelle-im-glarnerland-steigt-stark-an
+2020-03-23 10:01:53,2020-03-22 00:00,CH,GR,Graubünden,01,46.656248,9.628198,,266,266,0,27,,,6,,,,,,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx
+2020-03-23 10:01:53,2020-03-22 17:00,CH,JU,Jura,26,47.350744,7.156107,,51,51,0,,,,,,,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html
+2020-03-23 10:01:53,2020-03-22 11:00,CH,LU,Luzern,03,47.067763,8.1102,,131,131,0,,,,,,,,,,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus
+2020-03-23 10:01:53,2020-03-22 15:00,CH,NE,Neuchatel,24,46.995534,6.780126,,188,188,0,,,,2,,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Coronavirus.aspx
+2020-03-23 10:01:53,2020-03-22 16:25,CH,NW,Nidwalden,07,46.926755,8.405302,,36,36,0,,,,,,,,,,https://www.nw.ch/gesundheitsamtdienste/6044
+2020-03-23 10:01:53,2020-03-13 12:00,CH,OW,Obwalden,06,46.804527,8.144317000000001,6,1,1,0,,,,,,,,,,https://www.ow.ch/de/aktuelles/aktuellesinformationen/amtsmitteilungen/welcome.php?action=showinfo&info_id=63566&ls=0&sq=&kategorie_id=&date_from=&date_to=
+2020-03-23 10:01:53,2020-03-23 00:00,CH,SG,St. Gallen,17,47.1832,9.274744,,185,185,0,,,,,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html
+2020-03-23 10:01:53,2020-03-20 00:00,CH,SH,Schaffhausen,14,47.71357,8.59167,,14,14,0,,,,,,,,,,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html
+2020-03-23 10:01:53,2020-03-20 17:37,CH,SO,Solothurn,11,47.304135,7.639388,,66,66,0,,,,,,,,,,https://twitter.com/KantonSolothurn/status/1241041303024041989?p=p
+2020-03-23 10:01:53,2020-03-15 00:00,CH,SZ,Schwyz,05,47.061787,8.756585,1,13,13,0,1,,,,,,,,,https://www.sz.ch/public/upload/assets/45590/MM_Coronavirus_15_3_2020.pdf
+2020-03-23 10:01:53,2020-03-22 00:00,CH,TG,Thurgau,01,47.568715,9.091957,276,75,75,0,,,,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552
+2020-03-23 10:01:53,2020-03-22 08:00,CH,TI,Ticino,21,46.295617,8.808924,,939,939,0,246,46,,37,68,,43,,,https://web.archive.org/web/20200322153528/https://www4.ti.ch/dss/dsp/covid19/home/
+2020-03-23 10:01:53,2020-03-21 08:00,CH,UR,Uri,04,46.771849,8.628586,85,12,12,0,,,,,,,,,,https://www.ur.ch/themen/2920
+2020-03-23 10:01:53,2020-03-21 00:00,CH,VD,Vaud,22,46.570091,6.557809000000001,,1676,1676,0,175,23,,15,,,,70,,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/
+2020-03-23 10:01:53,2020-03-22 00:00,CH,VS,Valais,23,46.209567,7.604659,,432,432,0,4,,,10,,,,,,https://www.vs.ch/de/web/coronavirus
+2020-03-23 10:01:53,2020-03-20 00:00,CH,ZG,Zug,09,47.157296,8.537294,,48,48,0,1,,,,,,,5,,https://www.zg.ch/behoerden/gesundheitsdirektion/direktionssekretariat/aktuell/coronavirus-ausreichende-testkapazitaeten-im-kanton-zug-vorhanden
+2020-03-23 10:01:53,2020-03-20 00:00,CH,ZH,Zürich,01,47.41275,8.65508,855,773,773,0,,,11,3,59,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7
