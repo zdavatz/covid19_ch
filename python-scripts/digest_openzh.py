@@ -133,7 +133,7 @@ def to_int(s):
     s = s.strip()
     return int(s) if s else 0
 
-def aggregate_latest_by_canton(df):
+def aggregate_latest_by_time_canton(df):
     # index set of latest entries per canton
     # Latest by date
     idx = df.groupby(['abbreviation_canton'])['date'].transform(max) == df['date']
@@ -142,6 +142,52 @@ def aggregate_latest_by_canton(df):
     idx = df.groupby(['abbreviation_canton'])['time'].transform(max) == df['time']
     # Select rows given by index set
     return df[idx]
+
+def aggregate_latest_by_abbrevation_canton(df):
+    # Get indeces of most recent entriese
+    idx = df.groupby(['abbreviation_canton'])['date'].transform(max) == df['date']   
+    df = df[idx]
+    # Sort according to abbreviation cantons
+    df.sort_values(by=['abbreviation_canton'], inplace=True)
+    df.insert(2, 'country', 'CH')
+    # Now we need to move some columns
+    cols = list(df)
+
+    cols.insert(3, cols.pop(cols.index('abbreviation_canton')))
+    cols.insert(4, cols.pop(cols.index('name_canton')))
+    cols.insert(5, cols.pop(cols.index('number_canton')))
+    cols.insert(6, cols.pop(cols.index('lat')))
+    cols.insert(7, cols.pop(cols.index('long')))
+    cols.insert(12, cols.pop(cols.index('recovered')))
+    cols.insert(13, cols.pop(cols.index('deaths')))
+    cols.insert(14, cols.pop(cols.index('pos_tests_1')))
+    cols.insert(-1, cols.pop(cols.index('source')))
+    cols.insert(15, cols.pop(cols.index('ncumul_ICU_intub')))
+    df = df.loc[:, cols]
+    
+    df.insert(9, 'total_currently_positive_cases', df['total_positive_cases'])
+    df.insert(11, 'new_positive_cases', 0)
+
+    df = df.astype({
+        'tests_performed': 'Int64',
+        'total_currently_positive_cases': 'Int64',
+        'total_positive_cases': 'Int64',
+        'new_positive_cases': 'Int64',
+        'total_hospitalized': 'Int64',
+        'intensive_care': 'Int64',
+        'recovered': 'Int64',
+        'deaths': 'Int64',
+        'pos_tests_1': 'Int64',
+        'ncumul_ICU_intub': 'Int64',
+        'ncumul_vent': 'Int64',
+        'ncumul_released': 'Int64',
+        'ncumul_ICF': 'Int64'
+        })
+
+    # Drop time column
+    df = df.drop('time', 1)
+
+    return df
 
 def aggregate_series_by_day_and_country(df : pd.DataFrame):
     complete_series = [(canton,x) for canton, x in df.groupby('abbreviation_canton')]
@@ -181,7 +227,7 @@ def aggregate_series_by_day_and_country(df : pd.DataFrame):
     sum_per_day['new_positive'] = sum_per_day['total_positive'].diff(periods=1).astype('Int64')
     sum_per_day['hospitalized_with_symptoms'] = 0
 
-    #reorder columns to simplify comparison with d.probst data
+    # Reorder columns to simplify comparison with d.probst data
     sum_per_day = sum_per_day[field_names_switzerland]
 
     return sum_per_day
@@ -198,7 +244,10 @@ if __name__ == '__main__':
     series.to_csv(os.path.join(output_folder(), "dd-covid19-ch-openzh-cantons-series.csv"), index=False)
 
     # Get newest entry for each canton
-    latest_per_canton = aggregate_latest_by_canton(series)
+    latest_per_canton = aggregate_latest_by_time_canton(series)
+    latest_per_canton.to_csv(os.path.join(output_folder(), "dd-covid19-ch-openzh-cantons-latest-by-time.csv"), index=False)
+
+    latest_per_canton = aggregate_latest_by_abbrevation_canton(series)
     latest_per_canton.to_csv(os.path.join(output_folder(), "dd-covid19-ch-openzh-cantons-latest.csv"), index=False)
 
     # Aggregate series over cantons for country

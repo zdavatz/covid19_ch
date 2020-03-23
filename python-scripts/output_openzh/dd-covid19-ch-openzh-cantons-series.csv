@@ -1,24 +1,30 @@
 date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospitalized,intensive_care,ncumul_vent,ncumul_released,deaths,source,ncumul_ICF,ncumul_ICU_intub,pos_tests_1,recovered,lat,long,name_canton,number_canton
+2020-02-25,00:00,GE,,,0.0,0.0,0.0,,,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,0.0,,,46.220528,6.132935,Genève,25
 2020-02-25,00:00,TI,,1.0,,,,,,https://www.srf.ch/news/schweiz/tessiner-patient-erster-coronavirus-fall-in-der-schweiz,,,,,46.295617,8.808924,Ticino,21
+2020-02-26,00:00,GE,,1.0,1.0,0.0,1.0,,,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,0.0,,,46.220528,6.132935,Genève,25
 2020-02-26,00:00,TI,,1.0,,,,,,,,,,,46.295617,8.808924,Ticino,21
 2020-02-27,19:17,BS,,0.0,,,,,,https://www.coronavirus.bs.ch/nm/2020-coronavirus-erster-positiver-fall-in-basel-stadt-zweiter-positiv-getesteter-ausserkantonaler-fall-gd.html,,,,,47.564869,7.615259,Basel-Stadt,12
 2020-02-27,00:00,FL,3.0,,,,,,,https://www.regierung.li/media/attachments/83-verdachtsfaelle-negativ-getestet.pdf?t=637202562374055719,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00
+2020-02-27,00:00,GE,,1.0,1.0,0.0,1.0,,,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,0.0,,,46.220528,6.132935,Genève,25
 2020-02-27,00:00,TI,,1.0,,,,,,,,,,,46.295617,8.808924,Ticino,21
 2020-02-27,00:00,ZH,,1.0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7,,,2.0,,47.41275,8.65508,Zürich,01
 2020-02-28,15:00,AG,,1.0,,,,,,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/20200228_KFS_20200106_Coronavirus_Lagebulletin_AG_Unterschrieben.pdf,,,,,47.40966,8.15688,Aargau,01
 2020-02-28,00:00,BL,,1.0,,,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/neuer-coronavirus-covid-19-erster-bestaetigter-fall-aus-dem-kanton-basel-landschaft,,,,,47.45176,7.702414,Basel-Landschaft,13
 2020-02-28,10:15,BS,,0.0,,,,,,https://twitter.com/BR_Sprecher/status/1233316679863631873?s=20,,,,,47.564869,7.615259,Basel-Stadt,12
+2020-02-28,00:00,GE,,3.0,2.0,0.0,2.0,,,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,0.0,,,46.220528,6.132935,Genève,25
 2020-02-28,00:00,TI,,1.0,,,,,,,,,,,46.295617,8.808924,Ticino,21
 2020-02-28,00:00,VD,,,4.0,,,,,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,46.570091,6.557809000000001,Vaud,22
 2020-02-28,00:00,VS,,1.0,,,,,,https://vs.ch/documents/529400/6767345/2020+02+28+-+Medienmitteilung+-+1.+Fall+Coronavirus+VS.pdf/37c4f942-c5d5-6ab5-64fd-83444de4eba5?t=1582923242156,,,,,46.209567,7.604659,Valais,23
 2020-02-28,00:00,ZH,,2.0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7,,,9.0,,47.41275,8.65508,Zürich,01
 2020-02-29,00:00,BL,,2.0,,,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/weiterer-bestaetigter-fall-aus-dem-kanton-basel-landschaft,,,,,47.45176,7.702414,Basel-Landschaft,13
 2020-02-29,15:23,BS,,0.0,,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1233759578241863681?s=20,,,,,47.564869,7.615259,Basel-Stadt,12
+2020-02-29,00:00,GE,,5.0,3.0,0.0,3.0,,,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,0.0,,,46.220528,6.132935,Genève,25
 2020-02-29,00:00,TI,,1.0,,,,,,,,,,,46.295617,8.808924,Ticino,21
 2020-02-29,00:00,VD,,,4.0,,,,,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,46.570091,6.557809000000001,Vaud,22
 2020-03-01,00:00,BL,,2.0,,,,,,,,,,,47.45176,7.702414,Basel-Landschaft,13
 2020-03-01,17:29,BS,,1.0,,,,,,https://www.coronavirus.bs.ch/nm/2020-coronavirus-anzahl-der-getesteten-faelle-und-zwischenstand-kita-riehen-gd.html,,,,,47.564869,7.615259,Basel-Stadt,12
 2020-03-01,00:00,FR,30.0,1.0,,,,,,https://www.fr.ch/sites/default/files/2020-03/200301_commd_dsas_covid_cas_fr.pdf,,,,,46.718391,7.074008,Fribourg,10
+2020-03-01,00:00,GE,,7.0,3.0,0.0,3.0,,,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,0.0,,,46.220528,6.132935,Genève,25
 2020-03-01,00:00,GL,,0.0,,,,,,https://www.suedostschweiz.ch/ereignisse/2020-03-02/kantone-gehen-unterschiedlich-mit-dem-corona-virus-um,,,,,46.931042000000005,9.065751,Glarus,08
 2020-03-01,00:00,TI,,1.0,,,,,,,,,,,46.295617,8.808924,Ticino,21
 2020-03-01,00:00,VD,,,4.0,,,,,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,46.570091,6.557809000000001,Vaud,22
@@ -26,6 +32,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-02,00:00,BL,,2.0,,,,,,,,,,,47.45176,7.702414,Basel-Landschaft,13
 2020-03-02,17:15,BS,235.0,3.0,,,,,,https://www.coronavirus.bs.ch/nm/2020-coronavirus-zwei-neue-positive-faelle-in-basel-stadt-gd.html,,,,,47.564869,7.615259,Basel-Stadt,12
 2020-03-02,00:00,FR,30.0,2.0,,,,,,https://www.fr.ch/sites/default/files/2020-03/200302_CommD_DSAS_covid_cas%20FR.pdf,,,,,46.718391,7.074008,Fribourg,10
+2020-03-02,00:00,GE,,7.0,3.0,0.0,3.0,,,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,0.0,,,46.220528,6.132935,Genève,25
 2020-03-02,00:00,SG,,0.0,,,,,,https://www.sg.ch/news/sgch_allgemein/2020/03/zwei-personen-in-quarantaene---kein-bestaetigter-fall.html,,,,,47.1832,9.274744,St. Gallen,17
 2020-03-02,00:00,TI,,2.0,,,,,,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187352&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=ea65dbcabb28d4711459f3b613bbc1b7,,,6.0,,46.295617,8.808924,Ticino,21
 2020-03-02,00:00,VD,,,6.0,,,,,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,46.570091,6.557809000000001,Vaud,22
@@ -34,6 +41,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-03,00:00,BL,,2.0,,,,,,,,,,,47.45176,7.702414,Basel-Landschaft,13
 2020-03-03,17:30,BS,235.0,3.0,,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1234880556095213569?s=20,,,,,47.564869,7.615259,Basel-Stadt,12
 2020-03-03,00:00,FL,14.0,,,,,,,https://www.regierung.li/media/attachments/90-coronavirus.pdf?t=637202562374055719,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00
+2020-03-03,00:00,GE,,8.0,4.0,0.0,4.0,,,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,0.0,,,46.220528,6.132935,Genève,25
 2020-03-03,00:00,SZ,1.0,1.0,,,,,,https://www.sz.ch/public/upload/assets/45351/MM_Coronavirus_4_3_2020.pdf,,,,,47.061787,8.756585,Schwyz,05
 2020-03-03,00:00,TI,,4.0,,,,,,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187363&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=b34e82602a39cad67a7f8d54150dcf70   https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187369&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=3154d18e72821fc23d7b3c5cdfe9f9a3,,,6.0,,46.295617,8.808924,Ticino,21
 2020-03-03,00:00,VD,,,8.0,,,,,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,46.570091,6.557809000000001,Vaud,22
@@ -45,6 +53,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-04,17:20,BS,235.0,3.0,,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1235240377134862336?s=20,,,,,47.564869,7.615259,Basel-Stadt,12
 2020-03-04,00:00,FL,16.0,1.0,,,,,,https://www.regierung.li/media/attachments/97-coronavirus.pdf?t=637202562374055719,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00
 2020-03-04,00:00,FR,30.0,4.0,,,,,,https://www.fr.ch/sites/default/files/2020-03/200304_CommD_DSAS_covid_cas%20FR.pdf,,,,,46.718391,7.074008,Fribourg,10
+2020-03-04,00:00,GE,,8.0,4.0,0.0,4.0,,,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,0.0,,,46.220528,6.132935,Genève,25
 2020-03-04,18:00,LU,,0.0,,,,,,https://web.archive.org/web/20200304173939/https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,47.067763,8.1102,Luzern,03
 2020-03-04,15:38,SG,,2.0,,,,,,https://www.sg.ch/news/sgch_allgemein/2020/03/zweiter-bestaetigter-fall-einer-corona-patientin.html,,,,,47.1832,9.274744,St. Gallen,17
 2020-03-04,00:00,SZ,3.0,3.0,1.0,,,,,https://www.sz.ch/public/upload/assets/45351/MM_Coronavirus_4_3_2020.pdf,,,,,47.061787,8.756585,Schwyz,05
@@ -56,6 +65,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-05,17:15,BS,235.0,8.0,,,,,,https://www.coronavirus.bs.ch/nm/2020-coronavirus-fuenf-neue-positive-faelle-in-basel-stadt-gd.html,,,,,47.564869,7.615259,Basel-Stadt,12
 2020-03-05,00:00,FL,18.0,1.0,,,,,,https://www.regierung.li/media/attachments/100-coronavirus-18-verdachtsfaelle-0305.pdf?t=637202562374055719,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00
 2020-03-05,00:00,FR,30.0,6.0,,,,,,https://www.fr.ch/de/covid19/gesundheit/covid-19/coronavirus-entwicklungen-der-situation,,,,,46.718391,7.074008,Fribourg,10
+2020-03-05,00:00,GE,,11.0,5.0,0.0,5.0,,,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,0.0,,,46.220528,6.132935,Genève,25
 2020-03-05,00:00,TI,,5.0,,,,,,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187385&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=a9ddddfae2c7446e5b856451e178a61a,,,18.0,,46.295617,8.808924,Ticino,21
 2020-03-05,00:00,VD,,,14.0,1.0,,,,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,46.570091,6.557809000000001,Vaud,22
 2020-03-05,00:00,VS,,3.0,,,,,,https://www.vs.ch/de/web/coronavirus/info?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_1rjMHS5sCcaN&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_1rjMHS5sCcaN_delta=5&p_r_p_resetCur=false&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_1rjMHS5sCcaN_cur=5#collapse6812036,,,,,46.209567,7.604659,Valais,23
@@ -65,6 +75,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-06,00:00,BL,,6.0,,,,,,,,,,,47.45176,7.702414,Basel-Landschaft,13
 2020-03-06,14:00,BS,235.0,15.0,,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1235934884167852035?s=20,,,,,47.564869,7.615259,Basel-Stadt,12
 2020-03-06,00:00,FL,22.0,1.0,,,,,,https://www.regierung.li/media/attachments/104-coronavirus-vorsicht.pdf?t=637202562374055719,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00
+2020-03-06,00:00,GE,,15.0,7.0,0.0,7.0,,,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,0.0,,,46.220528,6.132935,Genève,25
 2020-03-06,12:00,SO,,1.0,,,,,,https://so.ch/startseite/aktuell/news/erster-laborbestaetigter-covid-19-fall-im-kanton-solothurn/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=3074bbdc8f0fcdcb9f1e11a21fc05e73,,,,,47.304135,7.639388,Solothurn,11
 2020-03-06,00:00,SZ,6.0,6.0,1.0,,,,,https://www.sz.ch/public/upload/assets/45417/MM_Coronavirus_6_3_2020.pdf,,,,,47.061787,8.756585,Schwyz,05
 2020-03-06,00:00,TI,,5.0,,,,,,,,,45.0,,46.295617,8.808924,Ticino,21
@@ -73,12 +84,14 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-06,00:00,ZH,400.0,26.0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7,,,30.0,,47.41275,8.65508,Zürich,01
 2020-03-07,00:00,BL,,15.0,,,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-15-bestaetigte-faelle-in-basel-landschaft,,,,,47.45176,7.702414,Basel-Landschaft,13
 2020-03-07,12:00,BS,235.0,21.0,,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1236249864473894914?s=20,,,,,47.564869,7.615259,Basel-Stadt,12
+2020-03-07,00:00,GE,,24.0,7.0,0.0,7.0,,,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,0.0,,,46.220528,6.132935,Genève,25
 2020-03-07,00:00,TI,,5.0,,,,,,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187406&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=e553d0b42db2ead87a7d05e499fac4db,,,58.0,,46.295617,8.808924,Ticino,21
 2020-03-07,00:00,VD,,30.0,16.0,4.0,,,1.0,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,46.570091,6.557809000000001,Vaud,22
 2020-03-07,00:00,ZH,400.0,30.0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7,,,37.0,,47.41275,8.65508,Zürich,01
 2020-03-08,00:00,BL,,19.0,,,,,1.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/patient-im-kantonsspital-baselland-stirbt-an-den-folgen-einer-coronavirus-infektion,,,,,47.45176,7.702414,Basel-Landschaft,13
 2020-03-08,12:00,BS,235.0,24.0,,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1236609191831384064?s=20,,,,,47.564869,7.615259,Basel-Stadt,12
 2020-03-08,00:00,FR,30.0,8.0,,,,,,https://www.fr.ch/de/covid19/gesundheit/covid-19/coronavirus-entwicklungen-der-situation,,,,,46.718391,7.074008,Fribourg,10
+2020-03-08,00:00,GE,,32.0,9.0,0.0,9.0,,,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,0.0,,,46.220528,6.132935,Genève,25
 2020-03-08,00:00,TI,,5.0,,,,,,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187407&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=8d1ff4bf2a674892913340827de952ea,,,68.0,,46.295617,8.808924,Ticino,21
 2020-03-08,00:00,VD,,40.0,22.0,3.0,,,1.0,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,46.570091,6.557809000000001,Vaud,22
 2020-03-08,00:00,VS,,7.0,,,,,,https://www.vs.ch/de/web/coronavirus/info?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_1rjMHS5sCcaN&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_1rjMHS5sCcaN_delta=5&p_r_p_resetCur=false&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_1rjMHS5sCcaN_cur=4,,,,,46.209567,7.604659,Valais,23
@@ -89,6 +102,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-09,12:00,BS,235.0,28.0,,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1236973685602426881?s=20,,,,,47.564869,7.615259,Basel-Stadt,12
 2020-03-09,00:00,FL,24.0,1.0,,,,,,https://www.regierung.li/media/attachments/106-coronavirus-anpassung-massnahmen.pdf?t=637202562374055719,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00
 2020-03-09,00:00,FR,30.0,11.0,,,,,,https://www.fr.ch/de/covid19/gesundheit/covid-19/coronavirus-entwicklungen-der-situation,,,,,46.718391,7.074008,Fribourg,10
+2020-03-09,00:00,GE,,33.0,13.0,3.0,10.0,,1.0,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,0.0,,,46.220528,6.132935,Genève,25
 2020-03-09,00:00,TI,,5.0,,,,,,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187417&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=20e9b76118246e98781581881b459523,,,68.0,,46.295617,8.808924,Ticino,21
 2020-03-09,00:00,VD,,51.0,29.0,5.0,,,1.0,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,46.570091,6.557809000000001,Vaud,22
 2020-03-09,00:00,VS,,12.0,,,,,,https://www.vs.ch/de/web/coronavirus/info?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_1rjMHS5sCcaN&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_1rjMHS5sCcaN_delta=5&p_r_p_resetCur=false&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_1rjMHS5sCcaN_cur=4#collapse6846567,,,,,46.209567,7.604659,Valais,23
@@ -97,6 +111,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-10,00:00,BL,,22.0,,,,,1.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update,,,,,47.45176,7.702414,Basel-Landschaft,13
 2020-03-10,12:00,BS,235.0,33.0,,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1237336196772175873?s=20,,,,,47.564869,7.615259,Basel-Stadt,12
 2020-03-10,00:00,FL,37.0,1.0,,,,,,https://www.regierung.li/media/attachments/110-corona-0310.pdf?t=637202562374055719,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00
+2020-03-10,00:00,GE,,59.0,18.0,4.0,14.0,,2.0,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,1.0,,,46.220528,6.132935,Genève,25
 2020-03-10,00:00,TI,,5.0,,,,,1.0,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187422&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=24aa247e65de88fdd1551a61fcc407d9,,,68.0,,46.295617,8.808924,Ticino,21
 2020-03-10,00:00,VD,,77.0,36.0,6.0,,,1.0,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,46.570091,6.557809000000001,Vaud,22
 2020-03-10,00:00,VS,,18.0,4.0,,,3.0,,https://www.vs.ch/de/web/coronavirus/info?p_p_id=com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_1rjMHS5sCcaN&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_1rjMHS5sCcaN_delta=5&p_r_p_resetCur=false&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_1rjMHS5sCcaN_cur=3#collapse6858802,,,,,46.209567,7.604659,Valais,23
@@ -105,6 +120,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-11,00:00,BL,,26.0,,,,,2.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-26-bestaetigte-faelle-in-basel-landschaft-1,,,,,47.45176,7.702414,Basel-Landschaft,13
 2020-03-11,12:00,BS,235.0,37.0,,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1237694819419422720?s=20,,,,,47.564869,7.615259,Basel-Stadt,12
 2020-03-11,00:00,FL,50.0,3.0,,,,1.0,,https://www.regierung.li/media/attachments/112-drei-personen-infiziert.pdf?t=637202562374055719,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00
+2020-03-11,00:00,GE,,66.0,20.0,6.0,14.0,,2.0,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,1.0,,,46.220528,6.132935,Genève,25
 2020-03-11,00:00,NW,,4.0,,,,,,https://www.nw.ch/aktuellesinformationen/63359,,,,,46.926755,8.405302,Nidwalden,07
 2020-03-11,00:00,TI,,5.0,,,,,1.0,,,,68.0,,46.295617,8.808924,Ticino,21
 2020-03-11,00:00,VD,,108.0,38.0,7.0,,,1.0,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,46.570091,6.557809000000001,Vaud,22
@@ -115,6 +131,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-12,00:00,BL,,26.0,,,,,2.0,,,,,,47.45176,7.702414,Basel-Landschaft,13
 2020-03-12,12:00,BS,235.0,73.0,,,,4.0,1.0,https://twitter.com/BAG_OFSP_UFSP/status/1238073089902235648?s=20   https://www.coronavirus.bs.ch/nm/2020-coronavirus-ende-der-quarantaenemassnahmen-im-fall-kita-riehen-gd.html   https://www.coronavirus.bs.ch/nm/2020-coronavirus-erster-todesfall-im-kanton-basel-stadt-gd.html,,,,,47.564869,7.615259,Basel-Stadt,12
 2020-03-12,00:00,FL,57.0,3.0,,,,1.0,,https://www.regierung.li/media/attachments/114-hallenbaeder-geschlossen-0312.pdf?t=637202562374055719,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00
+2020-03-12,00:00,GE,,80.0,23.0,6.0,17.0,,2.0,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,4.0,,,46.220528,6.132935,Genève,25
 2020-03-12,00:00,SG,,15.0,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,47.1832,9.274744,St. Gallen,17
 2020-03-12,00:00,TI,,180.0,,,,,1.0,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187437&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=59cf6112c82abed490acd8901f5a0bb2,,,68.0,,46.295617,8.808924,Ticino,21
 2020-03-12,00:00,UR,,2.0,,,,,,,,,,,46.771849,8.628586,Uri,04
@@ -123,6 +140,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-13,13:00,AG,,32.0,,,,,,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200313_KFS_Coronavirus_Lagebulletin_11.pdf,,,,,47.40966,8.15688,Aargau,01
 2020-03-13,00:00,BL,,42.0,,,,,2.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-26-bestaetigte-faelle-in-basel-landschaft-2,,,,,47.45176,7.702414,Basel-Landschaft,13
 2020-03-13,12:30,BS,235.0,92.0,,,,,1.0,https://twitter.com/BAG_OFSP_UFSP/status/1238430659762364417?s=20,,,,,47.564869,7.615259,Basel-Stadt,12
+2020-03-13,00:00,GE,,104.0,33.0,7.0,26.0,,2.0,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,4.0,,,46.220528,6.132935,Genève,25
 2020-03-13,12:00,OW,6.0,1.0,,,,,,https://www.ow.ch/de/aktuelles/aktuellesinformationen/amtsmitteilungen/welcome.php?action=showinfo&info_id=63566&ls=0&sq=&kategorie_id=&date_from=&date_to=,,,,,46.804527,8.144317000000001,Obwalden,06
 2020-03-13,12:00,SZ,10.0,9.0,1.0,,,,,https://www.sz.ch/public/upload/assets/45585/MM_Coronavirus_13_03_2020.pdf,,,,,47.061787,8.756585,Schwyz,05
 2020-03-13,00:00,TI,,258.0,65.0,13.0,,,1.0,https://www.youtube.com/watch?v=_x_yQ6uwGAQ,,,68.0,,46.295617,8.808924,Ticino,21
@@ -134,12 +152,14 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-14,00:00,BL,,47.0,,,,,2.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-47-bestaetigte-faelle-in-basel-landschaft,,,,,47.45176,7.702414,Basel-Landschaft,13
 2020-03-14,11:27,BS,235.0,100.0,,,,,1.0,https://twitter.com/BAG_OFSP_UFSP/status/1238773726423941127?s=20,,,,,47.564869,7.615259,Basel-Stadt,12
 2020-03-14,00:00,FL,99.0,3.0,,,,1.0,,https://www.regierung.li/media/attachments/118-corona-rueckkehrer-skiferien-0314.pdf?t=637202562374055719,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00
+2020-03-14,00:00,GE,,196.0,43.0,8.0,33.0,,2.0,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,2.0,5.0,,,46.220528,6.132935,Genève,25
 2020-03-14,03:03,SZ,1.0,12.0,1.0,,,,,"https://www.bote.ch/nachrichten/schwyz/schwyz_bdu/coronavirus-einsatz-fuer-spitalbataillon-5;art146989,1229758",,,,,47.061787,8.756585,Schwyz,05
 2020-03-14,00:00,TI,,265.0,65.0,13.0,,,3.0,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187466&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=1b10e6e8117296766155edcf9c317a4c,,,68.0,,46.295617,8.808924,Ticino,21
 2020-03-14,00:00,VD,,350.0,43.0,14.0,,5.0,3.0,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,46.570091,6.557809000000001,Vaud,22
 2020-03-14,00:00,ZG,,13.0,,,,,,https://twitter.com/gesundZG/status/1238733148462157824?s=20,,,,,47.157296,8.537294,Zug,09
 2020-03-15,00:00,BL,,54.0,,,,,2.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-54-bestaetigte-faelle-in-basel-landschaft,,,,,47.45176,7.702414,Basel-Landschaft,13
 2020-03-15,00:00,FL,99.0,7.0,,,,1.0,,https://www.regierung.li/media/attachments/119-corona-massnahmen-verschaerft-0315.pdf?t=637202562374055719,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00
+2020-03-15,00:00,GE,,281.0,46.0,12.0,32.0,,4.0,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,2.0,5.0,,,46.220528,6.132935,Genève,25
 2020-03-15,00:00,SZ,1.0,13.0,1.0,,,,,https://www.sz.ch/public/upload/assets/45590/MM_Coronavirus_15_3_2020.pdf,,,,,47.061787,8.756585,Schwyz,05
 2020-03-15,00:00,TI,,291.0,65.0,13.0,,,6.0,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187467&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=af5473066754ef4d1272e156056acc07,,,68.0,,46.295617,8.808924,Ticino,21
 2020-03-15,00:00,VD,,406.0,62.0,19.0,,5.0,4.0,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,46.570091,6.557809000000001,Vaud,22
@@ -148,6 +168,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-16,00:00,BE,,123.0,,,,,1.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,46.823608,7.636667,Bern,02
 2020-03-16,00:00,BL,,76.0,,,,,2.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-67-bestaetigte-faelle-in-basel-landschaft,,,,,47.45176,7.702414,Basel-Landschaft,13
 2020-03-16,12:00,BS,235.0,144.0,,,,,4.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-144-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,47.564869,7.615259,Basel-Stadt,12
+2020-03-16,00:00,GE,,373.0,66.0,10.0,52.0,,4.0,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,4.0,8.0,,,46.220528,6.132935,Genève,25
 2020-03-16,00:00,TG,246.0,17.0,,,,,,,,,,,47.568715,9.091957,Thurgau,01
 2020-03-16,00:00,TI,,330.0,65.0,13.0,,,8.0,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187475&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=dee4a529abd4e9300e116c7ff4db5774,,,68.0,,46.295617,8.808924,Ticino,21
 2020-03-16,00:00,VD,,508.0,66.0,27.0,,5.0,5.0,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,46.570091,6.557809000000001,Vaud,22
@@ -158,6 +179,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-17,00:00,BL,,89.0,,,,,2.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-89-bestaetigte-faelle-in-basel-landschaft,,,,,47.45176,7.702414,Basel-Landschaft,13
 2020-03-17,12:00,BS,235.0,165.0,30.0,,,25.0,4.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-165-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,47.564869,7.615259,Basel-Stadt,12
 2020-03-17,00:00,FL,99.0,19.0,,,,1.0,,https://www.regierung.li/media/attachments/126-corona-generelles-veranstaltungsverbot-weitere-schliessungen.pdf?t=637202562374055719,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00
+2020-03-17,00:00,GE,,495.0,75.0,19.0,54.0,,4.0,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,2.0,9.0,,,46.220528,6.132935,Genève,25
 2020-03-17,00:00,GL,,10.0,,,,,,https://www.suedostschweiz.ch/ereignisse/2020-03-20/die-zahl-der-corona-faelle-im-glarnerland-steigt-stark-an,,,,,46.931042000000005,9.065751,Glarus,08
 2020-03-17,00:00,SG,,47.0,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,47.1832,9.274744,St. Gallen,17
 2020-03-17,00:00,TG,276.0,23.0,,,,,,,,,,,47.568715,9.091957,Thurgau,01
@@ -172,6 +194,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-18,11:15,BS,235.0,182.0,40.0,,,36.0,4.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-182-bestaetigte-faelle-im-kanton-basel-stadt-treffen-mit-allen-spitaelern-gd.html,,,,,47.564869,7.615259,Basel-Stadt,12
 2020-03-18,00:00,FL,99.0,28.0,,,,1.0,,https://www.regierung.li/media/attachments/131-corona-hotline-0318.pdf?t=637202562374055719,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00
 2020-03-18,17:00,FR,30.0,11.0,,,,,1.0,https://www.fr.ch/de/sr/gesundheit/covid-19/covid-19-im-kanton-freiburg-ist-ein-erster-todesfall-zu-beklagen,,,,,46.718391,7.074008,Fribourg,10
+2020-03-18,00:00,GE,,629.0,78.0,20.0,56.0,,5.0,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,2.0,17.0,,,46.220528,6.132935,Genève,25
 2020-03-18,00:00,GR,,116.0,13.0,,,,1.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,46.656248,9.628198,Graubünden,01
 2020-03-18,16:00,LU,,65.0,,,,,,https://web.archive.org/web/20200318191404/https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,47.067763,8.1102,Luzern,03
 2020-03-18,00:00,SG,,61.0,,,,,,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,47.1832,9.274744,St. Gallen,17
@@ -186,6 +209,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-19,00:00,BE,,282.0,,,,,1.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,46.823608,7.636667,Bern,02
 2020-03-19,00:00,BL,,134.0,,,,,2.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-131-bestaetigte-faelle-in-basel-landschaft,,,,,47.45176,7.702414,Basel-Landschaft,13
 2020-03-19,11:00,BS,235.0,222.0,40.0,,,44.0,4.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-222-bestaetigte-faelle-basel-stadt-trifft-gemeinsam-mit-den-spitaelern-vorkehrungen-fuer-intensiv--und-beatmungskapazitaeten-gd.html,,,,,47.564869,7.615259,Basel-Stadt,12
+2020-03-19,00:00,GE,,826.0,92.0,19.0,68.0,,5.0,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,5.0,17.0,,,46.220528,6.132935,Genève,25
 2020-03-19,00:00,GL,,17.0,,,,,,https://www.suedostschweiz.ch/ereignisse/2020-03-20/die-zahl-der-corona-faelle-im-glarnerland-steigt-stark-an,,,,,46.931042000000005,9.065751,Glarus,08
 2020-03-19,00:00,GR,,145.0,18.0,,,,1.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,46.656248,9.628198,Graubünden,01
 2020-03-19,16:00,JU,,27.0,,,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,47.350744,7.156107,Jura,26
