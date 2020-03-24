@@ -29,7 +29,6 @@ def update_from_csv(gis : GIS, f):
     latest_csv_item.update(data=latest_csv_file)
 
     print("Overwriting existing feature with %s ..." % f)
-    #fs = latest_csv_item.publish(overwrite=True, file_type='featureService')
 
     # Get feature layer collection from item
     flc = FeatureLayerCollection.fromitem(latest_csv_item)
@@ -37,8 +36,7 @@ def update_from_csv(gis : GIS, f):
     print(type(flc))
 
     # Overwrite old item with new item
-    # print(latest_csv_file)
-    res = flc.manager.overwrite(latest_csv_item)    
+    res = flc.manager.overwrite(latest_csv_file)    
     print(res)
 
 def publish_from_csv(gis : GIS, f : str):
