@@ -7,9 +7,14 @@ import datetime
 import os
 
 files = {
-    'devel-cantons-latest.csv': '0b12cddba60e49aa9ebe07c3f38cde30',
-    # 'dd-covid19-openzh-switzerland-latest.csv': 'a48bbcb06c8e4b629a31e5584c5e991a'
+    'dd-covid19-openzh-cantons-latest.csv': '71d789eb72e8413abc6590e41a7f3cb2',
+    'dd-covid19-openzh-switzerland-latest.csv': 'a48bbcb06c8e4b629a31e5584c5e991a'
     }
+
+# Test data
+#files = {
+#    'devel-cantons-latest.csv': '0b12cddba60e49aa9ebe07c3f38cde30',
+#    }
 
 def file_path():
     return os.path.dirname(os.path.abspath(__file__))  + "/output_openzh/"
@@ -25,8 +30,6 @@ def update_from_csv(gis : GIS, f):
 
     print("Accessing feature server: " + latest_csv_item.url)
     print("Found feature layer %s on server" % latest_csv_item.title)
-
-    latest_csv_item.update(data=latest_csv_file)
 
     print("Overwriting existing feature with %s ..." % f)
 

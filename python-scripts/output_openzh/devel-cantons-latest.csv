@@ -1,5 +1,5 @@
 lastupdate,timestamp,country,abbreviation_canton,name_canton,number_canton,lat,long,tests_performed,total_currently_positive_cases,total_positive_cases,new_positive_cases,total_hospitalized,intensive_care,recovered,deaths,pos_tests_1,ncumul_ICU_intub,ncumul_vent,ncumul_released,ncumul_ICF,source,ncumul_deceased_suspect
-2020-03-24 12:42:22,2020-03-22 15:00,CH,AG,Aargau,01,47.40966,8.15688,,241,241,0,10,3,,1,,,2,,,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200323_KFS_Coronavirus_Lagebulletin_17.pdf,
+2020-03-24 12:42:22,2020-03-21 15:00,CH,AG,Aargau,01,47.40966,8.15688,,241,241,0,10,3,,1,,,2,,,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200323_KFS_Coronavirus_Lagebulletin_17.pdf,
 2020-03-24 12:42:22,2020-03-19 00:00,CH,AI,Appenzell Innerrhoden,16,47.317264,9.416754,,6,6,0,1,,,,,,,,,Kantonaler Führungsstab Appenzell Innerrhoden,
 2020-03-24 12:42:22,2020-03-24 10:00,CH,AR,Appenzell Ausserrhoden,15,47.416351999999996,9.36791,,33,33,0,6,,,2,,,,,,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,
 2020-03-24 12:42:22,2020-03-24 00:00,CH,BE,Bern,02,46.823608,7.636667,,532,532,0,,,,6,,,,,,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,
