@@ -28,12 +28,12 @@ jobs:
       - name: Install Conda Packages
         shell: pwsh
         run: conda install pandas
-      - name: Conda list
-        shell: pwsh
-        run: conda list
       - name: Install ArcGIS package
         shell: pwsh
-        run: pip install arcgis
+        run: conda install -c esri arcgis --no-deps --yes
+      - name: Conda packages list
+        shell: pwsh
+        run: conda list
       - name: Download and digest OpenZH data
         shell: pwsh
         run: | 
