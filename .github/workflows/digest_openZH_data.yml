@@ -25,12 +25,12 @@ jobs:
       - name: Conda info
         shell: bash -l {0}
         run: conda info
-      - name: Install Conda Packages
+      - name: Install pandas
         shell: pwsh
         run: conda install pandas
-      - name: Install ArcGIS package
+      - name: Install ArcGIS
         shell: pwsh
-        run: conda install -c esri arcgis --no-deps --yes
+        run: conda install -c esri arcgis --yes
       - name: Conda packages list
         shell: pwsh
         run: conda list
