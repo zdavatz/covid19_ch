@@ -56,7 +56,8 @@ def publish_from_csv(gis : GIS, f : str):
 
 
 # Connect to the GIS
-gis = GIS('https://ddrobotec.maps.arcgis.com', 'cybermax', os.environ['ARCGIS_PASS'])
+if __name__ == '__main__':
+    gis = GIS('https://ddrobotec.maps.arcgis.com', 'cybermax', os.environ['ARCGIS_PASS'])
 
-for f in files:
-    update_from_csv(gis, f)
+    for f in files:
+        update_from_csv(gis, f)

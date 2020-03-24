@@ -1,10 +1,7 @@
-name: "Digest OpenZH Data into CSV files"
+name: "Digest OpenZH Data into CSV files and Push To ArcGIS"
 
 on:
   push:
-    branches:
-    - 'master'
-  pull_request:
     branches:
     - 'master'
   schedule:
@@ -34,13 +31,23 @@ jobs:
       - name: Conda list
         shell: pwsh
         run: conda list
-      - name: Download and digest data
+      - name: Install ArcGIS package
+        shell: pwsh
+        run: pip install arcgis
+      - name: Download and digest OpenZH data
         shell: pwsh
         run: | 
           pwd
           cd ./python-scripts
           python3.7 digest_openzh.py
           cp -vr output_openzh publish
+      - name: Push data to arcgis
+        shell: pwsh
+        env:
+          ARCGIS_PASS: ${{ secrets.ARCGIS_PASS }}
+        run: |
+          cd ./python-scripts
+          python3.7 arcgis_push.py
       - name: Install SSH Client 🔑
         uses: webfactory/ssh-agent@v0.2.0
         with:
