@@ -1,10 +1,10 @@
 import datetime
 import pandas as pd
 
-field_names = "date,country,abbreviation_canton,name_canton,number_canton,lat,long,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,deaths,total_positive_cases,tests_performed".split(',')
-field_names_short = "date,country,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive,new_positive,recovered,deaths,total_positive,tests_performed".split(',')
-counter_names = "hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,recovered,deaths,total_positive_cases,tests_performed".split(',')
-field_names_switzerland = ['country','tests_performed','total_currently_positive','total_positive','new_positive','home_confinment','total_hospitalized','hospitalized_with_symptoms','intensive_care','recovered','deaths']
+field_names = "date,country,abbreviation_canton,name_canton,number_canton,lat,long,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,released,deaths,total_positive_cases,tests_performed".split(',')
+field_names_short = "date,country,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive,new_positive,recovered,released,deaths,total_positive,tests_performed".split(',')
+counter_names = "hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,recovered,released,deaths,total_positive_cases,tests_performed".split(',')
+field_names_switzerland = ['country','tests_performed','total_currently_positive','total_positive','new_positive','home_confinment','total_hospitalized','hospitalized_with_symptoms','intensive_care','recovered','released','deaths']
 
 # Direct field mappings to our format
 openzh_field_mapping = {
@@ -15,7 +15,7 @@ openzh_field_mapping = {
     "ncumul_hosp" : "total_hospitalized",
     "ncumul_ICU" : "intensive_care",
     "ncumul_vent" : "ncumul_vent",
-    "ncumul_released" : "ncumul_released",
+    "ncumul_released" : "released",
     "ncumul_deceased" : "deaths",
     "source" : "source",
     "TotalPosTests1" : "pos_tests_1",

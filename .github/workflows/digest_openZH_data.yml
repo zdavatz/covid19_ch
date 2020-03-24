@@ -1,13 +1,11 @@
-name: "Digest OpenZH Data into CSV files"
+name: "Digest OpenZH Data into CSV files and Push To ArcGIS"
 
 on:
   push:
     branches:
-    - '*'
-  pull_request:
-    branches:
-    - '*'
-
+    - 'master'
+  schedule:
+    - cron: '0 * * * *'  # Once an hour
 jobs:
   digest:
     name: Download and digest data
@@ -27,15 +25,41 @@ jobs:
       - name: Conda info
         shell: bash -l {0}
         run: conda info
-      - name: Install Conda Packages
+      - name: Install pandas
         shell: pwsh
         run: conda install pandas
-      - name: Conda list
+      - name: Install ArcGIS
+        shell: pwsh
+        run: conda install -c esri arcgis --yes
+      - name: Conda packages list
         shell: pwsh
         run: conda list
-      - name: Download and digest data
+      - name: Download and digest OpenZH data
         shell: pwsh
         run: | 
           pwd
           cd ./python-scripts
           python3.7 digest_openzh.py
+          cp -vr output_openzh publish
+      - name: Push data to arcgis
+        shell: pwsh
+        env:
+          ARCGIS_PASS: ${{ secrets.ARCGIS_PASS }}
+        run: |
+          cd ./python-scripts
+          python3.7 arcgis_push.py
+      - name: Install SSH Client 🔑
+        uses: webfactory/ssh-agent@v0.2.0
+        with:
+          ssh-private-key: ${{ secrets.DEPLOY_KEY }}
+      - name: Deploy data to ddrobotec.github.io 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v3-test
+        with:
+          BASE_BRANCH: master
+          BRANCH: master
+          FOLDER: python-scripts/publish
+          TARGET_FOLDER: covid19_openzh_data
+          REPOSITORY_NAME: ddrobotec/ddrobotec.github.io
+          CLEAN: true
+          SSH: true # SSH must be set to true so the deploy action knows which protocol to deploy with.
+          DEBUG: true

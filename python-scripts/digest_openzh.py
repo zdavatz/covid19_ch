@@ -158,11 +158,12 @@ def aggregate_latest_by_abbrevation_canton(df):
     cols.insert(5, cols.pop(cols.index('number_canton')))
     cols.insert(6, cols.pop(cols.index('lat')))
     cols.insert(7, cols.pop(cols.index('long')))
-    cols.insert(12, cols.pop(cols.index('recovered')))
-    cols.insert(13, cols.pop(cols.index('deaths')))
-    cols.insert(14, cols.pop(cols.index('pos_tests_1')))
+    cols.insert(12, cols.pop(cols.index('released')))
+    cols.insert(13, cols.pop(cols.index('recovered')))
+    cols.insert(14, cols.pop(cols.index('deaths')))
+    cols.insert(15, cols.pop(cols.index('pos_tests_1')))
     cols.insert(-1, cols.pop(cols.index('source')))
-    cols.insert(15, cols.pop(cols.index('ncumul_ICU_intub')))
+    cols.insert(16, cols.pop(cols.index('ncumul_ICU_intub')))
     df = df.loc[:, cols]
     
     df.insert(9, 'total_currently_positive_cases', df['total_positive_cases'])
@@ -175,17 +176,17 @@ def aggregate_latest_by_abbrevation_canton(df):
         'new_positive_cases': 'Int64',
         'total_hospitalized': 'Int64',
         'intensive_care': 'Int64',
+        'released': 'Int64',
         'recovered': 'Int64',
         'deaths': 'Int64',
         'pos_tests_1': 'Int64',
         'ncumul_ICU_intub': 'Int64',
         'ncumul_vent': 'Int64',
-        'ncumul_released': 'Int64',
         'ncumul_ICF': 'Int64'
         })
 
     df.insert(0, 'timestamp', df['date'] + " " + df['time'])
-    df.insert(0, 'lastupdate', datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+    df.insert(0, 'last_update', datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
     df.drop(columns=['date','time'], axis=1, inplace=True)
 
     return df
@@ -200,7 +201,7 @@ def aggregate_series_by_day_and_country(df : pd.DataFrame):
     df.drop_duplicates(subset = ['date', 'abbreviation_canton'], keep = 'last', inplace = True, ignore_index = True)
     df.reset_index(inplace=True, drop=True)
       
-    # date,country,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive,new_positive,recovered,deaths,total_positive,tests_performed
+    # date,country,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive,new_positive,released,recovered,deaths,total_positive,tests_performed
     sum_per_day = df.groupby(
         ['date']
     ).agg(
@@ -219,6 +220,7 @@ def aggregate_series_by_day_and_country(df : pd.DataFrame):
 
         total_positive = ("total_positive_cases", sum),
         tests_performed = ("tests_performed", sum),
+        released = ("released", sum),
         recovered = ("recovered", sum),
         deaths = ("deaths", sum)
     ).astype('Int64')
@@ -241,19 +243,19 @@ if __name__ == '__main__':
     # Merge tables into one time
     openzh_series = merge_openzh_data_to_series(data_folder())
     # Write to file with all data using OpenZH format
-    openzh_series.to_csv(os.path.join(output_folder(), "dd-covid19-ch-openzh-total-series.csv"), index=False)
+    openzh_series.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-total-series.csv"), index=False)
     # Convert series to our format and decorate data with additional info
     series = convert_from_openzh(openzh_series)
-    series.to_csv(os.path.join(output_folder(), "dd-covid19-ch-openzh-cantons-series.csv"), index=False)
+    series.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-cantons-series.csv"), index=False)
 
     # Get newest entry for each canton
     latest_per_canton = aggregate_latest_by_time_canton(series)
-    latest_per_canton.to_csv(os.path.join(output_folder(), "dd-covid19-ch-openzh-cantons-latest-by-time.csv"), index=False)
+    latest_per_canton.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-cantons-latest-by-time.csv"), index=False)
 
     latest_per_canton = aggregate_latest_by_abbrevation_canton(series)
-    latest_per_canton.to_csv(os.path.join(output_folder(), "dd-covid19-ch-openzh-cantons-latest.csv"), index=False)
+    latest_per_canton.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-cantons-latest.csv"), index=False)
 
     # Aggregate series over cantons for country
     country_series = aggregate_series_by_day_and_country(series)
     # Note: keep index, it's the date
-    country_series.to_csv(os.path.join(output_folder(), "dd-covid19-ch-openzh-switzerland-latest.csv"))
+    country_series.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-switzerland-latest.csv"))
