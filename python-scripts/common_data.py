@@ -4,7 +4,7 @@ import pandas as pd
 field_names = "date,country,abbreviation_canton,name_canton,number_canton,lat,long,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,released,deaths,total_positive_cases,tests_performed".split(',')
 field_names_short = "date,country,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive,new_positive,recovered,released,deaths,total_positive,tests_performed".split(',')
 counter_names = "hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,recovered,released,deaths,total_positive_cases,tests_performed".split(',')
-field_names_switzerland = ['country','tests_performed','total_currently_positive','total_positive','new_positive','home_confinment','total_hospitalized','hospitalized_with_symptoms','intensive_care','recovered','released','deaths']
+field_names_switzerland = ['country','tests_performed','total_currently_positive','total_positive','new_positive','old_positive','home_confinment','total_hospitalized','hospitalized_with_symptoms','intensive_care','recovered','released','deaths']
 
 # Direct field mappings to our format
 openzh_field_mapping = {
@@ -77,31 +77,31 @@ centres_cantons = {
 }
 
 name_and_numbers_cantons = {
-    "AG": {"name": "Aargau", "number": "01"},
-    "AR": {"name": "Appenzell Ausserrhoden", "number": "15"},
-    "AI": {"name": "Appenzell Innerrhoden", "number": "16"},
-    "BL": {"name": "Basel-Landschaft", "number": "13"},
-    "BS": {"name": "Basel-Stadt", "number": "12"},
-    "BE": {"name": "Bern", "number": "02"},
-    "FR": {"name": "Fribourg", "number": "10"},
-    "GE": {"name": "Genève", "number": "25"},
-    "GL": {"name": "Glarus", "number": "08"},
-    "GR": {"name": "Graubünden", "number": "01"},
-    "JU": {"name": "Jura", "number": "26"},
-    "LU": {"name": "Luzern", "number": "03"},
-    "NE": {"name": "Neuchatel", "number": "24"},
-    "NW": {"name": "Nidwalden", "number": "07"},
-    "OW": {"name": "Obwalden", "number": "06"},
-    "SH": {"name": "Schaffhausen", "number": "14"},
-    "SZ": {"name": "Schwyz", "number": "05"},
-    "SO": {"name": "Solothurn", "number": "11"},
-    "SG": {"name": "St. Gallen", "number": "17"},
-    "TI": {"name": "Ticino", "number": "21"},
-    "TG": {"name": "Thurgau", "number": "01"},
-    "UR": {"name": "Uri", "number": "04"},
-    "VD": {"name": "Vaud", "number": "22"},
-    "VS": {"name": "Valais", "number": "23"},
-    "ZG": {"name": "Zug", "number": "09"},
-    "ZH": {"name": "Zürich", "number": "01"},
-    "FL": {"name": "Fürstentum Lichtenstein", "number": "00"}
+    "AG": {"name": "Aargau", "number": "01", "pop": 671.0},
+    "AR": {"name": "Appenzell Ausserrhoden", "number": "15", "pop": 55.2},
+    "AI": {"name": "Appenzell Innerrhoden", "number": "16", "pop": 16.1},
+    "BL": {"name": "Basel-Landschaft", "number": "13", "pop": 287.0},
+    "BS": {"name": "Basel-Stadt", "number": "12", "pop": 193.9},
+    "BE": {"name": "Bern", "number": "02", "pop": 1031.1},
+    "FR": {"name": "Fribourg", "number": "10", "pop": 315.1},
+    "GE": {"name": "Genève", "number": "25", "pop": 495.2},
+    "GL": {"name": "Glarus", "number": "08", "pop": 40.3},
+    "GR": {"name": "Graubünden", "number": "01", "pop": 197.9},
+    "JU": {"name": "Jura", "number": "26", "pop": 73.3},
+    "LU": {"name": "Luzern", "number": "03", "pop": 406.5},
+    "NE": {"name": "Neuchatel", "number": "24", "pop": 178.0},
+    "NW": {"name": "Nidwalden", "number": "07", "pop": 43.0},
+    "OW": {"name": "Obwalden", "number": "06", "pop": 37.6},
+    "SH": {"name": "Schaffhausen", "number": "14", "pop": 81.4},
+    "SZ": {"name": "Schwyz", "number": "05", "pop": 157.3},
+    "SO": {"name": "Solothurn", "number": "11", "pop": 271.4},
+    "SG": {"name": "St. Gallen", "number": "17", "pop": 504.7},
+    "TI": {"name": "Ticino", "number": "21", "pop": 353.7},
+    "TG": {"name": "Thurgau", "number": "01", "pop": 273.8},
+    "UR": {"name": "Uri", "number": "04", "pop": 36.3},
+    "VD": {"name": "Vaud", "number": "22", "pop": 793.1},
+    "VS": {"name": "Valais", "number": "23", "pop": 341.5},
+    "ZG": {"name": "Zug", "number": "09", "pop": 125.4},
+    "ZH": {"name": "Zürich", "number": "01", "pop": 1504.3},
+    "FL": {"name": "Fürstentum Lichtenstein", "number": "00", "pop": 38.6}
 }

@@ -4,11 +4,12 @@ import sys, getopt
 import csv
 import json
 import urllib.request
-from pathlib import Path
 import os
 import datetime
-from common_data import *
 import pandas as pd
+
+from pathlib import Path
+from common_data import *
 
 def output_folder():
     return os.path.dirname(os.path.abspath(__file__))  + "/output"

@@ -1,16 +1,19 @@
 # -*- coding: utf-8 -*-
 
-import sys, getopt
 import csv
+import datetime
+import getopt
 import json
+import os
+import sys
 import urllib.request
 from pathlib import Path
-import os
-import datetime
-from common_data import *
+
 import pandas as pd
-import web
 from numpy import nan
+
+import web
+from common_data import *
 
 date_range = datetime.datetime.today() - start_date
 
@@ -150,9 +153,10 @@ def aggregate_latest_by_abbrevation_canton(df):
     # Sort according to abbreviation cantons
     df.sort_values(by=['abbreviation_canton'], inplace=True)
     df.insert(2, 'country', 'CH')
+
     # Now we need to move some columns
     cols = list(df)
-
+    # Reorder columns
     cols.insert(3, cols.pop(cols.index('abbreviation_canton')))
     cols.insert(4, cols.pop(cols.index('name_canton')))
     cols.insert(5, cols.pop(cols.index('number_canton')))
@@ -168,6 +172,15 @@ def aggregate_latest_by_abbrevation_canton(df):
     
     df.insert(9, 'total_currently_positive_cases', df['total_positive_cases'])
     df.insert(11, 'new_positive_cases', 0)
+
+    # Generate dataframe from dictionary for easier handling
+    canton_dict = pd.DataFrame.from_dict(name_and_numbers_cantons)   
+    # Get all canton abbreviations
+    idx = df['abbreviation_canton'].values
+    # Reorder indeces
+    pop_per_canton = list(canton_dict.T['pop'][idx])
+
+    df.insert(12, 'total_currently_positive_per_1000', round(df['total_currently_positive_cases']/pop_per_canton, 5))
 
     df = df.astype({
         'tests_performed': 'Int64',
@@ -228,6 +241,7 @@ def aggregate_series_by_day_and_country(df : pd.DataFrame):
     sum_per_day.insert(0, 'country', 'CH')  
     sum_per_day['home_confinment'] = 0
     sum_per_day['new_positive'] = sum_per_day['total_positive'].diff(periods=1).astype('Int64')
+    sum_per_day['old_positive'] = sum_per_day.shift(periods=1, axis='columns', fill_value=0)['total_positive']
     sum_per_day['hospitalized_with_symptoms'] = 0
 
     # Reorder columns to simplify comparison with d.probst data
