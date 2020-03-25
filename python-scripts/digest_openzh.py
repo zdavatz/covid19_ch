@@ -12,8 +12,14 @@ from pathlib import Path
 import pandas as pd
 from numpy import nan
 
+from pytz import timezone
+import pytz
+
 import web
 from common_data import *
+
+utc = pytz.utc
+cet = timezone('CET')
 
 date_range = datetime.datetime.today() - start_date
 
@@ -155,6 +161,15 @@ def aggregate_latest_by_time_canton(df):
     # Select rows given by index set
     return df[idx]
 
+def convert_timestamp_string(d):
+    try:
+        dt = datetime.datetime.strptime(d, "%Y-%m-%d %H:%M")        
+    except ValueError:
+        dt = datetime.datetime.strptime(d, "%Y-%m-%d %H:%M:%S")
+    dt = datetime.datetime(dt.year, dt.month, dt.day, dt.hour, dt.minute, dt.second, tzinfo=cet)
+    d_utc = dt.astimezone(utc).strftime("%Y-%m-%d %H:%M:%S")
+    return d_utc
+
 def aggregate_latest_by_abbrevation_canton(df):
     # Get indeces of most recent entriese
     idx = df.groupby(['abbreviation_canton'])['date'].transform(max) == df['date']   
@@ -201,7 +216,9 @@ def aggregate_latest_by_abbrevation_canton(df):
         })
 
     df.insert(0, 'timestamp', df['date'] + " " + df['time'])
-    df.insert(0, 'last_update', datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+    # Convert timestamp from CET to UTC
+    df['timestamp'] = df['timestamp'].apply(convert_timestamp_string)
+    df.insert(0, 'last_update', datetime.datetime.now(utc).strftime("%Y-%m-%d %H:%M:%S"))
     df.drop(columns=['date','time'], axis=1, inplace=True)
 
     return df
@@ -249,7 +266,8 @@ def aggregate_series_by_day_and_country(df : pd.DataFrame):
     # Reorder columns to simplify comparison with d.probst data
     sum_per_day = sum_per_day[field_names_switzerland]
 
-    sum_per_day.insert(0, 'last_update', datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+    # ArcGis expects time stamps in UTC
+    sum_per_day.insert(0, 'last_update', datetime.datetime.now(utc).strftime("%Y-%m-%d %H:%M:%S"))
 
     return sum_per_day
 
@@ -270,6 +288,8 @@ if __name__ == '__main__':
 
     latest_per_canton = aggregate_latest_by_abbrevation_canton(series)
     latest_per_canton.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-cantons-latest.csv"), index=False)
+    # It's the same as above, but ArcGis requires unique filenames. Once a layer is created, it is very cumbersome to add new fields with ArcGis.
+    latest_per_canton.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-cantons-latest_v2.csv"), index=False)
 
     # Aggregate series over cantons for country
     country_series = aggregate_series_by_day_and_country(series)
