@@ -40,19 +40,54 @@ jobs:
           pwd
           cd ./python-scripts
           python3.7 digest_openzh.py
-          cp -vr output_openzh publish
+          cp -v ./output_openzh/dd-covid19-openzh-cantons-latest.csv ../data-cantons-csv/
+          cp -v ./output_openzh/dd-covid19-openzh-switzerland-latest.csv ../data-switzerland-csv/
       - name: Push data to arcgis
+        if: secrets.ARCGIS_PASS != ''
         shell: pwsh
         env:
           ARCGIS_PASS: ${{ secrets.ARCGIS_PASS }}
         run: |
           cd ./python-scripts
           python3.7 arcgis_push.py
+      - name: Auto commit new data
+      - uses: stefanzweifel/git-auto-commit-action@v4.1.1
+        if: secrets.DEPLOY_KEY != ''
+        with:
+          commit_message: Data update from https://github.com/ddrobotec/covid19_ch
+
+          # Optional name of the branch the commit should be pushed to
+          # Required if Action is used in Workflow listening to the `pull_request` event
+          # branch: ${{ github.head_ref }}
+
+          # Optional git params
+          # commit_options: '--no-verify --signoff'
+
+          # Optional glob pattern of files which should be added to the commit **/*.csv
+          file_pattern: \*\*/\*.csv
+
+          # Optional local file path to the repository
+          repository: .
+
+          # Optional commit user and author settings
+          # commit_user_name: My GitHub Actions Bot
+          # commit_user_email: my-github-actions-bot@example.org
+          # commit_author: Author <actions@github.com>
+
+          # Optional tag message. Will create and push a new tag to the remote repository
+          # tagging_message: 'v1.0.0'      
+      - name: Create publish folder
+        shell: pwsh
+        run: | 
+          cd ./python-scripts
+          cp -vr output_openzh publish
       - name: Install SSH Client 🔑
+        if: secrets.DEPLOY_KEY != ''
         uses: webfactory/ssh-agent@v0.2.0
         with:
           ssh-private-key: ${{ secrets.DEPLOY_KEY }}
       - name: Deploy data to ddrobotec.github.io 🚀
+        if: secrets.DEPLOY_KEY != ''
         uses: JamesIves/github-pages-deploy-action@releases/v3-test
         with:
           BASE_BRANCH: master
