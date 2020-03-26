@@ -6,7 +6,7 @@ Am 20. März 2020 geht das Esri Dashboard von [ddrobotec](http://covid19.ddrobot
 
 Am Wochenende vom 22./23. März 2020 ändert [OpenZH](https://github.com/openZH/covid_19/) seine Datenstrukur und beginnt Daten von den kantonalen Websites gezielt zu sammlen.
 
-Am Montag morgen um 08.00 Uhr am 23. März geht die [HIN-Email](https://www.hin.ch/covid-19-faelle-ans-bag-melden/) vom BAG online.
+Am Montag morgen um 08.00 Uhr am 23. März 2020 geht die [HIN-Email](https://www.hin.ch/covid-19-faelle-ans-bag-melden/) vom BAG online.
 
 Am 25. März 2020 publiziert das BAG zum ersten mal eine [XLSX Datei](https://www.bag.admin.ch/dam/bag/de/dokumente/mt/k-und-i/aktuelle-ausbrueche-pandemien/2019-nCoV/covid-19-datengrundlage-lagebericht.xlsx.download.xlsx/200325_Datengrundlage_Grafiken_COVID-19-Bericht.xlsx) mit seinen offiziellen Zahlen.
 
