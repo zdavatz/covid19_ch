@@ -51,7 +51,7 @@ jobs:
           cd ./python-scripts
           python3.7 arcgis_push.py
       - name: Auto commit new data
-      - uses: stefanzweifel/git-auto-commit-action@v4.1.1
+        uses: stefanzweifel/git-auto-commit-action@v4.1.1
         if: secrets.DEPLOY_KEY != ''
         with:
           commit_message: Data update from https://github.com/ddrobotec/covid19_ch
