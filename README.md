@@ -1,4 +1,14 @@
 ![Digest OpenZH Data into CSV files](https://github.com/ddrobotec/covid19_ch/workflows/Digest%20OpenZH%20Data%20into%20CSV%20files/badge.svg)
+# About
+Am 12. März 2020 stellt [@skepteis](https://twitter.com/skepteis/status/1238085013071069185?s=20) die vom BAG Bulletin abgeschriebenen Daten in sein Github Verzeichnis.
+
+Am 20. März 2020 geht das Esri Dashboard von [ddrobotec](http://covid19.ddrobotec.com/) live. [WeEnterMute](https://github.com/weentermute) erhält commit Rechte.
+
+Am Wochenende vom 22./23. März 2020 ändert [OpenZH](https://github.com/openZH/covid_19/) seine Datenstrukur und beginnt Daten von den kantonalen Websites gezielt zu sammlen.
+
+Am Montag morgen um 08.00 Uhr am 23. März geht die HIN-Email vom BAG online.
+
+Am 25. März 2020 publiziert das BAG zum ersten mal eine [XLSX Datei](https://www.bag.admin.ch/dam/bag/de/dokumente/mt/k-und-i/aktuelle-ausbrueche-pandemien/2019-nCoV/covid-19-datengrundlage-lagebericht.xlsx.download.xlsx/200325_Datengrundlage_Grafiken_COVID-19-Bericht.xlsx) mit seinen offiziellen Zahlen.
 
 ## Data Structures
 
