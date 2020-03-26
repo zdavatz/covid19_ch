@@ -40,6 +40,9 @@ jobs:
           pwd
           cd ./python-scripts
           python3.7 digest_openzh.py
+      - name: Copy results
+        shell: pwsh
+        run: | 
           cp -v ./output_openzh/dd-covid19-openzh-cantons-latest.csv ../data-cantons-csv/
           cp -v ./output_openzh/dd-covid19-openzh-switzerland-latest.csv ../data-switzerland-csv/
       - name: Push data to arcgis

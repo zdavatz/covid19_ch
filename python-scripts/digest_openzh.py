@@ -131,7 +131,15 @@ def convert_from_openzh(df):
     
     # Make sure we have integer types for the countable quanties
     effective_counter_columns = [item for item in df.columns if item in counter_names]
-    df[ effective_counter_columns ] = df[ effective_counter_columns ].astype('Int64')
+
+    try:
+        df[ effective_counter_columns ] = df[ effective_counter_columns ].astype('Int64')
+    except Exception:
+        print("Cannot convert all numeric integer columns to Int64", file=sys.stderr)
+        # replace non numeric types, process each numeric integer column and remove non-numeric expressions
+        for c in effective_counter_columns:
+            numeric = pd.to_numeric( df[ c ], errors='coerce', downcast='integer')
+            df[ c ] = numeric
 
     # Add relative to canton population: cases / 100k
     # Generate dataframe from dictionary for easier handling
