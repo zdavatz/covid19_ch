@@ -1,4 +1,14 @@
 ![Digest OpenZH Data into CSV files](https://github.com/ddrobotec/covid19_ch/workflows/Digest%20OpenZH%20Data%20into%20CSV%20files/badge.svg)
+# About
+Am 12. März 2020 stellt [@skepteis](https://twitter.com/skepteis/status/1238085013071069185?s=20) die vom BAG Bulletin abgeschriebenen Daten in sein Github Verzeichnis.
+
+Am 20. März 2020 geht das Esri Dashboard von [ddrobotec](http://covid19.ddrobotec.com/) live. [WeEnterMute](https://github.com/weentermute) erhält commit Rechte.
+
+Am Wochenende vom 22./23. März 2020 ändert [OpenZH](https://github.com/openZH/covid_19/) seine Datenstrukur und beginnt Daten von den kantonalen Websites gezielt zu sammlen.
+
+Am Montag morgen um 08.00 Uhr am 23. März geht die [HIN-Email](https://www.hin.ch/covid-19-faelle-ans-bag-melden/) vom BAG online.
+
+Am 25. März 2020 publiziert das BAG zum ersten mal eine [XLSX Datei](https://www.bag.admin.ch/dam/bag/de/dokumente/mt/k-und-i/aktuelle-ausbrueche-pandemien/2019-nCoV/covid-19-datengrundlage-lagebericht.xlsx.download.xlsx/200325_Datengrundlage_Grafiken_COVID-19-Bericht.xlsx) mit seinen offiziellen Zahlen.
 
 ## Data Structures
 
@@ -72,6 +82,7 @@ I settled on the current long csv format:
 * [Mobile Version](https://ddrobotec.maps.arcgis.com/apps/opsdashboard/index.html#/3fa74da8e6c74229af19661eb7fa97d2)
 
 ## andere Esri Visualisierungen
+* [Esri Schweiz Dashboard](https://experience.arcgis.com/experience/115cd04485904fa7a5629b683a949390)
 * [JohnHopkins](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 * [Italy](http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1)
 * [UK](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
