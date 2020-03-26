@@ -43,6 +43,7 @@ jobs:
       - name: Copy results
         shell: pwsh
         run: | 
+          cd ./python-scripts
           cp -v ./output_openzh/dd-covid19-openzh-cantons-latest.csv ../data-cantons-csv/
           cp -v ./output_openzh/dd-covid19-openzh-switzerland-latest.csv ../data-switzerland-csv/
       - name: Push data to arcgis
