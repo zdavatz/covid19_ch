@@ -64,7 +64,7 @@ jobs:
           # commit_options: '--no-verify --signoff'
 
           # Optional glob pattern of files which should be added to the commit **/*.csv
-          file_pattern: \*\*/\*.csv
+          file_pattern: '**/*.csv'
 
           # Optional local file path to the repository
           repository: .
