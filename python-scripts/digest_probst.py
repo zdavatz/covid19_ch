@@ -12,7 +12,7 @@ from pathlib import Path
 from common_data import *
 
 def output_folder():
-    return os.path.dirname(os.path.abspath(__file__))  + "/output"
+    return os.path.dirname(os.path.abspath(__file__))  + "/output_probst"
 
 def merge_daenuprobst_switzerland_files():
     positive_cases = pd.read_csv("https://raw.githubusercontent.com/daenuprobst/covid19-cases-switzerland/master/covid19_cases_switzerland.csv")
@@ -41,7 +41,7 @@ def merge_daenuprobst_switzerland_files():
     switzerland_latest['recovered'] = 0
     switzerland_latest['deaths'] = fatalities['deaths']
 
-    file_name = output_folder() + "../../../data-switzerland-csv/dd-covid19-ch-switzerland-latest.csv"
+    file_name = output_folder() + "/dd-covid19-ch-switzerland-latest.csv"
     switzerland_latest.to_csv(file_name, mode="w", index=False)
 
 def merge_daenuprobst_canton_files():
@@ -81,7 +81,7 @@ def merge_daenuprobst_canton_files():
 
     print(df)
 
-    file_name = output_folder() + "../../../data-cantons-csv/dd-covid19-ch-cantons-latest.csv"
+    file_name = output_folder() + "/dd-covid19-ch-cantons-latest.csv"
     df.to_csv(file_name, mode="w", index=False)
 
 
