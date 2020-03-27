@@ -6,23 +6,23 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-26,00:00,FL,900,56,,,,,,https://www.regierung.li/media/attachments/151-900-personen-getestet.pdf?t=637208497707275503,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,145.08
 2020-03-26,00:00,FR,30,309,44,,,,11,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,46.718391,7.074008,Fribourg,10,98.06
 2020-03-26,12:00,GE,,1743,272,52,,144,21,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,48.0,18.0,,46.220528,6.132935,Genève,25,351.98
-2020-03-26,13:30,GL,,43,2,,,,,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,46.931042000000005,9.065751,Glarus,08,106.7
 2020-03-26,16:00,JU,,99,16,4,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,,47.350744,7.156107,Jura,26,135.06
 2020-03-26,14:30,NE,,271,,,,,5,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Coronavirus.aspx,,,,,,46.995534,6.780126,Neuchâtel,24,152.25
 2020-03-26,16:00,NW,,48,,,,,,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,46.926755,8.405302,Nidwalden,07,111.63
 2020-03-26,00:00,OW,6,30,,,,,,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,79.79
 2020-03-26,00:00,SG,,306,,,,,2,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,60.63
-2020-03-26,00:00,SO,,141,,,,,1,https://corona.so.ch/,,,,,,47.304135,7.639388,Solothurn,11,51.95
 2020-03-26,00:00,SZ,1,99,1,,,10,1,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948,,,,,,47.061787,8.756585,Schwyz,05,62.94
-2020-03-26,00:00,TG,276,110,,,,,1,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,47.568715,9.091957,Thurgau,01,40.18
 2020-03-26,08:00,TI,,1401,358,60,,,67,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187523&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=982795a2c13394282accc3a8506c9ba0,68.0,,56.0,,,46.295617,8.808924,Ticino,21,396.1
 2020-03-26,00:00,UR,85,38,4,,,2,,https://www.ur.ch/themen/2920,,,,,,46.771849,8.628586,Uri,04,104.68
 2020-03-26,15:00,VS,,715,96,11,9.0,,15,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,209.37
 2020-03-27,08:00,AR,72,43,6,,,,2,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,77.9
 2020-03-27,00:00,BE,,718,,,,,8,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,69.63
 2020-03-27,10:00,BS,235,534,76,8,,191,13,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-534-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,275.4
+2020-03-27,13:30,GL,,44,2,,,,,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,46.931042000000005,9.065751,Glarus,08,109.18
 2020-03-27,00:00,GR,,409,45,,,,9,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,206.67
 2020-03-27,11:00,LU,,287,,,,,3,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,70.6
 2020-03-27,07:30,SH,,36,,,,,,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,47.71357,8.59167,Schaffhausen,14,44.23
+2020-03-27,00:00,SO,,157,,,,,1,https://corona.so.ch/,,,,,,47.304135,7.639388,Solothurn,11,57.85
+2020-03-27,00:00,TG,276,117,,,,,1,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,47.568715,9.091957,Thurgau,01,42.73
 2020-03-27,08:00,ZG,,94,1,,,18,0,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,74.96
 2020-03-27,9:30,ZH,855,1578,156,,37.0,,11,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7,59.0,11,,,,47.41275,8.65508,Zürich,01,104.9
