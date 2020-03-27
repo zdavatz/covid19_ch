@@ -2,7 +2,7 @@
 # About
 Am 12. März 2020 stellt [@skepteis](https://twitter.com/skepteis/status/1238085013071069185?s=20) die vom BAG Bulletin abgeschriebenen Daten in sein Github Verzeichnis.
 
-Am 20. März 2020 geht das Esri Dashboard von [ddrobotec](http://covid19.ddrobotec.com/) live. [WeEnterMute](https://github.com/weentermute) erhält commit Rechte.
+Am 20. März 2020 geht das Esri Dashboard von [ddrobotec](http://covid19.ddrobotec.com/) live. [ddrobotec](https://ddrobotec.com/en/) erhält commit Rechte.
 
 Am Wochenende vom 22./23. März 2020 ändert [OpenZH](https://github.com/openZH/covid_19/) seine Datenstrukur und beginnt Daten von den kantonalen Websites gezielt zu sammlen.
 
