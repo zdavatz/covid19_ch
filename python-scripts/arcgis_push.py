@@ -14,6 +14,9 @@ files = {
     'dd-covid19-openzh-switzerland-latest.csv': 'a48bbcb06c8e4b629a31e5584c5e991a'
     }
 
+canton_file_name = 'dd-covid19-openzh-cantons-latest_v2.csv'
+geojson_file_id = 'a3d3c27946b34671b25ef6d49e480315'
+
 # Test data
 #files = {
 #    'devel-cantons-latest.csv': '0b12cddba60e49aa9ebe07c3f38cde30',
@@ -22,7 +25,35 @@ files = {
 def file_path():
     return os.path.dirname(os.path.abspath(__file__))  + "/output_openzh/"
 
-def update_fields_from_csv(gis : GIS, f, latest_csv_item):
+def update_geojson_file(gis: GIS):
+    # Load canton csv from file
+    csv_file_path = os.path.join(file_path(), canton_file_name)
+    csv = pd.read_csv(csv_file_path)
+    # Create dictionary name_canton -> tot_currently_positive_per_100k
+    tot_pos_cases_per_100k = dict(zip(csv['name_canton'], csv['total_currently_positive_per_100k']))
+
+    # Get geojson file item
+    geojson_file_item = gis.content.get(geojson_file_id)
+
+    print("-----")
+    print("Accessing feature server: " + geojson_file_item.url)
+    print("Found feature layer %s on server" % geojson_file_item.title)
+
+    # Assume the first layer is the layer you want to update
+    fl = geojson_file_item.layers[0]
+    # Get feature set and corresponding features
+    fset = fl.query()
+    features = fset.features
+    # Loop through all features and set tot_pos_cases
+    for feature in features:
+        name = feature.get_value('name')
+        tot_pos_100k = tot_pos_cases_per_100k[name]
+        feature.set_value('tot_pos_cases_per_100k', tot_pos_100k)
+    
+    # Update online feature layer
+    results = fl.edit_features(updates=features)
+
+def update_fields_from_csv(gis: GIS, f, latest_csv_item):
     # Load csv from and add the csv as an item
     latest_csv_file = os.path.join(file_path(), f)
 
@@ -74,7 +105,6 @@ def update_from_csv(gis : GIS, f):
     latest_csv_item = gis.content.get(files[f])
 
     print("-----")
-
     print("Accessing feature server: " + latest_csv_item.url)
     print("Found feature layer %s on server" % latest_csv_item.title)
 
@@ -108,4 +138,6 @@ if __name__ == '__main__':
     gis = GIS('https://ddrobotec.maps.arcgis.com', 'cybermax', os.environ['ARCGIS_PASS'])
 
     for f in files:
-        update_from_csv(gis, f)
+       update_from_csv(gis, f)
+
+    update_geojson_file(gis)
