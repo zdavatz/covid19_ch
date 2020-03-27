@@ -2,7 +2,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-26,18:00,AI,,11,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,68.32
 2020-03-26,00:00,FL,900,56,,,,,,https://www.regierung.li/media/attachments/151-900-personen-getestet.pdf?t=637208497707275503,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,145.08
 2020-03-26,12:00,GE,,1743,272,52,,144,21,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,48.0,18.0,,46.220528,6.132935,Genève,25,351.98
-2020-03-26,16:00,JU,,99,16,4,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,,47.350744,7.156107,Jura,26,135.06
 2020-03-26,00:00,OW,6,30,,,,,,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,79.79
 2020-03-26,00:00,SG,,306,,,,,2,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,60.63
 2020-03-26,00:00,VD,,2532,291,58,,,38,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,,46.570091,6.557809000000001,Vaud,22,319.25
@@ -14,6 +13,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-27,00:00,FR,30,369,44,,,,15,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,46.718391,7.074008,Fribourg,10,117.11
 2020-03-27,13:30,GL,,44,3,,,,,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,46.931042000000005,9.065751,Glarus,08,109.18
 2020-03-27,00:00,GR,,409,52,,,,9,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,206.67
+2020-03-27,16:00,JU,,112,16,4,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,,47.350744,7.156107,Jura,26,152.8
 2020-03-27,11:00,LU,,287,,,,,3,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,70.6
 2020-03-27,14:00,NE,,287,,,,,5,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Coronavirus.aspx,,,,,,46.995534,6.780126,Neuchâtel,24,161.24
 2020-03-27,15:15,NW,,54,,,,,0,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,46.926755,8.405302,Nidwalden,07,125.58
