@@ -155,6 +155,25 @@ def convert_from_openzh(df):
 
     return df
 
+def get_scraped_data():
+        # Get scraped csv
+    functor_xyz = pd.read_csv("http://pillbox.oddb.org/current.txt", sep='\s+', engine='python', error_bad_lines=False, keep_default_na=True, header=None)
+    # Generate pandas dataframe
+    return pd.DataFrame(functor_xyz)
+
+def append_scraped_data(df):
+    df_xyz = get_scraped_data()
+
+    columns = ['last_update', 'time_stamp', 'abbreviation_canton', 'name_canton', 'number_canton', 'total_positive_cases', 'deaths', 'source']
+    # df[columns] = df.(df_xyz[5], df_xyz[1], df_xyz[0], '', '', '', df_xyz[2], df_xyz[3], df_xyz[6]) 
+    df = df.append(df_xyz).fillna()
+
+    # Sort according to time and reset index
+    df = df.sort_values(by=['date', 'abbreviation_canton'])
+    df.reset_index(inplace=True, drop=True)
+
+    return df
+
 def to_int(s):
     s = s.strip()
     return int(s) if s else 0
@@ -199,13 +218,12 @@ def aggregate_latest_by_abbrevation_canton(df):
     cols.insert(14, cols.pop(cols.index('deaths')))
     cols.insert(15, cols.pop(cols.index('pos_tests_1')))
     cols.insert(-1, cols.pop(cols.index('source')))
-    cols.insert(16, cols.pop(cols.index('ncumul_ICU_intub')))
     cols.insert(12, cols.pop(cols.index('total_currently_positive_per_100k')))
     df = df.loc[:, cols]
     
     df.insert(9, 'total_currently_positive_cases', df['total_positive_cases'])
     df.insert(11, 'new_positive_cases', 0)
-
+    df.insert(16, 'ncumul_ICU_intub', 0)  # Ensures backwards compatibility, this field was removed by openzh
 
     df = df.astype({
         'tests_performed': 'Int64',
@@ -288,6 +306,7 @@ if __name__ == '__main__':
     openzh_series.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-total-series.csv"), index=False)
     # Convert series to our format and decorate data with additional info
     series = convert_from_openzh(openzh_series)
+    # series = append_scraped_data(series)
     series.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-cantons-series.csv"), index=False)
 
     # Get newest entry for each canton
