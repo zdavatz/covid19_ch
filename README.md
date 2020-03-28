@@ -14,7 +14,7 @@ Am 26. März 2020 nochmals ein [Blick Artikel](https://www.blick.ch/news/schweiz
 
 Am 27. März 2020 Artikel von Adrienne Fichter in der [Republik](https://www.republik.ch/2020/03/27/bald-ausgefaxt-bag-modernisiert-prozesse-fuer-datenerhebung) zum Thema "Bald ausgefaxt? BAG modernisiert Prozesse für Datenerhebung".
 
-## Data Structures
+## Datenaufbereitung
 
 ### Latest Covid19 Data per Canton
 * https://github.com/zdavatz/covid19_ch/blob/master/dd-covid19-openzh-cantons-latest.csv
@@ -22,7 +22,7 @@ Am 27. März 2020 Artikel von Adrienne Fichter in der [Republik](https://www.rep
 ### Time-Series Covid19 Data for Switzerland
 * https://github.com/zdavatz/covid19_ch/blob/master/dd-covid19-openzh-switzerland-latest.csv
 
-# Landkarte der Schweiz für die Covid19 Fälle
+## Visualisierung Covid19 Fälle für die Schweiz
 * [http://covid19.ddrobotec.com/](http://covid19.ddrobotec.com/)
 
 ## andere Esri Visualisierungen
