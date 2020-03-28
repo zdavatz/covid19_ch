@@ -7,16 +7,17 @@ import json
 import os
 import sys
 import urllib.request
-from pathlib import Path
 
 import pandas as pd
-from numpy import nan
-
-from pytz import timezone
+import numpy as np
 import pytz
-
 import web
+
+from pathlib import Path
+from pytz import timezone
+from numpy import nan
 from common_data import *
+
 
 utc = pytz.utc
 cet = timezone('CET')
@@ -112,6 +113,39 @@ def forward_fill_series_gaps(df):
 
     return df
 
+datetime_formats = [
+    "%Y-%m-%d %H:%M",
+    "%Y-%m-%d %H:%M:%S",
+    "%Y-%m-%dT%H:%M:%S",
+    "%Y-%m-%dT%H:%M",
+    "%Y-%m-%dT",
+    "%Y-%m-%dT%H:%M:%S+%V:%W",
+]
+
+def parse_timestamp(d, from_time_zone=cet):
+    dt = None
+    for format in datetime_formats:
+        try:
+            dt = datetime.datetime.strptime(d, format)
+            break     
+        except ValueError:
+            pass
+    if dt == None:
+        print("Error: %s could not be parsed" % d)
+        return dt
+    dt = datetime.datetime(dt.year, dt.month, dt.day, dt.hour, dt.minute, dt.second, tzinfo=from_time_zone)
+    return dt
+
+def datetime_to_str(dt):
+    return dt.strftime("%Y-%m-%d %H:%M:%S")
+
+def convert_timestamp_string(d, from_time_zone=cet):
+    dt = parse_timestamp(d, from_time_zone)
+    if dt == None:
+        return None
+    d_utc = datetime_to_str(dt)
+    return d_utc
+
 def convert_from_openzh(df):
     # Rename 1:1 columns
     cols = df.columns    
@@ -156,23 +190,31 @@ def convert_from_openzh(df):
     return df
 
 def get_scraped_data():
-        # Get scraped csv
-    functor_xyz = pd.read_csv("http://pillbox.oddb.org/current.txt", sep='\s+', engine='python', error_bad_lines=False, keep_default_na=True, header=None)
+    print("\nRetrieving and parsing scraper data...")
+    # Get scraped csv
+    header_list = ['abbreviation_canton', 'last_update', 'total_positive_cases', 'deaths', '', 'timestamp', 'source']
+    functor_xyz = pd.read_csv("http://pillbox.oddb.org/current.txt", sep='\s+', engine='python', error_bad_lines=False, keep_default_na=True, header=None, names=header_list)
+    functor_xyz['deaths'].replace('-', 0, inplace=True)
+
     # Generate pandas dataframe
     return pd.DataFrame(functor_xyz)
 
-def append_scraped_data(df):
+def generate_dataframe_from_scraped_data():
     df_xyz = get_scraped_data()
 
-    columns = ['last_update', 'time_stamp', 'abbreviation_canton', 'name_canton', 'number_canton', 'total_positive_cases', 'deaths', 'source']
-    # df[columns] = df.(df_xyz[5], df_xyz[1], df_xyz[0], '', '', '', df_xyz[2], df_xyz[3], df_xyz[6]) 
-    df = df.append(df_xyz).fillna()
+    df_xyz['last_update'] = [parse_timestamp(d, utc) for d in df_xyz['last_update']]
+    df_xyz['timestamp'] = [parse_timestamp(d, utc) for d in df_xyz['timestamp']] 
 
-    # Sort according to time and reset index
-    df = df.sort_values(by=['date', 'abbreviation_canton'])
-    df.reset_index(inplace=True, drop=True)
+    return df_xyz
 
-    return df
+def compare_two_data_frames(df1, df2):
+    sum_df1 = sum(df1['total_positive_cases'])
+    sum_df2 = sum(df2['total_positive_cases'])
+    result = "wins"
+    if sum_df1 > sum_df2:   
+        print("Scraper wins: %d > OpenZH loses: %d" % (sum_df1, sum_df2))
+    else:
+        print("Scraper loses: %d < OpenZH wins: %d" % (sum_df1, sum_df2))
 
 def to_int(s):
     s = s.strip()
@@ -187,15 +229,6 @@ def aggregate_latest_by_time_canton(df):
     idx = df.groupby(['abbreviation_canton'])['time'].transform(max) == df['time']
     # Select rows given by index set
     return df[idx]
-
-def convert_timestamp_string(d):
-    try:
-        dt = datetime.datetime.strptime(d, "%Y-%m-%d %H:%M")        
-    except ValueError:
-        dt = datetime.datetime.strptime(d, "%Y-%m-%d %H:%M:%S")
-    dt = datetime.datetime(dt.year, dt.month, dt.day, dt.hour, dt.minute, dt.second, tzinfo=cet)
-    d_utc = dt.astimezone(utc).strftime("%Y-%m-%d %H:%M:%S")
-    return d_utc
 
 def aggregate_latest_by_abbrevation_canton(df):
     # Get indeces of most recent entriese
@@ -224,7 +257,7 @@ def aggregate_latest_by_abbrevation_canton(df):
     df.insert(9, 'total_currently_positive_cases', df['total_positive_cases'])
     df.insert(11, 'new_positive_cases', 0)
     df.insert(16, 'ncumul_ICU_intub', 0)  # Ensures backwards compatibility, this field was removed by openzh
-
+    
     df = df.astype({
         'tests_performed': 'Int64',
         'total_currently_positive_cases': 'Int64',
@@ -306,7 +339,7 @@ if __name__ == '__main__':
     openzh_series.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-total-series.csv"), index=False)
     # Convert series to our format and decorate data with additional info
     series = convert_from_openzh(openzh_series)
-    # series = append_scraped_data(series)
+    # Generate CSV
     series.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-cantons-series.csv"), index=False)
 
     # Get newest entry for each canton
@@ -322,3 +355,8 @@ if __name__ == '__main__':
     country_series = aggregate_series_by_day_and_country(series)
     # Note: keep index, it's the date
     country_series.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-switzerland-latest.csv"))
+
+    # Get Baryluk data frame
+    df_scraped = generate_dataframe_from_scraped_data()
+    # Compare Baryluk with aggregated series
+    compare_two_data_frames(df_scraped, latest_per_canton)
