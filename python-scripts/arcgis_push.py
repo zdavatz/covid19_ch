@@ -18,9 +18,11 @@ canton_file_name = 'dd-covid19-openzh-cantons-latest_v2.csv'
 geojson_file_id = 'a3d3c27946b34671b25ef6d49e480315'
 
 # Test data
-#files = {
-#    'devel-cantons-latest.csv': '0b12cddba60e49aa9ebe07c3f38cde30',
-#    }
+'''
+files = {
+    'dd-covid19-openzh-switzerland-latest.csv': 'a48bbcb06c8e4b629a31e5584c5e991a'
+    }
+'''
 
 def file_path():
     return os.path.dirname(os.path.abspath(__file__))  + "/output_openzh/"
@@ -97,7 +99,32 @@ def update_fields_from_csv(gis: GIS, f, latest_csv_item):
     result = layer.manager.add_to_definition({'fields':fields_to_be_added})
     print(result)
 
-def update_from_csv(gis : GIS, f):
+def update_fields_in_switzerland_latest_file(f, item):
+    # Load csv from and add the csv as an item
+    latest_csv_file = os.path.join(file_path(), f)
+    # Read data
+    df = pd.read_csv(latest_csv_file)
+
+    # Assume the first layer is the layer you want to update
+    fl = item.layers[0]
+    # Get feature set and corresponding features
+    fset = fl.query()
+    features = fset.features
+    # Loop through all features and set doubling_time
+    for feature in features:
+        # Get date string
+        date = datetime.datetime.fromtimestamp(feature.attributes['date']/1000)
+        date_str = date.strftime("%Y-%m-%d")
+        # Get doubling time
+        doubling_time_total_positive = df.loc[df['date'] == date_str]['doubling_time_total_positive'].values[0]
+        # Update individual feature
+        feature.set_value('doubling_time_total_positive', doubling_time_total_positive)     
+
+    print("Updating all existing features with %s ..." % f)
+    # Update online feature layer
+    return fl.edit_features(updates=features)   
+
+def update_from_csv(gis: GIS, f):
     # Load csv from and add the csv as an item
     latest_csv_file = os.path.join(file_path(), f)
 
@@ -114,11 +141,15 @@ def update_from_csv(gis : GIS, f):
 
     # TODO: not working, the overwrite below removes the new field names again
     # update_fields_from_csv(gis, f, latest_csv_item)
-
-    print("Overwriting existing feature with %s ..." % f)
-    # Overwrite old item with new item
-    res = flc.manager.overwrite(latest_csv_file)    
-    print(res)
+    if f == 'dd-covid19-openzh-switzerland-latest.csv':
+        print("Updating existing feature with %s ..." % f)
+        res = update_fields_in_switzerland_latest_file(f, latest_csv_item)
+        print(res)
+    else:
+        print("Overwriting existing feature with %s ..." % f)
+        # Overwrite old item with new item
+        res = flc.manager.overwrite(latest_csv_file)    
+        print(res)
 
 def publish_from_csv(gis : GIS, f : str):
     # Load csv from and add the csv as an item

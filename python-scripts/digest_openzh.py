@@ -7,7 +7,6 @@ import json
 import os
 import sys
 import urllib.request
-
 import pandas as pd
 import numpy as np
 import pytz
@@ -32,6 +31,10 @@ def data_folder():
 
 def output_folder():
     return os.path.dirname(os.path.abspath(__file__))  + "/output_openzh"
+
+def doubling_time(period, series):
+    series2 = series.shift(period)
+    return (period*np.log(2.0)/np.log(series/series2)).fillna(0)
 
 def download_openZH_data():
     csv_path_list = []
@@ -321,6 +324,8 @@ def aggregate_series_by_day_and_country(df : pd.DataFrame):
     sum_per_day['new_positive'] = sum_per_day['total_positive'].diff(periods=1).astype('Int64')
     sum_per_day['old_positive'] = sum_per_day.shift(periods=1, axis='columns', fill_value=0)['total_positive']
     sum_per_day['hospitalized_with_symptoms'] = 0
+    # (t2-t1)*ln(2)/ln(q2/q1)
+    sum_per_day['doubling_time_total_positive'] = doubling_time(period=5, series=sum_per_day['total_positive'])
 
     # Reorder columns to simplify comparison with d.probst data
     sum_per_day = sum_per_day[field_names_switzerland]
