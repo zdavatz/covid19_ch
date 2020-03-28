@@ -11,7 +11,8 @@ import os
 files = {
     'dd-covid19-openzh-cantons-latest.csv': '71d789eb72e8413abc6590e41a7f3cb2',
     'dd-covid19-openzh-cantons-latest_v2.csv': 'fa069dd8882e4b93b7ce29ebbbd9808d',
-    'dd-covid19-openzh-switzerland-latest.csv': 'a48bbcb06c8e4b629a31e5584c5e991a'
+    'dd-covid19-openzh-switzerland-latest.csv': 'a48bbcb06c8e4b629a31e5584c5e991a',
+    'dd-covid19-openzh-cantons-series.csv': '06e0afde23f54da5be4a49cbc8c9d80b'
     }
 
 canton_file_name = 'dd-covid19-openzh-cantons-latest_v2.csv'
@@ -104,21 +105,43 @@ def update_fields_in_switzerland_latest_file(f, item):
     latest_csv_file = os.path.join(file_path(), f)
     # Read data
     df = pd.read_csv(latest_csv_file)
-
     # Assume the first layer is the layer you want to update
     fl = item.layers[0]
+
+    # Get a template field
+    fields = fl.manager.properties.fields    
+    if not 'doubling_time_total_positive' in [f['name'] for f in fields]:
+        template_field = dict(deepcopy(fields[10]))
+        template_field['name'] = 'doubling_time_total_positive'
+        template_field['type'] = 'esriFieldTypeDouble'
+        template_field['alias'] = 'doubling_time_total_positive'
+        template_field['nullable'] = True
+        template_field['visible'] = True
+        template_field['editable'] = True
+        template_field['sqlType'] = 'sqlTypeOther'
+        template_field['default_value'] = 0.0
+        res = fl.manager.add_to_definition({'fields': [template_field]})    
+        print(res)
+
+    # Check if fiels was successfully added
+    fields = fl.manager.properties.fields    
+    for field in fields:
+        print(f"{field.name:30}|  {field.type}")
+
     # Get feature set and corresponding features
     fset = fl.query()
     features = fset.features
+   
     # Loop through all features and set doubling_time
     for feature in features:
         # Get date string
         date = datetime.datetime.fromtimestamp(feature.attributes['date']/1000)
         date_str = date.strftime("%Y-%m-%d")
+        idx = df['date'] == date_str
         # Get doubling time
-        doubling_time_total_positive = df.loc[df['date'] == date_str]['doubling_time_total_positive'].values[0]
+        doubling_time_total_positive = df.loc[idx]['doubling_time_total_positive'].values[0]
         # Update individual feature
-        feature.set_value('doubling_time_total_positive', doubling_time_total_positive)     
+        feature.set_value('doubling_time_total_positive', doubling_time_total_positive)
 
     print("Updating all existing features with %s ..." % f)
     # Update online feature layer
@@ -139,17 +162,16 @@ def update_from_csv(gis: GIS, f):
     flc = FeatureLayerCollection.fromitem(latest_csv_item)
     print(type(flc))
 
+    print("Overwriting existing feature with %s ..." % f)
+    # Overwrite old item with new item
+    res = flc.manager.overwrite(latest_csv_file)
+    print(res)
+
     # TODO: not working, the overwrite below removes the new field names again
     # update_fields_from_csv(gis, f, latest_csv_item)
-    if f == 'dd-covid19-openzh-switzerland-latest.csv':
+    if f == 'dd-covid19-openzh-switzerland-latest.csv':   
         print("Updating existing feature with %s ..." % f)
         res = update_fields_in_switzerland_latest_file(f, latest_csv_item)
-        print(res)
-    else:
-        print("Overwriting existing feature with %s ..." % f)
-        # Overwrite old item with new item
-        res = flc.manager.overwrite(latest_csv_file)    
-        print(res)
 
 def publish_from_csv(gis : GIS, f : str):
     # Load csv from and add the csv as an item
