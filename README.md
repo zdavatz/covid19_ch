@@ -42,9 +42,6 @@ Am 27. März 2020 Artikel von Adrienne Fichter in der [Republik](https://www.rep
 * [Dänu Probst](https://github.com/daenuprobst/covid19-cases-switzerland)
 * [Simone Baffelli](https://github.com/baffelli/covid-2019-measures)
 
-## Spitäler
-* Alle [Spitäler der Schweiz](https://github.com/zdavatz/covid19_ch/blob/master/additional-infos/partner_jur_refdata_21.3.2020.xml) mit GLN Code. Daten sind von [Refdata.ch](https://refdata.ch) und können täglich aktulaisiert werden, falls erwünscht.
-
 ## Hochrechnungen
 * https://neherlab.org/covid19/
 * http://gabgoh.github.io/COVID/index.html by https://twitter.com/gabeeegoooh
