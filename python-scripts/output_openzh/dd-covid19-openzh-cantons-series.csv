@@ -445,8 +445,10 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-28,13:30,GL,,47,3,,,,,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,46.931042000000005,9.065751,Glarus,08,116.63
 2020-03-28,11:00,LU,,317,,,,,4,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,77.98
 2020-03-28,14:00,NE,,311,,,,,6,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Pages/Coronavirus.aspx,,,,,,46.995534,6.780126,Neuchâtel,24,174.72
+2020-03-28,15:30,NW,,55,,,,,0,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,46.926755,8.405302,Nidwalden,07,127.91
 2020-03-28,00:00,SG,,339,,,,,5,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,67.17
 2020-03-28,07:30,SH,,37,,,,,,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,47.71357,8.59167,Schaffhausen,14,45.45
 2020-03-28,00:00,SO,,173,,,,,1,https://corona.so.ch/,,,,,,47.304135,7.639388,Solothurn,11,63.74
 2020-03-28,00:00,SZ,1,122,1,,,33,2,https://www.sz.ch/public/upload/assets/45770/MM_KFS_2_Todesfall.pdf,,,,,,47.061787,8.756585,Schwyz,05,77.56
 2020-03-28,00:00,TG,276,134,,,,,1,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,47.568715,9.091957,Thurgau,01,48.94
+2020-03-28,14:00,ZH,855,1720,187,,42.0,,15,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7,59.0,11,,,,47.41275,8.65508,Zürich,01,114.34
