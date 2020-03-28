@@ -16,10 +16,10 @@ Am 27. März 2020 Artikel von Adrienne Fichter in der [Republik](https://www.rep
 
 ## Datenaufbereitung
 
-### Latest Covid19 Data per Canton
+#### Latest Covid19 Data per Canton
 * https://github.com/zdavatz/covid19_ch/blob/master/dd-covid19-openzh-cantons-latest.csv
 
-### Time-Series Covid19 Data for Switzerland
+#### Time-Series Covid19 Data for Switzerland
 * https://github.com/zdavatz/covid19_ch/blob/master/dd-covid19-openzh-switzerland-latest.csv
 
 ## Visualisierung Covid19 Fälle für die Schweiz
