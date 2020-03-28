@@ -20,7 +20,7 @@ Am 27. März 2020 Artikel von Adrienne Fichter in der [Republik](https://www.rep
 * https://github.com/zdavatz/covid19_ch/blob/master/dd-covid19-openzh-cantons-latest.csv
 
 ### Data for Switzerland
-
+* https://github.com/zdavatz/covid19_ch/blob/master/dd-covid19-openzh-switzerland-latest.csv
 
 ## Data on the measures taken against Covid2019
 
