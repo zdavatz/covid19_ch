@@ -26,7 +26,6 @@ Am 27. März 2020 Artikel von Adrienne Fichter in der [Republik](https://www.rep
 
 I settled on the current long csv format:
 
-
 | date_implemented | date_lifted | measure | unit | level |
 | -----------------|-------------|----------|------|-------- |
 | date when the measure is implemented | date when the measure is lifted | textual description of the measure | identifier of the administrative unit | level of the administrative unit (canton, city, federal) |
@@ -36,8 +35,7 @@ I settled on the current long csv format:
 - code them according to general categories (Veranstaltungsverbot, ...) according to Art. 40 of the [Epiemiegesetzt](https://www.admin.ch/opc/de/classified-compilation/20071012/index.html#a40)
 
 # Landkarte der Schweiz für die Covid19 Fälle
-* [Desktop Version](https://ddrobotec.maps.arcgis.com/apps/opsdashboard/index.html#/5ed2e108dbab4235a7318d1cfe147e7a)
-* [Mobile Version](https://ddrobotec.maps.arcgis.com/apps/opsdashboard/index.html#/3fa74da8e6c74229af19661eb7fa97d2)
+* [http://covid19.ddrobotec.com/](http://covid19.ddrobotec.com/)
 
 ## andere Esri Visualisierungen
 * [Schweiz](https://experience.arcgis.com/experience/115cd04485904fa7a5629b683a949390)
