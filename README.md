@@ -31,11 +31,9 @@ I settled on the current long csv format:
 | -----------------|-------------|----------|------|-------- |
 | date when the measure is implemented | date when the measure is lifted | textual description of the measure | identifier of the administrative unit | level of the administrative unit (canton, city, federal) |
 
-
-### Next steps
+#### Next steps
 - add measures for all cantons and federal and city level measures.
 - code them according to general categories (Veranstaltungsverbot, ...) according to Art. 40 of the [Epiemiegesetzt](https://www.admin.ch/opc/de/classified-compilation/20071012/index.html#a40)
-
 
 # Landkarte der Schweiz für die Covid19 Fälle
 * [Desktop Version](https://ddrobotec.maps.arcgis.com/apps/opsdashboard/index.html#/5ed2e108dbab4235a7318d1cfe147e7a)
