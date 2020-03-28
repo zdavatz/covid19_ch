@@ -22,18 +22,6 @@ Am 27. März 2020 Artikel von Adrienne Fichter in der [Republik](https://www.rep
 ### Time-Series Covid19 Data for Switzerland
 * https://github.com/zdavatz/covid19_ch/blob/master/dd-covid19-openzh-switzerland-latest.csv
 
-### Data on the measures taken against Covid2019
-
-I settled on the current long csv format:
-
-| date_implemented | date_lifted | measure | unit | level |
-| -----------------|-------------|----------|------|-------- |
-| date when the measure is implemented | date when the measure is lifted | textual description of the measure | identifier of the administrative unit | level of the administrative unit (canton, city, federal) |
-
-#### Next steps
-- add measures for all cantons and federal and city level measures.
-- code them according to general categories (Veranstaltungsverbot, ...) according to Art. 40 of the [Epiemiegesetzt](https://www.admin.ch/opc/de/classified-compilation/20071012/index.html#a40)
-
 # Landkarte der Schweiz für die Covid19 Fälle
 * [http://covid19.ddrobotec.com/](http://covid19.ddrobotec.com/)
 
@@ -52,6 +40,7 @@ I settled on the current long csv format:
 * [Baryluk CSV Output Scraper](https://www.functor.xyz/covid_19/scrapers/outputs/latest.csv)
 * [Daten gesammelt durch das Statistische Amt des Kanton Zürich](https://github.com/openZH/covid_19/#covid-19-cases-communicated-by-swiss-cantons-and-principality-of-liechtenstein-fl)
 * [Dänu Probst](https://github.com/daenuprobst/covid19-cases-switzerland)
+* [Simone Baffelli](https://github.com/baffelli/covid-2019-measures)
 
 ## Spitäler
 * Alle [Spitäler der Schweiz](https://github.com/zdavatz/covid19_ch/blob/master/additional-infos/partner_jur_refdata_21.3.2020.xml) mit GLN Code. Daten sind von [Refdata.ch](https://refdata.ch) und können täglich aktulaisiert werden, falls erwünscht.
