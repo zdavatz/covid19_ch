@@ -12,6 +12,8 @@ Am 25. März 2020 publiziert das BAG zum ersten mal eine [XLSX Datei](https://ww
 
 Am 26. März 2020 nochmals ein [Blick Artikel](https://www.blick.ch/news/schweiz/wegen-schweizer-corona-karte-berner-programmierer-erntet-lob-bag-unter-beschuss-id15814380.html) zur Daten-Sammlungsweise vom BAG
 
+Am 27. März 2020 Artikel von Adrienne Fichter in der [Republik](https://www.republik.ch/2020/03/27/bald-ausgefaxt-bag-modernisiert-prozesse-fuer-datenerhebung)
+
 ## Data Structures
 
 ### Data per Canton
