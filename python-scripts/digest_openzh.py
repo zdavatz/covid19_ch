@@ -356,7 +356,12 @@ if __name__ == '__main__':
     # Note: keep index, it's the date
     country_series.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-switzerland-latest.csv"))
 
-    # Get Baryluk data frame
-    df_scraped = generate_dataframe_from_scraped_data()
-    # Compare Baryluk with aggregated series
-    compare_two_data_frames(df_scraped, latest_per_canton)
+    '''
+    try:
+        # Get Baryluk data frame
+        df_scraped = generate_dataframe_from_scraped_data()
+        # Compare Baryluk with aggregated series
+        compare_two_data_frames(df_scraped, latest_per_canton)
+    except Exception as e:
+        print(e)
+    '''
