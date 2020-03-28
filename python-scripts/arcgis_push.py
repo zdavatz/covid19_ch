@@ -11,7 +11,8 @@ import os
 files = {
     'dd-covid19-openzh-cantons-latest.csv': '71d789eb72e8413abc6590e41a7f3cb2',
     'dd-covid19-openzh-cantons-latest_v2.csv': 'fa069dd8882e4b93b7ce29ebbbd9808d',
-    'dd-covid19-openzh-switzerland-latest.csv': 'a48bbcb06c8e4b629a31e5584c5e991a'
+    'dd-covid19-openzh-switzerland-latest.csv': 'a48bbcb06c8e4b629a31e5584c5e991a',
+    'dd-covid19-openzh-cantons-series.csv': '06e0afde23f54da5be4a49cbc8c9d80b'
     }
 
 canton_file_name = 'dd-covid19-openzh-cantons-latest_v2.csv'
