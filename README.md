@@ -10,9 +10,9 @@ Am Montag morgen um 08.00 Uhr am 23. März 2020 geht die [HIN-Email](https://www
 
 Am 25. März 2020 publiziert das BAG zum ersten mal eine [XLSX Datei](https://www.bag.admin.ch/dam/bag/de/dokumente/mt/k-und-i/aktuelle-ausbrueche-pandemien/2019-nCoV/covid-19-datengrundlage-lagebericht.xlsx.download.xlsx/200325_Datengrundlage_Grafiken_COVID-19-Bericht.xlsx) mit seinen offiziellen Zahlen.
 
-Am 26. März 2020 nochmals ein [Blick Artikel](https://www.blick.ch/news/schweiz/wegen-schweizer-corona-karte-berner-programmierer-erntet-lob-bag-unter-beschuss-id15814380.html) zur Daten-Sammlungsweise vom BAG
+Am 26. März 2020 nochmals ein [Blick Artikel](https://www.blick.ch/news/schweiz/wegen-schweizer-corona-karte-berner-programmierer-erntet-lob-bag-unter-beschuss-id15814380.html) zur Daten-Sammlungsweise vom BAG.
 
-Am 27. März 2020 Artikel von Adrienne Fichter in der [Republik](https://www.republik.ch/2020/03/27/bald-ausgefaxt-bag-modernisiert-prozesse-fuer-datenerhebung)
+Am 27. März 2020 Artikel von Adrienne Fichter in der [Republik](https://www.republik.ch/2020/03/27/bald-ausgefaxt-bag-modernisiert-prozesse-fuer-datenerhebung).
 
 ## Data Structures
 
