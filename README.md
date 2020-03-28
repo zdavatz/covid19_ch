@@ -4,6 +4,9 @@ Am 12. März 2020 stellt [@skepteis](https://twitter.com/skepteis/status/1238085
 
 Am 20. März 2020 geht das Esri Dashboard von [ddrobotec](http://covid19.ddrobotec.com/) live. [ddrobotec](https://ddrobotec.com/en/) erhält commit Rechte.
 
+* [Die Zahl der Todesfälle haben wir aus Wikipedia entnommen](https://www.republik.ch/2020/03/20/die-zahl-der-todesfaelle-haben-wir-aus-wikipedia-entnommen) Republik 20.3.2020
+* [Bis ein toter Coronavirus-Patient in der Statistik auftaucht, können über 30 Stunden vergehen](https://www.nzz.ch/schweiz/coronavirus-das-bag-kommt-bei-erfassung-der-faelle-kaum-hinterher-ld.1547359?mktcid=smch&mktcval=twpost_2020-03-20) NZZ 20.3.2020
+
 Am Wochenende vom 22./23. März 2020 ändert [OpenZH](https://github.com/openZH/covid_19/) seine Datenstrukur und beginnt Daten von den kantonalen Websites gezielt zu sammlen.
 
 Am Montag morgen um 08.00 Uhr am 23. März 2020 geht die [HIN-Email](https://www.hin.ch/covid-19-faelle-ans-bag-melden/) vom BAG online.
@@ -63,7 +66,3 @@ I settled on the current long csv format:
 ## Hochrechnungen
 * https://neherlab.org/covid19/
 * http://gabgoh.github.io/COVID/index.html by https://twitter.com/gabeeegoooh
-
-## Medienberichte
-* [Die Zahl der Todesfälle haben wir aus Wikipedia entnommen](https://www.republik.ch/2020/03/20/die-zahl-der-todesfaelle-haben-wir-aus-wikipedia-entnommen) Republik 20.3.2020
-* [Bis ein toter Coronavirus-Patient in der Statistik auftaucht, können über 30 Stunden vergehen](https://www.nzz.ch/schweiz/coronavirus-das-bag-kommt-bei-erfassung-der-faelle-kaum-hinterher-ld.1547359?mktcid=smch&mktcval=twpost_2020-03-20) NZZ 20.3.2020
