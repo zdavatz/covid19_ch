@@ -16,15 +16,14 @@ Am 27. März 2020 Artikel von Adrienne Fichter in der [Republik](https://www.rep
 
 ## Data Structures
 
-### Latest Data per Canton
+### Latest Covid19 Data per Canton
 * https://github.com/zdavatz/covid19_ch/blob/master/dd-covid19-openzh-cantons-latest.csv
 
-### Time-Series Data for Switzerland
+### Time-Series Covid19 Data for Switzerland
 * https://github.com/zdavatz/covid19_ch/blob/master/dd-covid19-openzh-switzerland-latest.csv
 
-## Data on the measures taken against Covid2019
+### Data on the measures taken against Covid2019
 
-### Data format
 I settled on the current long csv format:
 
 
@@ -53,9 +52,10 @@ I settled on the current long csv format:
 ## Todesfälle in der Schweiz
 * [Wikipedia](https://de.wikipedia.org/wiki/COVID-19-Pandemie_in_der_Schweiz#Todesf%C3%A4lle)
 
-## Daten manuell gesammelt
-* [Dänu Probst](https://github.com/daenuprobst/covid19-cases-switzerland)
+## Datenquellen
+* [Baryluk CSV Output Scraper](https://www.functor.xyz/covid_19/scrapers/outputs/latest.csv)
 * [Daten gesammelt durch das Statistische Amt des Kanton Zürich](https://github.com/openZH/covid_19/#covid-19-cases-communicated-by-swiss-cantons-and-principality-of-liechtenstein-fl)
+* [Dänu Probst](https://github.com/daenuprobst/covid19-cases-switzerland)
 
 ## Spitäler
 * Alle [Spitäler der Schweiz](https://github.com/zdavatz/covid19_ch/blob/master/additional-infos/partner_jur_refdata_21.3.2020.xml) mit GLN Code. Daten sind von [Refdata.ch](https://refdata.ch) und können täglich aktulaisiert werden, falls erwünscht.
