@@ -468,3 +468,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-29,08:00,SH,,40,,,,,,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,47.71357,8.59167,Schaffhausen,14,49.14
 2020-03-29,00:00,SO,,190,,,,,1,https://corona.so.ch/,,,,,,47.304135,7.639388,Solothurn,11,70.01
 2020-03-29,00:00,SZ,1,128,1,,,33,2,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948,,,,,,47.061787,8.756585,Schwyz,05,81.37
+2020-03-29,00:00,TG,276,138,,,,,1,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,47.568715,9.091957,Thurgau,01,50.4
