@@ -92,7 +92,7 @@ jobs:
           ssh-private-key: ${{ secrets.DEPLOY_KEY }}
       - name: Deploy data to ddrobotec.github.io 🚀
         if: github.repository == 'ddrobotec/covid19_ch'
-        uses: JamesIves/github-pages-deploy-action@releases/v3-test
+        uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           BASE_BRANCH: master
           BRANCH: master
