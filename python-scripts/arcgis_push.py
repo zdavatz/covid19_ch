@@ -118,7 +118,7 @@ def update_fields_in_switzerland_latest_file(f, item):
         template_field['nullable'] = True
         template_field['visible'] = True
         template_field['editable'] = True
-        template_field['sqlType'] = 'sqlTypeOther'
+        template_field['sqlType'] = 'sqlTypeFloat'
         template_field['default_value'] = 0.0
         res = fl.manager.add_to_definition({'fields': [template_field]})    
         print(res)
