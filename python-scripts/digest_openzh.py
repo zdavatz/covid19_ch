@@ -261,6 +261,9 @@ def aggregate_latest_by_abbrevation_canton(df):
     df.insert(11, 'new_positive_cases', 0)
     df.insert(16, 'ncumul_ICU_intub', 0)  # Ensures backwards compatibility, this field was removed by openzh
     
+    # Merge column "intensive_care"/"ncumul_ICU" and "ncumul_vent". ncumul_ICU > ncumul_vent because ncumul_ICU includes ncumul_vent if ncumul_ICU>0
+    df['intensive_care'] = df['intensive_care'].combine_first(df['ncumul_vent'])
+
     df = df.astype({
         'tests_performed': 'Int64',
         'total_currently_positive_cases': 'Int64',
@@ -286,6 +289,10 @@ def aggregate_latest_by_abbrevation_canton(df):
     return df
 
 def aggregate_series_by_day_and_country(df : pd.DataFrame):
+    # This is a fix for the unclear field definitions
+    # Merge column "intensive_care"/"ncumul_ICU" and "ncumul_vent". ncumul_ICU > ncumul_vent because ncumul_ICU includes ncumul_vent if ncumul_ICU>0
+    df['intensive_care'] = df['intensive_care'].combine_first(df['ncumul_vent'])
+
     complete_series = [(canton,x) for canton, x in df.groupby('abbreviation_canton')]
     complete_series = [ forward_fill_series_gaps(add_full_date_range(d[1], d[0])) for d in complete_series ]
 
@@ -301,7 +308,8 @@ def aggregate_series_by_day_and_country(df : pd.DataFrame):
     ).agg(
         # Not present in source data
         # hospitalized_with_symptoms = ("hospitalized_with_symptoms", sum),
-        intensive_care = ("intensive_care", sum),
+        # intensive_care = ncumul_ICU > ncumul_vent
+        intensive_care = ("intensive_care", sum),   
         total_hospitalized = ("total_hospitalized", sum),
         # Not present in source data
         # home_confinment = ("home_confinment", sum),
