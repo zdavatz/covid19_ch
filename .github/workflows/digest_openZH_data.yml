@@ -39,12 +39,13 @@ jobs:
         run: | 
           pwd
           cd ./python-scripts
-          python3.7 digest_openzh.py
+          python3.7 -u digest_openzh.py
       - name: Copy results
         shell: pwsh
         run: | 
           cd ./python-scripts
           cp -v ./output_openzh/dd-covid19-openzh-cantons-latest.csv ../data-cantons-csv/
+          cp -v ./output_openzh/dd-covid19-openzh-cantons-series.csv ../data-cantons-csv/
           cp -v ./output_openzh/dd-covid19-openzh-switzerland-latest.csv ../data-switzerland-csv/
       - name: Push data to arcgis
         if: github.repository == 'ddrobotec/covid19_ch'
@@ -53,7 +54,7 @@ jobs:
           ARCGIS_PASS: ${{ secrets.ARCGIS_PASS }}
         run: |
           cd ./python-scripts
-          python3.7 arcgis_push.py
+          python3.7 -u arcgis_push.py
       - name: Auto commit new data
         uses: stefanzweifel/git-auto-commit-action@v4.1.1
         if: github.repository == 'ddrobotec/covid19_ch'
