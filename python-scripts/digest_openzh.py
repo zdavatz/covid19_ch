@@ -105,7 +105,7 @@ def merge_openzh_data_to_series(data_folder):
 def forward_fill_series_gaps(df):
     cantons = list(df['abbreviation_canton'].unique())
 
-    cols = ["total_positive_cases", "tests_performed", "total_hospitalized" , "intensive_care", "deaths", "pos_tests_1", "recovered", "lat", "long", "total_currently_positive_per_100k"]
+    cols = ["total_positive_cases", "tests_performed", "total_hospitalized" , "intensive_care", "deaths", "pos_tests_1", "released", "recovered", "lat", "long", "total_currently_positive_per_100k"]
 
     for canton in cantons:
         per_canton_idx = canton == df['abbreviation_canton']
@@ -334,6 +334,7 @@ def aggregate_series_by_day_and_country(df : pd.DataFrame):
     sum_per_day['hospitalized_with_symptoms'] = 0
     # (t2-t1)*ln(2)/ln(q2/q1)
     sum_per_day['doubling_time_total_positive'] = round(doubling_time(period=5, series=sum_per_day['total_positive']), 6)
+    sum_per_day['doubling_time_fatalities'] = round(doubling_time(period=5, series=sum_per_day['deaths']), 6)
 
     # Reorder columns to simplify comparison with d.probst data
     sum_per_day = sum_per_day[field_names_switzerland]
