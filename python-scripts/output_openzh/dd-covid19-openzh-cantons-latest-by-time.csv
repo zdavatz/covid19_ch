@@ -1,6 +1,5 @@
 date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,pos_tests_1,recovered,ninst_ICU_intub,ncumul_ICF,ncumul_deceased_suspect,lat,long,name_canton,number_canton,total_currently_positive_per_100k
 2020-03-29,03:00,VD,,3168,388,78,,203,66,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,,46.570091,6.557809000000001,Vaud,22,399.45
-2020-03-30,15:00,AG,,481,94,25,23.0,4,8,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200330_KFS_Coronavirus_Lagebulletin_22.pdf,,,,,,47.40966,8.15688,Aargau,01,71.68
 2020-03-30,18:00,AR,,50,6,,,,2,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,90.58
 2020-03-30,03:00,BE,,826,112,21,17.0,,13,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,80.11
 2020-03-30,03:00,FL,900,64,,,,1,,https://www.regierung.li/de/mitteilungen/223349/?typ=newss,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,165.8
@@ -9,6 +8,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-30,17:15,NW,,63,,,,,,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,46.926755,8.405302,Nidwalden,07,146.51
 2020-03-30,15:00,VS,,1000,122,21,16.0,3,26,https://www.vs.ch/documents/6756452/7008787/Sit%20Epid%20-%20%C3%89tat%20Stand%2030.03.2020.pdf,,,,,,46.209567,7.604659,Valais/Wallis,23,292.83
 2020-03-30,17:00,ZH,855,1874,199,,47.0,,21,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7,59.0,11,,,,47.41275,8.65508,Zürich,01,124.58
+2020-03-31,15:00,AG,,499,85,25,25.0,4,11,https://www.ag.ch/de/themen_1/coronavirus_2/alle_ereignisse/alle_ereignisse_1.jsp,,,,,,47.40966,8.15688,Aargau,01,74.37
 2020-03-31,12:00,AI,,14,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,86.96
 2020-03-31,03:00,BL,,561,,,,,10,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,195.47
 2020-03-31,10:00,BS,235,628,82,15,,292,16,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-628-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,323.88
