@@ -278,6 +278,16 @@ def reorder_columns(df):
 
     return df
 
+def add_doubling_times(df):
+    # (t2-t1)*ln(2)/ln(q2/q1)
+    if 'total_positive' in df.columns:
+        df['doubling_time_total_positive'] = round(doubling_time(period=5, series=df['total_positive']), 6)
+    elif 'total_positive_cases' in df.columns:
+        df['doubling_time_total_positive'] = round(doubling_time(period=5, series=df['total_positive_cases']), 6)
+    df['doubling_time_fatalities'] = round(doubling_time(period=5, series=df['deaths']), 6)
+
+    return df
+
 def series_by_time_per_canton(series):
     # Get list of canton abbreviations
     list_canton_abbreviations = name_and_numbers_cantons.keys()
@@ -285,6 +295,8 @@ def series_by_time_per_canton(series):
         time_series_canton = series.loc[series['abbreviation_canton'] == c]
         # Reorder indeces
         time_series_canton = reorder_columns(time_series_canton)
+        # Add doubling times
+        time_series_canton = add_doubling_times(time_series_canton)
         # Save
         time_series_canton.to_csv(os.path.join(output_canton_series(), c + "-canton-time-series.csv"))
 
@@ -356,9 +368,8 @@ def aggregate_series_by_day_and_country(df : pd.DataFrame):
     sum_per_day['new_positive'] = sum_per_day['total_positive'].diff(periods=1).astype('Int64')
     sum_per_day['old_positive'] = sum_per_day.shift(periods=1, axis='columns', fill_value=0)['total_positive']
     sum_per_day['hospitalized_with_symptoms'] = 0
-    # (t2-t1)*ln(2)/ln(q2/q1)
-    sum_per_day['doubling_time_total_positive'] = round(doubling_time(period=5, series=sum_per_day['total_positive']), 6)
-    sum_per_day['doubling_time_fatalities'] = round(doubling_time(period=5, series=sum_per_day['deaths']), 6)
+
+    add_doubling_times(sum_per_day)
 
     # Reorder columns to simplify comparison with d.probst data
     sum_per_day = sum_per_day[field_names_switzerland]
