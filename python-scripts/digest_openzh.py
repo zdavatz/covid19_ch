@@ -17,9 +17,10 @@ from pytz import timezone
 from numpy import nan
 from common_data import *
 
-
+# Timezones used for time conversions
 utc = pytz.utc
 cet = timezone('CET')
+ch = timezone(pytz.country_timezones['CH'][0])
 
 date_range = datetime.datetime.today() - start_date
 
@@ -125,7 +126,7 @@ datetime_formats = [
     "%Y-%m-%dT%H:%M:%S+%V:%W",
 ]
 
-def parse_timestamp(d, from_time_zone=cet):
+def parse_timestamp(d, from_time_zone=ch):
     dt = None
     for format in datetime_formats:
         try:
@@ -136,17 +137,17 @@ def parse_timestamp(d, from_time_zone=cet):
     if dt == None:
         print("Error: %s could not be parsed" % d)
         return dt
-    dt = datetime.datetime(dt.year, dt.month, dt.day, dt.hour, dt.minute, dt.second, tzinfo=from_time_zone)
+    dt = from_time_zone.localize(dt)
     return dt
 
 def datetime_to_str(dt):
     return dt.strftime("%Y-%m-%d %H:%M:%S")
 
-def convert_timestamp_string(d, from_time_zone=cet):
+def convert_timestamp_string(d, from_time_zone=ch):
     dt = parse_timestamp(d, from_time_zone)
     if dt == None:
         return None
-    d_utc = datetime_to_str(dt)
+    d_utc = datetime_to_str(dt.astimezone(utc))
     return d_utc
 
 def convert_from_openzh(df):
@@ -164,7 +165,10 @@ def convert_from_openzh(df):
     df['number_canton'] = list(map(lambda name: name_and_numbers_cantons[name]['number'], cantons_col ))
 
     # Replace time NaN values with valid time in order to sort
-    df['time'] = df['time'].fillna('00:00')
+    df['time'] = df['time'].fillna('03:00')
+
+    # Replace 00:00 with default
+    df['time'] = df['time'].replace('00:00', '03:00')
     
     # Make sure we have integer types for the countable quanties
     effective_counter_columns = [item for item in df.columns if item in counter_names]
