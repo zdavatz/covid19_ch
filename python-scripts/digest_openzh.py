@@ -28,10 +28,13 @@ def date_range_of_interest():
     return [ (start_date + datetime.timedelta(days=x)).strftime("%Y-%m-%d") for x in range(date_range.days+1)]
 
 def data_folder():
-    return os.path.dirname(os.path.abspath(__file__))  + "/data"
+    return os.path.dirname(os.path.abspath(__file__)) + "/data"
 
 def output_folder():
-    return os.path.dirname(os.path.abspath(__file__))  + "/output_openzh"
+    return os.path.dirname(os.path.abspath(__file__)) + "/output_openzh"
+
+def output_canton_series():
+    return os.path.dirname(os.path.abspath(__file__)) + "/output_canton_series"
 
 def doubling_time(period, series):
     series2 = series.shift(period)
@@ -227,24 +230,7 @@ def to_int(s):
     s = s.strip()
     return int(s) if s else 0
 
-def aggregate_latest_by_time_canton(df):
-    # index set of latest entries per canton
-    # Latest by date
-    idx = df.groupby(['abbreviation_canton'])['date'].transform(max) == df['date']
-    df = df[idx]    
-    # Latest by time
-    idx = df.groupby(['abbreviation_canton'])['time'].transform(max) == df['time']
-    # Select rows given by index set
-    return df[idx]
-
-def aggregate_latest_by_abbrevation_canton(df):
-    # Get indeces of most recent entriese
-    idx = df.groupby(['abbreviation_canton'])['date'].transform(max) == df['date']   
-    df = df[idx]
-    # Sort according to abbreviation cantons
-    df.sort_values(by=['abbreviation_canton'], inplace=True)
-    df.insert(2, 'country', 'CH')
-
+def reorder_columns(df):
     # Now we need to move some columns
     cols = list(df)
     # Reorder columns
@@ -289,6 +275,40 @@ def aggregate_latest_by_abbrevation_canton(df):
     df['timestamp'] = df['timestamp'].apply(convert_timestamp_string)
     df.insert(0, 'last_update', datetime.datetime.now(utc).strftime("%Y-%m-%d %H:%M:%S"))
     df.drop(columns=['date','time'], axis=1, inplace=True)
+
+    return df
+
+def series_by_time_per_canton(series):
+    # Get list of canton abbreviations
+    list_canton_abbreviations = name_and_numbers_cantons.keys()
+    for c in list_canton_abbreviations:
+        time_series_canton = series.loc[series['abbreviation_canton'] == c]
+        # Reorder indeces
+        time_series_canton = reorder_columns(time_series_canton)
+        # Save
+        time_series_canton.to_csv(os.path.join(output_canton_series(), c + "-canton-time-series.csv"))
+
+def aggregate_latest_by_time_canton(df):
+    # index set of latest entries per canton
+    # Latest by date
+    idx = df.groupby(['abbreviation_canton'])['date'].transform(max) == df['date']
+    df = df[idx]    
+    # Latest by time
+    idx = df.groupby(['abbreviation_canton'])['time'].transform(max) == df['time']
+    # Select rows given by index set
+    return df[idx]
+
+def aggregate_latest_by_abbrevation_canton(df):
+    # Get indeces of most recent entriese
+    idx = df.groupby(['abbreviation_canton'])['date'].transform(max) == df['date']   
+    df = df[idx]
+
+    # Sort according to abbreviation cantons
+    df.sort_values(by=['abbreviation_canton'], inplace=True)
+    df.insert(2, 'country', 'CH')
+
+    # Reorder columns
+    df = reorder_columns(df)
 
     return df
 
@@ -359,6 +379,9 @@ if __name__ == '__main__':
     series = convert_from_openzh(openzh_series)
     # Generate CSV
     series.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-cantons-series.csv"), index=False)
+
+    # Generate one time series per canton
+    series_by_time_per_canton(series)
 
     # Get newest entry for each canton
     latest_per_canton = aggregate_latest_by_time_canton(series)
