@@ -44,9 +44,11 @@ jobs:
         shell: pwsh
         run: | 
           cd ./python-scripts
-          cp -v ./output_openzh/dd-covid19-openzh-cantons-latest.csv ../
+          mkdir ../data-cantons-csv/
+          mkdir ../data-switzerland-csv/
+          cp -v ./output_openzh/dd-covid19-openzh-cantons-latest.csv ../data-cantons-csv/
           cp -v ./output_openzh/dd-covid19-openzh-cantons-series.csv ../data-cantons-csv/
-          cp -v ./output_openzh/dd-covid19-openzh-switzerland-latest.csv ../
+          cp -v ./output_openzh/dd-covid19-openzh-switzerland-latest.csv ../data-switzerland-csv/
       - name: Push data to arcgis
         if: github.repository == 'ddrobotec/covid19_ch'
         shell: pwsh

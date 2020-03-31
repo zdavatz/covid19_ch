@@ -28,10 +28,13 @@ def date_range_of_interest():
     return [ (start_date + datetime.timedelta(days=x)).strftime("%Y-%m-%d") for x in range(date_range.days+1)]
 
 def data_folder():
-    return os.path.dirname(os.path.abspath(__file__))  + "/data"
+    return os.path.dirname(os.path.abspath(__file__)) + "/data"
 
 def output_folder():
-    return os.path.dirname(os.path.abspath(__file__))  + "/output_openzh"
+    return os.path.dirname(os.path.abspath(__file__)) + "/output_openzh"
+
+def output_canton_series():
+    return os.path.dirname(os.path.abspath(__file__)) + "/output_canton_series"
 
 def doubling_time(period, series):
     series2 = series.shift(period)
@@ -227,24 +230,7 @@ def to_int(s):
     s = s.strip()
     return int(s) if s else 0
 
-def aggregate_latest_by_time_canton(df):
-    # index set of latest entries per canton
-    # Latest by date
-    idx = df.groupby(['abbreviation_canton'])['date'].transform(max) == df['date']
-    df = df[idx]    
-    # Latest by time
-    idx = df.groupby(['abbreviation_canton'])['time'].transform(max) == df['time']
-    # Select rows given by index set
-    return df[idx]
-
-def aggregate_latest_by_abbrevation_canton(df):
-    # Get indeces of most recent entriese
-    idx = df.groupby(['abbreviation_canton'])['date'].transform(max) == df['date']   
-    df = df[idx]
-    # Sort according to abbreviation cantons
-    df.sort_values(by=['abbreviation_canton'], inplace=True)
-    df.insert(2, 'country', 'CH')
-
+def reorder_columns(df):
     # Now we need to move some columns
     cols = list(df)
     # Reorder columns
@@ -292,6 +278,52 @@ def aggregate_latest_by_abbrevation_canton(df):
 
     return df
 
+def add_doubling_times(df):
+    # (t2-t1)*ln(2)/ln(q2/q1)
+    if 'total_positive' in df.columns:
+        df['doubling_time_total_positive'] = round(doubling_time(period=5, series=df['total_positive']), 6)
+    elif 'total_positive_cases' in df.columns:
+        df['doubling_time_total_positive'] = round(doubling_time(period=5, series=df['total_positive_cases']), 6)
+    df['doubling_time_fatalities'] = round(doubling_time(period=5, series=df['deaths']), 6)
+
+    return df
+
+def series_by_time_per_canton(series):
+    # Get list of canton abbreviations
+    list_canton_abbreviations = name_and_numbers_cantons.keys()
+    for c in list_canton_abbreviations:
+        time_series_canton = series.loc[series['abbreviation_canton'] == c]
+        # Reorder indeces
+        time_series_canton = reorder_columns(time_series_canton)
+        # Add doubling times
+        time_series_canton = add_doubling_times(time_series_canton)
+        # Save
+        time_series_canton.to_csv(os.path.join(output_canton_series(), c + "-canton-time-series.csv"))
+
+def aggregate_latest_by_time_canton(df):
+    # index set of latest entries per canton
+    # Latest by date
+    idx = df.groupby(['abbreviation_canton'])['date'].transform(max) == df['date']
+    df = df[idx]    
+    # Latest by time
+    idx = df.groupby(['abbreviation_canton'])['time'].transform(max) == df['time']
+    # Select rows given by index set
+    return df[idx]
+
+def aggregate_latest_by_abbrevation_canton(df):
+    # Get indeces of most recent entriese
+    idx = df.groupby(['abbreviation_canton'])['date'].transform(max) == df['date']   
+    df = df[idx]
+
+    # Sort according to abbreviation cantons
+    df.sort_values(by=['abbreviation_canton'], inplace=True)
+    df.insert(2, 'country', 'CH')
+
+    # Reorder columns
+    df = reorder_columns(df)
+
+    return df
+
 def aggregate_series_by_day_and_country(df : pd.DataFrame):
     # This is a fix for the unclear field definitions
     # Merge column "intensive_care"/"ncumul_ICU" and "ncumul_vent". ncumul_ICU > ncumul_vent because ncumul_ICU includes ncumul_vent if ncumul_ICU>0
@@ -336,9 +368,8 @@ def aggregate_series_by_day_and_country(df : pd.DataFrame):
     sum_per_day['new_positive'] = sum_per_day['total_positive'].diff(periods=1).astype('Int64')
     sum_per_day['old_positive'] = sum_per_day.shift(periods=1, axis='columns', fill_value=0)['total_positive']
     sum_per_day['hospitalized_with_symptoms'] = 0
-    # (t2-t1)*ln(2)/ln(q2/q1)
-    sum_per_day['doubling_time_total_positive'] = round(doubling_time(period=5, series=sum_per_day['total_positive']), 6)
-    sum_per_day['doubling_time_fatalities'] = round(doubling_time(period=5, series=sum_per_day['deaths']), 6)
+
+    add_doubling_times(sum_per_day)
 
     # Reorder columns to simplify comparison with d.probst data
     sum_per_day = sum_per_day[field_names_switzerland]
@@ -359,6 +390,9 @@ if __name__ == '__main__':
     series = convert_from_openzh(openzh_series)
     # Generate CSV
     series.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-cantons-series.csv"), index=False)
+
+    # Generate one time series per canton
+    series_by_time_per_canton(series)
 
     # Get newest entry for each canton
     latest_per_canton = aggregate_latest_by_time_canton(series)
