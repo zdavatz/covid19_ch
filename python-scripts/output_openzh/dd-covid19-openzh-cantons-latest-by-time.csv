@@ -3,7 +3,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-31,15:00,AG,,499,85,25,25.0,4,11,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200331_KFS_Coronavirus_Lagebulletin_23.pdf,,,,,,47.40966,8.15688,Aargau,01,74.37
 2020-03-31,12:00,AI,,14,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,86.96
 2020-03-31,03:00,BL,,561,,,,,10,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,195.47
-2020-03-31,10:00,BS,235,628,105,15,,292,16,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-628-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,323.88
 2020-03-31,03:00,FL,900,68,,,,1,,https://www.regierung.li/media/attachments/160-coronavirus-68-personen-positiv.pdf?t=637212737830081294,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,176.17
 2020-03-31,03:00,FR,30,491,77,20,,,20,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,46.718391,7.074008,Fribourg,10,155.82
 2020-03-31,12:00,GE,,2451,405,64,49.0,241,49,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,49.0,20.0,,46.220528,6.132935,Genève,25,494.95
@@ -19,6 +18,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-31,17:00,ZH,855,1960,197,,51.0,,25,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7,59.0,11,,,,47.41275,8.65508,Zürich,01,130.29
 2020-04-01,08:00,AR,,60,6,,,,2,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,108.7
 2020-04-01,08:00,BE,,909,115,26,21.0,,20,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,88.16
+2020-04-01,10:00,BS,235,691,108,16,,323,18,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-691-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,356.37
 2020-04-01,03:00,GR,,521,58,,,,21,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,263.26
 2020-04-01,11:00,LU,,401,,,,,7,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,98.65
 2020-04-01,07:00,SH,,44,,,,,,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,47.71357,8.59167,Schaffhausen,14,54.05
