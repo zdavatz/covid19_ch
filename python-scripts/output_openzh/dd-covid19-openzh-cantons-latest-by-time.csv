@@ -1,28 +1,28 @@
-date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,pos_tests_1,recovered,ncumul_confirmed_non_resident,ninst_hosp_non_resident,ninst_ICU_intub,ncumul_ICF,ncumul_deceased_suspect,lat,long,name_canton,number_canton,total_currently_positive_per_100k
-2020-03-31,12:00,AI,,14,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,86.96
-2020-03-31,03:00,FL,900,68,,,,1,,https://www.regierung.li/media/attachments/160-coronavirus-68-personen-positiv.pdf?t=637212737830081294,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,176.17
-2020-03-31,12:00,GE,,2451,405,64,49.0,241,49,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,49.0,20.0,,46.220528,6.132935,Genève,25,494.95
-2020-03-31,16:00,JU,,127,23,4,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,,,,47.350744,7.156107,Jura,26,173.26
-2020-03-31,16:00,NE,,366,59,14,11.0,,6,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,205.62
-2020-03-31,15:30,NW,,70,,,,,,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,,46.926755,8.405302,Nidwalden,07,162.79
-2020-03-31,03:00,OW,6,46,,,,,,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,122.34
-2020-03-31,03:00,UR,85,57,9,,,11,,https://www.ur.ch/themen/2920,,,,,,,,46.771849,8.628586,Uri,04,157.02
-2020-03-31,03:00,VD,,3465,390,80,,225,84,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,436.89
-2020-03-31,15:00,VS,,1085,136,23,18.0,3,35,https://www.vs.ch/documents/6756452/7008787/Sit%20Epid%20-%20%C3%89tat%20Stand%2031.03.2020.pdf,,,,,,,,46.209567,7.604659,Valais/Wallis,23,317.72
-2020-03-31,17:00,ZH,855,1960,197,,51.0,,25,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7,59.0,11,,,,,,47.41275,8.65508,Zürich,01,130.29
-2020-04-01,15:00,AG,,549,94,27,27.0,4,11,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200401_KFS_Coronavirus_Lagebulletin_24.pdf,,,,,,,,47.40966,8.15688,Aargau,01,81.82
-2020-04-01,13:00,AR,,61,6,,,,2,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,110.51
-2020-04-01,08:00,BE,,909,115,26,21.0,,20,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,88.16
-2020-04-01,03:00,BL,,588,,,,249,11,https://www.statistik.bl.ch/files/sites/Grafiken/COVID19/20200401_COVID19_BL.htm,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,204.88
-2020-04-01,10:00,BS,235,691,108,16,,323,18,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-691-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,404.0,20.0,,,,47.564869,7.615259,Basel-Stadt,12,356.37
-2020-04-01,03:00,FR,30,525,81,23,,,23,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,166.61
-2020-04-01,13:30,GL,,56,5,,,,2,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,,,46.931042000000005,9.065751,Glarus,08,138.96
-2020-04-01,03:00,GR,,521,58,,,,21,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,263.26
-2020-04-01,11:00,LU,,401,,,,,7,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,98.65
-2020-04-01,03:00,SG,,414,,,,,7,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,82.03
-2020-04-01,07:00,SH,,44,,,,,,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,,47.71357,8.59167,Schaffhausen,14,54.05
-2020-04-01,03:00,SO,,216,,,,,3,https://corona.so.ch/,,,,,,,,47.304135,7.639388,Solothurn,11,79.59
-2020-04-01,03:00,SZ,10,146,1,,,65,4,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948,,,,,,,,47.061787,8.756585,Schwyz,05,92.82
-2020-04-01,03:00,TG,276,166,,,,,4,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,60.63
-2020-04-01,08:00,TI,,2195,396,76,72.0,229,132,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187555&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=843d72993004667ab731d64142591372,68.0,,,,72.0,,,46.295617,8.808924,Ticino,21,620.58
-2020-04-01,08:00,ZG,,125,1,,,40,1,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,99.68
+date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,pos_tests_1,recovered,ncumul_confirmed_non_resident,ninst_hosp_non_resident,ninst_ICU_intub,ncumul_ICF,ncumul_deceased_suspect,lat,long,name_canton,number_canton,total_currently_positive_per_100k,deaths_per_100k
+2020-03-31,12:00,AI,,14,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,86.96,
+2020-03-31,03:00,FL,900,68,,,,1,,https://www.regierung.li/media/attachments/160-coronavirus-68-personen-positiv.pdf?t=637212737830081294,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,176.17,
+2020-03-31,03:00,VD,,3465,390,80,,225,84,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,436.89,10.591
+2020-04-01,15:00,AG,,549,94,27,27.0,4,11,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200401_KFS_Coronavirus_Lagebulletin_24.pdf,,,,,,,,47.40966,8.15688,Aargau,01,81.82,1.639
+2020-04-01,17:00,AR,,61,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,110.51,5.435
+2020-04-01,08:00,BE,,909,115,26,21.0,,20,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,88.16,1.94
+2020-04-01,03:00,BL,,588,,,,249,11,https://www.statistik.bl.ch/files/sites/Grafiken/COVID19/20200401_COVID19_BL.htm,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,204.88,3.833
+2020-04-01,10:00,BS,235,691,108,16,,323,18,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-691-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,404.0,20.0,,,,47.564869,7.615259,Basel-Stadt,12,356.37,9.283
+2020-04-01,03:00,FR,30,525,81,23,,,23,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,166.61,7.299
+2020-04-01,12:00,GE,,2702,402,60,41.0,241,59,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,41.0,24.0,,46.220528,6.132935,Genève,25,545.64,11.914
+2020-04-01,13:30,GL,,56,5,,,,2,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,,,46.931042000000005,9.065751,Glarus,08,138.96,4.963
+2020-04-01,03:00,GR,,521,58,,,,21,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,263.26,10.611
+2020-04-01,16:00,JU,,144,29,5,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Chiffres-H-JU/Evolution-des-cas-COVID-19-dans-le-Jura.html,,,,,,,,47.350744,7.156107,Jura,26,196.45,
+2020-04-01,11:00,LU,,401,57,12,,,7,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,98.65,1.722
+2020-04-01,16:00,NE,,366,66,14,8.0,,11,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,205.62,6.18
+2020-04-01,18:15,NW,,70,,,,,,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,,46.926755,8.405302,Nidwalden,07,162.79,
+2020-04-01,03:00,OW,6,48,,,,,,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,127.66,
+2020-04-01,03:00,SG,,414,,,,,7,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,82.03,1.387
+2020-04-01,18:00,SH,,44,,,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,,47.71357,8.59167,Schaffhausen,14,54.05,1.229
+2020-04-01,03:00,SO,,216,,,,,3,https://corona.so.ch/,,,,,,,,47.304135,7.639388,Solothurn,11,79.59,1.105
+2020-04-01,03:00,SZ,10,146,1,,,65,4,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948,,,,,,,,47.061787,8.756585,Schwyz,05,92.82,2.543
+2020-04-01,03:00,TG,276,166,,,,,4,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,60.63,1.461
+2020-04-01,08:00,TI,,2195,396,76,72.0,229,132,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187555&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=843d72993004667ab731d64142591372,68.0,,,,72.0,,,46.295617,8.808924,Ticino,21,620.58,37.32
+2020-04-01,03:00,UR,85,59,10,,,13,,https://www.ur.ch/themen/2920,,,,,,,,46.771849,8.628586,Uri,04,162.53,
+2020-04-01,15:00,VS,,1145,139,23,18.0,70,37,https://www.vs.ch/documents/6756452/7008787/2020%2004%2001%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,,,46.209567,7.604659,Valais/Wallis,23,335.29,10.835
+2020-04-01,08:00,ZG,,125,1,,,40,1,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,99.68,0.797
+2020-04-01,17:00,ZH,855,2148,203,,54.0,,29,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7,59.0,11,,,,,,47.41275,8.65508,Zürich,01,142.79,1.928
