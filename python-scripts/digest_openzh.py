@@ -38,7 +38,8 @@ def output_canton_series():
 
 def doubling_time(period, series):
     series2 = series.shift(period)
-    return (period*np.log(2.0)/np.log(series/series2)).fillna(0)
+    df_log = (period*np.log(2.0)/np.log(series/series2)).fillna(0)
+    return df_log.replace([np.inf, -np.inf], np.nan)
 
 def download_openZH_data():
     csv_path_list = []
@@ -307,10 +308,18 @@ def aggregate_latest_by_time_canton(df):
     df = df[idx]    
     # Latest by time
     idx = df.groupby(['abbreviation_canton'])['time'].transform(max) == df['time']
+    
     # Select rows given by index set
     return df[idx]
 
 def aggregate_latest_by_abbrevation_canton(df):
+    list_canton_abbreviations = name_and_numbers_cantons.keys()
+    series = pd.DataFrame()
+    for c in list_canton_abbreviations:
+        idx = df['abbreviation_canton'] == c
+        series = series.append(add_doubling_times(df.loc[idx]))
+    df = series
+
     # Get indeces of most recent entriese
     idx = df.groupby(['abbreviation_canton'])['date'].transform(max) == df['date']   
     df = df[idx]
@@ -321,6 +330,9 @@ def aggregate_latest_by_abbrevation_canton(df):
 
     # Reorder columns
     df = reorder_columns(df)
+    # First pop column then reinsert
+    df_source = df.pop('source')
+    df['source'] = df_source
 
     return df
 
