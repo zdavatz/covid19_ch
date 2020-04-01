@@ -540,3 +540,5 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-31,08:00,ZG,,114,1,,,39,1,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,90.91
 2020-03-31,17:00,ZH,855,1960,197,,51.0,,25,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7,59.0,11,,,,47.41275,8.65508,Zürich,01,130.29
 2020-04-01,07:00,SH,,44,,,,,,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,47.71357,8.59167,Schaffhausen,14,54.05
+2020-04-01,03:00,SO,,216,,,,,2,https://corona.so.ch/,,,,,,47.304135,7.639388,Solothurn,11,79.59
+2020-04-01,08:00,ZG,,125,1,,,40,1,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,99.68
