@@ -415,7 +415,7 @@ if __name__ == '__main__':
     latest_per_canton = aggregate_latest_by_abbrevation_canton(series)
     latest_per_canton.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-cantons-latest.csv"), index=False)
     # It's the same as above, but ArcGis requires unique filenames. Once a layer is created, it is very cumbersome to add new fields with ArcGis.
-    latest_per_canton.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-cantons-latest_v2.csv"), index=False)
+    latest_per_canton.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-cantons-latest_v3.csv"), index=False)
 
     # Aggregate series over cantons for country
     country_series = aggregate_series_by_day_and_country(series)
