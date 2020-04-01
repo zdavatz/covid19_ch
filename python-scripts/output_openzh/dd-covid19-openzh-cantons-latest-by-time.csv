@@ -17,12 +17,12 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-31,15:30,NW,,70,,,,,,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,46.926755,8.405302,Nidwalden,07,162.79
 2020-03-31,03:00,OW,6,46,,,,,,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,122.34
 2020-03-31,03:00,SG,,394,,,,,7,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,78.07
-2020-03-31,03:00,SO,,196,,,,,2,https://corona.so.ch/,,,,,,47.304135,7.639388,Solothurn,11,72.22
 2020-03-31,03:00,SZ,10,141,1,,,48,4,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948,,,,,,47.061787,8.756585,Schwyz,05,89.64
 2020-03-31,03:00,TG,276,154,,,,,3,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,47.568715,9.091957,Thurgau,01,56.25
 2020-03-31,08:00,TI,,2091,401,74,67.0,202,120,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187550&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=007dc1182450e5b85ee4f533dfdcd6e3,68.0,,67.0,,,46.295617,8.808924,Ticino,21,591.18
 2020-03-31,03:00,UR,85,57,9,,,11,,https://www.ur.ch/themen/2920,,,,,,46.771849,8.628586,Uri,04,157.02
 2020-03-31,15:00,VS,,1085,136,23,18.0,3,35,https://www.vs.ch/documents/6756452/7008787/Sit%20Epid%20-%20%C3%89tat%20Stand%2031.03.2020.pdf,,,,,,46.209567,7.604659,Valais/Wallis,23,317.72
-2020-03-31,08:00,ZG,,114,1,,,39,1,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,90.91
 2020-03-31,17:00,ZH,855,1960,197,,51.0,,25,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7,59.0,11,,,,47.41275,8.65508,Zürich,01,130.29
 2020-04-01,07:00,SH,,44,,,,,,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,47.71357,8.59167,Schaffhausen,14,54.05
+2020-04-01,03:00,SO,,216,,,,,2,https://corona.so.ch/,,,,,,47.304135,7.639388,Solothurn,11,79.59
+2020-04-01,08:00,ZG,,125,1,,,40,1,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,99.68
