@@ -12,7 +12,7 @@ files = {
     'dd-covid19-openzh-cantons-latest.csv': '71d789eb72e8413abc6590e41a7f3cb2',
     'dd-covid19-openzh-cantons-latest_v2.csv': 'fa069dd8882e4b93b7ce29ebbbd9808d',
     'dd-covid19-openzh-switzerland-latest.csv': 'a48bbcb06c8e4b629a31e5584c5e991a',
-    'dd-covid19-openzh-cantons-series.csv': '06e0afde23f54da5be4a49cbc8c9d80b'
+    'dd-covid19-openzh-cantons-series.csv': 'c49e5cee79b448aa89f08fae5e6a7a26'
     }
 
 canton_file_name = 'dd-covid19-openzh-cantons-latest_v2.csv'
@@ -34,6 +34,7 @@ def update_geojson_file(gis: GIS):
     csv = pd.read_csv(csv_file_path)
     # Create dictionary name_canton -> tot_currently_positive_per_100k
     tot_pos_cases_per_100k = dict(zip(csv['name_canton'], csv['total_currently_positive_per_100k']))
+    deaths_per_100k = dict(zip(csv['name_canton'], csv['deaths_per_100k']))
 
     # Get geojson file item
     geojson_file_item = gis.content.get(geojson_file_id)
@@ -52,6 +53,8 @@ def update_geojson_file(gis: GIS):
         name = feature.get_value('name')
         tot_pos_100k = tot_pos_cases_per_100k[name]
         feature.set_value('tot_pos_cases_per_100k', tot_pos_100k)
+        deaths_100k = deaths_per_100k[name]
+        feature.set_value('deaths_per_100k', deaths_100k)
     
     # Update online feature layer
     results = fl.edit_features(updates=features)
@@ -108,44 +111,48 @@ def update_fields_in_switzerland_latest_file(f, item):
     # Assume the first layer is the layer you want to update
     fl = item.layers[0]
 
-    # Get a template field
-    fields = fl.manager.properties.fields    
-    if not 'doubling_time_total_positive' in [f['name'] for f in fields]:
-        template_field = dict(deepcopy(fields[10]))
-        template_field['name'] = 'doubling_time_total_positive'
-        template_field['type'] = 'esriFieldTypeDouble'
-        template_field['alias'] = 'doubling_time_total_positive'
-        template_field['nullable'] = True
-        template_field['visible'] = True
-        template_field['editable'] = True
-        template_field['sqlType'] = 'sqlTypeFloat'
-        template_field['default_value'] = 0.0
-        res = fl.manager.add_to_definition({'fields': [template_field]})    
-        print(res)
+    # additional fields
+    additional_fields = ['doubling_time_total_positive', 'doubling_time_fatalities']
 
-    # Check if fiels was successfully added
-    fields = fl.manager.properties.fields    
-    for field in fields:
-        print(f"{field.name:30}|  {field.type}")
+    for add_field in additional_fields:
+        # Get a template field
+        fields = fl.manager.properties.fields    
+        if not add_field in [f['name'] for f in fields]:
+            template_field = dict(deepcopy(fields[10]))
+            template_field['name'] = add_field
+            template_field['type'] = 'esriFieldTypeDouble'
+            template_field['alias'] = add_field
+            template_field['nullable'] = True
+            template_field['visible'] = True
+            template_field['editable'] = True
+            template_field['sqlType'] = 'sqlTypeFloat'
+            template_field['default_value'] = 0.0
+            res = fl.manager.add_to_definition({'fields': [template_field]})    
+            print(res)
 
-    # Get feature set and corresponding features
-    fset = fl.query()
-    features = fset.features
-   
-    # Loop through all features and set doubling_time
-    for feature in features:
-        # Get date string
-        date = datetime.datetime.fromtimestamp(feature.attributes['date']/1000)
-        date_str = date.strftime("%Y-%m-%d")
-        idx = df['date'] == date_str
-        # Get doubling time
-        doubling_time_total_positive = df.loc[idx]['doubling_time_total_positive'].values[0]
-        # Update individual feature
-        feature.set_value('doubling_time_total_positive', doubling_time_total_positive)
+        # Check if fiels was successfully added
+        fields = fl.manager.properties.fields    
+        for field in fields:
+            print(f"{field.name:30}|  {field.type}")
 
-    print("Updating all existing features with %s ..." % f)
-    # Update online feature layer
-    return fl.edit_features(updates=features)   
+        # Get feature set and corresponding features
+        fset = fl.query()
+        features = fset.features
+    
+        # Loop through all features and set doubling_time
+        for feature in features:
+            # Get date string
+            date = datetime.datetime.fromtimestamp(feature.attributes['date']/1000)
+            date_str = date.strftime("%Y-%m-%d")
+            idx = df['date'] == date_str
+            # Get doubling time
+            value = df.loc[idx][add_field].values[0]
+            # Update individual feature
+            feature.set_value(add_field, value)
+
+            print("Updating all existing features with %s ..." % f)
+            # Update online feature layer
+            res = fl.edit_features(updates=features)  
 
 def update_from_csv(gis: GIS, f):
     # Load csv from and add the csv as an item
@@ -171,7 +178,7 @@ def update_from_csv(gis: GIS, f):
     # update_fields_from_csv(gis, f, latest_csv_item)
     if f == 'dd-covid19-openzh-switzerland-latest.csv':   
         print("Updating existing feature with %s ..." % f)
-        res = update_fields_in_switzerland_latest_file(f, latest_csv_item)
+        update_fields_in_switzerland_latest_file(f, latest_csv_item)
 
 def publish_from_csv(gis : GIS, f : str):
     # Load csv from and add the csv as an item

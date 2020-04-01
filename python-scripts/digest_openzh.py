@@ -110,7 +110,7 @@ def merge_openzh_data_to_series(data_folder):
 def forward_fill_series_gaps(df):
     cantons = list(df['abbreviation_canton'].unique())
 
-    cols = ["total_positive_cases", "tests_performed", "total_hospitalized" , "intensive_care", "deaths", "pos_tests_1", "released", "recovered", "lat", "long", "total_currently_positive_per_100k"]
+    cols = ["total_positive_cases", "tests_performed", "total_hospitalized" , "intensive_care", "deaths", "pos_tests_1", "released", "recovered", "lat", "long", "total_currently_positive_per_100k", "deaths_per_100k"]
 
     for canton in cantons:
         per_canton_idx = canton == df['abbreviation_canton']
@@ -194,6 +194,7 @@ def convert_from_openzh(df):
     # Reorder indeces
     pop_per_canton = list(canton_dict.T['pop'][idx])
     df['total_currently_positive_per_100k'] = round(100.0 * df['total_positive_cases']/pop_per_canton, 2)
+    df['deaths_per_100k'] = round(100.0 * df['deaths']/pop_per_canton, 3) 
 
     # Forward fill gaps for incremental values which might not be updated every day
     df = forward_fill_series_gaps(df)
@@ -246,6 +247,7 @@ def reorder_columns(df):
     cols.insert(15, cols.pop(cols.index('pos_tests_1')))
     cols.insert(-1, cols.pop(cols.index('source')))
     cols.insert(12, cols.pop(cols.index('total_currently_positive_per_100k')))
+    cols.insert(13, cols.pop(cols.index('deaths_per_100k')))
     df = df.loc[:, cols]
     
     df.insert(9, 'total_currently_positive_cases', df['total_positive_cases'])
