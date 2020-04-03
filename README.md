@@ -33,6 +33,7 @@ Am 27. März 2020 Artikel von Adrienne Fichter in der [Republik](https://www.rep
 * [Deutschland](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4)
 * [Frankreich](https://mapthenews.maps.arcgis.com/apps/opsdashboard/index.html#/5e09dff7cb434fb194e22261689e2887)
 * [Spanien](https://experience.arcgis.com/experience/50d6c4c5599a43f4bebf517daa3a97b6)
+* [Schweden](https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa)
 
 ## Todesfälle in der Schweiz
 * [Wikipedia](https://de.wikipedia.org/wiki/COVID-19-Pandemie_in_der_Schweiz#Todesf%C3%A4lle)
