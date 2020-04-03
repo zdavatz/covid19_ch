@@ -1,7 +1,6 @@
 date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,pos_tests_1,recovered,ncumul_confirmed_non_resident,ninst_hosp_non_resident,ninst_ICU_intub,ncumul_ICF,ncumul_deceased_suspect,lat,long,name_canton,number_canton,total_currently_positive_per_100k,deaths_per_100k
-2020-04-02,15:00,AG,,592,94,27,27.0,4,12,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200402_KFS_Coronavirus_Lagebulletin_25.pdf,,,,,,,,47.40966,8.15688,Aargau,01,88.23,1.788
 2020-04-02,03:00,FL,900,75,,,,1,,https://www.regierung.li/media/attachments/166-massnahmen-weiter-einhalten-0402.pdf?t=637214501732587547,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,194.3,
-2020-04-02,12:00,GE,12505,2845,424,62,54.0,283,67,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,,24.0,,46.220528,6.132935,Genève,25,574.52,13.53
+2020-04-02,12:00,GE,12505,2845,424,62,54.0,283,67,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,54.0,24.0,,46.220528,6.132935,Genève,25,574.52,13.53
 2020-04-02,16:00,JU,,145,27,4,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Chiffres-H-JU/Evolution-des-cas-COVID-19-dans-le-Jura.html,,,,,,,,47.350744,7.156107,Jura,26,197.82,
 2020-04-02,12:00,NE,,402,61,12,10.0,,11,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,225.84,6.18
 2020-04-02,16:00,NW,,76,,,,,,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,,46.926755,8.405302,Nidwalden,07,176.74,
@@ -11,6 +10,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-02,03:00,VD,,3796,386,83,,225,107,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,478.63,13.491
 2020-04-02,15:00,VS,,1218,135,23,21.0,88,40,https://www.vs.ch/documents/6756452/7008787/2020%2004%2002%20Sit%20Epid%20-%20%C3%89tat%20Stand.pdf,,,,,,,,46.209567,7.604659,Valais/Wallis,23,356.66,11.713
 2020-04-02,17:00,ZH,855,2323,200,,53.0,,36,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7,59.0,11,,,,,,47.41275,8.65508,Zürich,01,154.42,2.393
+2020-04-03,15:00,AG,,626,100,25,26.0,4,12,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200403_KFS_Coronavirus_Lagebulletin_26.pdf,,,,,,,,47.40966,8.15688,Aargau,01,93.29,1.788
 2020-04-03,11:00,AI,,20,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,124.22,
 2020-04-03,08:00,AR,,65,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,117.75,5.435
 2020-04-03,08:00,BE,,1073,109,30,26.0,,26,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,104.06,2.522

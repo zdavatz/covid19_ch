@@ -547,7 +547,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-01,10:00,BS,235,691,108,16,,323,18,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-691-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,404.0,20.0,,,,47.564869,7.615259,Basel-Stadt,12,356.37,9.283
 2020-04-01,03:00,FL,900,72,,,,1,,https://www.regierung.li/media/attachments/164-corona-schweizer-sanitaetssoldaten-0401.pdf?t=637213766824962451,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,186.53,
 2020-04-01,03:00,FR,30,525,81,23,,,23,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,166.61,7.299
-2020-04-01,12:00,GE,12243,2775,406,64,58.0,260,65,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,41.0,24.0,,46.220528,6.132935,Genève,25,560.38,13.126
+2020-04-01,12:00,GE,12243,2775,406,64,58.0,260,65,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,58.0,24.0,,46.220528,6.132935,Genève,25,560.38,13.126
 2020-04-01,13:30,GL,,56,5,,,,2,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,,,46.931042000000005,9.065751,Glarus,08,138.96,4.963
 2020-04-01,03:00,GR,,521,58,,,,21,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,263.26,10.611
 2020-04-01,16:00,JU,,144,29,5,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Chiffres-H-JU/Evolution-des-cas-COVID-19-dans-le-Jura.html,,,,,,,,47.350744,7.156107,Jura,26,196.45,
@@ -574,7 +574,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-02,10:00,BS,235,718,119,17,,350,19,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-718-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,409.0,24.0,,,,47.564869,7.615259,Basel-Stadt,12,370.29,9.799
 2020-04-02,03:00,FL,900,75,,,,1,,https://www.regierung.li/media/attachments/166-massnahmen-weiter-einhalten-0402.pdf?t=637214501732587547,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,194.3,
 2020-04-02,03:00,FR,30,550,80,23,,,26,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,174.55,8.251
-2020-04-02,12:00,GE,12505,2845,424,62,54.0,283,67,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,,24.0,,46.220528,6.132935,Genève,25,574.52,13.53
+2020-04-02,12:00,GE,12505,2845,424,62,54.0,283,67,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,54.0,24.0,,46.220528,6.132935,Genève,25,574.52,13.53
 2020-04-02,13:00,GL,,58,5,,,,2,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,,,46.931042000000005,9.065751,Glarus,08,143.92,4.963
 2020-04-02,03:00,GR,,569,59,,,,23,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,287.52,11.622
 2020-04-02,16:00,JU,,145,27,4,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Chiffres-H-JU/Evolution-des-cas-COVID-19-dans-le-Jura.html,,,,,,,,47.350744,7.156107,Jura,26,197.82,
@@ -593,6 +593,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-02,15:00,VS,,1218,135,23,21.0,88,40,https://www.vs.ch/documents/6756452/7008787/2020%2004%2002%20Sit%20Epid%20-%20%C3%89tat%20Stand.pdf,,,,,,,,46.209567,7.604659,Valais/Wallis,23,356.66,11.713
 2020-04-02,08:00,ZG,,131,1,,,41,1,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,104.47,0.797
 2020-04-02,17:00,ZH,855,2323,200,,53.0,,36,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7,59.0,11,,,,,,47.41275,8.65508,Zürich,01,154.42,2.393
+2020-04-03,15:00,AG,,626,100,25,26.0,4,12,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200403_KFS_Coronavirus_Lagebulletin_26.pdf,,,,,,,,47.40966,8.15688,Aargau,01,93.29,1.788
 2020-04-03,11:00,AI,,20,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,124.22,
 2020-04-03,08:00,AR,,65,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,117.75,5.435
 2020-04-03,08:00,BE,,1073,109,30,26.0,,26,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,104.06,2.522
