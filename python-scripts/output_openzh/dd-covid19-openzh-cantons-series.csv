@@ -597,7 +597,9 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-03,08:00,BE,,1073,109,30,26.0,,26,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,104.06,2.522
 2020-04-03,08:30,BS,235,748,115,17,,397,21,https://www.gd.bs.ch/nm/2020-tagesbulletin-coronavirus-748-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,420.0,22.0,,,,47.564869,7.615259,Basel-Stadt,12,385.77,10.83
 2020-04-03,03:00,FR,30,588,77,21,,,31,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,186.61,9.838
+2020-04-03,13:30,GL,,59,5,,,,2,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,,,46.931042000000005,9.065751,Glarus,08,146.4,4.963
 2020-04-03,03:00,GR,,598,60,,,,27,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,302.17,13.643
+2020-04-03,11:00,LU,,449,49,12,,,7,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,110.46,1.722
 2020-04-03,03:00,SO,,237,14,,,,3,https://corona.so.ch/,,,,,,,,47.304135,7.639388,Solothurn,11,87.32,1.105
 2020-04-03,03:00,SZ,10,164,1,,,75,4,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948,,,,,,,,47.061787,8.756585,Schwyz,05,104.26,2.543
 2020-04-03,03:00,TG,276,198,,,,,5,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,72.32,1.826
