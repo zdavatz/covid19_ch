@@ -1,6 +1,5 @@
 date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,pos_tests_1,recovered,ncumul_confirmed_non_resident,ninst_hosp_non_resident,ninst_ICU_intub,ncumul_ICF,ncumul_deceased_suspect,lat,long,name_canton,number_canton,total_currently_positive_per_100k,deaths_per_100k
 2020-04-02,03:00,FL,900,75,,,,1,,https://www.regierung.li/media/attachments/166-massnahmen-weiter-einhalten-0402.pdf?t=637214501732587547,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,194.3,
-2020-04-02,03:00,SG,,480,53,11,,49,8,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,95.11,1.585
 2020-04-02,08:00,SH,,47,18,3,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,,47.71357,8.59167,Schaffhausen,14,57.74,1.229
 2020-04-02,03:00,VD,,3796,386,83,,225,107,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,478.63,13.491
 2020-04-03,15:00,AG,,626,100,27,26.0,4,12,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200403_KFS_Coronavirus_Lagebulletin_26.pdf,,,,,,,,47.40966,8.15688,Aargau,01,93.29,1.788
@@ -18,6 +17,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-03,16:00,NE,,402,61,11,9.0,,11,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,225.84,6.18
 2020-04-03,15:50,NW,,79,,,,,,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,,46.926755,8.405302,Nidwalden,07,183.72,
 2020-04-03,03:00,OW,6,56,,,,,,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,148.94,
+2020-04-03,03:00,SG,,480,63,12,,50,8,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,95.11,1.585
 2020-04-03,03:00,SO,,237,17,,,,3,https://corona.so.ch/,,,,,,,,47.304135,7.639388,Solothurn,11,87.32,1.105
 2020-04-03,03:00,SZ,10,164,1,,,75,4,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948,,,,,,,,47.061787,8.756585,Schwyz,05,104.26,2.543
 2020-04-03,03:00,TG,276,198,,,,,5,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,72.32,1.826
