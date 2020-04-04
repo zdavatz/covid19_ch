@@ -647,6 +647,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-04,03:00,FL,900,77,,,,1,1,https://www.regierung.li/media/attachments/168-corona-person-verstorben-0404.pdf?t=637216219078826521,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,199.48,2.591
 2020-04-04,03:00,FR,30,638,89,21,,,37,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,202.48,11.742
 2020-04-04,12:00,GE,12505,3220,421,61,51.0,305,78,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,51.0,22.0,,46.220528,6.132935,Genève,25,650.24,15.751
+2020-04-04,16:00,JU,,153,24,3,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,,,,47.350744,7.156107,Jura,26,208.73,
 2020-04-04,11:00,LU,,469,49,12,,,7,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,115.38,1.722
 2020-04-04,16:00,NE,,433,59,10,9.0,,23,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,243.26,12.921
 2020-04-04,16:15,NW,,80,,,,,0,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,,46.926755,8.405302,Nidwalden,07,186.05,0.0

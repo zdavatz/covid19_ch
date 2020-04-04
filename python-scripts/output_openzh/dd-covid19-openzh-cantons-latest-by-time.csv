@@ -2,7 +2,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-03,15:00,AG,,626,100,27,26.0,4,12,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200403_KFS_Coronavirus_Lagebulletin_26.pdf,,,,,,,,47.40966,8.15688,Aargau,01,93.29,1.788
 2020-04-03,13:30,GL,,59,5,,,,2,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,,,46.931042000000005,9.065751,Glarus,08,146.4,4.963
 2020-04-03,03:00,GR,,598,60,,,,27,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,302.17,13.643
-2020-04-03,16:00,JU,,149,25,3,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Chiffres-H-JU/Evolution-des-cas-COVID-19-dans-le-Jura.html,,,,,,,,47.350744,7.156107,Jura,26,203.27,
 2020-04-03,03:00,OW,6,56,,,,,,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,148.94,
 2020-04-03,03:00,SH,,47,6,3,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,,47.71357,8.59167,Schaffhausen,14,57.74,1.229
 2020-04-03,03:00,VD,,3915,375,80,,225,123,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,493.63,15.509
@@ -14,6 +13,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-04,03:00,FL,900,77,,,,1,1,https://www.regierung.li/media/attachments/168-corona-person-verstorben-0404.pdf?t=637216219078826521,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,199.48,2.591
 2020-04-04,03:00,FR,30,638,89,21,,,37,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,202.48,11.742
 2020-04-04,12:00,GE,12505,3220,421,61,51.0,305,78,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,51.0,22.0,,46.220528,6.132935,Genève,25,650.24,15.751
+2020-04-04,16:00,JU,,153,24,3,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,,,,47.350744,7.156107,Jura,26,208.73,
 2020-04-04,11:00,LU,,469,49,12,,,7,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,115.38,1.722
 2020-04-04,16:00,NE,,433,59,10,9.0,,23,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,243.26,12.921
 2020-04-04,16:15,NW,,80,,,,,0,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,,46.926755,8.405302,Nidwalden,07,186.05,0.0
