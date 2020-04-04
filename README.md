@@ -24,6 +24,7 @@ Am 27. März 2020 Artikel von Adrienne Fichter in der [Republik](https://www.rep
 
 ## Visualisierung Covid19 Fälle für die Schweiz
 * [http://covid19.ddrobotec.com/](http://covid19.ddrobotec.com/)
+* [http://covidmap.ddrobotec.com/](http://covidmap.ddrobotec.com/)
 
 ## andere Esri Visualisierungen
 * [Schweiz](https://experience.arcgis.com/experience/115cd04485904fa7a5629b683a949390)
