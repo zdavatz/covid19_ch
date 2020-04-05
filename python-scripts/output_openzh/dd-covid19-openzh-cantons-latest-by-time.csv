@@ -5,10 +5,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-03,03:00,OW,6,56,,,,,,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,148.94,
 2020-04-03,03:00,VD,,3915,375,80,,225,123,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,493.63,15.509
 2020-04-04,11:00,AI,,21,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,130.43,
-2020-04-04,13:00,AR,,66,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,119.57,5.435
-2020-04-04,03:00,BL,,656,,,,298,19,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,228.57,6.62
 2020-04-04,03:00,FL,900,77,,,,1,1,https://www.regierung.li/media/attachments/168-corona-person-verstorben-0404.pdf?t=637216219078826521,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,199.48,2.591
-2020-04-04,03:00,FR,30,638,89,21,,,37,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,202.48,11.742
 2020-04-04,12:00,GE,12505,3220,421,61,51.0,305,78,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,51.0,22.0,,46.220528,6.132935,Genève,25,650.24,15.751
 2020-04-04,16:00,JU,,153,24,3,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,,,,47.350744,7.156107,Jura,26,208.73,
 2020-04-04,11:00,LU,,469,49,12,,,7,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,115.38,1.722
@@ -20,8 +17,11 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-04,15:00,VS,,1319,142,26,21.0,95,51,https://www.vs.ch/documents/6756452/7008787/2020%2004%2004%20Sit%20Epid%20-%20État%20Stand,,,,,,,,46.209567,7.604659,Valais/Wallis,23,386.24,14.934
 2020-04-04,08:00,ZG,,146,1,,,46,2,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,116.43,1.595
 2020-04-04,15:00,ZH,855,2492,194,,59.0,,41,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7,59.0,11,,,,,,47.41275,8.65508,Zürich,01,165.66,2.726
+2020-04-05,13:00,AR,,67,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,121.38,5.435
 2020-04-05,08:00,BE,,1137,110,30,25.0,,28,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,110.27,2.716
+2020-04-05,03:00,BL,,670,,,,369,19,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,233.45,6.62
 2020-04-05,10:15,BS,235,794,106,15,,460,26,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-794-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,436.0,22.0,,,,47.564869,7.615259,Basel-Stadt,12,409.49,13.409
+2020-04-05,03:00,FR,30,669,87,20,,,40,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,212.31,12.694
 2020-04-05,03:00,SG,,515,79,13,,62,9,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,102.04,1.783
 2020-04-05,03:00,SO,,258,16,,,,3,https://corona.so.ch/,,,,,,,,47.304135,7.639388,Solothurn,11,95.06,1.105
 2020-04-05,03:00,SZ,10,170,1,,,93,5,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948,,,,,,,,47.061787,8.756585,Schwyz,05,108.07,3.179
