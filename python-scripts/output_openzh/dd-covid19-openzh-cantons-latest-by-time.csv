@@ -5,8 +5,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-03,03:00,OW,6,56,,,,,,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,148.94,
 2020-04-04,11:00,AI,,21,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,130.43,
 2020-04-04,03:00,FL,900,77,,,,1,1,https://www.regierung.li/media/attachments/168-corona-person-verstorben-0404.pdf?t=637216219078826521,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,199.48,2.591
-2020-04-04,12:00,GE,12505,3220,421,61,51.0,305,78,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,51.0,22.0,,46.220528,6.132935,Genève,25,650.24,15.751
-2020-04-04,16:00,JU,,153,24,3,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,,,,47.350744,7.156107,Jura,26,208.73,
 2020-04-04,16:00,NE,,433,59,10,9.0,,23,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,243.26,12.921
 2020-04-04,03:00,SH,,47,12,3,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,,47.71357,8.59167,Schaffhausen,14,57.74,1.229
 2020-04-04,03:00,VD,,4035,373,80,,225,138,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,508.76,17.4
@@ -17,6 +15,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-05,03:00,BL,,670,,,,369,19,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,233.45,6.62
 2020-04-05,10:15,BS,235,794,106,15,,460,26,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-794-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,436.0,22.0,,,,47.564869,7.615259,Basel-Stadt,12,409.49,13.409
 2020-04-05,03:00,FR,30,669,87,20,,,40,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,212.31,12.694
+2020-04-05,16:00,JU,,156,25,3,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,,,,47.350744,7.156107,Jura,26,212.82,
 2020-04-05,11:00,LU,,478,49,12,,,9,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,117.59,2.214
 2020-04-05,15:55,NW,,80,,,,,0,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,,46.926755,8.405302,Nidwalden,07,186.05,0.0
 2020-04-05,03:00,SG,,515,79,13,,62,9,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,102.04,1.783
@@ -26,3 +25,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-05,08:00,TI,,2508,363,72,67.0,314,177,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187575&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=4b3f64139a9dd36b9fd30a1ace23654a,68.0,,,,,,,46.295617,8.808924,Ticino,21,709.08,50.042
 2020-04-05,17:00,UR,85,67,5,,,26,2,https://www.ur.ch/themen/2920,,,,,,,,46.771849,8.628586,Uri,04,184.57,5.51
 2020-04-05,03:00,VS,,1356,142,26,,95,53,https://www.vs.ch/de/web/coronavirus,,,,,,,,46.209567,7.604659,Valais/Wallis,23,397.07,15.52
+2020-05-04,12:00,GE,12505,3384,424,56,50.0,327,83,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,51.0,22.0,,46.220528,6.132935,Genève,25,683.36,16.761
