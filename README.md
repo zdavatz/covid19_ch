@@ -14,6 +14,8 @@ Am 26. März 2020 nochmals ein [Blick Artikel](https://www.blick.ch/news/schweiz
 
 Am 27. März 2020 Artikel von Adrienne Fichter in der [Republik](https://www.republik.ch/2020/03/27/bald-ausgefaxt-bag-modernisiert-prozesse-fuer-datenerhebung) zum Thema "Bald ausgefaxt? BAG modernisiert Prozesse für Datenerhebung".
 
+Am 4. April 2020 geht [covidmap.ddrobotec.com](https://covidmap.ddrobotec.com) online. Siehe auch [covidtracker.ch](covidtracker.ch)
+
 ## Datenaufbereitung
 
 #### Latest Covid19 Data per Canton
@@ -40,6 +42,7 @@ Am 27. März 2020 Artikel von Adrienne Fichter in der [Republik](https://www.rep
 * [Wikipedia](https://de.wikipedia.org/wiki/COVID-19-Pandemie_in_der_Schweiz#Todesf%C3%A4lle)
 
 ## Datenquellen
+* [Covidtracker.ch](https://swiss-corona-geohub-npgeo-ch.hub.arcgis.com/datasets/dc64c2bad9c94195b8fcdddfae550560_0/data?geometry=1.193%2C45.491%2C15.255%2C48.122)
 * [Baryluk CSV Output Scraper](https://www.functor.xyz/covid_19/scrapers/outputs/latest.csv)
 * [Daten gesammelt durch das Statistische Amt des Kanton Zürich](https://github.com/openZH/covid_19/#covid-19-cases-communicated-by-swiss-cantons-and-principality-of-liechtenstein-fl)
 * [Dänu Probst](https://github.com/daenuprobst/covid19-cases-switzerland)
