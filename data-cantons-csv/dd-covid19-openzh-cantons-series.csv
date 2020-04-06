@@ -669,6 +669,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-05,03:00,FL,900,77,,,,1,1,https://www.regierung.li/de/mitteilungen/223366/?typ=news,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,199.48,2.591
 2020-04-05,03:00,FR,30,669,87,20,,,40,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,212.31,12.694
 2020-04-05,12:00,GE,12505,3384,424,56,50.0,327,83,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,50.0,26.0,,46.220528,6.132935,Genève,25,683.36,16.761
+2020-04-05,03:00,GR,,646,49,,,,30,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,326.43,15.159
 2020-04-05,16:00,JU,,156,25,3,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,,,,47.350744,7.156107,Jura,26,212.82,
 2020-04-05,11:00,LU,,478,49,12,,,9,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,117.59,2.214
 2020-04-05,16:00,NE,,433,58,12,8.0,,24,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,243.26,13.483
@@ -681,4 +682,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-05,17:00,UR,85,67,5,,,26,2,https://www.ur.ch/themen/2920,,,,,,,,46.771849,8.628586,Uri,04,184.57,5.51
 2020-04-05,15:00,VS,,1356,151,26,21.0,95,53,https://www.vs.ch/documents/6756452/7008787/2020%2004%2005%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,,,46.209567,7.604659,Valais/Wallis,23,397.07,15.52
 2020-04-05,15:00,ZH,855,2522,194,,59.0,,45,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus/_jcr_content/contentPar/downloadlist_0/downloaditems/gesundheitsdirektion.spooler.download.1586099044818.pdf/gd_zh_corona_lagebulletin.pdf,59.0,11,,,,,,47.41275,8.65508,Zürich,01,167.65,2.991
+2020-04-06,13:00,AR,,69,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,125.0,5.435
+2020-04-06,08:00,BE,,1173,117,35,30.0,,31,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,113.76,3.006
 2020-04-06,08:00,ZG,,152,1,,,52,3,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,121.21,2.392
