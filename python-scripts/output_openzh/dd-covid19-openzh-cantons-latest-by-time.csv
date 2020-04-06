@@ -1,28 +1,28 @@
 date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,pos_tests_1,recovered,ncumul_confirmed_non_resident,ninst_hosp_non_resident,ninst_ICU_intub,ncumul_ICF,ncumul_deceased_suspect,lat,long,name_canton,number_canton,total_currently_positive_per_100k,deaths_per_100k
-2020-04-03,15:00,AG,,626,100,27,26.0,4,12,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200403_KFS_Coronavirus_Lagebulletin_26.pdf,,,,,,,,47.40966,8.15688,Aargau,01,93.29,1.788
-2020-04-03,03:00,OW,6,56,,,,,,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,148.94,
 2020-04-05,03:00,FL,900,77,,,,1,1,https://www.regierung.li/de/mitteilungen/223366/?typ=news,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,199.48,2.591
 2020-04-05,03:00,FR,30,669,87,20,,,40,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,212.31,12.694
-2020-04-05,12:00,GE,12505,3384,424,56,50.0,327,83,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,50.0,26.0,,46.220528,6.132935,Genève,25,683.36,16.761
 2020-04-05,03:00,GR,,646,49,,,,30,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,326.43,15.159
 2020-04-05,16:00,JU,,156,25,3,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,,,,47.350744,7.156107,Jura,26,212.82,
 2020-04-05,16:00,NE,,433,58,12,8.0,,24,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,243.26,13.483
 2020-04-05,03:00,SH,,49,12,3,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,,47.71357,8.59167,Schaffhausen,14,60.2,1.229
-2020-04-05,08:00,TI,,2508,362,74,61.0,340,177,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187576&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=7486178287491dbfa00376059224e150,68.0,,,,61.0,,,46.295617,8.808924,Ticino,21,709.08,50.042
 2020-04-05,03:00,VD,,4115,377,78,,225,147,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,518.85,18.535
-2020-04-05,15:00,VS,,1356,151,26,21.0,95,53,https://www.vs.ch/documents/6756452/7008787/2020%2004%2005%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,,,46.209567,7.604659,Valais/Wallis,23,397.07,15.52
 2020-04-05,15:00,ZH,855,2522,194,,59.0,,45,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus/_jcr_content/contentPar/downloadlist_0/downloaditems/gesundheitsdirektion.spooler.download.1586099044818.pdf/gd_zh_corona_lagebulletin.pdf,59.0,11,,,,,,47.41275,8.65508,Zürich,01,167.65,2.991
+2020-04-06,15:00,AG,,727,82,25,24.0,4,13,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200406_KFS_Coronavirus_Lagebulletin_27.pdf,,,,,,,,47.40966,8.15688,Aargau,01,108.35,1.937
 2020-04-06,11:00,AI,,21,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,130.43,
 2020-04-06,08:00,AR,,69,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,125.0,5.435
 2020-04-06,08:00,BE,,1173,117,35,30.0,,31,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,113.76,3.006
 2020-04-06,03:00,BL,,682,,,,412,19,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,237.63,6.62
 2020-04-06,11:00,BS,235,803,99,13,,481,26,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-803-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,438.0,21.0,,,,47.564869,7.615259,Basel-Stadt,12,414.13,13.409
+2020-04-06,12:00,GE,12505,3439,418,56,50.0,345,92,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,50.0,24.0,,46.220528,6.132935,Genève,25,694.47,18.578
 2020-04-06,13:30,GL,,63,2,,,,2,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,,,46.931042000000005,9.065751,Glarus,08,156.33,4.963
 2020-04-06,11:00,LU,,497,49,12,,,9,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,122.26,2.214
 2020-04-06,15:15,NW,,86,,,,,0,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,,46.926755,8.405302,Nidwalden,07,200.0,0.0
+2020-04-06,15:00,OW,6,60,,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,159.57,0.0
 2020-04-06,03:00,SG,,532,70,12,,75,11,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,105.41,2.18
 2020-04-06,03:00,SO,,261,26,,,,3,https://corona.so.ch/,,,,,,,,47.304135,7.639388,Solothurn,11,96.17,1.105
 2020-04-06,03:00,SZ,10,178,1,,,93,6,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948,,,,,,,,47.061787,8.756585,Schwyz,05,113.16,3.814
 2020-04-06,03:00,TG,276,219,34,14,,,7,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,79.99,2.557
+2020-04-06,08:00,TI,,2546,357,72,62.0,350,189,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187585&cHash=71dae3c15afd6b09d15f28f43d415af1,68.0,,,,62.0,,,46.295617,8.808924,Ticino,21,719.82,53.435
 2020-04-06,14:00,UR,85,67,9,,,34,2,https://www.ur.ch/themen/2920,,,,,,,,46.771849,8.628586,Uri,04,184.57,5.51
+2020-04-06,03:00,VS,,1400,151,26,,95,56,https://www.vs.ch/de/web/coronavirus,,,,,,,,46.209567,7.604659,Valais/Wallis,23,409.96,16.398
 2020-04-06,08:00,ZG,,152,1,,,52,3,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,121.21,2.392
