@@ -7,7 +7,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-05,03:00,GR,,646,49,,,,30,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,326.43,15.159
 2020-04-05,16:00,JU,,156,25,3,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,,,,47.350744,7.156107,Jura,26,212.82,
 2020-04-05,16:00,NE,,433,58,12,8.0,,24,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,243.26,13.483
-2020-04-05,15:55,NW,,80,,,,,0,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,,46.926755,8.405302,Nidwalden,07,186.05,0.0
 2020-04-05,03:00,SH,,49,12,3,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,,47.71357,8.59167,Schaffhausen,14,60.2,1.229
 2020-04-05,08:00,TI,,2508,362,74,61.0,340,177,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187576&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=7486178287491dbfa00376059224e150,68.0,,,,61.0,,,46.295617,8.808924,Ticino,21,709.08,50.042
 2020-04-05,03:00,VD,,4115,377,78,,225,147,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,518.85,18.535
@@ -20,6 +19,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-06,11:00,BS,235,803,99,13,,481,26,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-803-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,438.0,21.0,,,,47.564869,7.615259,Basel-Stadt,12,414.13,13.409
 2020-04-06,13:30,GL,,63,2,,,,2,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,,,46.931042000000005,9.065751,Glarus,08,156.33,4.963
 2020-04-06,11:00,LU,,497,49,12,,,9,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,122.26,2.214
+2020-04-06,15:15,NW,,86,,,,,0,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,,46.926755,8.405302,Nidwalden,07,200.0,0.0
 2020-04-06,03:00,SG,,532,70,12,,75,11,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,105.41,2.18
 2020-04-06,03:00,SO,,261,26,,,,3,https://corona.so.ch/,,,,,,,,47.304135,7.639388,Solothurn,11,96.17,1.105
 2020-04-06,03:00,SZ,10,178,1,,,93,6,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948,,,,,,,,47.061787,8.756585,Schwyz,05,113.16,3.814
