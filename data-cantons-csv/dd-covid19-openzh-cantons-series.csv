@@ -684,6 +684,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-05,03:00,VD,,4115,377,78,,225,147,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,518.85,18.535
 2020-04-05,15:00,VS,,1356,151,26,21.0,95,53,https://www.vs.ch/documents/6756452/7008787/2020%2004%2005%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,,,46.209567,7.604659,Valais/Wallis,23,397.07,15.52
 2020-04-05,15:00,ZH,855,2522,194,,59.0,,45,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus/_jcr_content/contentPar/downloadlist_0/downloaditems/gesundheitsdirektion.spooler.download.1586099044818.pdf/gd_zh_corona_lagebulletin.pdf,59.0,11,,,,,,47.41275,8.65508,Zürich,01,167.65,2.991
+2020-04-06,11:00,AI,,21,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,130.43,
 2020-04-06,08:00,AR,,69,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,125.0,5.435
 2020-04-06,08:00,BE,,1173,117,35,30.0,,31,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,113.76,3.006
 2020-04-06,03:00,BL,,682,,,,412,19,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,237.63,6.62
@@ -694,4 +695,5 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-06,03:00,SO,,261,26,,,,3,https://corona.so.ch/,,,,,,,,47.304135,7.639388,Solothurn,11,96.17,1.105
 2020-04-06,03:00,SZ,10,178,1,,,93,6,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948,,,,,,,,47.061787,8.756585,Schwyz,05,113.16,3.814
 2020-04-06,03:00,TG,276,219,34,14,,,7,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,79.99,2.557
+2020-04-06,14:00,UR,85,67,9,,,34,2,https://www.ur.ch/themen/2920,,,,,,,,46.771849,8.628586,Uri,04,184.57,5.51
 2020-04-06,08:00,ZG,,152,1,,,52,3,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,121.21,2.392
