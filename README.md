@@ -14,7 +14,7 @@ Am 26. März 2020 nochmals ein [Blick Artikel](https://www.blick.ch/news/schweiz
 
 Am 27. März 2020 Artikel von Adrienne Fichter in der [Republik](https://www.republik.ch/2020/03/27/bald-ausgefaxt-bag-modernisiert-prozesse-fuer-datenerhebung) zum Thema "Bald ausgefaxt? BAG modernisiert Prozesse für Datenerhebung".
 
-Am 4. April 2020 geht [covidmap.ddrobotec.com](https://covidmap.ddrobotec.com) online. Siehe auch [covidtracker.ch](covidtracker.ch)
+Am 4. April 2020 geht [covidmap.ddrobotec.com](https://covidmap.ddrobotec.com) online. Siehe auch [covidtracker.ch](https://covidtracker.ch)
 
 ## Datenaufbereitung
 
