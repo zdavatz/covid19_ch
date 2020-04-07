@@ -710,9 +710,12 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-06,08:00,ZG,,152,1,,,52,3,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,121.21,2.392
 2020-04-06,15:00,ZH,855,2590,198,,58.0,,48,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus/_jcr_content/contentPar/downloadlist_0/downloaditems/gesundheitsdirektion.spooler.download.1586183199658.pdf/gd_zh_corona_lagebulletin.pdf,59.0,11,,,,,,47.41275,8.65508,Zürich,01,172.17,3.191
 2020-04-07,08:00,AR,,69,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,125.0,5.435
-2020-04-07,09:30,BS,235,813,83,13,,508,28,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-813-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,,,47.564869,7.615259,Basel-Stadt,12,419.29,14.44
+2020-04-07,08:00,BE,,1228,122,34,26.0,,33,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,119.1,3.2
+2020-04-07,09:30,BS,235,813,101,13,,508,28,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-813-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,442.0,18.0,,,,47.564869,7.615259,Basel-Stadt,12,419.29,14.44
+2020-04-07,03:00,FR,30,729,78,22,,,44,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,231.36,13.964
 2020-04-07,03:00,SG,,557,65,9,,79,13,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,110.36,2.576
 2020-04-07,03:00,SO,,264,26,,,,3,https://corona.so.ch/,,,,,,,,47.304135,7.639388,Solothurn,11,97.27,1.105
 2020-04-07,03:00,SZ,10,185,1,,,105,7,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948,,,,,,,,47.061787,8.756585,Schwyz,05,117.61,4.45
 2020-04-07,03:00,TG,276,221,33,13,,,8,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,80.72,2.922
+2020-04-07,08:00,TI,,2599,357,72,62.0,350,198,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187585&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=4bf78e02dc8ee0d240e06c4603f5605c,68.0,,,,,,,46.295617,8.808924,Ticino,21,734.8,55.98
 2020-04-07,08:00,ZG,,157,1,,,54,3,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,125.2,2.392
