@@ -5,10 +5,8 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-06,11:00,AI,,21,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,130.43,
 2020-04-06,03:00,BL,,682,,,,412,19,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,237.63,6.62
 2020-04-06,12:00,GE,12505,3439,418,56,50.0,345,92,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,50.0,24.0,,46.220528,6.132935,Genève,25,694.47,18.578
-2020-04-06,13:30,GL,,63,2,,,,2,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,,,46.931042000000005,9.065751,Glarus,08,156.33,4.963
 2020-04-06,03:00,GR,,657,52,,,,31,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,331.99,15.664
 2020-04-06,16:00,JU,,160,22,3,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Chiffres-H-JU/Evolution-des-cas-COVID-19-dans-le-Jura.html,,,,,,,,47.350744,7.156107,Jura,26,218.28,
-2020-04-06,11:00,LU,,497,61,6,,,9,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,122.26,2.214
 2020-04-06,16:00,NE,,459,59,10,8.0,,27,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,257.87,15.169
 2020-04-06,15:15,NW,,86,9,2,,,0,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,,46.926755,8.405302,Nidwalden,07,200.0,0.0
 2020-04-06,15:00,OW,6,60,,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,159.57,0.0
@@ -20,6 +18,8 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-07,08:00,BE,,1228,122,34,26.0,,33,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,119.1,3.2
 2020-04-07,09:30,BS,235,813,101,13,,508,28,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-813-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,442.0,18.0,,,,47.564869,7.615259,Basel-Stadt,12,419.29,14.44
 2020-04-07,03:00,FR,30,729,78,22,,,44,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,231.36,13.964
+2020-04-07,13:00,GL,,63,2,,,,2,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,,,46.931042000000005,9.065751,Glarus,08,156.33,4.963
+2020-04-07,11:00,LU,,509,61,6,,,9,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,125.22,2.214
 2020-04-07,03:00,SG,,557,65,9,,79,13,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,110.36,2.576
 2020-04-07,03:00,SO,,264,26,,,,3,https://corona.so.ch/,,,,,,,,47.304135,7.639388,Solothurn,11,97.27,1.105
 2020-04-07,03:00,SZ,10,185,1,,,105,7,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948,,,,,,,,47.061787,8.756585,Schwyz,05,117.61,4.45
