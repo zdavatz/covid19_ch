@@ -2,7 +2,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-05,03:00,FL,900,77,,,,1,1,https://www.regierung.li/de/mitteilungen/223366/?typ=news,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,199.48,2.591
 2020-04-06,03:00,GR,,657,52,,,,31,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,331.99,15.664
 2020-04-06,03:00,VD,,4155,378,81,,225,160,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,523.89,20.174
-2020-04-06,15:00,ZH,855,2590,198,,58.0,,48,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus/_jcr_content/contentPar/downloadlist_0/downloaditems/gesundheitsdirektion.spooler.download.1586183199658.pdf/gd_zh_corona_lagebulletin.pdf,59.0,11,,,,,,47.41275,8.65508,Zürich,01,172.17,3.191
 2020-04-07,14:45,AG,,760,84,25,25.0,4,16,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200407_KFS_Coronavirus_Lagebulletin_28.pdf,,,,,,,,47.40966,8.15688,Aargau,01,113.26,2.385
 2020-04-07,11:00,AI,,21,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,130.43,
 2020-04-07,08:00,AR,,69,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,125.0,5.435
@@ -26,3 +25,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-07,14:00,UR,85,68,7,,,42,2,https://www.ur.ch/themen/2920,,,,,,,,46.771849,8.628586,Uri,04,187.33,5.51
 2020-04-07,15:00,VS,,1436,134,25,21.0,123,61,https://www.vs.ch/documents/6756452/7008787/2020%2004%2007%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,,,46.209567,7.604659,Valais/Wallis,23,420.5,17.862
 2020-04-07,08:00,ZG,,157,1,,,54,3,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,125.2,2.392
+2020-04-07,15:00,ZH,855,2719,181,,60.0,,52,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,59.0,11,,,,,,47.41275,8.65508,Zürich,01,180.75,3.457

@@ -733,3 +733,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-07,14:00,UR,85,68,7,,,42,2,https://www.ur.ch/themen/2920,,,,,,,,46.771849,8.628586,Uri,04,187.33,5.51
 2020-04-07,15:00,VS,,1436,134,25,21.0,123,61,https://www.vs.ch/documents/6756452/7008787/2020%2004%2007%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,,,46.209567,7.604659,Valais/Wallis,23,420.5,17.862
 2020-04-07,08:00,ZG,,157,1,,,54,3,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,125.2,2.392
+2020-04-07,15:00,ZH,855,2719,181,,60.0,,52,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,59.0,11,,,,,,47.41275,8.65508,Zürich,01,180.75,3.457
