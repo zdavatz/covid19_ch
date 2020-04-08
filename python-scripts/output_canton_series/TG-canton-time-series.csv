@@ -1,25 +1,25 @@
 ,last_update,timestamp,tests_performed,abbreviation_canton,name_canton,number_canton,lat,long,total_positive_cases,total_currently_positive_cases,total_hospitalized,new_positive_cases,intensive_care,ncumul_vent,total_currently_positive_per_100k,deaths_per_100k,ncumul_ICU_intub,released,recovered,deaths,pos_tests_1,ncumul_confirmed_non_resident,ninst_hosp_non_resident,ninst_ICU_intub,ncumul_ICF,ncumul_deceased_suspect,source,doubling_time_total_positive,doubling_time_fatalities
-220,2020-04-08 11:03:15,2020-03-16 02:00:00,246,TG,Thurgau,01,47.568715,9.091957,17,17,,0,,,6.21,,0,,,,,,,,,,,0.0,0.0
-237,2020-04-08 11:03:15,2020-03-17 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,23,23,,0,,,8.4,,0,,,,,,,,,,,0.0,0.0
-256,2020-04-08 11:03:15,2020-03-18 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,32,32,,0,,,11.69,,0,,,,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,0.0,0.0
-275,2020-04-08 11:03:15,2020-03-19 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,36,36,,0,,,13.15,,0,,,,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,0.0,0.0
-296,2020-04-08 11:03:15,2020-03-20 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,49,49,,0,,,17.9,,0,,,,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,0.0,0.0
-315,2020-04-08 11:03:15,2020-03-21 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,56,56,,0,,,20.45,,0,,,,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,2.907159,0.0
-332,2020-04-08 11:03:15,2020-03-22 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,75,75,,0,,,27.39,,0,,,,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,2.93211,0.0
-352,2020-04-08 11:03:15,2020-03-23 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,81,81,,0,,,29.58,,0,,,,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,3.731761,0.0
-377,2020-04-08 11:03:15,2020-03-24 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,87,87,,0,,,31.78,0.365,0,,,1,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552 & https://www.tg.ch/news/news-detailseite.html/485/news/44925,3.927673,0.0
-404,2020-04-08 11:03:15,2020-03-25 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,96,96,,0,,,35.06,0.365,0,,,1,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,5.153297,0.0
-430,2020-04-08 11:03:15,2020-03-26 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,110,110,,0,,,40.18,0.365,0,,,1,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,5.133445,0.0
-456,2020-04-08 11:03:15,2020-03-27 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,117,117,,0,,,42.73,0.73,0,,,2,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552 & email der Staatskanzlei des Kanton Thurgau,7.793673,0.0
-480,2020-04-08 11:03:15,2020-03-28 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,134,134,,0,,,48.94,0.73,0,,,2,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,6.884784,0.0
-501,2020-04-08 11:03:15,2020-03-29 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,138,138,,0,,,50.4,0.73,0,,,2,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,7.512234,5.0
-526,2020-04-08 11:03:15,2020-03-30 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,148,148,,0,,,54.05,0.73,0,,,2,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,8.006522,5.0
-553,2020-04-08 11:03:15,2020-03-31 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,154,154,,0,,,56.25,1.096,0,,,3,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,10.300214,3.154649
-579,2020-04-08 11:03:15,2020-04-01 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,166,166,,0,,,60.63,1.461,0,,,4,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,9.907372,5.0
-606,2020-04-08 11:03:15,2020-04-02 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,179,179,,0,,,65.38,1.461,0,,,4,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,11.969552,5.0
-633,2020-04-08 11:03:15,2020-04-03 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,198,198,,0,,,72.32,1.826,0,,,5,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,9.600022,3.782354
-656,2020-04-08 11:03:15,2020-04-04 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,208,208,,0,,,75.97,1.826,0,,,5,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,10.183582,3.782354
-679,2020-04-08 11:03:15,2020-04-05 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,213,213,,0,,,77.79,2.557,0,,,7,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,10.685517,4.090339
-704,2020-04-08 11:03:15,2020-04-06 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,219,219,34,0,14,,79.99,2.557,0,,,7,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,12.507892,6.193063
-730,2020-04-08 11:03:15,2020-04-07 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,221,221,33,0,13,,80.72,2.922,0,,,8,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,16.442675,5.0
-744,2020-04-08 11:03:15,2020-04-08 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,236,236,30,0,15,,86.19,2.922,0,,,8,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,19.740497,7.373849
+220,2020-04-08 12:03:58,2020-03-16 02:00:00,246,TG,Thurgau,01,47.568715,9.091957,17,17,,0,,,6.21,,0,,,,,,,,,,,0.0,0.0
+237,2020-04-08 12:03:58,2020-03-17 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,23,23,,0,,,8.4,,0,,,,,,,,,,,0.0,0.0
+256,2020-04-08 12:03:58,2020-03-18 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,32,32,,0,,,11.69,,0,,,,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,0.0,0.0
+275,2020-04-08 12:03:58,2020-03-19 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,36,36,,0,,,13.15,,0,,,,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,0.0,0.0
+296,2020-04-08 12:03:58,2020-03-20 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,49,49,,0,,,17.9,,0,,,,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,0.0,0.0
+315,2020-04-08 12:03:58,2020-03-21 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,56,56,,0,,,20.45,,0,,,,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,2.907159,0.0
+332,2020-04-08 12:03:58,2020-03-22 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,75,75,,0,,,27.39,,0,,,,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,2.93211,0.0
+352,2020-04-08 12:03:58,2020-03-23 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,81,81,,0,,,29.58,,0,,,,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,3.731761,0.0
+377,2020-04-08 12:03:58,2020-03-24 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,87,87,,0,,,31.78,0.365,0,,,1,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552 & https://www.tg.ch/news/news-detailseite.html/485/news/44925,3.927673,0.0
+404,2020-04-08 12:03:58,2020-03-25 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,96,96,,0,,,35.06,0.365,0,,,1,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,5.153297,0.0
+430,2020-04-08 12:03:58,2020-03-26 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,110,110,,0,,,40.18,0.365,0,,,1,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,5.133445,0.0
+456,2020-04-08 12:03:58,2020-03-27 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,117,117,,0,,,42.73,0.73,0,,,2,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552 & email der Staatskanzlei des Kanton Thurgau,7.793673,0.0
+480,2020-04-08 12:03:58,2020-03-28 02:00:00,276,TG,Thurgau,01,47.568715,9.091957,134,134,,0,,,48.94,0.73,0,,,2,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,6.884784,0.0
+501,2020-04-08 12:03:58,2020-03-29 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,138,138,,0,,,50.4,0.73,0,,,2,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,7.512234,5.0
+526,2020-04-08 12:03:58,2020-03-30 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,148,148,,0,,,54.05,0.73,0,,,2,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,8.006522,5.0
+553,2020-04-08 12:03:58,2020-03-31 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,154,154,,0,,,56.25,1.096,0,,,3,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,10.300214,3.154649
+579,2020-04-08 12:03:58,2020-04-01 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,166,166,,0,,,60.63,1.461,0,,,4,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,9.907372,5.0
+606,2020-04-08 12:03:58,2020-04-02 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,179,179,,0,,,65.38,1.461,0,,,4,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,11.969552,5.0
+633,2020-04-08 12:03:58,2020-04-03 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,198,198,,0,,,72.32,1.826,0,,,5,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,9.600022,3.782354
+656,2020-04-08 12:03:58,2020-04-04 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,208,208,,0,,,75.97,1.826,0,,,5,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,10.183582,3.782354
+679,2020-04-08 12:03:58,2020-04-05 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,213,213,,0,,,77.79,2.557,0,,,7,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,10.685517,4.090339
+704,2020-04-08 12:03:58,2020-04-06 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,219,219,34,0,14,,79.99,2.557,0,,,7,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,12.507892,6.193063
+730,2020-04-08 12:03:58,2020-04-07 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,221,221,33,0,13,,80.72,2.922,0,,,8,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,16.442675,5.0
+745,2020-04-08 12:03:58,2020-04-08 01:00:00,276,TG,Thurgau,01,47.568715,9.091957,236,236,30,0,15,,86.19,2.922,0,,,8,,,,,,,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,19.740497,7.373849
