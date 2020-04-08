@@ -752,4 +752,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-04-08,03:00,TG,276,236,30,15,,,8,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,86.19,2.922
 2020-04-08,08:00,TI,,2659,335,72,65.0,388,211,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187590&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=74f46e50afcb7666b4b35b08a6f96f22,68.0,,,,,,,46.295617,8.808924,Ticino,21,751.77,59.655
 2020-04-08,14:00,UR,85,72,5,,,42,4,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,198.35,11.019
+2020-04-08,03:00,VS,,1484,134,25,,123,68,https://www.vs.ch/de/web/coronavirus,,,,,,,,46.209567,7.604659,Valais/Wallis,23,434.55,19.912
 2020-04-08,08:00,ZG,,162,1,,,61,3,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,129.19,2.392
+2020-04-08,15:00,ZH,855,2807,170,,56.0,,57,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,59.0,11,,,,,,47.41275,8.65508,Zürich,01,186.6,3.789
