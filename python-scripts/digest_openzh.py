@@ -252,7 +252,10 @@ def reorder_columns(df):
     df = df.loc[:, cols]
     
     df.insert(9, 'total_currently_positive_cases', df['total_positive_cases'])
-    df.insert(11, 'new_positive_cases', 0)
+    if 'new_positive_cases' in df.columns:
+        cols.insert(11, cols.pop(cols.index('new_positive_cases')))
+    else:
+        df.insert(11, 'new_positive_cases', 0)
     df.insert(16, 'ncumul_ICU_intub', 0)  # Ensures backwards compatibility, this field was removed by openzh
     
     # Merge column "intensive_care"/"ncumul_ICU" and "ncumul_vent". ncumul_ICU > ncumul_vent because ncumul_ICU includes ncumul_vent if ncumul_ICU>0
@@ -268,6 +271,7 @@ def reorder_columns(df):
         'released': 'Int64',
         'deaths': 'Int64',
         'new_hosp': 'Int64',
+        'ncumul_vent': 'Int64',
         })
 
     df.insert(0, 'timestamp', df['date'] + " " + df['time'])
@@ -319,7 +323,12 @@ def aggregate_latest_by_abbrevation_canton(df):
         series = series.append(add_doubling_times(df.loc[idx]))
     df = series
 
-    # Get indeces of most recent entriese
+    # Calculate new positives
+    df['new_positive_cases'] = df.groupby(['abbreviation_canton'])['total_positive_cases'].diff(periods=1).astype('Int64')
+    # Calculate new hospitalized
+    df['new_hosp'] = df.groupby(['abbreviation_canton'])['total_hospitalized'].diff(periods=1).astype('Int64')
+
+    # Get indices of most recent entries
     idx = df.groupby(['abbreviation_canton'])['date'].transform(max) == df['date']   
     df = df[idx]
 
@@ -329,6 +338,7 @@ def aggregate_latest_by_abbrevation_canton(df):
 
     # Reorder columns
     df = reorder_columns(df)
+  
     # First pop column then reinsert
     df_source = df.pop('source')
     df['source'] = df_source
