@@ -46,9 +46,9 @@ start_date = datetime.datetime(2020,2,25)
 # Using data provided by OpenZH: Statistische Amt, Kanton Zuerich on Github
 # https://github.com/openZH/covid_19
 
-openZH_base_url = 'https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_total_csv_v2/'
+openZH_base_url = 'https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_total_csv/'
 openZH_per_canton_format = 'COVID19_Fallzahlen_Kanton_%s_total.csv'
-openZH_per_country_format = 'COVID19_Fallzahlen_%s_total_v2.csv'
+openZH_per_country_format = 'COVID19_Fallzahlen_%s_total.csv'
 
 # Latest data per canton 
 # https://github.com/daenuprobst/covid19-cases-switzerland
