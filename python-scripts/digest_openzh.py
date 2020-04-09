@@ -245,9 +245,7 @@ def reorder_columns(df):
     cols.insert(6, cols.pop(cols.index('lat')))
     cols.insert(7, cols.pop(cols.index('long')))
     cols.insert(12, cols.pop(cols.index('released')))
-    cols.insert(13, cols.pop(cols.index('recovered')))
-    cols.insert(14, cols.pop(cols.index('deaths')))
-    cols.insert(15, cols.pop(cols.index('pos_tests_1')))
+    cols.insert(13, cols.pop(cols.index('deaths')))
     cols.insert(-1, cols.pop(cols.index('source')))
     cols.insert(12, cols.pop(cols.index('total_currently_positive_per_100k')))
     cols.insert(13, cols.pop(cols.index('deaths_per_100k')))
@@ -268,12 +266,8 @@ def reorder_columns(df):
         'total_hospitalized': 'Int64',
         'intensive_care': 'Int64',
         'released': 'Int64',
-        'recovered': 'Int64',
         'deaths': 'Int64',
-        'pos_tests_1': 'Int64',
-        'ncumul_ICU_intub': 'Int64',
-        'ncumul_vent': 'Int64',
-        'ncumul_ICF': 'Int64'
+        'new_hosp': 'Int64',
         })
 
     df.insert(0, 'timestamp', df['date'] + " " + df['time'])
@@ -376,7 +370,6 @@ def aggregate_series_by_day_and_country(df : pd.DataFrame):
         total_positive = ("total_positive_cases", sum),
         tests_performed = ("tests_performed", sum),
         released = ("released", sum),
-        recovered = ("recovered", sum),
         deaths = ("deaths", sum)
     ).astype('Int64')
 
@@ -387,9 +380,6 @@ def aggregate_series_by_day_and_country(df : pd.DataFrame):
     sum_per_day['hospitalized_with_symptoms'] = 0
 
     add_doubling_times(sum_per_day)
-
-    # Reorder columns to simplify comparison with d.probst data
-    sum_per_day = sum_per_day[field_names_switzerland]
 
     # ArcGis expects time stamps in UTC
     sum_per_day.insert(0, 'last_update', datetime.datetime.now(utc).strftime("%Y-%m-%d %H:%M:%S"))
