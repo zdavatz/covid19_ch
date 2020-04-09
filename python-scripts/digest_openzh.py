@@ -110,7 +110,10 @@ def merge_openzh_data_to_series(data_folder):
 def forward_fill_series_gaps(df):
     cantons = list(df['abbreviation_canton'].unique())
 
-    cols = ["total_positive_cases", "tests_performed", "total_hospitalized" , "intensive_care", "deaths", "pos_tests_1", "released", "recovered", "lat", "long", "total_currently_positive_per_100k", "deaths_per_100k"]
+    cols = list(openzh_field_mapping.values())
+    cols.extend(["lat", "long", "total_currently_positive_per_100k", "deaths_per_100k"])
+
+    #cols = ["total_positive_cases", "tests_performed", "total_hospitalized" , "intensive_care", "deaths", "pos_tests_1", "released", "recovered", "lat", "long", "total_currently_positive_per_100k", "deaths_per_100k"]
 
     for canton in cantons:
         per_canton_idx = canton == df['abbreviation_canton']

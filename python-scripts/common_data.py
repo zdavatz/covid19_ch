@@ -7,6 +7,21 @@ counter_names = "hospitalized_with_symptoms,intensive_care,total_hospitalized,ho
 field_names_switzerland = ['country','tests_performed','total_currently_positive','total_positive','new_positive','old_positive','home_confinment','total_hospitalized','hospitalized_with_symptoms','intensive_care','recovered','released','deaths','doubling_time_total_positive','doubling_time_fatalities']
 
 # Direct field mappings to our format
+openzh_field_mapping_new = {
+    "date" : "date",
+    "abbreviation_canton_and_fl" : "abbreviation_canton",
+    "ncumul_tested" : "tests_performed",
+    "ncumul_conf" : "total_positive_cases",
+    "new_hosp" : "new_hospitalized",
+    "current_hosp" : "curr_hospitalized",
+    "current_icu" : "curr_intensive_care",
+    "current_vent" : "curr_ventilated",
+    "ncumul_released" : "released",
+    "ncumul_deceased" : "deaths",
+    "source" : "source"
+}
+
+# Old mapping
 openzh_field_mapping = {
     "date" : "date",
     "abbreviation_canton_and_fl" : "abbreviation_canton",
