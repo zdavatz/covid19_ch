@@ -4,37 +4,19 @@ import pandas as pd
 field_names = "date,country,abbreviation_canton,name_canton,number_canton,lat,long,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,new_positive_cases,recovered,released,deaths,total_positive_cases,tests_performed".split(',')
 field_names_short = "date,country,hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive,new_positive,recovered,released,deaths,total_positive,tests_performed".split(',')
 counter_names = "hospitalized_with_symptoms,intensive_care,total_hospitalized,home_confinment,total_currently_positive_cases,recovered,released,deaths,total_positive_cases,tests_performed".split(',')
-field_names_switzerland = ['country','tests_performed','total_currently_positive','total_positive','new_positive','old_positive','home_confinment','total_hospitalized','hospitalized_with_symptoms','intensive_care','recovered','released','deaths','doubling_time_total_positive','doubling_time_fatalities']
 
-# Direct field mappings to our format
-openzh_field_mapping_new = {
-    "date" : "date",
-    "abbreviation_canton_and_fl" : "abbreviation_canton",
-    "ncumul_tested" : "tests_performed",
-    "ncumul_conf" : "total_positive_cases",
-    "new_hosp" : "new_hospitalized",
-    "current_hosp" : "curr_hospitalized",
-    "current_icu" : "curr_intensive_care",
-    "current_vent" : "curr_ventilated",
-    "ncumul_released" : "released",
-    "ncumul_deceased" : "deaths",
-    "source" : "source"
-}
-
-# Old mapping
 openzh_field_mapping = {
     "date" : "date",
     "abbreviation_canton_and_fl" : "abbreviation_canton",
     "ncumul_tested" : "tests_performed",
     "ncumul_conf" : "total_positive_cases",
-    "ncumul_hosp" : "total_hospitalized",
-    "ncumul_ICU" : "intensive_care",
-    "ncumul_vent" : "ncumul_vent",
+    "current_hosp" : "total_hospitalized",
+    "new_hosp" : "new_hosp",
+    "current_icu" : "intensive_care",
+    "current_vent" : "ncumul_vent",
     "ncumul_released" : "released",
     "ncumul_deceased" : "deaths",
-    "source" : "source",
-    "TotalPosTests1" : "pos_tests_1",
-    "TotalCured" : "recovered"
+    "source" : "source"
 }
 
 # Start date for observation
@@ -46,7 +28,7 @@ start_date = datetime.datetime(2020,2,25)
 # Using data provided by OpenZH: Statistische Amt, Kanton Zuerich on Github
 # https://github.com/openZH/covid_19
 
-openZH_base_url = 'https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_total_csv/'
+openZH_base_url = 'https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_total_csv_v2/'
 openZH_per_canton_format = 'COVID19_Fallzahlen_Kanton_%s_total.csv'
 openZH_per_country_format = 'COVID19_Fallzahlen_%s_total.csv'
 
