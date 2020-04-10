@@ -787,7 +787,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-09,08:00,ZG,,165.0,,,,,69.0,3.0,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,
 2020-04-09,14:47,ZH,,2898.0,,165.0,,55.0,,62.0,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,
 2020-04-10,08:00,AR,,77.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,
-2020-04-10,10:00,BS,,859.0,,87.0,13.0,,593.0,33.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-859-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,,
+2020-04-10,10:00,BS,,859.0,,87.0,13.0,,593.0,33.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-859-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,471.0,21.0,,,
 2020-04-10,,SG,,632.0,,60.0,11.0,,93.0,17.0,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,
 2020-04-10,09:30,SH,,53.0,,11.0,2.0,,,1.0,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,
 2020-04-10,00:00,SO,,294.0,,22.0,,,,5.0,https://corona.so.ch/,,,,,,,
