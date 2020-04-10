@@ -9,7 +9,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-09,16:00,NE,,516,,58,10,7.0,,34,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,289.89,19.101
 2020-04-09,15:30,NW,,96,1.0,8,1,,,0,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,,46.926755,8.405302,Nidwalden,07,223.26,0.0
 2020-04-09,15:00,OW,6,62,,1,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,164.89,0.0
-2020-04-09,14:00,UR,85,72,,4,,,45,4,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,198.35,11.019
 2020-04-09,03:00,VD,,4424,,325,80,,225,204,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,557.81,25.722
 2020-04-09,15:00,VS,,1525,,128,26,23.0,136,73,https://www.vs.ch/documents/6756452/7008787/2020%2004%2009%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,,,46.209567,7.604659,Valais/Wallis,23,446.56,21.376
 2020-04-10,08:00,AR,,77,,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,139.49,5.435
@@ -24,5 +23,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-10,03:00,SZ,10,215,,1,,,118,10,https://www.sz.ch/public/upload/assets/46056/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,136.68,6.357
 2020-04-10,03:00,TG,276,264,,32,13,,,8,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,96.42,2.922
 2020-04-10,08:00,TI,,2776,,301,72,68.0,447,227,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187601&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=a02f7a88b61d913138f4f86dbeeaa599,,,,,,,,46.295617,8.808924,Ticino,21,784.85,64.179
+2020-04-10,16:00,UR,85,74,,4,,,49,4,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,203.86,11.019
 2020-04-10,10:00,ZG,,168,,15,9,,76,3,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,133.97,2.392
 2020-04-10,14:43,ZH,855,2929,,152,,50.0,,64,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,194.71,4.254
