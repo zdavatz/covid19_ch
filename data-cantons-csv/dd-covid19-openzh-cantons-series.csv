@@ -792,4 +792,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-10,09:30,SH,,53,,11,2,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,,47.71357,8.59167,Schaffhausen,14,65.11,1.229
 2020-04-10,03:00,SO,,294,1.0,22,,,,5,https://corona.so.ch/,,,,,,,,47.304135,7.639388,Solothurn,11,108.33,1.842
 2020-04-10,03:00,SZ,10,215,,1,,,118,10,https://www.sz.ch/public/upload/assets/46056/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,136.68,6.357
+2020-04-10,03:00,TG,276,264,,32,13,,,8,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,96.42,2.922
 2020-04-10,08:00,TI,,2776,,301,72,68.0,447,227,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187601&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=a02f7a88b61d913138f4f86dbeeaa599,,,,,,,,46.295617,8.808924,Ticino,21,784.85,64.179
+2020-04-10,10:00,ZG,,168,,15,9,,76,3,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,133.97,2.392
