@@ -805,11 +805,15 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-10,03:00,TG,276,264,,32,13,,,8,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,96.42,2.922
 2020-04-10,08:00,TI,,2776,,297,68,62.0,466,227,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187607&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=e9c51debb7c11815ec53651f6c8c8d24,,,,,,,,46.295617,8.808924,Ticino,21,784.85,64.179
 2020-04-10,16:00,UR,85,74,,4,,,49,4,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,203.86,11.019
+2020-04-10,03:00,VD,,4524,,325,83,,225,204,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,570.42,25.722
 2020-04-10,15:00,VS,,1565,,131,26,23.0,136,75,https://www.vs.ch/documents/6756452/7008787/2020%2004%2010%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,,,46.209567,7.604659,Valais/Wallis,23,458.27,21.962
 2020-04-10,10:00,ZG,,168,,15,9,,76,3,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,133.97,2.392
 2020-04-10,14:43,ZH,855,2929,,152,,50.0,,64,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,194.71,4.254
+2020-04-11,11:00,AI,,24,,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,149.07,
 2020-04-11,10:00,AR,,77,,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,139.49,5.435
-2020-04-11,09:30,BS,235,866,,87,13,,612,33,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-866-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,,,47.564869,7.615259,Basel-Stadt,12,446.62,17.019
+2020-04-11,08:00,BE,,1419,,99,33,24.0,,44,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,137.62,4.267
+2020-04-11,03:00,BL,,736,,50,16,15.0,527,22,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,256.45,7.666
+2020-04-11,09:30,BS,235,866,,87,13,,612,33,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-866-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,474.0,,,,,47.564869,7.615259,Basel-Stadt,12,446.62,17.019
 2020-04-11,03:00,FR,30,834,,68,20,,93,53,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,264.68,16.82
 2020-04-11,11:00,LU,,568,,69,6,,,10,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,139.73,2.46
 2020-04-11,03:00,SG,,641,0.0,60,11,,102,18,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,127.01,3.566
@@ -819,3 +823,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-11,03:00,TG,276,274,,32,14,,,8,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,100.07,2.922
 2020-04-11,08:00,TI,,2818,,297,68,62.0,466,229,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187607&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=e9c51debb7c11815ec53651f6c8c8d24,,,,,,,,46.295617,8.808924,Ticino,21,796.72,64.744
 2020-04-11,10:00,ZG,,168,,14,9,,79,4,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,133.97,3.19
+2020-04-11,14:41,ZH,855,2987,,149,,50.0,,66,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,198.56,4.387
