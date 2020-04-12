@@ -256,6 +256,10 @@ def reorder_columns(df):
         cols.insert(11, cols.pop(cols.index('new_positive_cases')))
     else:
         df.insert(11, 'new_positive_cases', 0)
+    if 'new_deaths' in df.columns:
+        cols.insert(12, cols.pop(cols.index('new_deaths')))
+    else:
+        df.insert(12, 'new_deaths', 0)
     df.insert(16, 'ncumul_ICU_intub', 0)  # Ensures backwards compatibility, this field was removed by openzh
     
     # Merge column "intensive_care"/"ncumul_ICU" and "ncumul_vent". ncumul_ICU > ncumul_vent because ncumul_ICU includes ncumul_vent if ncumul_ICU>0
@@ -270,6 +274,7 @@ def reorder_columns(df):
         'intensive_care': 'Int64',
         'released': 'Int64',
         'deaths': 'Int64',
+        'new_deaths': 'Int64',
         'new_hosp': 'Int64',
         'ncumul_vent': 'Int64',
         })
@@ -327,6 +332,8 @@ def aggregate_latest_by_abbrevation_canton(df):
     df['new_positive_cases'] = df.groupby(['abbreviation_canton'])['total_positive_cases'].diff(periods=1).astype('Int64')
     # Calculate new hospitalized
     df['new_hosp'] = df.groupby(['abbreviation_canton'])['total_hospitalized'].diff(periods=1).astype('Int64')
+    # Calculate new fatalities
+    df['new_deaths'] = df.groupby(['abbreviation_canton'])['deaths'].diff(periods=1).astype('Int64')
 
     # Get indices of most recent entries
     idx = df.groupby(['abbreviation_canton'])['date'].transform(max) == df['date']   
@@ -388,6 +395,8 @@ def aggregate_series_by_day_and_country(df : pd.DataFrame):
     sum_per_day['new_positive'] = sum_per_day['total_positive'].diff(periods=1).astype('Int64')
     sum_per_day['old_positive'] = sum_per_day.shift(periods=1, axis='columns', fill_value=0)['total_positive']
     sum_per_day['hospitalized_with_symptoms'] = 0
+    sum_per_day['new_deaths'] = sum_per_day['deaths'].diff(periods=1).astype('Int64')
+    sum_per_day['old_deaths'] = sum_per_day.shift(periods=1, axis='columns', fill_value=0)['deaths']
 
     add_doubling_times(sum_per_day)
 

@@ -112,7 +112,7 @@ def update_fields_in_switzerland_latest_file(f, item):
     fl = item.layers[0]
 
     # additional fields
-    additional_fields = ['doubling_time_total_positive', 'doubling_time_fatalities']
+    additional_fields = ['doubling_time_total_positive', 'doubling_time_fatalities', 'new_deaths']
 
     for add_field in additional_fields:
         # Get a template field
@@ -121,12 +121,12 @@ def update_fields_in_switzerland_latest_file(f, item):
             template_field = dict(deepcopy(fields[10]))
             template_field['name'] = add_field
             template_field['type'] = 'esriFieldTypeDouble'
+            template_field['sqlType'] = 'sqlTypeFloat'
+            template_field['default_value'] = 0.0
             template_field['alias'] = add_field
             template_field['nullable'] = True
             template_field['visible'] = True
             template_field['editable'] = True
-            template_field['sqlType'] = 'sqlTypeFloat'
-            template_field['default_value'] = 0.0
             res = fl.manager.add_to_definition({'fields': [template_field]})    
             print(res)
 
@@ -150,7 +150,7 @@ def update_fields_in_switzerland_latest_file(f, item):
             # Update individual feature
             feature.set_value(add_field, value)
 
-            print("Updating all existing features with %s ..." % f)
+            print("Updating all existing features in %s with value %f..." % (f, value))
             # Update online feature layer
             res = fl.edit_features(updates=features)  
 
