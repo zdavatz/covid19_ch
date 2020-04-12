@@ -836,6 +836,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-11,15:00,VS,,1592.0,,124.0,26.0,22.0,148.0,82.0,https://www.vs.ch/documents/6756452/7008787/2020%2004%2011%20Sit%20Epid%20-%20État%20Stand,,,,,,,
 2020-04-11,10:00,ZG,,168.0,,14.0,9.0,,79.0,4.0,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,
 2020-04-11,14:41,ZH,,2987.0,,149.0,,50.0,,66.0,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,
+2020-04-12,08:00,BE,,1441.0,,95.0,33.0,22.0,,49.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,
 2020-04-12,10:00,BS,,882.0,,86.0,12.0,,629.0,33.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-882-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,485.0,23.0,,,
 2020-04-12,,FR,,846.0,,65.0,19.0,,97.0,54.0,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,
 2020-04-12,,SG,,649.0,,58.0,9.0,,109.0,19.0,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,
@@ -843,3 +844,4 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-12,,SZ,,251.0,,,,,119.0,11.0,https://www.sz.ch/public/upload/assets/46063/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,
 2020-04-12,,TG,,285.0,,32.0,14.0,,,8.0,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,
 2020-04-12,08:00,TI,,2869.0,,282.0,68.0,59.0,493.0,244.0,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187611&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=6f94f1f1d5cf92bdf5a1e053e6602530,,,,,,,
+2020-04-12,10:00,ZG,,168.0,,,,,80.0,5.0,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,
