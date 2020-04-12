@@ -7,7 +7,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-11,10:00,AR,,77,,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,139.49,5.435
 2020-04-11,08:00,BE,,1419,,99,33,24.0,,44,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,137.62,4.267
 2020-04-11,03:00,BL,,736,,50,16,15.0,527,22,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,256.45,7.666
-2020-04-11,09:30,BS,235,866,,87,13,,612,33,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-866-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,474.0,,,,,47.564869,7.615259,Basel-Stadt,12,446.62,17.019
 2020-04-11,03:00,FL,900,79,,,,,1,1,https://www.regierung.li/media/attachments/189-corona-keine-neuen-faelle-0411.pdf?t=637222261316868970,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,204.66,2.591
 2020-04-11,03:00,FR,30,834,,68,20,,93,53,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,264.68,16.82
 2020-04-11,12:00,GE,18274,4310,38.0,364,48,44.0,463,144,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,,20.0,,46.220528,6.132935,Genève,25,870.36,29.079
@@ -23,6 +22,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-11,15:00,VS,,1592,,124,26,22.0,148,82,https://www.vs.ch/documents/6756452/7008787/2020%2004%2011%20Sit%20Epid%20-%20État%20Stand,,,,,,,,46.209567,7.604659,Valais/Wallis,23,466.18,24.012
 2020-04-11,10:00,ZG,,168,,14,9,,79,4,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,133.97,3.19
 2020-04-11,14:41,ZH,855,2987,,149,,50.0,,66,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,198.56,4.387
+2020-04-12,10:00,BS,235,882,,86,12,,629,33,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-882-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,,,47.564869,7.615259,Basel-Stadt,12,454.87,17.019
 2020-04-12,03:00,SG,,649,0.0,58,9,,109,19,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,128.59,3.765
 2020-04-12,09:30,SH,,57,,14,2,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,,47.71357,8.59167,Schaffhausen,14,70.02,1.229
 2020-04-12,03:00,SZ,10,251,,1,,,119,11,https://www.sz.ch/public/upload/assets/46063/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,159.57,6.993
