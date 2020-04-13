@@ -857,3 +857,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-12,15:00,VS,,1616,,119,23,18.0,157,86,https://www.vs.ch/documents/6756452/7008787/2020%2004%2012%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,,,46.209567,7.604659,Valais/Wallis,23,473.21,25.183
 2020-04-12,10:00,ZG,,168,,14,9,,80,5,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,133.97,3.987
 2020-04-12,14:42,ZH,855,3004,,153,,49.0,,70,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,199.69,4.653
+2020-04-13,03:00,SZ,10,251,,1,,,128,12,https://www.sz.ch/public/upload/assets/46064/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,159.57,7.629
