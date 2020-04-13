@@ -844,6 +844,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-12,03:00,FL,900,80,,,,,1,1,https://www.regierung.li/media/attachments/190-corona-zusaetzliche-person-0412.pdf?t=637223083991919653,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,207.25,2.591
 2020-04-12,03:00,FR,30,846,,65,19,,97,54,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,268.49,17.137
 2020-04-12,12:00,GE,18619,4357,38.0,363,47,43.0,479,153,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,,21.0,,46.220528,6.132935,Genève,25,879.85,30.897
+2020-04-12,03:00,GR,,732,,35,,,,35,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,369.88,17.686
 2020-04-12,11:00,LU,,576,,60,5,,,10,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,141.7,2.46
 2020-04-12,16:00,NE,,575,,67,10,10.0,,39,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,323.03,21.91
 2020-04-12,15:50,NW,,104,1.0,4,2,,,0,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,,46.926755,8.405302,Nidwalden,07,241.86,0.0
