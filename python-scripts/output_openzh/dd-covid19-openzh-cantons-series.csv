@@ -820,12 +820,12 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-11,09:30,BS,235,866,,87,13,,612,33,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-866-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,474.0,,,,,47.564869,7.615259,Basel-Stadt,12,446.62,17.019
 2020-04-11,03:00,FL,900,79,,,,,1,1,https://www.regierung.li/media/attachments/189-corona-keine-neuen-faelle-0411.pdf?t=637222261316868970,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,204.66,2.591
 2020-04-11,03:00,FR,30,834,,68,20,,93,53,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,264.68,16.82
-2020-04-11,12:00,GE,18619,4357,38.0,364,48,44.0,463,153,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,,20.0,,46.220528,6.132935,Genève,25,879.85,30.897
+2020-04-11,12:00,GE,18619,4357,38.0,364,48,44.0,463,154,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,,20.0,,46.220528,6.132935,Genève,25,879.85,31.099
 2020-04-11,17:00,GL,,91,0.0,2,,,,2,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,,,46.931042000000005,9.065751,Glarus,08,225.81,4.963
 2020-04-11,03:00,GR,,728,,35,,,,35,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,367.86,17.686
 2020-04-11,16:00,JU,,183,,22,5,,,2,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,,,,47.350744,7.156107,Jura,26,249.66,2.729
 2020-04-11,11:00,LU,,568,,69,6,,,10,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,139.73,2.46
-2020-04-11,16:00,NE,,575,,64,11,9.0,,39,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,323.03,21.91
+2020-04-11,16:00,NE,,579,,64,11,9.0,,39,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,325.28,21.91
 2020-04-11,19:00,NW,,103,1.0,6,2,,,0,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,,46.926755,8.405302,Nidwalden,07,239.53,0.0
 2020-04-11,03:00,SG,,641,0.0,60,11,,102,18,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,127.01,3.566
 2020-04-11,09:30,SH,,55,,11,2,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,,47.71357,8.59167,Schaffhausen,14,67.57,1.229
@@ -843,10 +843,11 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-12,10:00,BS,235,882,,86,12,,629,33,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-882-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,485.0,23.0,,,,47.564869,7.615259,Basel-Stadt,12,454.87,17.019
 2020-04-12,03:00,FL,900,80,,,,,1,1,https://www.regierung.li/media/attachments/190-corona-zusaetzliche-person-0412.pdf?t=637223083991919653,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,207.25,2.591
 2020-04-12,03:00,FR,30,846,,65,19,,97,54,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,268.49,17.137
-2020-04-12,12:00,GE,18619,4357,38.0,363,47,43.0,479,153,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,,21.0,,46.220528,6.132935,Genève,25,879.85,30.897
+2020-04-12,12:00,GE,18799,4371,11.0,363,47,43.0,479,160,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,,21.0,,46.220528,6.132935,Genève,25,882.67,32.31
 2020-04-12,03:00,GR,,732,,35,,,,35,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,369.88,17.686
+2020-04-12,16:00,JU,,183,,22,5,,,2,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,,,,47.350744,7.156107,Jura,26,249.66,2.729
 2020-04-12,11:00,LU,,576,,60,5,,,10,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,141.7,2.46
-2020-04-12,16:00,NE,,575,,67,10,10.0,,39,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,323.03,21.91
+2020-04-12,16:00,NE,,588,,67,10,10.0,,39,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,330.34,21.91
 2020-04-12,15:50,NW,,104,1.0,4,2,,,0,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,,46.926755,8.405302,Nidwalden,07,241.86,0.0
 2020-04-12,03:00,SG,,649,0.0,58,9,,109,21,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,128.59,4.161
 2020-04-12,09:30,SH,,57,,14,2,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,,47.71357,8.59167,Schaffhausen,14,70.02,1.229
@@ -865,8 +866,12 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-13,03:00,BL,,749,,48,16,12.0,570,24,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,260.98,8.362
 2020-04-13,10:00,BS,235,893,,86,12,,653,34,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-893-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,487.0,,,,,47.564869,7.615259,Basel-Stadt,12,460.55,17.535
 2020-04-13,03:00,FR,30,859,,68,17,,97,55,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,272.61,17.455
+2020-04-13,12:00,GE,18799,4371,11.0,364,47,42.0,490,160,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,,18.0,,46.220528,6.132935,Genève,25,882.67,32.31
+2020-04-13,16:00,GL,,92,0.0,2,,,,2,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,,,46.931042000000005,9.065751,Glarus,08,228.29,4.963
+2020-04-13,16:00,JU,,184,,22,5,,,2,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,,,,47.350744,7.156107,Jura,26,251.02,2.729
 2020-04-13,11:00,LU,,580,,40,5,,,10,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,142.68,2.46
-2020-04-13,09:00,NW,,104,1.0,4,2,,,1,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,,46.926755,8.405302,Nidwalden,07,241.86,2.326
+2020-04-13,16:00,NE,,588,,67,10,10.0,,39,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,330.34,21.91
+2020-04-13,18:15,NW,,104,1.0,6,2,,,1,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,,46.926755,8.405302,Nidwalden,07,241.86,2.326
 2020-04-13,03:00,SG,,657,0.0,48,10,,119,21,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,130.18,4.161
 2020-04-13,09:30,SH,,57,,14,2,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,,47.71357,8.59167,Schaffhausen,14,70.02,1.229
 2020-04-13,03:00,SZ,10,251,,1,,,128,12,https://www.sz.ch/public/upload/assets/46064/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,159.57,7.629
