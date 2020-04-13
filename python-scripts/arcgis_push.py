@@ -132,7 +132,7 @@ def update_fields_in_switzerland_latest_file(f, item):
             res = fl.manager.add_to_definition({'fields': [template_field]})    
             print(res)
 
-        # Check if fiels was successfully added
+        # Check if fields was successfully added
         fields = fl.manager.properties.fields    
         for field in fields:
             print(f"{field.name:30}|  {field.type}")
