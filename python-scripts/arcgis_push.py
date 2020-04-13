@@ -7,6 +7,7 @@ import pandas as pd
 import numpy as np
 import datetime
 import os
+import retry
 
 files = {
     'dd-covid19-openzh-cantons-latest.csv': '71d789eb72e8413abc6590e41a7f3cb2',
@@ -28,6 +29,7 @@ files = {
 def file_path():
     return os.path.dirname(os.path.abspath(__file__))  + "/output_openzh/"
 
+@retry.retry(retry_count=5, delay=5)
 def update_geojson_file(gis: GIS):
     # Load canton csv from file
     csv_file_path = os.path.join(file_path(), canton_file_name)
@@ -154,6 +156,7 @@ def update_fields_in_switzerland_latest_file(f, item):
             # Update online feature layer
             res = fl.edit_features(updates=features)  
 
+@retry.retry(retry_count=5, delay=5)
 def update_from_csv(gis: GIS, f):
     # Load csv from and add the csv as an item
     latest_csv_file = os.path.join(file_path(), f)
@@ -195,7 +198,7 @@ def publish_from_csv(gis : GIS, f : str):
 
 # Connect to the GIS
 if __name__ == '__main__':
-    gis = GIS('https://ddrobotec.maps.arcgis.com', 'cybermax', os.environ['ARCGIS_PASS'])
+    gis = GIS('https://ddrobotec.maps.arcgis.com',  os.environ['ARCGIS_USER'], os.environ['ARCGIS_PASS'])
 
     for f in files:
        update_from_csv(gis, f)
