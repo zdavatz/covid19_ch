@@ -54,6 +54,7 @@ jobs:
         shell: pwsh
         env:
           ARCGIS_PASS: ${{ secrets.ARCGIS_PASS }}
+          ARCGIS_USER: ${{ secrets.ARCGIS_USER }}
         run: |
           cd ./python-scripts
           python3.7 -u arcgis_push.py
