@@ -14,7 +14,7 @@ def retry(retry_count=5, delay=5, allowed_exceptions=()):
                         print("Retry failed with %s" % e)
                         raise
                     pass
-                print("Wating for %s seconds before retrying again" % delay)
+                print("Waiting for %s seconds before retrying again" % delay)
                 time.sleep(delay)
         return wrapper
     return decorator
