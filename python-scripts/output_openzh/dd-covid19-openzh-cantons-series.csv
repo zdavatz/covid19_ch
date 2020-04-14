@@ -886,7 +886,10 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-13,10:00,ZG,,170,,14,9,,84,5,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,135.57,3.987
 2020-04-13,14:40,ZH,855,3021,,154,,50.0,,76,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,200.82,5.052
 2020-04-14,08:00,AR,,79,,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,143.12,5.435
+2020-04-14,08:00,BE,,1470,,85,31,21.0,,49,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,142.57,4.752
+2020-04-14,03:00,FR,30,879,,68,14,,98,57,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,,46.718391,7.074008,Fribourg,10,278.96,18.089
 2020-04-14,03:00,SG,,664,0.0,50,9,,120,21,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,131.56,4.161
 2020-04-14,09:30,SH,,57,,8,2,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,,47.71357,8.59167,Schaffhausen,14,70.02,1.229
 2020-04-14,03:00,SZ,10,258,,1,,,128,13,https://www.sz.ch/public/upload/assets/46067/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,164.02,8.264
+2020-04-14,08:00,TI,,2912,,274,63,55.0,517,258,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187614&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=0464d89cb8c291fbc9c266e6b7008814,,,,,,,,46.295617,8.808924,Ticino,21,823.3,72.943
 2020-04-14,08:00,ZG,,171,,13,9,,88,5,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,136.36,3.987
