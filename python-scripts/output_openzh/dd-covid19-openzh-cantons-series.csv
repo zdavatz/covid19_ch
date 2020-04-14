@@ -883,3 +883,5 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-13,03:00,VS,,1642,,119,23,18.0,157,88,https://www.vs.ch/de/web/coronavirus,,,,,,,,46.209567,7.604659,Valais/Wallis,23,480.82,25.769
 2020-04-13,10:00,ZG,,170,,14,9,,84,5,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,135.57,3.987
 2020-04-13,14:40,ZH,855,3021,,154,,50.0,,76,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,200.82,5.052
+2020-04-14,03:00,SG,,664,0.0,50,9,,120,21,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,131.56,4.161
+2020-04-14,08:00,ZG,,171,,13,9,,88,5,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,136.36,3.987
