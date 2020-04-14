@@ -15,7 +15,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-13,11:00,LU,,580,,40,5,,,10,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,142.68,2.46
 2020-04-13,16:00,NE,,588,,67,10,10.0,,39,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,,46.995534,6.780126,Neuchâtel,24,330.34,21.91
 2020-04-13,18:15,NW,,104,1.0,6,2,,,1,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,,46.926755,8.405302,Nidwalden,07,241.86,2.326
-2020-04-13,09:30,SH,,57,,14,2,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,,47.71357,8.59167,Schaffhausen,14,70.02,1.229
 2020-04-13,03:00,SO,,321,1.0,23,,,,7,https://corona.so.ch/,,,,,,,,47.304135,7.639388,Solothurn,11,118.28,2.579
 2020-04-13,03:00,TG,276,292,,32,17,,,8,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,106.65,2.922
 2020-04-13,08:00,TI,,2900,,269,63,56.0,511,251,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187614&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=0464d89cb8c291fbc9c266e6b7008814,,,,,,,,46.295617,8.808924,Ticino,21,819.9,70.964
@@ -24,5 +23,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-13,14:40,ZH,855,3021,,154,,50.0,,76,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,200.82,5.052
 2020-04-14,08:00,AR,,79,,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,143.12,5.435
 2020-04-14,03:00,SG,,664,0.0,50,9,,120,21,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,131.56,4.161
+2020-04-14,09:30,SH,,57,,8,2,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,,47.71357,8.59167,Schaffhausen,14,70.02,1.229
 2020-04-14,03:00,SZ,10,258,,1,,,128,13,https://www.sz.ch/public/upload/assets/46067/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,164.02,8.264
 2020-04-14,08:00,ZG,,171,,13,9,,88,5,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,136.36,3.987
