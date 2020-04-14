@@ -899,5 +899,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-14,03:00,SZ,10,258,,1,,,128,13,https://www.sz.ch/public/upload/assets/46067/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,164.02,8.264
 2020-04-14,03:00,TG,276,296,,35,16,,,10,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,108.11,3.652
 2020-04-14,08:00,TI,,2912,,274,63,55.0,517,258,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187614&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=0464d89cb8c291fbc9c266e6b7008814,,,,,,,,46.295617,8.808924,Ticino,21,823.3,72.943
+2020-04-14,14:00,UR,85,78,,3,,,56,4,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,214.88,11.019
 2020-04-14,08:00,ZG,,171,,13,9,,88,5,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,136.36,3.987
 2020-04-14,14:40,ZH,855,3067,,149,,52.0,,78,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,203.88,5.185
