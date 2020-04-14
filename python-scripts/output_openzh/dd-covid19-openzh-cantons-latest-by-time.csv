@@ -24,5 +24,5 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-14,08:00,TI,,2912,,274,63,54.0,524,258,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187617&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=64be59067038bfdaf603d60bfab0aa52,,,,,,,46.295617,8.808924,Ticino,21,823.3,72.943
 2020-04-14,14:00,UR,85,78,,3,,,56,4,https://www.ur.ch/themen/2962,,,,,,,46.771849,8.628586,Uri,04,214.88,11.019
 2020-04-14,15:00,VS,,1664,,115,23,16.0,165,90,https://www.vs.ch/documents/6756452/7008787/2020%2004%2014%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,,46.209567,7.604659,Valais/Wallis,23,487.26,26.354
-2020-04-14,08:00,ZG,,171,,13,9,,88,5,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,47.157296,8.537294,Zug,09,136.36,3.987
+2020-04-14,08:00,ZG,,171,,13,9,,88,5, 	https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,47.157296,8.537294,Zug,09,136.36,3.987
 2020-04-14,15:00,ZH,855,3067,,149,,52.0,,78,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,47.41275,8.65508,Zürich,01,203.88,5.185
