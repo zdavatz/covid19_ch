@@ -194,7 +194,7 @@ def convert_from_openzh(df):
     canton_dict = pd.DataFrame.from_dict(name_and_numbers_cantons)   
     # Get all canton abbreviations
     idx = df['abbreviation_canton'].values
-    # Reorder indeces
+    # Reorder indices
     pop_per_canton = list(canton_dict.T['pop'][idx])
     df['total_currently_positive_per_100k'] = round(100.0 * df['total_positive_cases']/pop_per_canton, 2)
     df['deaths_per_100k'] = round(100.0 * df['deaths']/pop_per_canton, 3) 
@@ -302,7 +302,7 @@ def series_by_time_per_canton(series):
     list_canton_abbreviations = name_and_numbers_cantons.keys()
     for c in list_canton_abbreviations:
         time_series_canton = series.loc[series['abbreviation_canton'] == c]
-        # Reorder indeces
+        # Reorder indices
         time_series_canton = reorder_columns(time_series_canton)
         # Add doubling times
         time_series_canton = add_doubling_times(time_series_canton)

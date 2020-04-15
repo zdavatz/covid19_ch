@@ -16,7 +16,7 @@ def retry(retry_count=5, delay=5, allowed_exceptions=(requests.exceptions.Reques
                         print("Retry failed with %s" % str(e), file=sys.stderr)
                         raise
                     print("Request failed with %s" % str(e), file=sys.stderr)
-                print("Wating for %s seconds before retrying again" % delay)
+                print("Waiting for %s seconds before retrying again" % delay)
                 time.sleep(delay)
         return wrapper
     return decorator
