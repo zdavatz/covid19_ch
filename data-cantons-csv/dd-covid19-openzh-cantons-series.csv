@@ -668,7 +668,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-04,03:00,SO,,250,,17,,,,3,https://corona.so.ch/,,,,,,,47.304135,7.639388,Solothurn,11,92.11,1.105
 2020-04-04,03:00,SZ,10,168,,1,,,92,5,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948,,,,,,,47.061787,8.756585,Schwyz,05,106.8,3.179
 2020-04-04,03:00,TG,276,208,,,,,,5,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,47.568715,9.091957,Thurgau,01,75.97,1.826
-2020-04-04,08:00,TI,,2422,,363,72,67.0,314,165,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187575&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=4b3f64139a9dd36b9fd30a1ace23654a,,,,67.0,,,46.295617,8.808924,Ticino,21,684.76,46.65
+2020-04-04,08:00,TI,,2442,,363,72,67.0,314,165,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187575&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=4b3f64139a9dd36b9fd30a1ace23654a,,,,67.0,,,46.295617,8.808924,Ticino,21,690.42,46.65
 2020-04-04,17:00,UR,85,66,,6,,,26,1,https://www.ur.ch/themen/2920,,,,,,,46.771849,8.628586,Uri,04,181.82,2.755
 2020-04-04,03:00,VD,,4035,,373,80,,225,138,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,46.570091,6.557809000000001,Vaud,22,508.76,17.4
 2020-04-04,15:00,VS,,1319,,142,26,21.0,95,51,https://www.vs.ch/documents/6756452/7008787/2020%2004%2004%20Sit%20Epid%20-%20État%20Stand,,,,,,,46.209567,7.604659,Valais/Wallis,23,386.24,14.934
@@ -934,8 +934,9 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-15,10:00,BS,235,909,,80,7,,682,36,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-909-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,492.0,22.0,,,,,47.564869,7.615259,Basel-Stadt,12,468.8,18.566
 2020-04-15,03:00,FL,900,80,,,,,1,1,https://www.regierung.li/media/attachments/194-corona-neue-wege-zur-messung-0415.pdf?t=637225709239139141,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,207.25,2.591
 2020-04-15,03:00,FR,30,890,,61,16,,105,63,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,46.718391,7.074008,Fribourg,10,282.45,19.994
-2020-04-15,12:00,GE,19060,4438,11.0,365,41,37.0,502,172,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,21.0,,46.220528,6.132935,Genève,25,896.2,34.733
-2020-04-15,03:00,GL,,105,,2,,,,2,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,,46.931042000000005,9.065751,Glarus,08,260.55,4.963
+2020-04-15,12:00,GE,19060,4438,11.0,365,41,37.0,502,172,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,26.0,,46.220528,6.132935,Genève,25,896.2,34.733
+2020-04-15,12:00,GL,,105,,2,,,,2,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,,46.931042000000005,9.065751,Glarus,08,260.55,4.963
+2020-04-15,16:00,JU,,188,,17,5,,,2,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,,,47.350744,7.156107,Jura,26,256.48,2.729
 2020-04-15,11:00,LU,,596,,46,4,,,12,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,47.067763,8.1102,Luzern,03,146.62,2.952
 2020-04-15,16:00,NE,,602,,54,12,10.0,,48,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,46.995534,6.780126,Neuchâtel,24,338.2,26.966
 2020-04-15,17:30,NW,,106,1.0,7,2,,,2,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,46.926755,8.405302,Nidwalden,07,246.51,4.651
