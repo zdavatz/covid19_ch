@@ -970,6 +970,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-16,15:30,OW,6,65,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,172.87,0.0
 2020-04-16,03:00,SG,,680,9,56,7,,138,25,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,47.1832,9.274744,St. Gallen,17,4,2,134.73,4.953
 2020-04-16,09:30,SH,,60,-1,10,2,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,73.71,1.229
+2020-04-16,03:00,SO,,343,0,22,,,,8,https://corona.so.ch/,,,,,,,47.304135,7.639388,Solothurn,11,14,0,126.38,2.948
 2020-04-16,03:00,SZ,10,265,0,1,,,154,14,https://www.sz.ch/public/upload/assets/46137/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,47.061787,8.756585,Schwyz,05,4,1,168.47,8.9
 2020-04-16,03:00,TG,276,308,0,28,14,,,11,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,47.568715,9.091957,Thurgau,01,6,0,112.49,4.018
 2020-04-16,08:00,TI,,2953,-16,249,59,49.0,568,269,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187632&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=65b441f9003d32defd9e1c4f2650c177,,,,,,,46.295617,8.808924,Ticino,21,26,6,834.89,76.053
