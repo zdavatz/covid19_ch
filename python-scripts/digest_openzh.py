@@ -196,8 +196,19 @@ def convert_from_openzh(df):
     idx = df['abbreviation_canton'].values
     # Reorder indices
     pop_per_canton = list(canton_dict.T['pop'][idx])
+
+    # Calculate new positives
+    df['new_positive_cases'] = df.groupby(['abbreviation_canton'])['total_positive_cases'].diff(periods=1).fillna(0).astype('Int64')
+    # Calculate new hospitalized
+    df['new_hosp'] = df.groupby(['abbreviation_canton'])['total_hospitalized'].diff(periods=1).fillna(0).astype('Int64')
+    # Calculate new fatalities
+    df['new_deaths'] = df.groupby(['abbreviation_canton'])['deaths'].diff(periods=1).fillna(0).astype('Int64')
+
+    # Calculate prevalence for 100k inhabitants
     df['total_currently_positive_per_100k'] = round(100.0 * df['total_positive_cases']/pop_per_canton, 2)
     df['deaths_per_100k'] = round(100.0 * df['deaths']/pop_per_canton, 3) 
+
+
 
     # Forward fill gaps for incremental values which might not be updated every day
     df = forward_fill_series_gaps(df)
@@ -415,7 +426,7 @@ if __name__ == '__main__':
     # Convert series to our format and decorate data with additional info
     series = convert_from_openzh(openzh_series)
     # Generate CSV
-    series.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-cantons-series.csv"), index=False)
+    series.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-cantons-series_v2.csv"), index=False)
 
     # Generate one time series per canton
     series_by_time_per_canton(series)
