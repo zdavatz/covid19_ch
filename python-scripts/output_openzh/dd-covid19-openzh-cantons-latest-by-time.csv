@@ -1,6 +1,5 @@
 date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,ncumul_confirmed_non_resident,current_hosp_non_resident,TotalPosTests1,ninst_ICU_intub,ncumul_ICF,ncumul_deceased_suspect,lat,long,name_canton,number_canton,new_positive_cases,new_deaths,total_currently_positive_per_100k,deaths_per_100k
 2020-04-15,03:00,GR,,746,2,36,,,,38,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,6,1,376.96,19.202
-2020-04-15,03:00,SO,,329,0,22,,,,8,https://corona.so.ch/,,,,,,,47.304135,7.639388,Solothurn,11,4,0,121.22,2.948
 2020-04-15,03:00,VD,,4794,-18,279,68,,225,266,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,46.570091,6.557809000000001,Vaud,22,53,12,604.46,33.539
 2020-04-16,14:45,AG,,943,-8,61,20,20.0,500,23,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200416_KFS_Coronavirus_Lagebulletin_34.pdf,,,,,,,47.40966,8.15688,Aargau,01,14,1,140.54,3.428
 2020-04-16,11:00,AI,,24,0,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,149.07,
@@ -19,6 +18,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-16,15:30,OW,6,65,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,172.87,0.0
 2020-04-16,03:00,SG,,680,9,56,7,,138,25,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,47.1832,9.274744,St. Gallen,17,4,2,134.73,4.953
 2020-04-16,09:30,SH,,60,-1,10,2,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,73.71,1.229
+2020-04-16,03:00,SO,,343,0,22,,,,8,https://corona.so.ch/,,,,,,,47.304135,7.639388,Solothurn,11,14,0,126.38,2.948
 2020-04-16,03:00,SZ,10,265,0,1,,,154,14,https://www.sz.ch/public/upload/assets/46137/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,47.061787,8.756585,Schwyz,05,4,1,168.47,8.9
 2020-04-16,03:00,TG,276,308,0,28,14,,,11,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,47.568715,9.091957,Thurgau,01,6,0,112.49,4.018
 2020-04-16,08:00,TI,,2953,-16,249,59,49.0,568,269,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187632&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=65b441f9003d32defd9e1c4f2650c177,,,,,,,46.295617,8.808924,Ticino,21,26,6,834.89,76.053
