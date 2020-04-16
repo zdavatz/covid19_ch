@@ -1,6 +1,5 @@
 date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,ncumul_confirmed_non_resident,current_hosp_non_resident,TotalPosTests1,ninst_ICU_intub,ncumul_ICF,ncumul_deceased_suspect,lat,long,name_canton,number_canton,total_currently_positive_per_100k,deaths_per_100k
 2020-04-14,03:00,GR,,740,,34,,,,37,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,373.93,18.696
-2020-04-14,03:00,VD,,4741,,297,73,,225,254,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,46.570091,6.557809000000001,Vaud,22,597.78,32.026
 2020-04-15,14:45,AG,,929,,69,20,20.0,450,22,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200415_KFS_Coronavirus_Lagebulletin_33.pdf,,,,,,,47.40966,8.15688,Aargau,01,138.45,3.279
 2020-04-15,03:00,BL,,768,,45,9,7.0,610,25,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,47.45176,7.702414,Basel-Landschaft,13,267.6,8.711
 2020-04-15,03:00,FL,900,80,,,,,1,1,https://www.regierung.li/media/attachments/194-corona-neue-wege-zur-messung-0415.pdf?t=637225709239139141,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,207.25,2.591
@@ -13,6 +12,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-15,15:25,OW,6,64,,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,46.804527,8.144317000000001,Obwalden,06,170.21,0.0
 2020-04-15,03:00,SO,,329,1.0,22,,,,8,https://corona.so.ch/,,,,,,,47.304135,7.639388,Solothurn,11,121.22,2.948
 2020-04-15,16:00,UR,85,78,,3,,,62,4,https://www.ur.ch/themen/2962,,,,,,,46.771849,8.628586,Uri,04,214.88,11.019
+2020-04-15,03:00,VD,,4794,,279,68,,225,266,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,46.570091,6.557809000000001,Vaud,22,604.46,33.539
 2020-04-15,15:00,VS,,1682,,106,22,16.0,175,95,https://www.vs.ch/de/web/coronavirus; https://www.vs.ch/documents/6756452/7008787/2020%2004%2015%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,,46.209567,7.604659,Valais/Wallis,23,492.53,27.818
 2020-04-15,14:30,ZH,,3114,,136,,50.0,,85,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,47.41275,8.65508,Zürich,01,207.01,5.65
 2020-04-16,11:00,AI,,24,,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,149.07,
