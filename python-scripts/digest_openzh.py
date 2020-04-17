@@ -127,6 +127,8 @@ def forward_fill_series_gaps(df):
 datetime_formats = [
     "%Y-%m-%d %H:%M",
     "%Y-%m-%d %H:%M:%S",
+    "%d.%m.%Y %H:%M",
+    "%d.%m.%Y %H:%M:%S",
     "%Y-%m-%dT%H:%M:%S",
     "%Y-%m-%dT%H:%M",
     "%Y-%m-%dT",
