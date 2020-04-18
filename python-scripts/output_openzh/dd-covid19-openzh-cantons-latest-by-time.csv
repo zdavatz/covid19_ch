@@ -17,7 +17,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-17,16:20,NW,,107,-1,4,2,,,2,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,46.926755,8.405302,Nidwalden,07,1,0,248.84,4.651
 2020-04-17,16:00,OW,6,66,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,175.53,0.0
 2020-04-17,03:00,SG,,683,-15,41,9,,144,27,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,47.1832,9.274744,St. Gallen,17,3,2,135.33,5.35
-2020-04-17,09:30,SH,,60,-2,8,2,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,73.71,1.229
 2020-04-17,03:00,SO,,350,-2,20,,,,9,https://corona.so.ch/,,,,,,,47.304135,7.639388,Solothurn,11,7,1,128.96,3.316
 2020-04-17,03:00,SZ,10,266,0,1,,,161,14,https://www.sz.ch/public/upload/assets/46153/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,47.061787,8.756585,Schwyz,05,1,0,169.1,8.9
 2020-04-17,03:00,TG,276,321,-3,25,13,,,12,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,47.568715,9.091957,Thurgau,01,13,1,117.24,4.383
@@ -26,3 +25,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-17,15:00,VS,,1730,-6,103,20,14.0,184,96,https://www.vs.ch/documents/6756452/7008787/2020%2004%2017%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,,46.209567,7.604659,Valais/Wallis,23,23,2,506.59,28.111
 2020-04-17,08:00,ZG,,172,0,13,9,,96,6,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,47.157296,8.537294,Zug,09,1,0,137.16,4.785
 2020-04-17,14:30,ZH,,3172,-12,123,,45.0,,92,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,47.41275,8.65508,Zürich,01,23,0,210.86,6.116
+2020-04-18,09:30,SH,,61,-1,7,4,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,74.94,1.229
