@@ -1012,6 +1012,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-18,03:00,FL,900,81,0,,,,1,1,https://www.regierung.li/media/attachments/198-corona-kein-zusaetzlicher-fall-0418.pdf?t=637228301134424983,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,209.84,2.591
 2020-04-18,03:00,FR,30,956,1,67,11,,109,69,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,46.718391,7.074008,Fribourg,10,26,2,303.4,21.898
 2020-04-18,12:00,GE,20892,4611,-14,315,34,33.0,553,187,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,20.0,,46.220528,6.132935,Genève,25,0,0,931.14,37.763
+2020-04-18,16:00,JU,,190,0,17,5,,,2,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,,,47.350744,7.156107,Jura,26,0,0,259.21,2.729
 2020-04-18,12:30,LU,,623,-14,26,4,,,15,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,47.067763,8.1102,Luzern,03,16,1,153.26,3.69
 2020-04-18,16:00,NE,,615,0,44,10,8.0,,50,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,345.51,28.09
 2020-04-18,16:00,NW,,108,0,4,2,,,3,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,46.926755,8.405302,Nidwalden,07,1,1,251.16,6.977
