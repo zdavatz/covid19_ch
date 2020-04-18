@@ -1008,6 +1008,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-18,08:00,BE,,1586,2,71,22,12.0,,69,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,46.823608,7.636667,Bern/Berne,02,33,2,153.82,6.692
 2020-04-18,09:45,BS,235,929,0,68,7,,753,40,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-929-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,524.0,,,,,,47.564869,7.615259,Basel-Stadt,12,6,3,479.11,20.629
 2020-04-18,03:00,FR,30,956,1,67,11,,109,69,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,46.718391,7.074008,Fribourg,10,26,2,303.4,21.898
+2020-04-18,11:00,LU,,623,-14,26,4,,,15,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,47.067763,8.1102,Luzern,03,16,1,153.26,3.69
 2020-04-18,03:00,SG,,699,-4,37,7,,150,27,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,47.1832,9.274744,St. Gallen,17,16,0,138.5,5.35
 2020-04-18,09:30,SH,,61,-1,7,4,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,74.94,1.229
 2020-04-18,03:00,SO,,353,-1,19,,,,10,https://corona.so.ch/,,,,,,,47.304135,7.639388,Solothurn,11,3,1,130.07,3.685
