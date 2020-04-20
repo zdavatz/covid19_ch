@@ -9,7 +9,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-19,03:00,FL,900,81,0,,,,1,1,https://www.regierung.li/media/attachments/199-corona-keine-neuen-faelle-0419.pdf?t=637229165752237624,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,209.84,2.591
 2020-04-19,12:00,GE,21271,4654,0,315,35,33.0,558,193,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,19.0,,46.220528,6.132935,Genève,25,0,0,939.82,38.974
 2020-04-19,03:00,GR,,769,-9,28,,,,40,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,17,1,388.58,20.212
-2020-04-19,11:00,LU,,626,0,26,4,,,15,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,47.067763,8.1102,Luzern,03,3,0,154.0,3.69
 2020-04-19,16:00,NE,,636,-1,43,9,4.0,,50,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,357.3,28.09
 2020-04-19,16:15,NW,,108,0,4,2,,,3,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,251.16,6.977
 2020-04-19,13:00,UR,85,78,0,2,,,69,5,https://www.ur.ch/themen/2962,,,,,,,46.771849,8.628586,Uri,04,0,0,214.88,13.774
@@ -19,6 +18,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-20,08:00,BE,,1613,-7,71,19,11.0,,73,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,46.823608,7.636667,Bern/Berne,02,14,4,156.43,7.08
 2020-04-20,09:30,BS,235,933,0,68,7,,770,40,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-933-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,,47.564869,7.615259,Basel-Stadt,12,1,0,481.18,20.629
 2020-04-20,03:00,FR,30,989,1,62,11,,113,72,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,46.718391,7.074008,Fribourg,10,9,1,313.87,22.85
+2020-04-20,11:00,LU,,633,7,33,5,,,15,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,47.067763,8.1102,Luzern,03,7,0,155.72,3.69
 2020-04-20,03:00,SG,,711,-3,42,7,,159,27,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,47.1832,9.274744,St. Gallen,17,6,0,140.88,5.35
 2020-04-20,09:30,SH,,63,0,6,2,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,77.4,1.229
 2020-04-20,03:00,SO,,355,0,19,,,,11,https://corona.so.ch/,,,,,,,47.304135,7.639388,Solothurn,11,0,0,130.8,4.053
