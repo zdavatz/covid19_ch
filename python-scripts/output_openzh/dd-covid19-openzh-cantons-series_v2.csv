@@ -1048,7 +1048,10 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-19,15:00,VS,,1755,-23,82,20,9.0,204,103,https://www.vs.ch/documents/6756452/7008787/2020%2004%2019%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,,46.209567,7.604659,Valais/Wallis,23,10,6,513.91,30.161
 2020-04-19,10:00,ZG,,175,0,12,6,,99,7,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,47.157296,8.537294,Zug,09,1,0,139.55,5.582
 2020-04-19,14:30,ZH,,3239,2,116,,43.0,,101,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,47.41275,8.65508,Zürich,01,27,0,215.32,6.714
+2020-04-20,10:00,AR,,82,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,148.55,5.435
+2020-04-20,08:00,BE,,1613,-7,71,19,11.0,,73,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,46.823608,7.636667,Bern/Berne,02,14,4,156.43,7.08
 2020-04-20,09:30,BS,235,933,0,68,7,,770,40,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-933-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,,47.564869,7.615259,Basel-Stadt,12,1,0,481.18,20.629
+2020-04-20,03:00,FR,30,989,1,62,11,,113,72,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,46.718391,7.074008,Fribourg,10,9,1,313.87,22.85
 2020-04-20,03:00,SG,,711,-3,42,7,,159,27,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,47.1832,9.274744,St. Gallen,17,6,0,140.88,5.35
 2020-04-20,09:30,SH,,63,0,6,2,,,1,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,77.4,1.229
 2020-04-20,03:00,SO,,355,0,19,,,,11,https://corona.so.ch/,,,,,,,47.304135,7.639388,Solothurn,11,0,0,130.8,4.053
