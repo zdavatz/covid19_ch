@@ -426,7 +426,7 @@ if __name__ == '__main__':
     # Convert series to our format and decorate data with additional info
     series = convert_from_openzh(openzh_series)
     # Generate CSV
-    series.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-cantons-series_v2.csv"), index=False)
+    series.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-cantons-series.csv"), index=False)
 
     # Generate one time series per canton
     series_by_time_per_canton(series)
