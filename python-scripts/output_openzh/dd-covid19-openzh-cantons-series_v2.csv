@@ -1078,3 +1078,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-20,15:00,VS,,1771,-3,79,18,9.0,206,108,https://www.vs.ch/documents/6756452/7008787/2020%2004%2020%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,,46.209567,7.604659,Valais/Wallis,23,16,5,518.59,31.625
 2020-04-20,08:00,ZG,,175,0,11,5,,99,7,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,47.157296,8.537294,Zug,09,0,0,139.55,5.582
 2020-04-20,14:30,ZH,,3254,5,121,,43.0,,103,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,47.41275,8.65508,Zürich,01,16,1,216.31,6.847
+2020-04-21,03:00,SG,,718,6,48,8,,159,29,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,47.1832,9.274744,St. Gallen,17,7,2,142.26,5.746
+2020-04-21,03:00,SO,,359,0,19,,,,11,https://corona.so.ch/,,,,,,,47.304135,7.639388,Solothurn,11,4,0,132.28,4.053
+2020-04-21,08:00,ZG,,176,0,11,5,,99,8,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,47.157296,8.537294,Zug,09,1,1,140.35,6.38

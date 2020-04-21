@@ -1078,3 +1078,6 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-20,15:00,VS,,1771.0,,79.0,18.0,9.0,206.0,108.0,https://www.vs.ch/documents/6756452/7008787/2020%2004%2020%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,
 2020-04-20,08:00,ZG,,175.0,,11.0,5.0,,99.0,7.0,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,
 2020-04-20,14:30,ZH,,3254.0,,121.0,,43.0,,103.0,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,
+2020-04-21,,SG,,718.0,,48.0,8.0,,159.0,29.0,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,
+2020-04-21,00:00,SO,,359.0,,19.0,,,,11.0,https://corona.so.ch/,,,,,,
+2020-04-21,08:00,ZG,,176.0,,,,,99.0,8.0,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,
