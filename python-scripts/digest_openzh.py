@@ -210,8 +210,6 @@ def convert_from_openzh(df):
     df['total_currently_positive_per_100k'] = round(100.0 * df['total_positive_cases']/pop_per_canton, 2)
     df['deaths_per_100k'] = round(100.0 * df['deaths']/pop_per_canton, 3) 
 
-
-
     # Forward fill gaps for incremental values which might not be updated every day
     df = forward_fill_series_gaps(df)
 
