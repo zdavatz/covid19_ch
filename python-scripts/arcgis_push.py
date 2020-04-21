@@ -13,7 +13,7 @@ files = {
     'dd-covid19-openzh-cantons-latest.csv': '71d789eb72e8413abc6590e41a7f3cb2',
     'dd-covid19-openzh-cantons-latest_v3.csv': '1c9bbba06c684306814569cf54b2e07e',
     'dd-covid19-openzh-switzerland-latest.csv': 'a48bbcb06c8e4b629a31e5584c5e991a',
-    'dd-covid19-openzh-cantons-series_v2.csv': 'f58fac9f5642412798e0ccc7e1bc91a8'
+    'dd-covid19-openzh-cantons-series.csv': '6ad448e2fa95420d92a28a974a6445b9'
     }
 
 canton_file_name = 'dd-covid19-openzh-cantons-latest_v2.csv'

@@ -210,8 +210,6 @@ def convert_from_openzh(df):
     df['total_currently_positive_per_100k'] = round(100.0 * df['total_positive_cases']/pop_per_canton, 2)
     df['deaths_per_100k'] = round(100.0 * df['deaths']/pop_per_canton, 3) 
 
-
-
     # Forward fill gaps for incremental values which might not be updated every day
     df = forward_fill_series_gaps(df)
 
@@ -428,7 +426,7 @@ if __name__ == '__main__':
     # Convert series to our format and decorate data with additional info
     series = convert_from_openzh(openzh_series)
     # Generate CSV
-    series.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-cantons-series_v2.csv"), index=False)
+    series.to_csv(os.path.join(output_folder(), "dd-covid19-openzh-cantons-series.csv"), index=False)
 
     # Generate one time series per canton
     series_by_time_per_canton(series)
