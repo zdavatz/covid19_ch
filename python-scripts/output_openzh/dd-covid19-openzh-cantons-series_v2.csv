@@ -1079,7 +1079,9 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-20,15:00,VS,,1771,-3,79,18,9.0,206,108,https://www.vs.ch/documents/6756452/7008787/2020%2004%2020%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,,46.209567,7.604659,Valais/Wallis,23,16,5,518.59,31.625
 2020-04-20,08:00,ZG,,175,0,11,5,,99,7,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,47.157296,8.537294,Zug,09,0,0,139.55,5.582
 2020-04-20,14:30,ZH,,3254,5,121,,43.0,,103,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,47.41275,8.65508,Zürich,01,16,1,216.31,6.847
+2020-04-21,11:00,AI,,24,0,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,149.07,
 2020-04-21,09:15,BS,235,933,0,54,9,,781,44,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-933-bestaetigte-faelle-im-kanton-basel-stadt-gd-2.html,,,,,,,47.564869,7.615259,Basel-Stadt,12,0,2,481.18,22.692
+2020-04-21,11:00,LU,,643,0,33,5,,,15,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,47.067763,8.1102,Luzern,03,10,0,158.18,3.69
 2020-04-21,03:00,SG,,718,6,48,8,,159,29,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,47.1832,9.274744,St. Gallen,17,7,2,142.26,5.746
 2020-04-21,09:30,SH,,63,4,10,2,,,2,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,47.71357,8.59167,Schaffhausen,14,0,1,77.4,2.457
 2020-04-21,03:00,SO,,359,0,19,,,,11,https://corona.so.ch/,,,,,,,47.304135,7.639388,Solothurn,11,4,0,132.28,4.053
