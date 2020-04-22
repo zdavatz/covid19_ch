@@ -1094,6 +1094,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-21,13:30,GL,,115.0,,3.0,,,,6.0,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,
 2020-04-21,12:00,LU,,643.0,,35.0,6.0,,,15.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,
 2020-04-21,16:00,NE,,,,37.0,7.0,4.0,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.pdf,,,,,,
+2020-04-21,,NW,,108.0,,4.0,1.0,,,3.0,http://www.nw.ch/coronastatistik,,,,,,
 2020-04-21,11:30,OW,,67.0,,0.0,,,,0.0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,
 2020-04-21,,SG,,718.0,,48.0,8.0,,159.0,29.0,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,
 2020-04-21,09:30,SH,,63.0,,10.0,2.0,,,3.0,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,
@@ -1105,3 +1106,5 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-21,15:00,VS,,1775.0,,74.0,17.0,9.0,210.0,112.0,https://www.vs.ch/documents/6756452/7008787/2020%2004%2021%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,
 2020-04-21,08:00,ZG,,176.0,,,,,99.0,8.0,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,
 2020-04-21,14:30,ZH,,3280.0,,110.0,,41.0,,105.0,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,
+2020-04-22,08:23,SZ,,282.0,,,,,194.0,16.0,https://www.sz.ch/public/upload/assets/46199/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,
+2020-04-22,08:00,ZG,,176.0,,,,,131.0,8.0,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,
