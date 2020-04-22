@@ -1107,9 +1107,11 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-21,15:00,VS,,1775,-5,74,17,9.0,210,112,https://www.vs.ch/documents/6756452/7008787/2020%2004%2021%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,,46.209567,7.604659,Valais/Wallis,23,4,4,519.77,32.796
 2020-04-21,08:00,ZG,,176,0,11,5,,99,8,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,47.157296,8.537294,Zug,09,1,1,140.35,6.38
 2020-04-21,14:30,ZH,,3280,-11,110,,41.0,,105,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,47.41275,8.65508,Zürich,01,26,0,218.04,6.98
+2020-04-22,03:00,FR,30,1006,-3,57,5,,116,76,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,46.718391,7.074008,Fribourg,10,11,2,319.26,24.119
 2020-04-22,03:00,SG,,724,4,52,6,,162,29,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,47.1832,9.274744,St. Gallen,17,6,0,143.45,5.746
 2020-04-22,09:30,SH,,63,0,10,2,,,3,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,77.4,3.686
 2020-04-22,03:00,SO,,368,-1,18,,,,11,https://corona.so.ch/,,,,,,,47.304135,7.639388,Solothurn,11,9,0,135.59,4.053
 2020-04-22,08:23,SZ,10,282,0,1,,,194,16,https://www.sz.ch/public/upload/assets/46199/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,47.061787,8.756585,Schwyz,05,6,0,179.28,10.172
+2020-04-22,03:00,TG,276,340,-1,23,9,,,14,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,47.568715,9.091957,Thurgau,01,1,1,124.18,5.113
 2020-04-22,08:00,TI,,3089,0,236,54,36.0,639,295,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187654&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=8ae7085e87cf92c2997d0e458baa17f9,,,,,,,46.295617,8.808924,Ticino,21,24,4,873.34,83.404
 2020-04-22,08:00,ZG,,176,0,11,5,,131,8,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,47.157296,8.537294,Zug,09,0,0,140.35,6.38
