@@ -1147,9 +1147,13 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-22,08:00,ZG,,176,0,11,5,,131,8,https://www.zg.ch/behoerden/gesundheitsdirektion/amt-fuer-gesundheit/corona,,,,,,,47.157296,8.537294,Zug,09,0,0,140.35,6.38
 2020-04-22,14:30,ZH,,3320,0,110,,44.0,,108,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,47.41275,8.65508,Zürich,01,40,0,220.7,7.179
 2020-04-23,08:00,AR,,88,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,159.42,5.435
+2020-04-23,08:00,BE,,1670,-1,66,11,7.0,,79,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,46.823608,7.636667,Bern/Berne,02,27,2,161.96,7.662
+2020-04-23,03:00,FR,30,1014,0,57,5,,118,76,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,46.718391,7.074008,Fribourg,10,8,0,321.8,24.119
+2020-04-23,11:00,LU,,654,0,35,5,,,15,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,47.067763,8.1102,Luzern,03,6,0,160.89,3.69
 2020-04-23,03:00,SG,,736,-9,43,4,,167,31,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,47.1832,9.274744,St. Gallen,17,12,2,145.83,6.142
 2020-04-23,09:30,SH,,65,-2,8,2,,,3,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,79.85,3.686
 2020-04-23,03:00,SO,,375,-3,15,,,,12,https://corona.so.ch/,,,,,,,47.304135,7.639388,Solothurn,11,7,1,138.17,4.422
 2020-04-23,08:20,SZ,10,282,0,1,,,198,16,https://www.sz.ch/public/upload/assets/46266/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,47.061787,8.756585,Schwyz,05,0,0,179.28,10.172
 2020-04-23,03:00,TG,276,353,-2,21,9,,,14,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,47.568715,9.091957,Thurgau,01,13,0,128.93,5.113
 2020-04-23,08:00,TI,,3106,0,213,42,32.0,661,298,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187672&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=97e1b5c9b1c83ce43bd3c76d46f6aba5,,,,,,,46.295617,8.808924,Ticino,21,17,3,878.15,84.252
+2020-04-23,08:00,ZG,,178,0,5,3,,133,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,47.157296,8.537294,Zug,09,2,0,141.95,6.38
