@@ -1131,6 +1131,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-22,,FR,,1006.0,,57.0,5.0,,116.0,76.0,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,
 2020-04-22,12:00,GE,,,,288.0,30.0,27.0,589.0,,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,18.0,
 2020-04-22,13:30,GL,,117.0,,3.0,,,,6.0,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,
+2020-04-22,,GR,,788.0,,26.0,,,,43.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,
 2020-04-22,16:00,JU,,196.0,,12.0,4.0,,,6.0,https://www.jura.ch/fr/Autorites/Coronavirus/Chiffres-H-JU/Evolution-des-cas-COVID-19-dans-le-Jura.html,,,,,,
 2020-04-22,11:00,LU,,648.0,,,,,,15.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,
 2020-04-22,16:00,NE,,,,37.0,6.0,4.0,,56.0,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,
@@ -1150,3 +1151,5 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-23,09:30,SH,,65.0,,8.0,2.0,,,3.0,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,
 2020-04-23,00:00,SO,,375.0,,15.0,,,,12.0,https://corona.so.ch/,,,,,,
 2020-04-23,08:20,SZ,,282.0,,,,,198.0,16.0,https://www.sz.ch/public/upload/assets/46266/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,
+2020-04-23,,TG,,353.0,,21.0,9.0,,,14.0,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,
+2020-04-23,08:00,TI,,3106.0,,213.0,42.0,32.0,661.0,298.0,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187672&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=97e1b5c9b1c83ce43bd3c76d46f6aba5,,,,,,
