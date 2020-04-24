@@ -8,7 +8,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-23,03:00,FL,900,81,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223424/?typ=news,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,209.84,2.591
 2020-04-23,03:00,FR,30,1014,0,57,5,,118,76,https://www.fr.ch/covid19/sante/covid-19/coronavirus-statistiques-evolution-de-la-situation-dans-le-canton,,,,,,,46.718391,7.074008,Fribourg,10,8,0,321.8,24.119
 2020-04-23,12:00,GE,23230,4726,-4,284,29,27.0,592,213,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,21.0,,46.220528,6.132935,Genève,25,0,0,954.36,43.013
-2020-04-23,13:30,GL,,117,0,3,,,,6,https://www.gl.ch/verwaltung/finanzen-und-gesundheit/gesundheit/coronavirus.html/4817#Fallzahlen,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,290.32,14.888
+2020-04-23,13:30,GL,,117,0,3,,,,6,https://www.gl.ch/public/upload/assets/27574/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,290.32,14.888
 2020-04-23,03:00,GR,,794,0,26,,,,43,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,3,0,401.21,21.728
 2020-04-23,16:00,JU,,196,0,12,4,,,6,https://www.jura.ch/fr/Autorites/Coronavirus/Chiffres-H-JU/Evolution-des-cas-COVID-19-dans-le-Jura.html,,,,,,,47.350744,7.156107,Jura,26,0,0,267.39,8.186
 2020-04-23,03:00,NE,,660,-2,35,6,4.0,,61,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,370.79,34.27
