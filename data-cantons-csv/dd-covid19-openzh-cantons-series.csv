@@ -766,7 +766,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-06,03:00,GR,,679,3,52,,,,34,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,11,1,343.1,17.18
 2020-04-06,03:00,JU,,164,-2,27,4,,,0,https://www.jura.ch/Htdocs/Files/v/34252.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_24_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,4,0,223.74,0.0
 2020-04-06,11:00,LU,,497,12,61,6,,,9,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,19,0,122.26,2.214
-2020-04-06,03:00,NE,,488,1,59,10,8.0,,34,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,24,4,274.16,19.101
+2020-04-06,03:00,NE,,486,1,59,10,8.0,,34,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,22,4,273.03,19.101
 2020-04-06,03:00,NW,,86,2,11,2,,,,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,6,0,200.0,
 2020-04-06,15:00,OW,6,60,0,,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,4,0,159.57,0.0
 2020-04-06,03:00,SG,,532,0,70,12,,75,11,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,17,2,105.41,2.18
@@ -793,7 +793,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-07,03:00,GR,,684,-3,49,,,,35,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,5,1,345.63,17.686
 2020-04-07,03:00,JU,,171,1,28,4,,,0,https://www.jura.ch/Htdocs/Files/v/34252.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_24_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,7,0,233.29,0.0
 2020-04-07,11:00,LU,,509,-4,57,6,,,9,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,12,0,125.22,2.214
-2020-04-07,03:00,NE,,513,5,64,10,5.0,,37,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,25,3,288.2,20.787
+2020-04-07,03:00,NE,,510,5,64,10,5.0,,37,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,24,3,286.52,20.787
 2020-04-07,03:00,NW,,87,-2,9,2,,,,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,1,0,202.33,
 2020-04-07,14:30,OW,6,60,0,2,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,159.57,0.0
 2020-04-07,03:00,SG,,557,-5,65,9,,79,13,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,25,2,110.36,2.576
@@ -819,7 +819,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-08,03:00,GR,,698,-11,38,,,,35,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,14,0,352.7,17.686
 2020-04-08,03:00,JU,,174,3,31,4,,,1,https://www.jura.ch/Htdocs/Files/v/34252.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_24_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,3,1,237.38,1.364
 2020-04-08,11:00,LU,,527,0,57,6,,,9,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,18,0,129.64,2.214
-2020-04-08,03:00,NE,,518,-1,63,10,7.0,,40,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,5,3,291.01,22.472
+2020-04-08,03:00,NE,,515,-1,63,10,7.0,,40,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,5,3,289.33,22.472
 2020-04-08,03:00,NW,,93,0,9,1,,,,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,6,0,216.28,
 2020-04-08,15:00,OW,6,61,0,2,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,162.23,0.0
 2020-04-08,03:00,SG,,578,-13,52,12,,89,15,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,21,2,114.52,2.972
@@ -845,7 +845,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-09,03:00,GR,,719,1,39,,,,36,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,21,1,363.31,18.191
 2020-04-09,03:00,JU,,179,-3,28,5,,,1,https://www.jura.ch/Htdocs/Files/v/34252.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_24_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,5,0,244.2,1.364
 2020-04-09,13:00,LU,,542,0,62,6,,,9,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,15,0,133.33,2.214
-2020-04-09,03:00,NE,,550,-5,58,10,7.0,,41,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,32,1,308.99,23.034
+2020-04-09,03:00,NE,,547,-5,58,10,7.0,,42,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,32,2,307.3,23.596
 2020-04-09,03:00,NW,,96,0,9,1,,,,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,3,0,223.26,
 2020-04-09,15:00,OW,6,62,-1,1,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,164.89,0.0
 2020-04-09,03:00,SG,,604,0,52,13,,92,16,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,26,1,119.68,3.17
@@ -871,7 +871,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-10,03:00,GR,,730,-4,35,,,,36,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,11,0,368.87,18.191
 2020-04-10,03:00,JU,,182,-3,25,5,,,3,https://www.jura.ch/Htdocs/Files/v/34252.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_24_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,3,2,248.29,4.093
 2020-04-10,13:00,LU,,560,7,69,6,,,9,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,18,0,137.76,2.214
-2020-04-10,03:00,NE,,570,5,63,11,8.0,,41,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,20,0,320.22,23.034
+2020-04-10,03:00,NE,,567,5,63,11,8.0,,42,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,20,0,318.54,23.596
 2020-04-10,03:00,NW,,100,-2,7,1,,,,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,4,0,232.56,
 2020-04-10,03:00,SG,,632,8,60,11,,93,17,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,28,1,125.22,3.368
 2020-04-10,09:30,SH,,53,-4,13,2,,,1,https://sh.ch/CMS/get/file/f436e245-ecc5-4240-b4a4-ee88a84b74f3,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,65.11,1.229
@@ -897,7 +897,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-11,03:00,GR,,743,0,35,,,,36,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,13,0,375.44,18.191
 2020-04-11,03:00,JU,,183,-2,23,5,,,3,https://www.jura.ch/Htdocs/Files/v/34252.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_24_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,249.66,4.093
 2020-04-11,11:00,LU,,568,0,69,6,,,10,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,8,1,139.73,2.46
-2020-04-11,03:00,NE,,579,1,64,11,9.0,,43,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,9,2,325.28,24.157
+2020-04-11,03:00,NE,,576,1,64,11,9.0,,44,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,9,2,323.6,24.719
 2020-04-11,03:00,NW,,103,1,8,2,,,1,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,3,0,239.53,2.326
 2020-04-11,03:00,SG,,641,0,60,11,,102,18,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,9,1,127.01,3.566
 2020-04-11,09:30,SH,,55,0,13,2,,,1,https://sh.ch/CMS/get/file/f436e245-ecc5-4240-b4a4-ee88a84b74f3,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,67.57,1.229
@@ -921,7 +921,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-12,03:00,GR,,747,0,35,,,,36,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,4,0,377.46,18.191
 2020-04-12,03:00,JU,,183,-1,22,5,,,3,https://www.jura.ch/Htdocs/Files/v/34252.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_24_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,249.66,4.093
 2020-04-12,11:00,LU,,576,0,60,5,,,10,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,8,0,141.7,2.46
-2020-04-12,03:00,NE,,589,3,67,11,10.0,,48,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,10,5,330.9,26.966
+2020-04-12,03:00,NE,,586,3,67,11,10.0,,49,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,10,5,329.21,27.528
 2020-04-12,03:00,NW,,104,-1,7,2,,,1,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,1,0,241.86,2.326
 2020-04-12,03:00,SG,,649,-2,58,9,,109,21,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,8,3,128.59,4.161
 2020-04-12,09:30,SH,,57,3,16,2,,,1,https://sh.ch/CMS/get/file/f436e245-ecc5-4240-b4a4-ee88a84b74f3,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,70.02,1.229
@@ -947,7 +947,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-13,03:00,GR,,750,-1,34,,,,37,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,3,1,378.98,18.696
 2020-04-13,03:00,JU,,184,2,24,5,,,3,https://www.jura.ch/Htdocs/Files/v/34252.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_24_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,251.02,4.093
 2020-04-13,11:00,LU,,580,-20,40,5,,,10,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,4,0,142.68,2.46
-2020-04-13,03:00,NE,,595,0,67,11,10.0,,50,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,6,2,334.27,28.09
+2020-04-13,03:00,NE,,592,0,67,11,10.0,,51,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,6,2,332.58,28.652
 2020-04-13,03:00,NW,,104,0,7,2,,,1,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,0,0,241.86,2.326
 2020-04-13,03:00,SG,,657,0,58,10,,119,21,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,8,0,130.18,4.161
 2020-04-13,09:30,SH,,57,0,16,2,,,1,https://sh.ch/CMS/get/file/f436e245-ecc5-4240-b4a4-ee88a84b74f3,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,70.02,1.229
@@ -972,7 +972,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-14,03:00,GR,,753,0,34,,,,37,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,3,0,380.5,18.696
 2020-04-14,03:00,JU,,185,-3,21,5,,,3,https://www.jura.ch/Htdocs/Files/v/34252.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_24_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,252.39,4.093
 2020-04-14,11:00,LU,,589,7,47,4,,,11,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,9,1,144.9,2.706
-2020-04-14,03:00,NE,,606,-7,60,11,10.0,,53,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,11,3,340.45,29.775
+2020-04-14,03:00,NE,,603,-7,60,11,10.0,,54,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,11,3,338.76,30.337
 2020-04-14,03:00,NW,,105,0,7,2,,,1,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,1,0,244.19,2.326
 2020-04-14,15:45,OW,6,64,-1,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,170.21,0.0
 2020-04-14,03:00,SG,,664,1,59,9,,120,21,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,7,0,131.56,4.161
@@ -999,7 +999,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-15,03:00,GR,,759,2,36,,,,38,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,6,1,383.53,19.202
 2020-04-15,03:00,JU,,188,-4,17,5,,,3,https://www.jura.ch/Htdocs/Files/v/34252.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_24_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,3,0,256.48,4.093
 2020-04-15,11:00,LU,,596,-1,46,4,,,12,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,7,1,146.62,2.952
-2020-04-15,03:00,NE,,619,-6,54,12,10.0,,54,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,13,1,347.75,30.337
+2020-04-15,03:00,NE,,616,-6,54,12,10.0,,55,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,13,1,346.07,30.899
 2020-04-15,03:00,NW,,106,0,7,2,,,2,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,1,1,246.51,4.651
 2020-04-15,15:25,OW,6,64,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,170.21,0.0
 2020-04-15,03:00,SG,,676,-12,47,9,,123,23,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,12,2,133.94,4.557
@@ -1026,7 +1026,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-16,03:00,GR,,764,1,37,,,,39,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,5,1,386.05,19.707
 2020-04-16,03:00,JU,,189,1,18,5,,,3,https://www.jura.ch/Htdocs/Files/v/34252.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_24_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,257.84,4.093
 2020-04-16,12:30,LU,,599,-6,40,3,,,13,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,3,1,147.36,3.198
-2020-04-16,03:00,NE,,627,-2,52,11,9.0,,55,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,8,1,352.25,30.899
+2020-04-16,03:00,NE,,625,-2,52,11,9.0,,56,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,9,1,351.12,31.461
 2020-04-16,03:00,NW,,106,-2,5,2,,,2,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,0,0,246.51,4.651
 2020-04-16,15:30,OW,6,65,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,172.87,0.0
 2020-04-16,03:00,SG,,680,9,56,7,,138,25,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,4,2,134.73,4.953
@@ -1053,7 +1053,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-17,03:00,GR,,770,-4,33,,,,40,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,6,1,389.09,20.212
 2020-04-17,03:00,JU,,191,0,18,5,,,3,https://www.jura.ch/Htdocs/Files/v/34252.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_24_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,2,0,260.57,4.093
 2020-04-17,11:00,LU,,607,0,40,3,,,14,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,8,1,149.32,3.444
-2020-04-17,03:00,NE,,637,-8,44,10,8.0,,58,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,10,3,357.87,32.584
+2020-04-17,03:00,NE,,636,-8,44,10,8.0,,59,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,11,3,357.3,33.146
 2020-04-17,03:00,NW,,107,-1,4,2,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,1,1,248.84,6.977
 2020-04-17,16:00,OW,6,66,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,175.53,0.0
 2020-04-17,03:00,SG,,683,-15,41,9,,144,27,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,3,2,135.33,5.35
@@ -1078,7 +1078,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-18,03:00,GR,,773,-4,29,,,,40,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,3,0,390.6,20.212
 2020-04-18,03:00,JU,,192,-1,17,5,,,3,https://www.jura.ch/Htdocs/Files/v/34252.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_24_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,261.94,4.093
 2020-04-18,12:30,LU,,623,-14,26,4,,,15,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,16,1,153.26,3.69
-2020-04-18,03:00,NE,,639,0,44,10,8.0,,59,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,2,1,358.99,33.146
+2020-04-18,03:00,NE,,639,0,44,10,8.0,,59,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,3,0,358.99,33.146
 2020-04-18,03:00,NW,,108,0,4,2,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,1,0,251.16,6.977
 2020-04-18,03:00,SG,,699,3,44,7,,150,27,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,16,0,138.5,5.35
 2020-04-18,09:30,SH,,61,3,11,4,,,1,https://sh.ch/CMS/get/file/f436e245-ecc5-4240-b4a4-ee88a84b74f3,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,74.94,1.229
