@@ -16,7 +16,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-26,03:00,FR,30,1033,0,54,5,,120,77,https://www.fr.ch/sites/default/files/2020-04/statistiques_situation_FR_2604.xlsx,,,,,,46.718391,7.074008,Fribourg,10,4,1,327.83,24.437
 2020-04-26,03:00,JU,,196,0,11,4,,,6,https://www.jura.ch/Htdocs/Files/v/34255.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_26_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,267.39,8.186
 2020-04-26,12:00,LU,,670,-6,26,7,,,16,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,3,0,164.82,3.936
-2020-04-26,03:00,NE,,669,-3,32,3,3.0,,64,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,375.84,35.955
+2020-04-26,03:00,NE,,669,-3,32,4,3.0,,64,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,375.84,35.955
 2020-04-26,03:00,SG,,761,0,38,4,,176,31,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,8,0,150.78,6.142
 2020-04-26,09:30,SH,,72,3,9,2,,,5,https://sh.ch/CMS/get/file/b3135495-3a0b-49dc-a580-973c4825e787,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,88.45,6.143
 2020-04-26,03:00,SO,,380,-1,12,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,47.304135,7.639388,Solothurn,11,1,1,140.01,5.527
