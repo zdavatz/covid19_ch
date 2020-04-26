@@ -1267,6 +1267,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-25,14:30,ZH,,3397,-6,77,,38.0,,114,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,31,0,225.82,7.578
 2020-04-26,08:00,BE,,1714,-7,54,9,9.0,,83,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,6,0,166.23,8.05
 2020-04-26,03:00,FR,30,1033,0,54,5,,120,77,https://www.fr.ch/sites/default/files/2020-04/statistiques_situation_FR_2604.xlsx,,,,,,46.718391,7.074008,Fribourg,10,4,1,327.83,24.437
+2020-04-26,11:00,LU,,670,-6,26,7,,,16,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,3,0,164.82,3.936
 2020-04-26,03:00,SG,,761,0,38,4,,176,31,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,8,0,150.78,6.142
 2020-04-26,09:30,SH,,72,3,9,2,,,5,https://sh.ch/CMS/get/file/b3135495-3a0b-49dc-a580-973c4825e787,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,88.45,6.143
 2020-04-26,03:00,SO,,380,-1,12,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,47.304135,7.639388,Solothurn,11,1,1,140.01,5.527
