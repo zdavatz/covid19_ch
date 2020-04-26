@@ -1277,7 +1277,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-26,03:00,SG,,761,0,38,4,,176,31,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,8,0,150.78,6.142
 2020-04-26,09:30,SH,,72,3,9,2,,,5,https://sh.ch/CMS/get/file/b3135495-3a0b-49dc-a580-973c4825e787,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,88.45,6.143
 2020-04-26,03:00,SO,,380,-1,12,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,47.304135,7.639388,Solothurn,11,1,1,140.01,5.527
-2020-04-26,03:00,SZ,10,293,0,1,,,216,18,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948,,,,,,47.061787,8.756585,Schwyz,05,6,1,186.27,11.443
+2020-04-26,00:01,SZ,10,293,0,1,,,216,18,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948,,,,,,47.061787,8.756585,Schwyz,05,6,1,186.27,11.443
 2020-04-26,03:00,TG,276,360,-2,21,8,,,16,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,47.568715,9.091957,Thurgau,01,1,2,131.48,5.844
 2020-04-26,08:00,TI,,3161,-6,192,37,26.0,704,306,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187688&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=88b9dbc8a11bbaf69e33668cf73a2501,,,,,,46.295617,8.808924,Ticino,21,19,2,893.7,86.514
 2020-04-26,12:00,UR,85,80,0,3,,,69,5,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,2,0,220.39,13.774
