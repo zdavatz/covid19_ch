@@ -7,7 +7,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-26,03:00,NE,,669,-3,32,4,3.0,,64,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,375.84,35.955
 2020-04-26,03:00,NW,,110,0,3,0,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,2,0,255.81,6.977
 2020-04-26,03:00,VD,,5212,7,192,38,,,355,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,0,1,657.17,44.761
-2020-04-26,15:00,VS,,1830,4,71,14,10.0,218,129,https://www.vs.ch/documents/6756452/7008787/2020%2004%2026%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,46.209567,7.604659,Valais/Wallis,23,5,1,535.87,37.775
 2020-04-27,14:45,AG,,1088,2,42,15,14.0,830,33,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200427_KFS_Coronavirus_Lagebulletin_41.pdf,,,,,,47.40966,8.15688,Aargau,01,36,2,162.15,4.918
 2020-04-27,11:00,AI,,25,0,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,
 2020-04-27,10:15,AR,,94,-2,2,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,6,0,170.29,5.435
@@ -16,7 +15,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-27,10:30,BS,235,941,0,40,7,,815,46,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-941-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,514.0,,,,,47.564869,7.615259,Basel-Stadt,12,1,0,485.3,23.724
 2020-04-27,03:00,FR,30,1040,1,55,5,,120,78,https://www.fr.ch/sites/default/files/2020-04/statistiques_situation_FR_2704.xlsx,,,,,,46.718391,7.074008,Fribourg,10,7,1,330.05,24.754
 2020-04-27,13:30,GL,,121,0,3,,,,7,https://www.gl.ch/public/upload/assets/27574/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,1,0,300.25,17.37
-2020-04-27,11:00,LU,,674,0,26,7,,,16,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,4,0,165.81,3.936
+2020-04-27,12:00,LU,,674,6,32,7,,,16,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,4,0,165.81,3.936
 2020-04-27,15:30,OW,6,75,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,4,0,199.47,0.0
 2020-04-27,03:00,SG,,767,1,39,2,,176,31,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,6,0,151.97,6.142
 2020-04-27,09:30,SH,,73,3,12,3,,,5,https://sh.ch/CMS/get/file/b9efa343-2987-4ab2-a060-9c16eacb0326,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,89.68,6.143
@@ -25,4 +24,5 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-27,03:00,TG,276,360,0,21,8,,,17,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,47.568715,9.091957,Thurgau,01,0,1,131.48,6.209
 2020-04-27,08:00,TI,,3169,-4,188,34,25.0,709,311,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187690&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=b776cbdac6ff3c231bf4c3da4ce22b7f,,,,,,46.295617,8.808924,Ticino,21,8,5,895.96,87.928
 2020-04-27,14:00,UR,85,83,1,4,,,69,5,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,3,0,228.65,13.774
+2020-04-27,15:00,VS,,1836,-1,68,15,10.0,220,132,https://www.vs.ch/documents/6756452/7008787/2020%2004%2027%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,46.209567,7.604659,Valais/Wallis,23,0,1,537.63,38.653
 2020-04-27,14:30,ZH,,3418,-2,73,,24.0,,115,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,18,0,227.22,7.645
