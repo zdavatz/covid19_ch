@@ -14,7 +14,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-27,13:30,GL,,121,0,3,,,,7,https://www.gl.ch/public/upload/assets/27574/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,1,0,300.25,17.37
 2020-04-27,03:00,JU,,196,-2,9,4,,,7,https://www.jura.ch/Htdocs/Files/v/34263.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_27_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,1,267.39,9.55
 2020-04-27,12:00,LU,,674,6,32,7,,,16,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,4,0,165.81,3.936
-2020-04-27,03:00,NE,,674,-4,28,4,3.0,,65,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,378.65,36.517
+2020-04-27,03:00,NE,,674,-4,28,3,3.0,,65,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,378.65,36.517
 2020-04-27,16:15,NW,,110,0,3,0,,,3,https://www.nw.ch/gesundheitsamtdienste/6044,,,,,,46.926755,8.405302,Nidwalden,07,0,0,255.81,6.977
 2020-04-27,15:30,OW,6,75,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,4,0,199.47,0.0
 2020-04-27,03:00,SG,,767,1,39,2,,176,31,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,6,0,151.97,6.142
