@@ -1,5 +1,4 @@
 date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,ncumul_confirmed_non_resident,current_hosp_non_resident,TotalPosTests1,ninst_ICU_intub,ncumul_ICF,lat,long,name_canton,number_canton,new_positive_cases,new_deaths,total_currently_positive_per_100k,deaths_per_100k
-2020-04-23,03:00,GR,,794,0,26,,,,43,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,3,0,401.21,21.728
 2020-04-23,03:00,VD,,5143,1,195,44,,,331,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,2,6,648.47,41.735
 2020-04-24,14:45,AG,,1052,5,40,14,14.0,780,31,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200424_KFS_Coronavirus_Lagebulletin_40.pdf,,,,,,47.40966,8.15688,Aargau,01,15,0,156.78,4.62
 2020-04-24,09:30,AR,,88,-1,4,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,159.42,5.435
@@ -13,16 +12,17 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-26,03:00,BL,,816,0,27,0,0.0,724,30,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,284.32,10.453
 2020-04-26,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223428/?typ=news,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-04-26,03:00,FR,30,1033,0,54,5,,120,77,https://www.fr.ch/sites/default/files/2020-04/statistiques_situation_FR_2604.xlsx,,,,,,46.718391,7.074008,Fribourg,10,4,1,327.83,24.437
+2020-04-26,03:00,GR,,802,0,28,,,,43,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,0,405.26,21.728
 2020-04-26,03:00,JU,,196,0,11,4,,,6,https://www.jura.ch/Htdocs/Files/v/34255.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_26_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,267.39,8.186
 2020-04-26,12:00,LU,,670,-6,26,7,,,16,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,3,0,164.82,3.936
 2020-04-26,03:00,NE,,669,-3,32,4,3.0,,64,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,375.84,35.955
 2020-04-26,03:00,NW,,110,0,3,0,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,2,0,255.81,6.977
-2020-04-26,09:30,SH,,72,3,9,2,,,5,https://sh.ch/CMS/get/file/b3135495-3a0b-49dc-a580-973c4825e787,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,88.45,6.143
-2020-04-26,03:00,SO,,380,-1,12,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,47.304135,7.639388,Solothurn,11,1,1,140.01,5.527
 2020-04-26,00:01,SZ,10,293,0,1,,,216,18,https://www.sz.ch/behoerden/information-medien/medienmitteilungen/coronavirus.html/72-416-412-1379-6948,,,,,,47.061787,8.756585,Schwyz,05,6,1,186.27,11.443
 2020-04-26,03:00,TG,276,360,-2,21,8,,,16,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,47.568715,9.091957,Thurgau,01,1,2,131.48,5.844
-2020-04-26,08:00,TI,,3161,-6,192,37,26.0,704,306,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187688&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=88b9dbc8a11bbaf69e33668cf73a2501,,,,,,46.295617,8.808924,Ticino,21,19,2,893.7,86.514
 2020-04-26,12:00,UR,85,80,0,3,,,69,5,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,2,0,220.39,13.774
 2020-04-26,15:00,VS,,1830,4,71,14,10.0,218,129,https://www.vs.ch/documents/6756452/7008787/2020%2004%2026%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,46.209567,7.604659,Valais/Wallis,23,5,1,535.87,37.775
 2020-04-26,14:30,ZH,,3400,-2,75,,26.0,,115,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,3,0,226.02,7.645
 2020-04-27,03:00,SG,,767,1,39,2,,176,31,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,6,0,151.97,6.142
+2020-04-27,09:30,SH,,73,3,12,3,,,5,https://sh.ch/CMS/get/file/b9efa343-2987-4ab2-a060-9c16eacb0326,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,89.68,6.143
+2020-04-27,03:00,SO,,382,1,13,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,47.304135,7.639388,Solothurn,11,2,0,140.75,5.527
+2020-04-27,08:00,TI,,3169,0,192,37,26.0,704,311,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187688&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=88b9dbc8a11bbaf69e33668cf73a2501,,,,,,46.295617,8.808924,Ticino,21,8,5,895.96,87.928
