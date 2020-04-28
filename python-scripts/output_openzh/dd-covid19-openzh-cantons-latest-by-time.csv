@@ -2,7 +2,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-27,12:00,GE,24255,4760,-1,270,26,24.0,610,239,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,15.0,46.220528,6.132935,Genève,25,0,0,961.23,48.263
 2020-04-27,03:00,GR,,806,1,29,,,,44,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,4,0,407.28,22.233
 2020-04-27,03:00,NW,,110,-1,2,0,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,0,0,255.81,6.977
-2020-04-27,03:00,VD,,5227,-4,188,36,,,364,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,15,9,659.06,45.896
+2020-04-27,03:00,VD,,5227,-8,188,36,,,364,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,1,2,659.06,45.896
 2020-04-28,14:45,AG,,1093,-3,39,12,11.0,840,33,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200428_KFS_Coronavirus_Lagebulletin_42.pdf,,,,,,47.40966,8.15688,Aargau,01,5,0,162.89,4.918
 2020-04-28,11:00,AI,,25,0,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,
 2020-04-28,09:40,AR,,94,2,4,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,170.29,5.435
