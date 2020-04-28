@@ -5,7 +5,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-27,08:00,BE,,1722,0,54,10,9.0,,83,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,8,0,167.01,8.05
 2020-04-27,03:00,BL,,816,-3,24,1,0.0,738,30,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,284.32,10.453
 2020-04-27,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223429/?typ=content&nid=11076,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
-2020-04-27,03:00,FR,30,1040,1,55,5,,120,78,https://www.fr.ch/sites/default/files/2020-04/statistiques_situation_FR_2704.xlsx,,,,,,46.718391,7.074008,Fribourg,10,7,1,330.05,24.754
 2020-04-27,12:00,GE,24255,4760,-1,270,26,24.0,610,239,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,15.0,46.220528,6.132935,Genève,25,0,0,961.23,48.263
 2020-04-27,13:30,GL,,121,0,3,,,,7,https://www.gl.ch/public/upload/assets/27574/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,1,0,300.25,17.37
 2020-04-27,03:00,GR,,806,1,29,,,,44,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,4,0,407.28,22.233
@@ -20,7 +19,8 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-27,15:00,VS,,1836,-1,68,15,10.0,220,132,https://www.vs.ch/documents/6756452/7008787/2020%2004%2027%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,46.209567,7.604659,Valais/Wallis,23,0,1,537.63,38.653
 2020-04-27,14:30,ZH,,3418,-2,73,,24.0,,115,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,18,0,227.22,7.645
 2020-04-28,09:40,AR,,94,2,4,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,170.29,5.435
-2020-04-28,09:30,BS,235,943,0,28,7,,821,49,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-943-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,2,3,486.33,25.271
+2020-04-28,09:30,BS,235,943,0,28,7,,821,49,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-943-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,514.0,7.0,,,,47.564869,7.615259,Basel-Stadt,12,2,3,486.33,25.271
+2020-04-28,03:00,FR,30,1044,-6,49,5,,121,78,https://www.fr.ch/sites/default/files/2020-04/statistiques_situation_FR_2804.xlsx,,,,,,46.718391,7.074008,Fribourg,10,4,0,331.32,24.754
 2020-04-28,03:00,SG,,775,5,44,3,,176,33,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,8,2,153.56,6.539
 2020-04-28,09:30,SH,,74,-2,10,2,,,6,https://sh.ch/CMS/get/file/0779d9a8-e066-4335-95a4-8d2793d317c6,,,,,,47.71357,8.59167,Schaffhausen,14,1,1,90.91,7.371
 2020-04-28,03:00,SO,,383,0,13,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,47.304135,7.639388,Solothurn,11,1,0,141.12,5.527
