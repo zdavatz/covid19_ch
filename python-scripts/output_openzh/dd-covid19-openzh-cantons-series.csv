@@ -1234,7 +1234,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-24,03:00,FR,30,1021,-2,55,8,,119,76,https://www.fr.ch/sites/default/files/2020-04/statistiques_situation_FR_2704.xlsx,,,,,,46.718391,7.074008,Fribourg,10,7,0,324.02,24.119
 2020-04-24,03:00,GE,23694,4741,-6,278,26,25.0,600,236,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,17.0,46.220528,6.132935,Genève,25,20,5,957.39,47.658
 2020-04-24,13:00,GL,,117,0,3,,,,7,https://www.gl.ch/public/upload/assets/27574/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,1,290.32,17.37
-2020-04-24,03:00,GR,,799,3,29,,,,43,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,5,0,403.74,21.728
+2020-04-24,03:00,GR,,799,3,29,,,,44,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,5,1,403.74,22.233
 2020-04-24,03:00,JU,,196,0,11,4,,,6,https://www.jura.ch/Htdocs/Files/v/34263.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_27_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,267.39,8.186
 2020-04-24,11:00,LU,,660,0,38,7,,,16,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,6,1,162.36,3.936
 2020-04-24,03:00,NE,,673,1,36,6,4.0,,65,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,3,0,378.09,36.517
@@ -1259,7 +1259,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-25,03:00,FR,30,1029,-1,54,7,,119,76,https://www.fr.ch/sites/default/files/2020-04/statistiques_situation_FR_2704.xlsx,,,,,,46.718391,7.074008,Fribourg,10,8,0,326.56,24.119
 2020-04-25,03:00,GE,24058,4754,-7,271,27,26.0,600,237,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,18.0,46.220528,6.132935,Genève,25,13,1,960.02,47.859
 2020-04-25,13:00,GL,,120,0,3,,,,7,https://www.gl.ch/public/upload/assets/27574/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,3,0,297.77,17.37
-2020-04-25,03:00,GR,,800,-1,28,,,,43,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,1,0,404.24,21.728
+2020-04-25,03:00,GR,,800,-1,28,,,,44,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,1,0,404.24,22.233
 2020-04-25,03:00,JU,,196,0,11,4,,,6,https://www.jura.ch/Htdocs/Files/v/34263.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_27_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,267.39,8.186
 2020-04-25,12:00,LU,,667,0,32,8,,,16,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,7,0,164.08,3.936
 2020-04-25,03:00,NE,,674,-1,35,4,3.0,,65,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,378.65,36.517
@@ -1282,7 +1282,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-26,03:00,FR,30,1033,0,54,5,,120,77,https://www.fr.ch/sites/default/files/2020-04/statistiques_situation_FR_2704.xlsx,,,,,,46.718391,7.074008,Fribourg,10,4,1,327.83,24.437
 2020-04-26,03:00,GE,24255,4760,0,271,25,24.0,610,239,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,17.0,46.220528,6.132935,Genève,25,6,2,961.23,48.263
 2020-04-26,13:00,GL,,120,0,3,,,,7,https://www.gl.ch/public/upload/assets/27574/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,297.77,17.37
-2020-04-26,03:00,GR,,802,0,28,,,,43,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,0,405.26,21.728
+2020-04-26,03:00,GR,,802,0,28,,,,44,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,0,405.26,22.233
 2020-04-26,03:00,JU,,196,0,11,4,,,6,https://www.jura.ch/Htdocs/Files/v/34263.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_27_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,267.39,8.186
 2020-04-26,12:00,LU,,670,-6,26,7,,,16,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,3,0,164.82,3.936
 2020-04-26,03:00,NE,,674,-3,32,3,3.0,,65,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,378.65,36.517
@@ -1308,6 +1308,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-27,03:00,FR,30,1040,1,55,5,,120,78,https://www.fr.ch/sites/default/files/2020-04/statistiques_situation_FR_2704.xlsx,,,,,,46.718391,7.074008,Fribourg,10,7,1,330.05,24.754
 2020-04-27,12:00,GE,24255,4760,-1,270,26,24.0,610,239,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,15.0,46.220528,6.132935,Genève,25,0,0,961.23,48.263
 2020-04-27,13:30,GL,,121,0,3,,,,7,https://www.gl.ch/public/upload/assets/27574/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,1,0,300.25,17.37
+2020-04-27,03:00,GR,,806,1,29,,,,44,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,4,0,407.28,22.233
 2020-04-27,03:00,JU,,196,-2,9,4,,,7,https://www.jura.ch/Htdocs/Files/v/34263.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_27_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,1,267.39,9.55
 2020-04-27,12:00,LU,,674,6,32,7,,,16,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,4,0,165.81,3.936
 2020-04-27,03:00,NE,,674,-4,28,3,3.0,,65,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,378.65,36.517
@@ -1323,6 +1324,10 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-27,15:00,VS,,1836,-1,68,15,10.0,220,132,https://www.vs.ch/documents/6756452/7008787/2020%2004%2027%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,46.209567,7.604659,Valais/Wallis,23,0,1,537.63,38.653
 2020-04-27,08:00,ZG,,185,1,7,3,,134,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,4,0,147.53,6.38
 2020-04-27,14:30,ZH,,3418,-2,73,,24.0,,115,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,18,0,227.22,7.645
+2020-04-28,09:40,AR,,94,2,4,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,170.29,5.435
+2020-04-28,09:30,BS,235,943,0,28,7,,821,49,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-943-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,2,3,486.33,25.271
+2020-04-28,03:00,SG,,775,5,44,3,,176,33,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,8,2,153.56,6.539
 2020-04-28,09:30,SH,,74,-2,10,2,,,6,https://sh.ch/CMS/get/file/0779d9a8-e066-4335-95a4-8d2793d317c6,,,,,,47.71357,8.59167,Schaffhausen,14,1,1,90.91,7.371
 2020-04-28,03:00,SO,,383,0,13,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,47.304135,7.639388,Solothurn,11,1,0,141.12,5.527
+2020-04-28,08:00,TI,,3176,0,188,34,25.0,709,316,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187690&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=b776cbdac6ff3c231bf4c3da4ce22b7f,,,,,,46.295617,8.808924,Ticino,21,7,5,897.94,89.341
 2020-04-28,08:00,ZG,,185,0,7,3,,134,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,147.53,6.38
