@@ -1,6 +1,6 @@
 date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,ncumul_confirmed_non_resident,current_hosp_non_resident,TotalPosTests1,ninst_ICU_intub,ncumul_ICF,lat,long,name_canton,number_canton,new_positive_cases,new_deaths,total_currently_positive_per_100k,deaths_per_100k
 2020-04-27,03:00,VD,,5227,-8,188,36,,,364,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,1,2,659.06,45.896
-2020-04-28,03:00,FR,30,1044,-6,49,5,,121,78,https://www.fr.ch/sites/default/files/2020-04/statistiques_situation_FR_2804.xlsx,,,,,,46.718391,7.074008,Fribourg,10,4,0,331.32,24.754
+2020-04-28,03:00,FR,30,1044,-6,49,5,,121,78,https://www.fr.ch/sites/default/files/2020-04/statistiques_situation_FR_2904.xlsx,,,,,,46.718391,7.074008,Fribourg,10,4,0,331.32,24.754
 2020-04-28,03:00,GR,,809,-2,27,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,0,408.79,22.739
 2020-04-28,03:00,NW,,111,0,2,0,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,1,0,258.14,6.977
 2020-04-29,14:45,AG,,1099,-1,38,10,9.0,850,33,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200429_KFS_Coronavirus_Lagebulletin_43.pdf,,,,,,47.40966,8.15688,Aargau,01,6,0,163.79,4.918
