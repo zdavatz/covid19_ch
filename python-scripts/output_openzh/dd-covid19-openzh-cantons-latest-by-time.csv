@@ -2,7 +2,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-27,03:00,VD,,5227,-8,188,36,,,364,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,1,2,659.06,45.896
 2020-04-28,03:00,FR,30,1044,-6,49,5,,121,78,https://www.fr.ch/sites/default/files/2020-04/statistiques_situation_FR_2804.xlsx,,,,,,46.718391,7.074008,Fribourg,10,4,0,331.32,24.754
 2020-04-28,03:00,GR,,809,-2,27,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,0,408.79,22.739
-2020-04-28,03:00,JU,,197,0,9,4,,,7,https://www.jura.ch/Htdocs/Files/v/34274.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_28_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,268.76,9.55
 2020-04-28,03:00,NW,,111,0,2,0,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,1,0,258.14,6.977
 2020-04-29,14:45,AG,,1099,-1,38,10,9.0,850,33,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200429_KFS_Coronavirus_Lagebulletin_43.pdf,,,,,,47.40966,8.15688,Aargau,01,6,0,163.79,4.918
 2020-04-29,11:00,AI,,25,0,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,
@@ -13,6 +12,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-29,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/228-corona-information-lockerungen-0429.pdf?t=637237803125206694,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-04-29,12:00,GE,25000,4785,-23,254,21,19.0,634,244,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,,,16.0,46.220528,6.132935,Genève,25,0,0,966.28,49.273
 2020-04-29,13:30,GL,,122,0,3,,,,9,https://www.gl.ch/public/upload/assets/27574/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,1,1,302.73,22.333
+2020-04-29,03:00,JU,,197,-1,8,5,,,7,https://www.jura.ch/Htdocs/Files/v/34283.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_29_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,268.76,9.55
 2020-04-29,03:00,LU,,687,2,31,8,,,17,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,10,0,169.0,4.182
 2020-04-29,03:00,NE,,676,0,26,4,4.0,,74,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,379.78,41.573
 2020-04-29,15:15,OW,6,78,1,2,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,207.45,0.0
