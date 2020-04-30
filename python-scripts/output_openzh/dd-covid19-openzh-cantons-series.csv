@@ -1364,6 +1364,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-29,03:00,JU,,197,-1,8,5,,,7,https://www.jura.ch/Htdocs/Files/v/34283.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_29_04.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,268.76,9.55
 2020-04-29,03:00,LU,,687,2,31,8,,,17,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,10,0,169.0,4.182
 2020-04-29,03:00,NE,,676,0,26,4,4.0,,74,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,379.78,41.573
+2020-04-29,03:00,NW,,111,0,2,0,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,0,0,258.14,6.977
 2020-04-29,15:15,OW,6,78,1,2,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,207.45,0.0
 2020-04-29,03:00,SG,,776,0,44,10,,176,33,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,1,0,153.75,6.539
 2020-04-29,09:30,SH,,74,2,12,2,,,6,https://sh.ch/CMS/get/file/503bf73d-0f85-425c-9bd5-1ef9c03cfc83,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,90.91,7.371
