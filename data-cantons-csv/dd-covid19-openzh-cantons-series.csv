@@ -1415,6 +1415,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-01,03:00,FR,30,1078,-3,43,5,,123,78,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,8,0,342.11,24.754
 2020-05-01,13:00,GL,,122,0,2,,,,11,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,1,302.73,27.295
 2020-05-01,03:00,LU,,703,9,40,8,,,17,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,9,0,172.94,4.182
+2020-05-01,15:00,OW,6,78,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,207.45,0.0
 2020-05-01,03:00,SG,,788,-1,36,3,,187,33,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,8,0,156.13,6.539
 2020-05-01,09:30,SH,,75,-1,7,2,,,6,https://sh.ch/CMS/get/file/c1688ab0-1c33-488a-8c2b-85b3bde7fe77,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,92.14,7.371
 2020-05-01,03:00,SO,,390,0,12,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,47.304135,7.639388,Solothurn,11,2,0,143.7,5.527
@@ -1422,5 +1423,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-01,03:00,TG,276,367,0,14,7,,,17,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,47.568715,9.091957,Thurgau,01,2,0,134.04,6.209
 2020-05-01,08:00,TI,,3218,-20,142,30,23.0,739,322,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187705&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=784ddfcb642aacdda332f314cb6089b4,,,,,,46.295617,8.808924,Ticino,21,8,1,909.81,91.038
 2020-05-01,15:30,UR,85,87,-1,3,,,72,6,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,1,1,239.67,16.529
+2020-05-01,15:00,VS,,1871,0,55,10,9.0,239,138,https://www.vs.ch/documents/6756452/7008787/2020%2005%2001%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,46.209567,7.604659,Valais/Wallis,23,5,1,547.88,40.41
 2020-05-01,08:00,ZG,,189,-2,4,1,,136,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,150.72,6.38
 2020-05-01,14:30,ZH,,3486,-18,43,,14.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,13,0,231.74,8.177
