@@ -8,7 +8,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-01,08:00,BE,,1767,1,40,9,7.0,,86,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,10,1,171.37,8.341
 2020-05-01,03:00,BL,,825,-1,8,1,1.0,758,32,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,1,2,287.46,11.15
 2020-05-01,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/230-corona-immer-noch-82-0501.pdf?t=637239528964359340,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
-2020-05-01,03:00,FR,30,1078,-3,43,5,,123,78,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,8,0,342.11,24.754
 2020-05-01,12:00,GE,25223,4927,-14,238,18,17.0,658,248,https://www.ge.ch/document/20094/telecharger,,,,,15.0,46.220528,6.132935,Genève,25,0,0,994.95,50.081
 2020-05-01,13:00,GL,,122,0,2,,,,11,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,1,302.73,27.295
 2020-05-01,03:00,JU,,198,0,8,5,,,7,https://www.jura.ch/Htdocs/Files/v/34293.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_01_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,270.12,9.55
@@ -22,7 +21,8 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-01,15:00,VS,,1871,0,55,10,9.0,239,138,https://www.vs.ch/documents/6756452/7008787/2020%2005%2001%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,46.209567,7.604659,Valais/Wallis,23,5,1,547.88,40.41
 2020-05-01,08:00,ZG,,189,-2,4,1,,136,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,150.72,6.38
 2020-05-01,14:30,ZH,,3486,-18,43,,14.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,13,0,231.74,8.177
+2020-05-02,03:00,FR,30,1092,-5,38,4,,129,79,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0205_0.xlsx,,,,,,46.718391,7.074008,Fribourg,10,14,1,346.56,25.071
 2020-05-02,09:30,SH,,75,0,7,2,,,6,https://sh.ch/CMS/get/file/88489ddb-f211-4e59-9f93-f0b18b68c4c3,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,92.14,7.371
 2020-05-02,03:00,SO,,392,-1,11,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,47.304135,7.639388,Solothurn,11,2,0,144.44,5.527
 2020-05-02,00:01,SZ,10,304,0,1,,,246,21,https://www.sz.ch/public/upload/assets/46421/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,1,0,193.26,13.35
-2020-05-02,08:00,TI,,3225,0,142,25,20.0,764,323,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187711&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=0d1b5183c317edf314906c84c9fbe736,,,,,,46.295617,8.808924,Ticino,21,7,1,911.79,91.32
+2020-05-02,08:00,TI,,3225,-8,134,23,16.0,774,323,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,7,1,911.79,91.32
