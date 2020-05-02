@@ -1431,6 +1431,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-01,15:00,VS,,1871,0,55,10,9.0,239,138,https://www.vs.ch/documents/6756452/7008787/2020%2005%2001%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,46.209567,7.604659,Valais/Wallis,23,5,1,547.88,40.41
 2020-05-01,08:00,ZG,,189,-2,4,1,,136,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,150.72,6.38
 2020-05-01,14:30,ZH,,3486,-18,43,,14.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,13,0,231.74,8.177
+2020-05-02,08:00,BE,,1779,4,44,9,6.0,,90,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,12,4,172.53,8.729
 2020-05-02,03:00,FR,30,1092,-5,38,4,,129,79,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0205_0.xlsx,,,,,,46.718391,7.074008,Fribourg,10,14,1,346.56,25.071
 2020-05-02,03:00,LU,,704,0,40,8,,,17,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,1,0,173.19,4.182
 2020-05-02,09:30,SH,,75,0,7,2,,,6,https://sh.ch/CMS/get/file/88489ddb-f211-4e59-9f93-f0b18b68c4c3,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,92.14,7.371
