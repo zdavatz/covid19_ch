@@ -1456,6 +1456,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-03,03:00,LU,,705,0,40,7,,,18,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,1,1,173.43,4.428
 2020-05-03,03:00,NE,,686,0,26,2,2.0,,74,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,385.39,41.573
 2020-05-03,09:30,SH,,75,-1,6,2,,,6,https://sh.ch/CMS/get/file/992c4882-a8a7-4713-b716-77e7ddcc8a93,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,92.14,7.371
+2020-05-03,03:00,SO,,398,0,11,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,47.304135,7.639388,Solothurn,11,6,0,146.65,5.527
 2020-05-03,00:01,SZ,10,304,0,1,,,248,21,https://www.sz.ch/public/upload/assets/46422/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,0,0,193.26,13.35
 2020-05-03,08:00,TI,,3235,-2,132,23,16.0,779,324,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,10,1,914.62,91.603
 2020-05-03,13:00,UR,85,90,0,0,,,72,6,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,1,0,247.93,16.529
