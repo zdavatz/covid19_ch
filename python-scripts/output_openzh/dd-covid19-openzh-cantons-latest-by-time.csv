@@ -18,7 +18,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-03,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223445/?typ=news,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-03,03:00,FR,30,1097,-3,35,4,,130,79,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0305_0.xlsx,,,,,,46.718391,7.074008,Fribourg,10,5,0,348.14,25.071
 2020-05-03,03:00,JU,,198,0,8,5,,,7,https://www.jura.ch/Htdocs/Files/v/34295.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_03_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,270.12,9.55
-2020-05-03,03:00,LU,,705,0,40,8,,,18,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,1,1,173.43,4.428
+2020-05-03,03:00,LU,,705,0,40,7,,,18,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,1,1,173.43,4.428
 2020-05-03,03:00,NE,,686,0,26,2,2.0,,74,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,385.39,41.573
 2020-05-03,09:30,SH,,75,-1,6,2,,,6,https://sh.ch/CMS/get/file/992c4882-a8a7-4713-b716-77e7ddcc8a93,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,92.14,7.371
 2020-05-03,00:01,SZ,10,304,0,1,,,248,21,https://www.sz.ch/public/upload/assets/46422/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,0,0,193.26,13.35
