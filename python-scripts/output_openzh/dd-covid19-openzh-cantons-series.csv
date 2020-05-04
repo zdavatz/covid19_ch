@@ -1466,6 +1466,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-03,15:00,VS,,1881,0,54,10,9.0,241,140,https://www.vs.ch/documents/6756452/7008787/2020%2005%2003%20Sit%20Epid%20-%20%C3%89tat%20Stand,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,550.81,40.996
 2020-05-03,14:30,ZH,,3493,1,42,,12.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,4,0,232.2,8.177
 2020-05-04,08:00,AI,,25,0,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,
+2020-05-04,08:00,AR,,97,3,6,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,175.72,5.435
 2020-05-04,09:30,SH,,75,-2,4,2,,,6,https://sh.ch/CMS/get/file/717b1809-6cae-4f88-8126-5f4b13f67490,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,92.14,7.371
 2020-05-04,03:00,SO,,400,0,11,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,47.304135,7.639388,Solothurn,11,2,0,147.38,5.527
 2020-05-04,10:00,SZ,10,305,0,1,,,248,21,https://www.sz.ch/public/upload/assets/46435/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,1,0,193.9,13.35
