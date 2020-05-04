@@ -634,7 +634,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-01,10:00,BS,,687.0,,108.0,16.0,,323.0,18.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-691-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,404.0,20.0,,,
 2020-04-01,,FL,,72.0,,,,,,,https://www.regierung.li/media/attachments/164-corona-schweizer-sanitaetssoldaten-0401.pdf?t=637213766824962451,,,,,
 2020-04-01,,FR,,525.0,,81.0,23.0,,,23.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-01,,GE,12323.0,3094.0,,406.0,64.0,58.0,260.0,77.0,https://www.ge.ch/document/20094/telecharger,,,,,24.0
+2020-04-01,,GE,12314.0,3094.0,,406.0,64.0,58.0,260.0,77.0,https://www.ge.ch/document/20094/telecharger,,,,,24.0
 2020-04-01,,GL,,56.0,,5.0,,,,2.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-01,,GR,,592.0,,59.0,,,,26.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-01,,JU,,145.0,,29.0,5.0,,,0.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -661,7 +661,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-02,10:00,BS,,714.0,,119.0,17.0,,350.0,19.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-718-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,409.0,24.0,,,
 2020-04-02,,FL,,75.0,,,,,,,https://www.regierung.li/media/attachments/166-massnahmen-weiter-einhalten-0402.pdf?t=637214501732587547,,,,,
 2020-04-02,,FR,,550.0,,80.0,23.0,,46.0,26.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-02,,GE,13315.0,3354.0,,424.0,62.0,54.0,283.0,85.0,https://www.ge.ch/document/20094/telecharger,,,,,24.0
+2020-04-02,,GE,13382.0,3354.0,,424.0,62.0,54.0,283.0,85.0,https://www.ge.ch/document/20094/telecharger,,,,,24.0
 2020-04-02,,GL,,58.0,,5.0,,,,2.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-02,,GR,,622.0,,60.0,,,,28.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-02,,JU,,149.0,,29.0,3.0,,,0.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -688,7 +688,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-03,08:30,BS,,754.0,,115.0,17.0,,397.0,21.0,https://www.gd.bs.ch/nm/2020-tagesbulletin-coronavirus-748-bestaetigte-faelle-im-kanton-basel-stadt-gd.html https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-771-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,420.0,22.0,,,
 2020-04-03,,FL,,76.0,,,,,,,https://www.regierung.li/media/attachments/166-massnahmen-weiter-einhalten-0402.pdf?t=637214501732587547,,,,,
 2020-04-03,,FR,,588.0,,77.0,21.0,,46.0,31.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-03,,GE,14155.0,3553.0,,424.0,65.0,58.0,284.0,92.0,https://www.ge.ch/document/20094/telecharger,,,,,25.0
+2020-04-03,,GE,14225.0,3553.0,,424.0,65.0,58.0,284.0,92.0,https://www.ge.ch/document/20094/telecharger,,,,,25.0
 2020-04-03,,GL,,59.0,,5.0,,,,2.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-03,,GR,,649.0,,51.0,,,,30.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-03,,JU,,149.0,,28.0,3.0,,,0.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -714,7 +714,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-04,10:15,BS,,767.0,,112.0,16.0,,434.0,24.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-771-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,425.0,21.0,,,
 2020-04-04,,FL,,77.0,,,,,,1.0,https://www.regierung.li/media/attachments/168-corona-person-verstorben-0404.pdf?t=637216219078826521,,,,,
 2020-04-04,,FR,,638.0,,89.0,21.0,,49.0,37.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-04,,GE,14748.0,3685.0,,421.0,61.0,51.0,305.0,106.0,https://www.ge.ch/document/20094/telecharger,,,,,22.0
+2020-04-04,,GE,14797.0,3685.0,,421.0,61.0,51.0,305.0,106.0,https://www.ge.ch/document/20094/telecharger,,,,,22.0
 2020-04-04,,GL,,61.0,,5.0,,,,2.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-04,,GR,,657.0,,52.0,,,,30.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-04,,JU,,154.0,,27.0,3.0,,,0.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -738,7 +738,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-05,10:15,BS,,789.0,,106.0,15.0,,460.0,26.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-794-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,436.0,22.0,,,
 2020-04-05,,FL,,77.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223366/?typ=news,,,,,
 2020-04-05,,FR,,669.0,,87.0,20.0,,55.0,40.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-05,,GE,15045.0,3750.0,,424.0,56.0,50.0,327.0,113.0,https://www.ge.ch/document/20094/telecharger,,,,,26.0
+2020-04-05,,GE,15091.0,3750.0,,424.0,56.0,50.0,327.0,113.0,https://www.ge.ch/document/20094/telecharger,,,,,26.0
 2020-04-05,,GL,,63.0,,5.0,,,,2.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-05,,GR,,668.0,,49.0,,,,33.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-05,,JU,,160.0,,29.0,4.0,,,0.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -763,7 +763,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-06,,BL,,682.0,,67.0,17.0,17.0,412.0,19.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
 2020-04-06,9:45,BS,,798.0,,99.0,13.0,,481.0,26.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-803-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,438.0,21.0,,,
 2020-04-06,,FR,,689.0,,87.0,19.0,,56.0,41.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-06,,GE,15683.0,3869.0,,418.0,56.0,50.0,345.0,125.0,https://www.ge.ch/document/20094/telecharger,,,,,24.0
+2020-04-06,,GE,15712.0,3869.0,,418.0,56.0,50.0,345.0,125.0,https://www.ge.ch/document/20094/telecharger,,,,,24.0
 2020-04-06,,GL,,63.0,,2.0,,,,2.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-06,,GR,,679.0,,52.0,,,,34.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-06,,JU,,164.0,,27.0,4.0,,,0.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -790,7 +790,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-07,09:30,BS,,808.0,,101.0,13.0,,508.0,28.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-813-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,442.0,18.0,,,
 2020-04-07,,FL,,78.0,,,,,,1.0,https://www.liechtenstein.li/news-detail/article/aktuelle-informationen-zum-coronavirus/,,,,,
 2020-04-07,,FR,,729.0,,78.0,22.0,,73.0,44.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-07,,GE,16517.0,4029.0,,412.0,51.0,48.0,374.0,136.0,https://www.ge.ch/document/20094/telecharger,,,,,21.0
+2020-04-07,,GE,16558.0,4029.0,,412.0,51.0,48.0,374.0,136.0,https://www.ge.ch/document/20094/telecharger,,,,,21.0
 2020-04-07,,GL,,63.0,,2.0,,,,2.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-07,,GR,,684.0,,49.0,,,,35.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-07,,JU,,171.0,,28.0,4.0,,,0.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -816,7 +816,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-08,,BL,,694.0,,65.0,18.0,17.0,461.0,21.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
 2020-04-08,10:00,BS,,829.0,,99.0,14.0,,535.0,31.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-834-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,459.0,16.0,,,
 2020-04-08,,FR,,756.0,,80.0,22.0,,78.0,45.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-08,,GE,17319.0,4160.0,,402.0,49.0,47.0,442.0,150.0,https://www.ge.ch/document/20094/telecharger,,,,,21.0
+2020-04-08,,GE,17329.0,4160.0,,402.0,49.0,47.0,442.0,150.0,https://www.ge.ch/document/20094/telecharger,,,,,21.0
 2020-04-08,,GL,,64.0,,2.0,,,,2.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-08,,GR,,698.0,,38.0,,,,35.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-08,,JU,,174.0,,31.0,4.0,,,1.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -842,7 +842,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-09,,BL,,711.0,,62.0,18.0,16.0,485.0,21.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
 2020-04-09,10:00,BS,,841.0,,93.0,13.0,,572.0,33.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-846-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,466.0,19.0,,,
 2020-04-09,,FR,,786.0,,80.0,20.0,,84.0,46.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-09,,GE,17833.0,4254.0,,393.0,47.0,45.0,,159.0,https://www.ge.ch/document/20094/telecharger,,,,,27.0
+2020-04-09,,GE,17913.0,4254.0,,393.0,47.0,45.0,,159.0,https://www.ge.ch/document/20094/telecharger,,,,,27.0
 2020-04-09,,GL,,67.0,,2.0,,,,2.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-09,,GR,,719.0,,39.0,,,,36.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-09,,JU,,179.0,,28.0,5.0,,,1.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -868,7 +868,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-10,10:00,BS,,854.0,,87.0,13.0,,593.0,33.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-859-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,471.0,21.0,,,
 2020-04-10,,FL,,79.0,,,,,,1.0,https://www.regierung.li/media/attachments/188-corona-keine-neuen-faelle-0410.pdf?t=637222261316868970,,,,,
 2020-04-10,,FR,,796.0,,73.0,19.0,,88.0,49.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-10,,GE,18245.0,4296.0,,379.0,47.0,47.0,448.0,170.0,https://www.ge.ch/document/20094/telecharger,,,,,24.0
+2020-04-10,,GE,18323.0,4296.0,,379.0,47.0,47.0,448.0,170.0,https://www.ge.ch/document/20094/telecharger,,,,,24.0
 2020-04-10,,GL,,76.0,,2.0,,,,2.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-10,,GR,,730.0,,35.0,,,,36.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-10,,JU,,182.0,,25.0,5.0,,,3.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -894,7 +894,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-11,09:30,BS,,861.0,,,,,612.0,33.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-866-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,474.0,,,,
 2020-04-11,,FL,,79.0,,,,,,1.0,https://www.regierung.li/media/attachments/189-corona-keine-neuen-faelle-0411.pdf?t=637222261316868970,,,,,
 2020-04-11,,FR,,834.0,,68.0,20.0,,93.0,53.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-11,,GE,18602.0,4345.0,,364.0,48.0,44.0,463.0,178.0,https://www.ge.ch/document/20094/telecharger,,,,,20.0
+2020-04-11,,GE,18668.0,4345.0,,364.0,48.0,44.0,463.0,178.0,https://www.ge.ch/document/20094/telecharger,,,,,20.0
 2020-04-11,,GL,,91.0,,2.0,,,,2.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-11,,GR,,743.0,,35.0,,,,36.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-11,,JU,,183.0,,23.0,5.0,,,3.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -918,7 +918,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-12,10:00,BS,,877.0,,86.0,12.0,,629.0,33.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-882-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,485.0,23.0,,,
 2020-04-12,,FL,,80.0,,,,,,1.0,https://www.regierung.li/media/attachments/190-corona-zusaetzliche-person-0412.pdf?t=637223083991919653,,,,,
 2020-04-12,,FR,,846.0,,65.0,19.0,,97.0,54.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-12,,GE,18777.0,4367.0,,363.0,47.0,43.0,479.0,185.0,https://www.ge.ch/document/20094/telecharger,,,,,21.0
+2020-04-12,,GE,18842.0,4367.0,,363.0,47.0,43.0,479.0,185.0,https://www.ge.ch/document/20094/telecharger,,,,,21.0
 2020-04-12,,GL,,91.0,,2.0,,,,2.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-12,,GR,,747.0,,35.0,,,,36.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-12,,JU,,183.0,,22.0,5.0,,,3.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -944,7 +944,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-13,10:00,BS,,888.0,,,,,653.0,34.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-893-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,487.0,,,,
 2020-04-13,,FL,,80.0,,,,,,1.0,https://www.regierung.li/media/attachments/191-corona-keine-neuen-faelle-0413.pdf?t=637224053004137202,,,,,
 2020-04-13,,FR,,859.0,,68.0,17.0,,97.0,55.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-13,,GE,19081.0,4417.0,,364.0,47.0,42.0,490.0,188.0,https://www.ge.ch/document/20094/telecharger,,,,,18.0
+2020-04-13,,GE,19137.0,4417.0,,364.0,47.0,42.0,490.0,188.0,https://www.ge.ch/document/20094/telecharger,,,,,18.0
 2020-04-13,,GL,,92.0,,2.0,,,,2.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-13,,GR,,750.0,,34.0,,,,37.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-13,,JU,,184.0,,24.0,5.0,,,3.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -969,7 +969,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-14,,BL,,755.0,,48.0,14.0,8.0,597.0,25.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
 2020-04-14,10:00,BS,,894.0,,86.0,9.0,,663.0,34.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-899-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,490.0,25.0,,,
 2020-04-14,,FR,,879.0,,68.0,14.0,,98.0,57.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-14,,GE,19621.0,4471.0,,365.0,46.0,41.0,490.0,193.0,https://www.ge.ch/document/20094/telecharger,,,,,21.0
+2020-04-14,,GE,19689.0,4471.0,,365.0,46.0,41.0,490.0,193.0,https://www.ge.ch/document/20094/telecharger,,,,,21.0
 2020-04-14,,GL,,105.0,,2.0,,,,2.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-14,,GR,,753.0,,34.0,,,,37.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-14,,JU,,185.0,,21.0,5.0,,,3.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -996,7 +996,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-15,10:00,BS,,904.0,,80.0,7.0,,682.0,36.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-909-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,492.0,22.0,,,
 2020-04-15,,FL,,80.0,,,,,,1.0,https://www.regierung.li/media/attachments/194-corona-neue-wege-zur-messung-0415.pdf?t=637225709239139141,,,,,
 2020-04-15,,FR,,890.0,,61.0,16.0,,105.0,63.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-15,,GE,20082.0,4539.0,,352.0,41.0,37.0,502.0,198.0,https://www.ge.ch/document/20094/telecharger,,,,,26.0
+2020-04-15,,GE,20135.0,4539.0,,352.0,41.0,37.0,502.0,198.0,https://www.ge.ch/document/20094/telecharger,,,,,26.0
 2020-04-15,,GL,,105.0,,2.0,,,,2.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-15,,GR,,759.0,,36.0,,,,38.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-15,,JU,,188.0,,17.0,5.0,,,3.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1023,7 +1023,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-16,09:00,BS,,912.0,,76.0,6.0,,711.0,37.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-917-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,499.0,22.0,,,
 2020-04-16,,FL,,80.0,,,,,,1.0,https://www.regierung.li/media/attachments/196-corona-regierung-informiert-freitag-0416.pdf?t=637226573940474014,,,,,
 2020-04-16,,FR,,907.0,,60.0,15.0,,105.0,65.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-16,,GE,20755.0,4605.0,,350.0,38.0,33.0,520.0,204.0,https://www.ge.ch/document/20094/telecharger,,,,,27.0
+2020-04-16,,GE,20780.0,4605.0,,350.0,38.0,33.0,520.0,204.0,https://www.ge.ch/document/20094/telecharger,,,,,27.0
 2020-04-16,,GL,,106.0,,4.0,,,,3.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-16,,GR,,764.0,,37.0,,,,39.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-16,,JU,,189.0,,18.0,5.0,,,3.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1050,7 +1050,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-17,09:00,BS,,918.0,,68.0,7.0,,720.0,37.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-923-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,501.0,18.0,,,
 2020-04-17,,FL,,81.0,,,,,,1.0,https://www.regierung.li/media/attachments/197-corona-regierung-orientiert-ueber-vorgehen-0417.pdf?t=637227446845695629,,,,,
 2020-04-17,,FR,,930.0,,66.0,13.0,,106.0,67.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-17,,GE,21193.0,4665.0,,329.0,39.0,33.0,532.0,210.0,https://www.ge.ch/document/20094/telecharger,,,,,22.0
+2020-04-17,,GE,21197.0,4665.0,,329.0,39.0,33.0,532.0,210.0,https://www.ge.ch/document/20094/telecharger,,,,,22.0
 2020-04-17,13:00,GL,,108.0,,4.0,,,,3.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-17,,GR,,770.0,,33.0,,,,40.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-17,,JU,,191.0,,18.0,5.0,,,3.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1075,7 +1075,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-18,09:45,BS,,924.0,,,,,753.0,40.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-929-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,506.0,,,,
 2020-04-18,,FL,,81.0,,,,,,1.0,https://www.regierung.li/media/attachments/198-corona-kein-zusaetzlicher-fall-0418.pdf?t=637228301134424983,,,,,
 2020-04-18,,FR,,956.0,,64.0,11.0,,109.0,69.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-18,,GE,21635.0,4716.0,,315.0,34.0,33.0,553.0,214.0,https://www.ge.ch/document/20094/telecharger,,,,,20.0
+2020-04-18,,GE,21613.0,4716.0,,315.0,34.0,33.0,553.0,214.0,https://www.ge.ch/document/20094/telecharger,,,,,20.0
 2020-04-18,13:00,GL,,111.0,,4.0,,,,3.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-18,,GR,,773.0,,29.0,,,,40.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-18,,JU,,192.0,,17.0,5.0,,,3.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1100,7 +1100,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-19,10:00,BS,,927.0,,,,,764.0,40.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-932-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,508.0,,,,
 2020-04-19,,FL,,81.0,,,,,,1.0,https://www.regierung.li/media/attachments/199-corona-keine-neuen-faelle-0419.pdf?t=637229165752237624,,,,,
 2020-04-19,,FR,,980.0,,61.0,12.0,,113.0,71.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-19,,GE,21815.0,4727.0,,315.0,35.0,33.0,558.0,217.0,https://www.ge.ch/document/20094/telecharger,,,,,19.0
+2020-04-19,,GE,21772.0,4727.0,,315.0,35.0,33.0,558.0,217.0,https://www.ge.ch/document/20094/telecharger,,,,,19.0
 2020-04-19,13:00,GL,,111.0,,4.0,,,,3.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-19,,GR,,778.0,,28.0,,,,41.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-19,,JU,,192.0,,16.0,5.0,,,5.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1126,7 +1126,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-20,09:30,BS,,928.0,,,,,770.0,42.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-933-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,509.0,,,,
 2020-04-20,,FL,,81.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223410/?typ=news,,,,,
 2020-04-20,,FR,,989.0,,62.0,11.0,,113.0,72.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-20,,GE,22185.0,4754.0,,321.0,34.0,29.0,561.0,219.0,https://www.ge.ch/document/20094/telecharger,,,,,20.0
+2020-04-20,,GE,22149.0,4754.0,,321.0,34.0,29.0,561.0,219.0,https://www.ge.ch/document/20094/telecharger,,,,,20.0
 2020-04-20,13:00,GL,,114.0,,5.0,,,,5.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-20,,GR,,785.0,,29.0,,,,42.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-20,,JU,,195.0,,14.0,4.0,,,6.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1153,7 +1153,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-21,09:15,BS,,928.0,,54.0,9.0,,781.0,44.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-933-bestaetigte-faelle-im-kanton-basel-stadt-gd-2.html,509.0,19.0,,,
 2020-04-21,,FL,,81.0,,,,,,1.0,https://www.regierung.li/media/attachments/207-corona-keine-neuen-Faelle-0421.pdf?t=637230900737305962,,,,,
 2020-04-21,,FR,,995.0,,60.0,8.0,,115.0,74.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-21,,GE,22597.0,4784.0,,304.0,32.0,29.0,581.0,224.0,https://www.ge.ch/document/20094/telecharger,,,,,18.0
+2020-04-21,,GE,22632.0,4784.0,,304.0,32.0,29.0,581.0,224.0,https://www.ge.ch/document/20094/telecharger,,,,,18.0
 2020-04-21,13:30,GL,,115.0,,3.0,,,,6.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-21,,GR,,787.0,,27.0,,,,43.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-21,,JU,,195.0,,12.0,4.0,,,6.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1180,7 +1180,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-22,09:45,BS,,928.0,,49.0,7.0,,786.0,45.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-933-bestaetigte-faelle-im-kanton-basel-stadt-gd-3.html,511.0,16.0,,,
 2020-04-22,,FL,,81.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223419/?typ=news,,,,,
 2020-04-22,,FR,,1006.0,,57.0,5.0,,116.0,76.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-22,,GE,22943.0,4809.0,,288.0,30.0,27.0,589.0,229.0,https://www.ge.ch/document/20094/telecharger,,,,,18.0
+2020-04-22,,GE,22995.0,4809.0,,288.0,30.0,27.0,589.0,229.0,https://www.ge.ch/document/20094/telecharger,,,,,18.0
 2020-04-22,13:30,GL,,117.0,,3.0,,,,6.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-22,,GR,,791.0,,26.0,,,,43.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-22,,JU,,196.0,,12.0,4.0,,,6.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1207,7 +1207,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-23,09:00,BS,,931.0,,42.0,7.0,,793.0,45.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-931-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,512.0,13.0,,,
 2020-04-23,,FL,,81.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223424/?typ=news,,,,,
 2020-04-23,,FR,,1014.0,,57.0,5.0,,118.0,76.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-23,,GE,23381.0,4841.0,,284.0,29.0,27.0,592.0,233.0,https://www.ge.ch/document/20094/telecharger,,,,,21.0
+2020-04-23,,GE,23452.0,4841.0,,284.0,29.0,27.0,592.0,233.0,https://www.ge.ch/document/20094/telecharger,,,,,21.0
 2020-04-23,13:30,GL,,117.0,,3.0,,,,6.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-23,,GR,,794.0,,26.0,,,,43.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-23,,JU,,196.0,,11.0,4.0,,,6.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1234,7 +1234,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-24,09:15,BS,,936.0,,40.0,7.0,,800.0,46.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-936-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,512.0,13.0,,,
 2020-04-24,,FL,,82.0,,,,,,1.0,https://www.regierung.li/media/attachments/212-corona-massnahmen-und-wirtschaft.pdf?t=637233485133850178,,,,,
 2020-04-24,,FR,,1021.0,,55.0,8.0,,119.0,76.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-24,,GE,23766.0,4862.0,,278.0,26.0,25.0,600.0,238.0,https://www.ge.ch/document/20094/telecharger,,,,,17.0
+2020-04-24,,GE,23827.0,4862.0,,278.0,26.0,25.0,600.0,238.0,https://www.ge.ch/document/20094/telecharger,,,,,17.0
 2020-04-24,13:00,GL,,117.0,,3.0,,,,7.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-24,,GR,,799.0,,29.0,,,,44.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-24,,JU,,196.0,,12.0,4.0,,,6.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1259,7 +1259,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-25,09:30,BS,,938.0,,,,,,46.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-941-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,
 2020-04-25,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223427/?typ=news,,,,,
 2020-04-25,,FR,,1029.0,,54.0,7.0,,119.0,76.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-25,,GE,24119.0,4875.0,,271.0,27.0,26.0,,239.0,https://www.ge.ch/document/20094/telecharger,,,,,18.0
+2020-04-25,,GE,24194.0,4875.0,,271.0,27.0,26.0,,239.0,https://www.ge.ch/document/20094/telecharger,,,,,18.0
 2020-04-25,13:00,GL,,120.0,,3.0,,,,7.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-25,,GR,,800.0,,28.0,,,,44.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-25,,JU,,196.0,,12.0,4.0,,,6.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1282,7 +1282,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-26,09:30,BS,,940.0,,,,,,46.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-941-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,
 2020-04-26,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223428/?typ=news,,,,,
 2020-04-26,,FR,,1033.0,,54.0,5.0,,120.0,77.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-26,,GE,24308.0,4881.0,,271.0,25.0,24.0,610.0,241.0,https://www.ge.ch/document/20094/telecharger,,,,,17.0
+2020-04-26,,GE,24382.0,4881.0,,271.0,25.0,24.0,610.0,241.0,https://www.ge.ch/document/20094/telecharger,,,,,17.0
 2020-04-26,13:00,GL,,120.0,,3.0,,,,7.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-26,,GR,,802.0,,28.0,,,,44.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-26,,JU,,196.0,,12.0,4.0,,,6.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1308,7 +1308,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-27,10:30,BS,,941.0,,,,,,46.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-941-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,514.0,,,,
 2020-04-27,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223429/?typ=content&nid=11076,,,,,
 2020-04-27,,FR,,1040.0,,55.0,5.0,,120.0,78.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-27,,GE,24574.0,4892.0,,270.0,26.0,24.0,610.0,243.0,https://www.ge.ch/document/20094/telecharger,,,,,15.0
+2020-04-27,,GE,24691.0,4892.0,,270.0,26.0,24.0,610.0,243.0,https://www.ge.ch/document/20094/telecharger,,,,,15.0
 2020-04-27,13:30,GL,,121.0,,3.0,,,,7.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-27,,GR,,807.0,,29.0,,,,45.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-27,,JU,,196.0,,10.0,4.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1335,7 +1335,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-28,09:30,BS,,943.0,,28.0,7.0,,,49.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-943-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,514.0,7.0,,,
 2020-04-28,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223435/?typ=content&nid=11076,,,,,
 2020-04-28,,FR,,1044.0,,49.0,5.0,,121.0,78.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-28,,GE,24989.0,4906.0,,277.0,23.0,21.0,617.0,244.0,https://www.ge.ch/document/20094/telecharger,,,,,17.0
+2020-04-28,,GE,25092.0,4905.0,,277.0,23.0,21.0,617.0,244.0,https://www.ge.ch/document/20094/telecharger,,,,,17.0
 2020-04-28,13:30,GL,,121.0,,3.0,,,,8.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-28,,GR,,809.0,,27.0,,,,45.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-28,,JU,,197.0,,10.0,5.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1362,7 +1362,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-29,10:30,BS,,946.0,,26.0,7.0,,810.0,49.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-946-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,516.0,8.0,,,
 2020-04-29,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/228-corona-information-lockerungen-0429.pdf?t=637237803125206694,,,,,
 2020-04-29,,FR,,1057.0,,48.0,7.0,,123.0,78.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-29,,GE,25483.0,4922.0,,254.0,21.0,19.0,634.0,245.0,https://www.ge.ch/document/20094/telecharger,,,,,16.0
+2020-04-29,,GE,25552.0,4921.0,,254.0,21.0,19.0,634.0,245.0,https://www.ge.ch/document/20094/telecharger,,,,,16.0
 2020-04-29,13:30,GL,,122.0,,3.0,,,,9.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-29,,GR,,811.0,,23.0,,,,45.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-29,,JU,,197.0,,9.0,5.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1389,7 +1389,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-30,09:00,BS,,951.0,,24.0,8.0,,828.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-951-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,517.0,7.0,,,
 2020-04-30,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/229-corona-massnahmen-0430.pdf?t=637238673125266621,,,,,
 2020-04-30,,FR,,1070.0,,46.0,6.0,,123.0,78.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-04-30,,GE,25706.0,4927.0,,252.0,19.0,18.0,640.0,248.0,https://www.ge.ch/document/20094/telecharger,,,,,18.0
+2020-04-30,,GE,25776.0,4927.0,,252.0,19.0,18.0,640.0,248.0,https://www.ge.ch/document/20094/telecharger,,,,,18.0
 2020-04-30,13:00,GL,,122.0,,2.0,,,,10.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-04-30,,GR,,813.0,,21.0,,,,45.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-04-30,,JU,,198.0,,8.0,5.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1416,7 +1416,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-01,10:00,BS,,952.0,,,,,833.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-958-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,
 2020-05-01,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/230-corona-immer-noch-82-0501.pdf?t=637239528964359340,,,,,
 2020-05-01,,FR,,1078.0,,43.0,5.0,,123.0,78.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
-2020-05-01,12:00,GE,,,,238.0,18.0,17.0,658.0,,https://www.ge.ch/document/20094/telecharger,,,,,15.0
+2020-05-01,,GE,26249.0,4943.0,,242.0,18.0,17.0,658.0,250.0,https://www.ge.ch/document/20094/telecharger,,,,,15.0
 2020-05-01,13:00,GL,,122.0,,2.0,,,,11.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-05-01,,GR,,814.0,,21.0,,,,45.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-05-01,,JU,,198.0,,8.0,5.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1442,6 +1442,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-02,10:00,BS,,955.0,,,,,835.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-958-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,
 2020-05-02,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/231-corona-samstag-keine-neuen-faelle-0502.pdf?t=637240398540917983,,,,,
 2020-05-02,,FR,,1092.0,,38.0,4.0,,129.0,79.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
+2020-05-02,,GE,26530.0,4948.0,,235.0,17.0,17.0,660.0,252.0,https://www.ge.ch/document/20094/telecharger,,,,,16.0
 2020-05-02,13:00,GL,,122.0,,2.0,,,,11.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-05-02,,GR,,816.0,,19.0,,,,45.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-05-02,,JU,,198.0,,8.0,5.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1465,6 +1466,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-03,10:00,BS,,956.0,,,,,839.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-958-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,
 2020-05-03,,FL,,82.0,,,,,,,https://www.regierung.li/de/mitteilungen/223445/?typ=news,,,,,
 2020-05-03,,FR,,1097.0,,35.0,4.0,,130.0,79.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
+2020-05-03,,GE,26694.0,4949.0,,238.0,17.0,16.0,660.0,253.0,https://www.ge.ch/document/20094/telecharger,,,,,15.0
 2020-05-03,13:00,GL,,122.0,,2.0,,,,11.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-05-03,,GR,,817.0,,18.0,,,,45.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-05-03,,JU,,198.0,,8.0,5.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
@@ -1488,6 +1490,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-04,,BL,,828.0,,9.0,1.0,1.0,769.0,32.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
 2020-05-04,10:00,BS,,958.0,,,,,840.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-958-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,521.0,,,,
 2020-05-04,,FR,,1102.0,,36.0,4.0,,130.0,79.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0405.xlsx,,,,,
+2020-05-04,12:00,GE,,,,236.0,17.0,16.0,661.0,,https://www.ge.ch/document/20094/telecharger,,,,,12.0
 2020-05-04,13:00,GL,,122.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/27992/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
 2020-05-04,,JU,,198.0,,8.0,5.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34329.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_04_05.xlsx?download=1,,,,,
 2020-05-04,,LU,,705.0,,34.0,6.0,,,18.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,
