@@ -1,11 +1,11 @@
 date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,ncumul_confirmed_non_resident,current_hosp_non_resident,TotalPosTests1,ninst_ICU_intub,ncumul_ICF,lat,long,name_canton,number_canton,new_positive_cases,new_deaths,total_currently_positive_per_100k,deaths_per_100k
 2020-05-04,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/238-corona-oeffnung-von-bildungseinrichtungen-0505.pdf?t=637243077631918468,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-04,12:00,GE,26694,4949,-2,236,17,16.0,661,253,https://www.ge.ch/document/20094/telecharger,,,,,12.0,46.220528,6.132935,Genève,25,0,0,999.39,51.09
-2020-05-04,03:00,NW,,113,0,1,0,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,0,0,262.79,6.977
 2020-05-05,14:45,AG,,1135,-15,23,5,4.0,940,36,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200505_KFS_Coronavirus_Lagebulletin_47.pdf,,,,,,47.40966,8.15688,Aargau,01,2,0,169.15,5.365
 2020-05-05,03:00,GR,,816,2,18,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,412.33,22.739
 2020-05-05,03:00,JU,,199,0,8,5,,,7,https://www.jura.ch/Htdocs/Files/v/34337.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_05_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,271.49,9.55
 2020-05-05,03:00,NE,,689,-4,21,3,2.0,,76,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,387.08,42.697
+2020-05-05,03:00,NW,,113,0,1,0,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,0,0,262.79,6.977
 2020-05-05,15:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
 2020-05-05,03:00,VD,,5335,-9,105,22,,,388,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,1,0,672.68,48.922
 2020-05-05,03:00,VS,,1893,0,51,10,7.0,,144,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,0,2,554.32,42.167
