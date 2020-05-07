@@ -1565,10 +1565,11 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-06,14:30,ZH,,3526,-1,53,,7.0,,124,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,15,0,234.39,8.243
 2020-05-07,09:05,AR,,97,-3,5,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,175.72,5.435
 2020-05-07,08:00,BE,,1809,3,37,8,6.0,,90,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,5,0,175.44,8.729
+2020-05-07,03:00,BL,,833,0,6,1,1.0,775,33,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,3,0,290.24,11.498
 2020-05-07,10:00,BS,235,965,-1,20,4,,870,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-965-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,524.0,7.0,,,,47.564869,7.615259,Basel-Stadt,12,3,0,497.68,25.786
 2020-05-07,03:00,FR,30,1115,-4,30,5,,134,80,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0705.xlsx,,,,,,46.718391,7.074008,Fribourg,10,8,0,353.86,25.389
 2020-05-07,13:00,GL,,125,0,2,,,,12,https://www.gl.ch/public/upload/assets/28096/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,310.17,29.777
-2020-05-07,03:00,LU,,710,0,32,6,,,19,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,1,1,174.66,4.674
+2020-05-07,03:00,LU,,710,-1,31,6,,,19,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,1,1,174.66,4.674
 2020-05-07,13:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
 2020-05-07,03:00,SG,,795,0,25,2,,210,33,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,1,0,157.52,6.539
 2020-05-07,09:30,SH,,76,2,7,4,,,6,https://sh.ch/CMS/get/file/1142c079-5d62-4035-b9ea-04901bfcdfe9,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,93.37,7.371
@@ -1578,3 +1579,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-07,08:00,TI,,3253,-2,107,13,12.0,809,332,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,8,1,919.71,93.865
 2020-05-07,13:00,UR,85,92,-1,2,,,75,7,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,1,0,253.44,19.284
 2020-05-07,08:00,ZG,,192,-1,2,1,,143,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,153.11,6.38
+2020-05-07,14:30,ZH,,3536,-3,50,,7.0,,124,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,10,0,235.06,8.243
