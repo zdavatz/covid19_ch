@@ -16,7 +16,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-06,03:00,JU,,201,0,8,5,,,7,https://www.jura.ch/Htdocs/Files/v/34356.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_06_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,274.22,9.55
 2020-05-06,03:00,LU,,709,-5,32,6,,,18,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,3,0,174.42,4.428
 2020-05-06,03:00,NE,,689,1,22,3,2.0,,76,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,387.08,42.697
-2020-05-06,03:00,SG,,794,0,25,2,,210,33,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,1,0,157.32,6.539
 2020-05-06,09:30,SH,,75,-1,5,4,,,6,https://sh.ch/CMS/get/file/c39aa23d-29b6-4930-952c-c3220600c1b9,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,92.14,7.371
 2020-05-06,03:00,SO,,403,1,11,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,47.304135,7.639388,Solothurn,11,1,0,148.49,5.527
 2020-05-06,10:00,SZ,10,305,0,1,,,258,23,https://www.sz.ch/public/upload/assets/46475/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,0,1,193.9,14.622
