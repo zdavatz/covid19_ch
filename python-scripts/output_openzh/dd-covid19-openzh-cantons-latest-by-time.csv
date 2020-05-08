@@ -4,10 +4,8 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-06,03:00,GR,,818,2,20,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,0,413.34,22.739
 2020-05-06,03:00,VD,,5341,-11,91,22,,,389,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,1,0,673.43,49.048
 2020-05-07,14:45,AG,,1145,-5,19,4,4.0,970,37,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200507_KFS_Coronavirus_Lagebulletin_49.pdf,,,,,,47.40966,8.15688,Aargau,01,4,1,170.64,5.514
-2020-05-07,09:05,AR,,97,-3,5,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,175.72,5.435
 2020-05-07,08:00,BE,,1809,3,37,8,6.0,,90,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,5,0,175.44,8.729
 2020-05-07,03:00,BL,,833,0,6,1,1.0,775,33,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,3,0,290.24,11.498
-2020-05-07,10:00,BS,235,965,-1,20,4,,870,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-965-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,524.0,7.0,,,,47.564869,7.615259,Basel-Stadt,12,3,0,497.68,25.786
 2020-05-07,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223470/?typ=news,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-07,03:00,FR,30,1115,-4,30,5,,134,80,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0705.xlsx,,,,,,46.718391,7.074008,Fribourg,10,8,0,353.86,25.389
 2020-05-07,13:00,GL,,125,0,2,,,,12,https://www.gl.ch/public/upload/assets/28096/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,310.17,29.777
@@ -24,5 +22,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-07,03:00,VS,,1899,0,47,9,5.0,,146,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,556.08,42.753
 2020-05-07,08:00,ZG,,192,-1,2,1,,143,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,153.11,6.38
 2020-05-07,14:30,ZH,,3536,-3,50,,7.0,,124,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,10,0,235.06,8.243
+2020-05-08,10:50,AR,,97,0,5,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,175.72,5.435
+2020-05-08,08:30,BS,235,966,-1,19,4,,874,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-966-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,1,0,498.19,25.786
 2020-05-08,09:30,SH,,76,-3,4,3,,,6,https://sh.ch/CMS/get/file/07eb835d-ba9e-40a8-9e15-a0c5db24f019,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,93.37,7.371
 2020-05-08,10:00,SZ,10,305,0,1,,,267,23,https://www.sz.ch/public/upload/assets/46524/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,0,0,193.9,14.622
