@@ -53,7 +53,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-02,03:00,VD,,,2,6,,,,,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,,46.570091,6.557809000000001,Vaud,22,0,0,,
 2020-03-02,03:00,VS,,3,3,9,0,0.0,,0,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,0.88,0.0
 2020-03-02,08:00,ZG,,0,0,0,0,,0,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,0.0,0.0
-2020-03-02,14:30,ZH,,11,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,4,0,0.73,
+2020-03-02,14:30,ZH,,10,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,3,0,0.66,
 2020-03-03,15:00,AG,,6,0,,,,,,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200303_KFS_Coronavirus_Lagebulletin_3.pdf,,,,,,47.40966,8.15688,Aargau,01,4,0,0.89,
 2020-03-03,03:00,BL,,2,0,1,,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/weiterer-bestaetigter-fall-aus-dem-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,0.7,
 2020-03-03,17:30,BS,235,3,0,,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1234880556095213569?s=20,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,2,0,1.55,
@@ -66,7 +66,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-03,03:00,VD,,,2,8,,,,,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,,46.570091,6.557809000000001,Vaud,22,0,0,,
 2020-03-03,03:00,VS,,3,2,11,0,0.0,,0,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,0.88,0.0
 2020-03-03,08:00,ZG,,1,0,0,0,,0,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,0.8,0.0
-2020-03-03,14:30,ZH,,14,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,3,0,0.93,
+2020-03-03,14:30,ZH,,13,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,3,0,0.86,
 2020-03-04,15:00,AG,,7,0,,,,,,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200304_KFS_Coronavirus_Lagebulletin_4.pdf,,,,,,47.40966,8.15688,Aargau,01,1,0,1.04,
 2020-03-04,03:00,BE,,6,0,,,,,,https://www.be.ch/portal/de/index/mediencenter/medienmitteilungen/suche.meldungNeu.html/portal/de/meldungen/mm/2020/03/20200304_1443_corona-4-3-2020,,,,,,46.823608,7.636667,Bern/Berne,02,2,0,0.58,
 2020-03-04,03:00,BL,,2,0,1,,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/weiterer-bestaetigter-fall-aus-dem-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,0.7,
@@ -83,7 +83,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-04,03:00,VD,,,3,11,1,,,,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,,46.570091,6.557809000000001,Vaud,22,0,0,,
 2020-03-04,03:00,VS,,4,1,12,0,0.0,,0,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,1.17,0.0
 2020-03-04,08:00,ZG,,1,0,0,0,,0,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,0.8,0.0
-2020-03-04,14:30,ZH,,16,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,2,0,1.06,
+2020-03-04,14:30,ZH,,15,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,2,0,1.0,
 2020-03-05,15:00,AG,,9,0,,,,,,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200305_KFS_Coronavirus_Lagebulletin_5.pdf,,,,,,47.40966,8.15688,Aargau,01,2,0,1.34,
 2020-03-05,03:00,AR,,1,0,,,,,,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/news-aus-dem-departement/detail/news/coronavirusersterfallinappenzellausserrhoden/?tx_news_pi1[controller]=News&tx_news_pi1[action]=detail&cHash=fb1a9cf08108cdc7b82780b9239b009d,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,1.81,
 2020-03-05,03:00,BL,,6,0,1,,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/neuer-coronavirus-covid-19-sechs-bestaetigte-faelle-im-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,4,0,2.09,
@@ -97,7 +97,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-05,03:00,VD,,,3,14,1,,,,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,,46.570091,6.557809000000001,Vaud,22,0,0,,
 2020-03-05,03:00,VS,,5,-2,10,0,0.0,,0,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,1.46,0.0
 2020-03-05,08:00,ZG,,2,0,0,0,,0,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,1.59,0.0
-2020-03-05,14:30,ZH,,24,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,8,0,1.6,
+2020-03-05,14:30,ZH,,23,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,8,0,1.53,
 2020-03-06,15:00,AG,,12,0,,,,1,,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200305_KFS_Coronavirus_Lagebulletin_6.pdf,,,,,,47.40966,8.15688,Aargau,01,3,0,1.79,
 2020-03-06,03:00,BE,,17,0,,,,,,https://www.be.ch/portal/de/index/mediencenter/medienmitteilungen/suche.meldungNeu.html/portal/de/meldungen/mm/2020/03/20200306_1343_corona6-3,,,,,,46.823608,7.636667,Bern/Berne,02,11,0,1.65,
 2020-03-06,03:00,BL,,6,3,4,2,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/neuer-coronavirus-covid-19-sechs-bestaetigte-faelle-im-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,2.09,
@@ -113,7 +113,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-06,03:00,VD,,23,1,15,2,,,1,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,,46.570091,6.557809000000001,Vaud,22,0,0,2.9,0.126
 2020-03-06,03:00,VS,,6,1,11,0,0.0,,0,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,1.76,0.0
 2020-03-06,08:00,ZG,,3,0,0,0,,0,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,2.39,0.0
-2020-03-06,14:30,ZH,,30,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,6,0,1.99,
+2020-03-06,14:30,ZH,,29,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,6,0,1.93,
 2020-03-07,03:00,BL,,15,0,4,2,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-15-bestaetigte-faelle-in-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,9,0,5.23,
 2020-03-07,12:00,BS,235,21,0,1,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1236249864473894914?s=20,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,6,0,10.83,
 2020-03-07,03:00,GE,1318,32,0,7,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,11,0,6.46,0.0
@@ -123,7 +123,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-07,03:00,VD,,30,1,16,4,,,1,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,,46.570091,6.557809000000001,Vaud,22,7,0,3.78,0.126
 2020-03-07,03:00,VS,,7,0,11,0,0.0,,0,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,2.05,0.0
 2020-03-07,08:00,ZG,,3,0,0,0,,0,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,2.39,0.0
-2020-03-07,14:30,ZH,,35,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,5,0,2.33,
+2020-03-07,14:30,ZH,,34,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,5,0,2.26,
 2020-03-08,03:00,BL,,19,0,4,2,,,1,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/patient-im-kantonsspital-baselland-stirbt-an-den-folgen-einer-coronavirus-infektion,,,,,,47.45176,7.702414,Basel-Landschaft,13,4,0,6.62,0.348
 2020-03-08,12:00,BS,235,24,0,1,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1236609191831384064?s=20,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,3,0,12.38,
 2020-03-08,03:00,FR,30,8,0,,,,,,https://www.fr.ch/de/covid19/gesundheit/covid-19/coronavirus-entwicklungen-der-situation,,,,,,46.718391,7.074008,Fribourg,10,2,0,2.54,
@@ -134,7 +134,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-08,03:00,VD,,40,6,22,3,,,1,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,,46.570091,6.557809000000001,Vaud,22,10,0,5.04,0.126
 2020-03-08,03:00,VS,,12,4,15,1,1.0,,0,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,5,0,3.51,0.0
 2020-03-08,08:00,ZG,,3,0,0,0,,0,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,2.39,0.0
-2020-03-08,14:30,ZH,,41,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,6,0,2.73,
+2020-03-08,14:30,ZH,,40,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,6,0,2.66,
 2020-03-09,15:00,AG,,14,0,,,,2,,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200309_KFS_Coronavirus_Lagebulletin_7.pdf,,,,,,47.40966,8.15688,Aargau,01,2,0,2.09,
 2020-03-09,03:00,AR,,2,0,,,,,,https://www.ar.ch/schnellzugriff/medienmitteilungen-der-kantonalen-verwaltung/detail/news/zweiter-coronafall-in-appenzell-ausserrhoden/?tx_news_pi1[controller]=News&tx_news_pi1[action]=detail&cHash=de7ec38198b5e60b6dce8fccc7735501,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,3.62,
 2020-03-09,03:00,BE,,34,0,,,,,,https://www.be.ch/portal/de/index/mediencenter/medienmitteilungen/suche.meldungNeu.html/portal/de/meldungen/mm/2020/03/20200309_1545_corona-9-3,,,,,,46.823608,7.636667,Bern/Berne,02,17,0,3.3,
@@ -149,7 +149,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-09,03:00,VD,,51,7,29,5,,,1,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,,46.570091,6.557809000000001,Vaud,22,11,0,6.43,0.126
 2020-03-09,03:00,VS,,17,1,16,1,1.0,,0,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,5,0,4.98,0.0
 2020-03-09,08:00,ZG,,10,0,0,0,,0,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,7,0,7.97,0.0
-2020-03-09,14:30,ZH,,50,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,9,0,3.32,
+2020-03-09,14:30,ZH,,49,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,9,0,3.26,
 2020-03-10,15:00,AG,,17,0,,,,2,,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200310_KFS_Coronavirus_Lagebulletin_8.pdf,,,,,,47.40966,8.15688,Aargau,01,3,0,2.53,
 2020-03-10,03:00,BL,,22,1,5,1,,2,1,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update,,,,,,47.45176,7.702414,Basel-Landschaft,13,2,0,7.67,0.348
 2020-03-10,12:00,BS,235,33,0,1,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1237336196772175873?s=20,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,5,0,17.02,
@@ -162,7 +162,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-10,03:00,VD,,130,19,48,8,,,1,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,79,0,16.39,0.126
 2020-03-10,03:00,VS,,22,3,19,1,1.0,,0,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,5,0,6.44,0.0
 2020-03-10,08:00,ZG,,10,0,0,0,,0,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,7.97,0.0
-2020-03-10,14:30,ZH,,63,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,13,0,4.19,
+2020-03-10,14:30,ZH,,62,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,13,0,4.12,
 2020-03-11,15:00,AG,,18,0,,,,2,,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200311_KFS_Coronavirus_Lagebulletin_9.pdf,,,,,,47.40966,8.15688,Aargau,01,1,0,2.68,
 2020-03-11,03:00,BL,,26,-2,3,1,,2,2,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-26-bestaetigte-faelle-in-basel-landschaft-1,,,,,,47.45176,7.702414,Basel-Landschaft,13,4,1,9.06,0.697
 2020-03-11,12:00,BS,235,49,12,13,2,,4,,https://www.coronavirus.bs.ch/nm/2020-coronavirus-ende-der-quarantaenemassnahmen-im-fall-kita-riehen-gd.html,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,16,0,25.27,
@@ -178,7 +178,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-11,03:00,VD,,203,3,51,7,,,1,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,73,0,25.6,0.126
 2020-03-11,03:00,VS,,30,1,20,1,1.0,,0,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,8,0,8.78,0.0
 2020-03-11,08:00,ZG,,11,0,0,0,,0,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,8.77,0.0
-2020-03-11,14:30,ZH,,102,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,39,0,6.78,
+2020-03-11,14:30,ZH,,101,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,39,0,6.71,
 2020-03-12,15:00,AG,,27,0,1,,,3,,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200312_KFS_Coronavirus_Lagebulletin_10.pdf,,,,,,47.40966,8.15688,Aargau,01,9,0,4.02,
 2020-03-12,03:00,AR,,5,0,,,,,,https://www.ar.ch/schnellzugriff/medienmitteilungen-der-kantonalen-verwaltung/detail/news/coronavirus-drei-neue-faelle-in-appenzell-ausserrhoden/?tx_news_pi1[controller]=News&tx_news_pi1[action]=detail&cHash=272411484066c8fb971dcc838aa96ef9,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,3,0,9.06,
 2020-03-12,03:00,BL,,26,6,9,3,,2,2,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-26-bestaetigte-faelle-in-basel-landschaft-1,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,9.06,0.697
@@ -197,7 +197,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-12,03:00,VD,,277,4,55,6,,,3,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,74,2,34.93,0.378
 2020-03-12,03:00,VS,,53,7,27,1,1.0,,0,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,23,0,15.52,0.0
 2020-03-12,08:00,ZG,,11,0,0,0,,0,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,8.77,0.0
-2020-03-12,14:30,ZH,,141,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,39,0,9.37,
+2020-03-12,14:30,ZH,,140,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,39,0,9.31,
 2020-03-13,13:00,AG,,32,0,1,,,3,,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200313_KFS_Coronavirus_Lagebulletin_11.pdf,,,,,,47.40966,8.15688,Aargau,01,5,0,4.77,
 2020-03-13,03:00,BL,,42,3,12,3,,2,2,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-26-bestaetigte-faelle-in-basel-landschaft-2,,,,,,47.45176,7.702414,Basel-Landschaft,13,16,0,14.63,0.697
 2020-03-13,12:30,BS,235,92,0,13,2,,4,1,https://twitter.com/BAG_OFSP_UFSP/status/1238430659762364417?s=20,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,19,0,47.45,0.516
@@ -214,7 +214,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-13,03:00,VD,,370,6,61,7,,,3,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,93,0,46.65,0.378
 2020-03-13,03:00,VS,,76,2,29,1,1.0,,1,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,23,1,22.25,0.293
 2020-03-13,08:00,ZG,,11,0,0,0,,0,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,8.77,0.0
-2020-03-13,14:30,ZH,,164,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,23,0,10.9,
+2020-03-13,14:30,ZH,,163,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,23,0,10.84,
 2020-03-14,03:00,AI,,2,0,,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/aktuelles/erste-bestaetigte-coronavirus-faelle-auch-in-innerrhoden,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,12.42,0.0
 2020-03-14,03:00,BL,,47,-4,8,2,,2,2,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-47-bestaetigte-faelle-in-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,5,0,16.38,0.697
 2020-03-14,11:27,BS,235,100,0,13,2,,4,1,https://twitter.com/BAG_OFSP_UFSP/status/1238773726423941127?s=20,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,8,0,51.57,0.516
@@ -231,7 +231,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-14,03:00,VD,,477,14,75,10,,,5,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,107,2,60.14,0.63
 2020-03-14,03:00,VS,,98,4,33,1,1.0,,1,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,22,0,28.7,0.293
 2020-03-14,08:00,ZG,,13,0,0,0,,0,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,2,0,10.37,0.0
-2020-03-14,14:30,ZH,,219,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,55,0,14.56,
+2020-03-14,14:30,ZH,,218,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,55,0,14.49,
 2020-03-15,03:00,BL,,54,4,12,2,,5,2,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-54-bestaetigte-faelle-in-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,7,0,18.82,0.697
 2020-03-15,03:00,FL,99,7,0,,,,1,,https://www.regierung.li/media/attachments/119-corona-massnahmen-verschaerft-0315.pdf?t=637202562374055719,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,4,0,18.13,
 2020-03-15,03:00,FR,30,40,0,,,,,0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0805.xlsx,,,,,,46.718391,7.074008,Fribourg,10,4,0,12.69,0.0
@@ -246,7 +246,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-15,03:00,VD,,567,15,90,10,,,6,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,90,1,71.49,0.757
 2020-03-15,03:00,VS,,115,2,35,1,1.0,,2,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,17,1,33.67,0.586
 2020-03-15,08:00,ZG,,13,0,0,0,,0,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,10.37,0.0
-2020-03-15,14:30,ZH,,251,0,,,,,1,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,32,0,16.69,0.066
+2020-03-15,14:30,ZH,,250,0,,,,,1,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,32,0,16.62,0.066
 2020-03-16,15:00,AG,,52,0,2,,,4,,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200316_KFS_Coronavirus_Lagebulletin_12.pdf,,,,,,47.40966,8.15688,Aargau,01,20,0,7.75,
 2020-03-16,03:00,AI,,4,0,,,,,0,Kantonaler Führungsstab Appenzell Innerrhoden,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,2,0,24.84,0.0
 2020-03-16,03:00,BE,,123,0,,,,,1,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,89,0,11.93,0.097
@@ -264,7 +264,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-16,03:00,VD,,797,36,126,20,,,8,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,230,2,100.49,1.009
 2020-03-16,03:00,VS,,172,6,41,2,1.0,,3,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,57,1,50.37,0.878
 2020-03-16,08:00,ZG,,20,0,0,0,,0,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,7,0,15.95,0.0
-2020-03-16,14:30,ZH,,327,0,,,,,1,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,76,0,21.74,0.066
+2020-03-16,14:30,ZH,,326,0,,,,,1,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,76,0,21.67,0.066
 2020-03-17,16:00,AG,,67,0,2,,,4,,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200317_KFS_Coronavirus_Lagebulletin_13.pdf,,,,,,47.40966,8.15688,Aargau,01,15,0,9.99,
 2020-03-17,03:00,AI,,5,0,,,,,0,Kantonaler Führungsstab Appenzell Innerrhoden,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,1,0,31.06,0.0
 2020-03-17,03:00,BL,,89,9,26,5,,13,2,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-89-bestaetigte-faelle-in-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,13,0,31.01,0.697
@@ -284,7 +284,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-17,03:00,VD,,1040,14,140,24,,,10,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,243,2,131.13,1.261
 2020-03-17,03:00,VS,,225,5,46,2,2.0,,3,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,53,0,65.89,0.878
 2020-03-17,08:00,ZG,,29,0,0,0,,1,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,9,0,23.13,0.0
-2020-03-17,14:30,ZH,,430,0,,,,,1,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,103,0,28.58,0.066
+2020-03-17,14:30,ZH,,429,0,,,,,1,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,103,0,28.52,0.066
 2020-03-18,16:00,AG,,101,4,6,,,4,,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200318_KFS_Coronavirus_Lagebulletin_14.pdf,,,,,,47.40966,8.15688,Aargau,01,34,0,15.05,
 2020-03-18,03:00,AR,,11,0,3,,,,,https://www.ar.ch/schnellzugriff/medienmitteilungen-der-kantonalen-verwaltung/detail/news/coronavirus-bevoelkerung-und-alle-spitaeler-machen-bei-der-gesundheitsversorgung-mit/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=3d2a0733446b5fc7cdad0f48f61c28fd,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,6,0,19.93,
 2020-03-18,03:00,BE,,193,0,,,,,1,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,70,0,18.72,0.097
@@ -308,7 +308,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-18,03:00,VD,,1306,13,153,24,,,13,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,266,3,164.67,1.639
 2020-03-18,03:00,VS,,312,12,58,2,2.0,,4,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,87,1,91.36,1.171
 2020-03-18,08:00,ZG,,33,0,0,0,,5,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,4,0,26.32,0.0
-2020-03-18,14:30,ZH,,569,0,,,,,2,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,139,1,37.82,0.133
+2020-03-18,14:30,ZH,,568,0,,,,,2,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,139,1,37.76,0.133
 2020-03-19,15:00,AG,,118,11,17,6,3.0,4,,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200319_KFS_Coronavirus_Lagebulletin_15.pdf,,,,,,47.40966,8.15688,Aargau,01,17,0,17.59,
 2020-03-19,03:00,AI,,6,0,1,,,,0,Kantonaler Führungsstab Appenzell Innerrhoden,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,1,0,37.27,0.0
 2020-03-19,03:00,BE,,282,0,,,,,1,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,89,0,27.35,0.097
@@ -329,7 +329,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-19,03:00,VD,,1515,17,170,23,,,14,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,209,1,191.02,1.765
 2020-03-19,03:00,VS,,349,6,64,5,5.0,,6,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,37,2,102.2,1.757
 2020-03-19,08:00,ZG,,37,1,1,0,,5,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,4,0,29.51,0.0
-2020-03-19,14:30,ZH,,680,0,60,,12.0,,3,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,111,1,45.2,0.199
+2020-03-19,14:30,ZH,,679,0,60,,12.0,,3,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,111,1,45.14,0.199
 2020-03-20,15:00,AG,,168,8,25,4,2.0,4,1,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200320_KFS_Coronavirus_Lagebulletin_16.pdf,,,,,,47.40966,8.15688,Aargau,01,50,0,25.04,0.149
 2020-03-20,03:00,BE,,377,0,,,,,2,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,95,1,36.56,0.194
 2020-03-20,03:00,BL,,184,8,27,2,,18,3,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-170-bestaetigte-faelle-in-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,50,1,64.11,1.045
@@ -352,7 +352,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-20,03:00,VD,,1757,12,182,23,,,20,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,242,6,221.54,2.522
 2020-03-20,03:00,VS,,436,9,73,6,5.0,,7,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,87,1,127.67,2.05
 2020-03-20,08:00,ZG,,48,0,1,0,,5,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,11,0,38.28,0.0
-2020-03-20,14:30,ZH,,712,18,78,,15.0,,4,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,32,1,47.33,0.266
+2020-03-20,14:30,ZH,,711,18,78,,15.0,,4,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,32,1,47.26,0.266
 2020-03-21,03:00,AR,,11,0,3,,,,1,https://www.ar.ch/schnellzugriff/medienmitteilungen-der-kantonalen-verwaltung/detail/news/coronavirus-erster-todesfall-in-appenzell-ausserrhoden/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=a88f209df29c38474f9c5f9e1c5dd53f,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,19.93,1.812
 2020-03-21,03:00,BE,,418,0,,,,,3,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,41,1,40.54,0.291
 2020-03-21,03:00,BL,,282,3,30,4,,21,3,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-282-bestaetigte-faelle-in-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,98,0,98.26,1.045
@@ -373,7 +373,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-21,03:00,VD,,1876,29,211,24,,,23,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,119,3,236.54,2.9
 2020-03-21,03:00,VS,,498,10,83,8,6.0,,10,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,62,3,145.83,2.928
 2020-03-21,08:00,ZG,,53,2,3,0,,5,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,5,0,42.26,0.0
-2020-03-21,14:30,ZH,,712,5,83,,23.0,,5,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,0,1,47.33,0.332
+2020-03-21,14:30,ZH,,711,5,83,,23.0,,5,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,0,1,47.26,0.332
 2020-03-22,12:00,AG,,232,0,25,4,2.0,4,1,https://www.ag.ch/de/aktuelles/medienportal/medienmitteilung/medienmitteilungen/mediendetails_139237.jsp,,,,,,47.40966,8.15688,Aargau,01,64,0,34.58,0.149
 2020-03-22,03:00,BL,,289,10,40,7,,21,3,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-289-bestaetigte-faelle-in-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,7,0,100.7,1.045
 2020-03-22,10:30,BS,235,356,4,50,2,,73,5,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-358-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,265.0,,,,,47.564869,7.615259,Basel-Stadt,12,59,0,183.6,2.579
@@ -392,7 +392,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-22,03:00,VD,,1978,20,231,30,,,25,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,102,2,249.4,3.152
 2020-03-22,03:00,VS,,535,9,92,11,7.0,,11,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,37,1,156.66,3.221
 2020-03-22,08:00,ZG,,53,0,3,0,,5,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,42.26,0.0
-2020-03-22,14:30,ZH,,712,27,110,,22.0,,6,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,0,1,47.33,0.399
+2020-03-22,14:30,ZH,,711,27,110,,22.0,,6,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,0,1,47.26,0.399
 2020-03-23,15:00,AG,,241,0,10,3,2.0,4,1,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200323_KFS_Coronavirus_Lagebulletin_17.pdf,,,,,,47.40966,8.15688,Aargau,01,9,0,35.92,0.149
 2020-03-23,10:00,AR,,30,0,7,,,,1,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,54.35,1.812
 2020-03-23,03:00,BE,,470,0,,,,,5,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,52,2,45.58,0.485
@@ -417,7 +417,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-23,03:00,VD,,2284,17,248,38,,,29,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,306,4,287.98,3.657
 2020-03-23,03:00,VS,,628,12,104,12,9.0,,13,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,93,2,183.89,3.807
 2020-03-23,08:00,ZG,,53,0,3,0,,5,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,42.26,0.0
-2020-03-23,14:30,ZH,,1076,17,127,,27.0,,6,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,364,0,71.53,0.399
+2020-03-23,14:30,ZH,,818,17,127,,27.0,,6,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,107,0,54.38,0.399
 2020-03-24,15:00,AG,,266,14,24,2,2.0,4,2,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200324_KFS_Coronavirus_Lagebulletin_18.pdf,,,,,,47.40966,8.15688,Aargau,01,25,1,39.64,0.298
 2020-03-24,17:00,AI,,8,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,2,0,49.69,0.0
 2020-03-24,10:00,AR,,33,-1,6,,,,2,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,3,1,59.78,3.623
@@ -444,7 +444,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-24,03:00,VD,,2549,35,283,38,,,33,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,265,4,321.4,4.161
 2020-03-24,03:00,VS,,728,13,117,13,12.0,,14,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,100,1,213.18,4.1
 2020-03-24,08:00,ZG,,72,3,6,0,,12,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,19,0,57.42,0.0
-2020-03-24,14:30,ZH,,1224,11,138,,26.0,,8,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,148,2,81.37,0.532
+2020-03-24,14:30,ZH,,945,11,138,,26.0,,8,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,127,2,62.82,0.532
 2020-03-25,15:00,AG,,319,-8,16,5,5.0,4,2,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200325_KFS_Coronavirus_Lagebulletin_19.pdf,,,,,,47.40966,8.15688,Aargau,01,53,0,47.54,0.298
 2020-03-25,17:00,AI,,9,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,1,0,55.9,0.0
 2020-03-25,08:00,AR,,34,0,6,,,,2,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,61.59,3.623
@@ -470,7 +470,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-25,03:00,VD,,2741,28,311,48,,,41,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,192,8,345.61,5.17
 2020-03-25,03:00,VS,,793,1,118,15,14.0,,15,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,65,1,232.21,4.392
 2020-03-25,08:00,ZG,,80,3,9,1,,18,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,8,0,63.8,0.0
-2020-03-25,14:30,ZH,,1371,8,146,,28.0,,10,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,147,2,91.14,0.665
+2020-03-25,14:30,ZH,,1074,8,146,,28.0,,10,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,129,2,71.4,0.665
 2020-03-26,15:00,AG,,349,22,38,10,9.0,4,2,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200326_KFS_Coronavirus_Lagebulletin_20.pdf,,,,,,47.40966,8.15688,Aargau,01,30,0,52.01,0.298
 2020-03-26,18:00,AI,,11,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,2,0,68.32,0.0
 2020-03-26,16:00,AR,,42,0,6,,,,2,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,8,0,76.09,3.623
@@ -497,7 +497,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-26,03:00,VD,,2946,11,322,52,,,58,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,205,17,371.45,7.313
 2020-03-26,03:00,VS,,874,10,128,19,17.0,,17,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,81,2,255.93,4.978
 2020-03-26,08:00,ZG,,87,1,10,1,,18,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,7,0,69.38,0.0
-2020-03-26,14:30,ZH,,1503,10,156,,35.0,,13,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,132,3,99.91,0.864
+2020-03-26,14:30,ZH,,1203,10,156,,35.0,,13,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,129,3,79.97,0.864
 2020-03-27,15:00,AG,,364,12,50,12,10.0,4,3,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200327_KFS_Coronavirus_Lagebulletin_21.pdf,,,,,,47.40966,8.15688,Aargau,01,15,1,54.25,0.447
 2020-03-27,18:00,AI,,12,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,1,0,74.53,0.0
 2020-03-27,13:00,AR,,44,0,6,,,,2,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,2,0,79.71,3.623
@@ -524,7 +524,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-27,03:00,VD,,3180,33,355,56,,,62,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,234,4,400.96,7.817
 2020-03-27,03:00,VS,,968,9,137,20,16.0,,21,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,94,4,283.46,6.149
 2020-03-27,08:00,ZG,,94,2,12,5,,18,0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,7,0,74.96,0.0
-2020-03-27,14:30,ZH,,1630,15,171,,38.0,,15,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,127,2,108.36,0.997
+2020-03-27,14:30,ZH,,1326,15,171,,38.0,,15,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,123,2,88.15,0.997
 2020-03-28,18:00,AI,,13,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,1,0,80.75,0.0
 2020-03-28,08:00,AR,,45,0,6,,,,2,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,81.52,3.623
 2020-03-28,03:00,BE,,767,0,,,,,9,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,49,1,74.39,0.873
@@ -549,7 +549,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-28,03:00,VD,,3311,8,363,57,,,73,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,131,11,417.48,9.204
 2020-03-28,03:00,VS,,1017,5,142,21,19.0,,25,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,49,4,297.8,7.321
 2020-03-28,08:00,ZG,,101,0,12,5,,21,1,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,7,1,80.54,0.797
-2020-03-28,14:30,ZH,,1704,16,187,,42.0,,19,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,74,4,113.28,1.263
+2020-03-28,14:30,ZH,,1388,16,187,,42.0,,19,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,62,4,92.27,1.263
 2020-03-29,08:00,AR,,48,0,6,,,,2,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,3,0,86.96,3.623
 2020-03-29,03:00,BE,,798,0,,,,,10,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,31,1,77.39,0.97
 2020-03-29,03:00,BL,,511,24,99,15,14.0,115,6,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,9,0,178.05,2.091
@@ -573,7 +573,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-29,03:00,VD,,3396,2,365,58,,,83,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,85,10,428.19,10.465
 2020-03-29,03:00,VS,,1055,10,152,22,21.0,,31,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,38,6,308.93,9.078
 2020-03-29,08:00,ZG,,101,0,12,5,,21,1,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,80.54,0.797
-2020-03-29,14:30,ZH,,1736,7,194,,46.0,,22,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,32,3,115.4,1.462
+2020-03-29,14:30,ZH,,1417,7,194,,46.0,,22,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,29,3,94.2,1.462
 2020-03-30,15:00,AG,,481,44,94,25,23.0,4,8,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200330_KFS_Coronavirus_Lagebulletin_22.pdf,,,,,,47.40966,8.15688,Aargau,01,117,5,71.68,1.192
 2020-03-30,12:00,AI,,14,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,1,0,86.96,0.0
 2020-03-30,18:00,AR,,50,0,6,,,,2,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,2,0,90.58,3.623
@@ -599,7 +599,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-30,03:00,VD,,3608,2,367,60,,,95,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,212,12,454.92,11.978
 2020-03-30,03:00,VS,,1144,1,153,25,23.0,,35,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,89,4,334.99,10.249
 2020-03-30,08:00,ZG,,112,1,13,5,,29,1,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,11,0,89.31,0.797
-2020-03-30,14:30,ZH,,1862,3,197,,46.0,,24,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,126,2,123.78,1.595
+2020-03-30,14:30,ZH,,1540,3,197,,46.0,,24,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,123,2,102.37,1.595
 2020-03-31,15:00,AG,,499,-9,85,25,25.0,4,11,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200331_KFS_Coronavirus_Lagebulletin_23.pdf,,,,,,47.40966,8.15688,Aargau,01,18,3,74.37,1.639
 2020-03-31,12:00,AI,,14,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,86.96,0.0
 2020-03-31,16:00,AR,,58,0,6,,,,2,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,8,0,105.07,3.623
@@ -626,7 +626,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-31,03:00,VD,,3767,8,375,63,,,107,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,159,12,474.97,13.491
 2020-03-31,03:00,VS,,1211,-1,152,24,23.0,,37,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,67,2,354.61,10.835
 2020-03-31,08:00,ZG,,114,1,14,6,,39,1,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,2,0,90.91,0.797
-2020-03-31,14:30,ZH,,1953,-1,196,,50.0,,27,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,91,3,129.83,1.795
+2020-03-31,14:30,ZH,,1622,-1,196,,50.0,,27,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,82,3,107.82,1.795
 2020-04-01,15:00,AG,,549,9,94,27,27.0,4,11,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200401_KFS_Coronavirus_Lagebulletin_24.pdf,,,,,,47.40966,8.15688,Aargau,01,50,0,81.82,1.639
 2020-04-01,17:00,AR,,61,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,3,1,110.51,5.435
 2020-04-01,08:00,BE,,909,4,115,26,21.0,,20,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,53,4,88.16,1.94
@@ -652,7 +652,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-01,03:00,VD,,3919,5,380,65,,,118,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,152,11,494.14,14.878
 2020-04-01,03:00,VS,,1282,-6,146,26,25.0,,40,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,71,3,375.4,11.713
 2020-04-01,08:00,ZG,,125,-1,13,5,,40,1,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,11,0,99.68,0.797
-2020-04-01,14:30,ZH,,2142,7,203,,54.0,,36,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,189,9,142.39,2.393
+2020-04-01,14:30,ZH,,1797,7,203,,54.0,,36,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,175,9,119.46,2.393
 2020-04-02,15:00,AG,,592,0,94,27,27.0,4,12,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200402_KFS_Coronavirus_Lagebulletin_25.pdf,,,,,,47.40966,8.15688,Aargau,01,43,1,88.23,1.788
 2020-04-02,17:00,AI,,20,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,6,0,124.22,0.0
 2020-04-02,12:00,AR,,64,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,3,0,115.94,5.435
@@ -679,7 +679,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-02,03:00,VD,,4053,-9,371,66,,,137,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,134,19,511.03,17.274
 2020-04-02,03:00,VS,,1334,0,146,28,24.0,,47,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,52,7,390.63,13.763
 2020-04-02,08:00,ZG,,131,1,14,5,,41,1,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,6,0,104.47,0.797
-2020-04-02,14:30,ZH,,2306,-3,200,,53.0,,39,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,164,3,153.29,2.593
+2020-04-02,14:30,ZH,,1937,-3,200,,53.0,,39,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,140,3,128.76,2.593
 2020-04-03,15:00,AG,,626,6,100,27,26.0,4,12,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200403_KFS_Coronavirus_Lagebulletin_26.pdf,,,,,,47.40966,8.15688,Aargau,01,34,0,93.29,1.788
 2020-04-03,11:00,AI,,20,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,124.22,0.0
 2020-04-03,08:00,AR,,65,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,117.75,5.435
@@ -706,7 +706,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-03,03:00,VD,,4189,-8,363,64,,,155,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,136,18,528.18,19.544
 2020-04-03,03:00,VS,,1383,0,146,26,23.0,,51,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,49,4,404.98,14.934
 2020-04-03,08:00,ZG,,138,1,15,7,,44,1,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,7,0,110.05,0.797
-2020-04-03,14:30,ZH,,2434,7,207,,57.0,,41,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,128,2,161.8,2.726
+2020-04-03,14:30,ZH,,2038,7,207,,57.0,,41,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,101,2,135.48,2.726
 2020-04-04,11:00,AI,,21,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,1,0,130.43,0.0
 2020-04-04,13:00,AR,,66,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,119.57,5.435
 2020-04-04,08:00,BE,,1106,4,113,35,28.0,,28,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,33,2,107.26,2.716
@@ -731,7 +731,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-04,03:00,VD,,4261,0,363,64,,,166,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,72,11,537.26,20.931
 2020-04-04,03:00,VS,,1416,3,149,28,23.0,,53,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,33,2,414.64,15.52
 2020-04-04,08:00,ZG,,146,-1,14,7,,46,2,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,8,1,116.43,1.595
-2020-04-04,14:30,ZH,,2467,-13,194,,59.0,,49,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,33,8,164.0,3.257
+2020-04-04,14:30,ZH,,2071,-13,194,,59.0,,49,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,33,8,137.67,3.257
 2020-04-05,13:00,AR,,67,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,121.38,5.435
 2020-04-05,08:00,BE,,1137,-3,110,30,25.0,,28,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,31,0,110.27,2.716
 2020-04-05,03:00,BL,,670,0,73,19,17.0,369,19,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,14,0,233.45,6.62
@@ -755,7 +755,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-05,03:00,VD,,4300,11,374,63,,,178,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,39,12,542.18,22.444
 2020-04-05,03:00,VS,,1431,-3,146,26,23.0,,57,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,15,4,419.03,16.691
 2020-04-05,08:00,ZG,,146,0,14,7,,46,2,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,116.43,1.595
-2020-04-05,14:30,ZH,,2497,0,194,,59.0,,53,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,30,4,165.99,3.523
+2020-04-05,14:30,ZH,,2101,0,194,,59.0,,53,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,30,4,139.67,3.523
 2020-04-06,15:00,AG,,727,-18,82,25,24.0,4,13,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200406_KFS_Coronavirus_Lagebulletin_27.pdf,,,,,,47.40966,8.15688,Aargau,01,101,1,108.35,1.937
 2020-04-06,11:00,AI,,21,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,130.43,0.0
 2020-04-06,08:00,AR,,69,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,2,0,125.0,5.435
@@ -781,7 +781,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-06,03:00,VD,,4418,-15,359,61,,,194,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,118,16,557.05,24.461
 2020-04-06,03:00,VS,,1497,-13,133,26,22.0,,60,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,66,3,438.36,17.57
 2020-04-06,08:00,ZG,,152,0,14,8,,52,3,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,6,1,121.21,2.392
-2020-04-06,14:30,ZH,,2611,4,198,,58.0,,55,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,114,2,173.57,3.656
+2020-04-06,14:30,ZH,,2212,4,198,,58.0,,55,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,111,2,147.05,3.656
 2020-04-07,14:45,AG,,760,2,84,25,25.0,170,16,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200407_KFS_Coronavirus_Lagebulletin_28.pdf,,,,,,47.40966,8.15688,Aargau,01,33,3,113.26,2.385
 2020-04-07,11:00,AI,,21,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,130.43,0.0
 2020-04-07,08:00,AR,,69,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,125.0,5.435
@@ -808,7 +808,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-07,03:00,VD,,4495,-27,332,60,,,206,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,77,12,566.76,25.974
 2020-04-07,03:00,VS,,1536,-3,130,25,20.0,,68,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,39,8,449.78,19.912
 2020-04-07,08:00,ZG,,157,1,15,8,,54,3,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,5,0,125.2,2.392
-2020-04-07,14:30,ZH,,2695,-17,181,,60.0,,57,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,84,2,179.15,3.789
+2020-04-07,14:30,ZH,,2296,-17,181,,60.0,,57,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,84,2,152.63,3.789
 2020-04-08,14:45,AG,,788,-5,79,23,23.0,220,16,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200408_KFS_Coronavirus_Lagebulletin_29.pdf,,,,,,47.40966,8.15688,Aargau,01,28,0,117.44,2.385
 2020-04-08,11:00,AI,,23,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,2,0,142.86,0.0
 2020-04-08,08:00,AR,,72,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,3,0,130.43,5.435
@@ -834,7 +834,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-08,03:00,VD,,4586,-9,323,59,,,218,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,91,12,578.24,27.487
 2020-04-08,03:00,VS,,1570,-7,123,26,20.0,,71,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,34,3,459.74,20.791
 2020-04-08,08:00,ZG,,162,-3,12,9,,61,3,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,5,0,129.19,2.392
-2020-04-08,14:30,ZH,,2790,-11,170,,56.0,,65,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,95,8,185.47,4.321
+2020-04-08,14:30,ZH,,2391,-11,170,,56.0,,65,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,95,8,158.94,4.321
 2020-04-09,14:45,AG,,822,8,87,22,21.0,250,17,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200409_KFS_Coronavirus_Lagebulletin_30.pdf,,,,,,47.40966,8.15688,Aargau,01,34,1,122.5,2.534
 2020-04-09,11:00,AI,,24,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,1,0,149.07,0.0
 2020-04-09,08:00,AR,,74,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,2,0,134.06,5.435
@@ -860,7 +860,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-09,03:00,VD,,4683,-17,306,60,,,232,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,97,14,590.47,29.252
 2020-04-09,03:00,VS,,1598,-4,119,24,19.0,,77,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,28,6,467.94,22.548
 2020-04-09,08:00,ZG,,165,1,13,9,,69,3,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,3,0,131.58,2.392
-2020-04-09,14:30,ZH,,2887,-5,165,,55.0,,66,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,97,1,191.92,4.387
+2020-04-09,14:30,ZH,,2488,-5,165,,55.0,,66,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,97,1,165.39,4.387
 2020-04-10,14:45,AG,,850,0,87,22,21.0,250,18,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200411_KFS_Coronavirus_Lagebulletin_31.pdf,,,,,,47.40966,8.15688,Aargau,01,28,1,126.68,2.683
 2020-04-10,08:00,AR,,77,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,3,0,139.49,5.435
 2020-04-10,08:00,BE,,1375,-10,107,33,25.0,,42,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,40,4,133.35,4.073
@@ -885,7 +885,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-10,03:00,VD,,4732,-9,297,63,,,240,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,49,8,596.65,30.261
 2020-04-10,03:00,VS,,1627,-2,117,24,18.0,,83,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,29,6,476.43,24.305
 2020-04-10,08:00,ZG,,168,2,15,9,,76,3,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,3,0,133.97,2.392
-2020-04-10,14:30,ZH,,2927,-13,152,,50.0,,71,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,40,5,194.58,4.72
+2020-04-10,14:30,ZH,,2528,-13,152,,50.0,,71,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,40,5,168.05,4.72
 2020-04-11,17:00,AG,,878,0,76,23,21.0,300,18,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200411_KFS_Coronavirus_Lagebulletin_31.pdf,,,,,,47.40966,8.15688,Aargau,01,28,0,130.85,2.683
 2020-04-11,11:00,AI,,24,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,149.07,0.0
 2020-04-11,10:00,AR,,77,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,139.49,5.435
@@ -911,7 +911,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-11,03:00,VD,,4772,-14,283,63,,,246,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,40,6,601.69,31.018
 2020-04-11,03:00,VS,,1653,-3,114,20,15.0,,85,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,26,2,484.04,24.89
 2020-04-11,08:00,ZG,,168,-1,14,9,,79,4,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,1,133.97,3.19
-2020-04-11,14:30,ZH,,2985,-3,149,,50.0,,77,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,58,6,198.43,5.119
+2020-04-11,14:30,ZH,,2585,-3,149,,50.0,,77,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,57,6,171.84,5.119
 2020-04-12,14:45,AG,,899,0,76,23,21.0,300,18,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200414_KFS_Coronavirus_Lagebulletin_32.pdf,,,,,,47.40966,8.15688,Aargau,01,21,0,133.98,2.683
 2020-04-12,08:00,BE,,1441,-4,95,33,22.0,,49,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,22,5,139.75,4.752
 2020-04-12,03:00,BL,,740,-2,48,17,14.0,554,23,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,4,1,257.84,8.014
@@ -935,7 +935,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-12,03:00,VD,,4809,9,292,62,,,254,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,37,8,606.35,32.026
 2020-04-12,03:00,VS,,1666,-2,112,22,14.0,,91,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,13,6,487.85,26.647
 2020-04-12,08:00,ZG,,168,-1,13,9,,80,5,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,1,133.97,3.987
-2020-04-12,14:30,ZH,,3002,4,153,,49.0,,79,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,17,2,199.56,5.252
+2020-04-12,14:30,ZH,,2602,4,153,,49.0,,79,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,17,2,172.97,5.252
 2020-04-13,14:45,AG,,906,0,76,23,21.0,300,19,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200414_KFS_Coronavirus_Lagebulletin_32.pdf,,,,,,47.40966,8.15688,Aargau,01,7,1,135.02,2.832
 2020-04-13,11:00,AI,,24,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,149.07,0.0
 2020-04-13,08:00,AR,,78,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,141.3,5.435
@@ -961,7 +961,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-13,03:00,VD,,4853,0,292,58,,,260,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,44,6,611.9,32.783
 2020-04-13,03:00,VS,,1680,-4,108,21,12.0,,93,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,14,2,491.95,27.233
 2020-04-13,08:00,ZG,,170,0,13,9,,84,5,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,2,0,135.57,3.987
-2020-04-13,14:30,ZH,,3019,1,154,,50.0,,83,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,17,4,200.69,5.518
+2020-04-13,14:30,ZH,,2619,1,154,,50.0,,83,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,17,4,174.1,5.518
 2020-04-14,14:45,AG,,912,0,78,22,22.0,400,19,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200414_KFS_Coronavirus_Lagebulletin_32.pdf,,,,,,47.40966,8.15688,Aargau,01,6,0,135.92,2.832
 2020-04-14,11:00,AI,,24,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,149.07,0.0
 2020-04-14,08:00,AR,,79,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,143.12,5.435
@@ -987,7 +987,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-14,03:00,VD,,4920,-17,275,57,,,270,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,67,10,620.35,34.044
 2020-04-14,03:00,VS,,1707,-6,102,20,11.0,,94,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,27,1,499.85,27.526
 2020-04-14,08:00,ZG,,171,0,13,9,,88,5,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,136.36,3.987
-2020-04-14,14:30,ZH,,3066,-5,149,,52.0,,87,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,47,4,203.82,5.783
+2020-04-14,14:30,ZH,,2666,-5,149,,52.0,,87,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,47,4,177.23,5.783
 2020-04-15,14:45,AG,,929,-9,69,20,20.0,450,22,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200415_KFS_Coronavirus_Lagebulletin_33.pdf,,,,,,47.40966,8.15688,Aargau,01,17,3,138.45,3.279
 2020-04-15,11:00,AI,,24,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,149.07,0.0
 2020-04-15,08:00,AR,,79,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,143.12,5.435
@@ -1014,7 +1014,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-15,03:00,VD,,4969,-28,247,53,,,287,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,49,17,626.53,36.187
 2020-04-15,03:00,VS,,1723,-6,96,20,12.0,,94,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,16,0,504.54,27.526
 2020-04-15,08:00,ZG,,171,0,13,9,,92,5,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,136.36,3.987
-2020-04-15,14:30,ZH,,3113,-13,136,,50.0,,91,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,47,4,206.94,6.049
+2020-04-15,14:30,ZH,,2713,-13,136,,50.0,,91,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,47,4,180.35,6.049
 2020-04-16,14:45,AG,,943,-8,61,20,20.0,500,23,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200416_KFS_Coronavirus_Lagebulletin_34.pdf,,,,,,47.40966,8.15688,Aargau,01,14,1,140.54,3.428
 2020-04-16,11:00,AI,,24,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,149.07,0.0
 2020-04-16,08:00,AR,,79,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,143.12,5.435
@@ -1041,7 +1041,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-16,03:00,VD,,4998,-8,239,52,,,300,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,29,13,630.19,37.826
 2020-04-16,03:00,VS,,1740,-2,94,17,12.0,,95,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,17,1,509.52,27.818
 2020-04-16,08:00,ZG,,171,-4,9,7,,94,6,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,1,136.36,4.785
-2020-04-16,14:30,ZH,,3148,-1,135,,51.0,,95,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,35,4,209.27,6.315
+2020-04-16,14:30,ZH,,2748,-1,135,,51.0,,95,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,35,4,182.68,6.315
 2020-04-17,14:45,AG,,960,-3,58,20,20.0,540,24,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200417_KFS_Coronavirus_Lagebulletin_35.pdf,,,,,,47.40966,8.15688,Aargau,01,17,1,143.07,3.577
 2020-04-17,11:00,AI,,24,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,149.07,0.0
 2020-04-17,12:00,AR,,82,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,3,0,148.55,5.435
@@ -1068,7 +1068,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-17,03:00,VD,,5030,-16,223,51,,,307,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,32,7,634.22,38.709
 2020-04-17,03:00,VS,,1760,-7,87,16,10.0,,99,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,20,4,515.37,28.99
 2020-04-17,08:00,ZG,,172,-1,8,6,,96,6,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,137.16,4.785
-2020-04-17,14:30,ZH,,3171,-12,123,,45.0,,99,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,23,4,210.8,6.581
+2020-04-17,14:30,ZH,,2771,-12,123,,45.0,,99,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,23,4,184.21,6.581
 2020-04-18,14:45,AG,,987,0,58,20,20.0,540,25,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200420_KFS_Coronavirus_Lagebulletin_36.pdf,,,,,,47.40966,8.15688,Aargau,01,27,1,147.09,3.726
 2020-04-18,08:00,BE,,1586,2,71,22,12.0,,69,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,33,2,153.82,6.692
 2020-04-18,03:00,BL,,798,4,44,7,5.0,636,25,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,4,0,278.05,8.711
@@ -1092,7 +1092,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-18,03:00,VD,,5052,-3,220,48,,,315,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,22,8,636.99,39.718
 2020-04-18,03:00,VS,,1769,-1,86,18,10.0,,104,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,9,5,518.01,30.454
 2020-04-18,08:00,ZG,,174,-2,6,6,,99,7,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,2,1,138.76,5.582
-2020-04-18,14:30,ZH,,3211,-9,114,,44.0,,105,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,40,6,213.45,6.98
+2020-04-18,14:30,ZH,,2811,-9,114,,44.0,,105,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,40,6,186.86,6.98
 2020-04-19,14:45,AG,,1003,0,58,20,20.0,540,25,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200420_KFS_Coronavirus_Lagebulletin_36.pdf,,,,,,47.40966,8.15688,Aargau,01,16,0,149.48,3.726
 2020-04-19,11:00,AI,,24,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,149.07,0.0
 2020-04-19,08:00,BE,,1599,7,78,20,13.0,,69,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,13,0,155.08,6.692
@@ -1117,7 +1117,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-19,03:00,VD,,5063,1,221,47,,,321,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,11,6,638.38,40.474
 2020-04-19,03:00,VS,,1776,-2,84,16,9.0,,107,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,7,3,520.06,31.332
 2020-04-19,08:00,ZG,,175,5,11,6,,99,7,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,139.55,5.582
-2020-04-19,14:30,ZH,,3238,2,116,,43.0,,105,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,27,0,215.25,6.98
+2020-04-19,14:30,ZH,,2838,2,116,,43.0,,105,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,27,0,188.66,6.98
 2020-04-20,14:45,AG,,1012,0,45,16,16.0,640,28,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200420_KFS_Coronavirus_Lagebulletin_36.pdf,,,,,,47.40966,8.15688,Aargau,01,9,3,150.82,4.173
 2020-04-20,11:00,AI,,24,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,149.07,0.0
 2020-04-20,13:00,AR,,86,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,4,0,155.8,5.435
@@ -1144,7 +1144,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-20,03:00,VD,,5095,-17,204,41,,,332,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,32,11,642.42,41.861
 2020-04-20,03:00,VS,,1793,-3,81,15,9.0,,110,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,17,3,525.04,32.211
 2020-04-20,08:00,ZG,,175,0,11,5,,99,7,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,139.55,5.582
-2020-04-20,14:30,ZH,,3254,5,121,,43.0,,107,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,16,2,216.31,7.113
+2020-04-20,14:30,ZH,,2854,5,121,,43.0,,107,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,16,2,189.72,7.113
 2020-04-21,14:45,AG,,1017,-2,43,18,18.0,680,29,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200421_KFS_Coronavirus_Lagebulletin_37.pdf,,,,,,47.40966,8.15688,Aargau,01,5,1,151.56,4.322
 2020-04-21,11:00,AI,,24,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,149.07,0.0
 2020-04-21,13:00,AR,,86,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,155.8,5.435
@@ -1171,7 +1171,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-21,03:00,VD,,5127,-14,190,40,,,340,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,32,8,646.45,42.87
 2020-04-21,03:00,VS,,1800,-3,78,14,10.0,,115,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,7,5,527.09,33.675
 2020-04-21,08:00,ZG,,176,-2,9,4,,99,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,1,140.35,6.38
-2020-04-21,14:30,ZH,,3280,-11,110,,41.0,,109,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,26,2,218.04,7.246
+2020-04-21,14:30,ZH,,2880,-11,110,,41.0,,109,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,26,2,191.45,7.246
 2020-04-22,14:45,AG,,1026,-6,37,15,15.0,710,31,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200422_KFS_Coronavirus_Lagebulletin_38.pdf,,,,,,47.40966,8.15688,Aargau,01,9,2,152.91,4.62
 2020-04-22,11:00,AI,,24,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,149.07,0.0
 2020-04-22,18:00,AR,,87,0,6,,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,157.61,5.435
@@ -1198,7 +1198,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-22,03:00,VD,,5148,-12,178,39,,,345,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,21,5,649.1,43.5
 2020-04-22,03:00,VS,,1806,1,79,13,10.0,,118,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,6,3,528.84,34.553
 2020-04-22,08:00,ZG,,176,-3,6,3,,131,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,140.35,6.38
-2020-04-22,14:30,ZH,,3320,0,110,,44.0,,110,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,40,1,220.7,7.312
+2020-04-22,14:30,ZH,,2920,0,110,,44.0,,110,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,40,1,194.11,7.312
 2020-04-23,14:45,AG,,1037,-2,35,14,14.0,750,31,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200423_KFS_Coronavirus_Lagebulletin_39.pdf,,,,,,47.40966,8.15688,Aargau,01,11,0,154.55,4.62
 2020-04-23,11:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,1,0,155.28,0.0
 2020-04-23,14:00,AR,,88,0,5,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,159.42,5.435
@@ -1225,7 +1225,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-23,03:00,VD,,5181,-1,177,37,,,355,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,33,10,653.26,44.761
 2020-04-23,03:00,VS,,1822,-4,75,13,9.0,,123,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,16,5,533.53,36.018
 2020-04-23,08:00,ZG,,178,0,6,3,,133,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,2,0,141.95,6.38
-2020-04-23,14:30,ZH,,3337,-14,96,,44.0,,113,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,17,3,221.83,7.512
+2020-04-23,14:30,ZH,,2937,-14,96,,44.0,,113,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,17,3,195.24,7.512
 2020-04-24,14:45,AG,,1052,5,40,14,14.0,780,31,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200424_KFS_Coronavirus_Lagebulletin_40.pdf,,,,,,47.40966,8.15688,Aargau,01,15,0,156.78,4.62
 2020-04-24,11:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-04-24,09:30,AR,,88,-1,4,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,159.42,5.435
@@ -1252,7 +1252,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-24,03:00,VD,,5204,-12,165,34,,,358,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,23,3,656.16,45.139
 2020-04-24,03:00,VS,,1831,-2,73,14,9.0,,127,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,9,4,536.16,37.189
 2020-04-24,08:00,ZG,,180,0,6,3,,133,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,2,0,143.54,6.38
-2020-04-24,14:30,ZH,,3366,-13,83,,42.0,,114,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,29,1,223.76,7.578
+2020-04-24,14:30,ZH,,2966,-13,83,,42.0,,114,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,29,1,197.17,7.578
 2020-04-25,11:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-04-25,08:00,BE,,1708,1,61,11,10.0,,83,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,14,1,165.65,8.05
 2020-04-25,03:00,BL,,816,-1,23,1,0.0,710,30,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,3,0,284.32,10.453
@@ -1276,7 +1276,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-25,03:00,VD,,5217,5,170,34,,,368,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,13,10,657.8,46.4
 2020-04-25,03:00,VS,,1836,2,75,14,9.0,,129,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,5,2,537.63,37.775
 2020-04-25,08:00,ZG,,181,0,6,3,,133,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,144.34,6.38
-2020-04-25,14:30,ZH,,3397,-6,77,,38.0,,115,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,31,1,225.82,7.645
+2020-04-25,14:30,ZH,,2997,-6,77,,38.0,,115,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,31,1,199.23,7.645
 2020-04-26,08:00,BE,,1714,-7,54,9,9.0,,83,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,6,0,166.23,8.05
 2020-04-26,03:00,BL,,816,-2,21,0,0.0,724,30,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,284.32,10.453
 2020-04-26,09:30,BS,235,940,0,40,7,,800,46,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-941-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,2,0,484.79,23.724
@@ -1299,7 +1299,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-26,03:00,VD,,5229,8,178,34,,,372,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,12,4,659.31,46.905
 2020-04-26,03:00,VS,,1838,2,77,15,8.0,,131,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,2,2,538.21,38.36
 2020-04-26,08:00,ZG,,181,0,6,3,,133,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,144.34,6.38
-2020-04-26,14:30,ZH,,3400,-2,75,,26.0,,115,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,3,0,226.02,7.645
+2020-04-26,14:30,ZH,,3000,-2,75,,26.0,,115,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,3,0,199.43,7.645
 2020-04-27,14:45,AG,,1088,2,42,15,14.0,830,33,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200427_KFS_Coronavirus_Lagebulletin_41.pdf,,,,,,47.40966,8.15688,Aargau,01,36,2,162.15,4.918
 2020-04-27,11:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-04-27,10:15,AR,,94,-2,2,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,6,0,170.29,5.435
@@ -1326,7 +1326,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-27,03:00,VD,,5253,-11,167,31,,,376,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,24,4,662.34,47.409
 2020-04-27,03:00,VS,,1853,-10,67,14,9.0,,132,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,15,1,542.61,38.653
 2020-04-27,08:00,ZG,,185,1,7,3,,134,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,4,0,147.53,6.38
-2020-04-27,14:30,ZH,,3418,-2,73,,24.0,,119,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,18,4,227.22,7.911
+2020-04-27,14:30,ZH,,3018,-2,73,,24.0,,119,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,18,4,200.62,7.911
 2020-04-28,14:45,AG,,1093,-3,39,12,11.0,840,33,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200428_KFS_Coronavirus_Lagebulletin_42.pdf,,,,,,47.40966,8.15688,Aargau,01,5,0,162.89,4.918
 2020-04-28,11:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-04-28,09:40,AR,,94,2,4,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,170.29,5.435
@@ -1353,7 +1353,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-28,03:00,VD,,5275,-12,155,30,,,381,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,22,5,665.11,48.039
 2020-04-28,03:00,VS,,1864,-4,63,13,8.0,,135,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,11,3,545.83,39.531
 2020-04-28,08:00,ZG,,185,0,7,3,,134,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,147.53,6.38
-2020-04-28,14:30,ZH,,3433,11,84,,19.0,,119,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,15,0,228.21,7.911
+2020-04-28,14:30,ZH,,3033,11,84,,19.0,,119,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,15,0,201.62,7.911
 2020-04-29,14:45,AG,,1099,-1,38,10,9.0,850,33,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200429_KFS_Coronavirus_Lagebulletin_43.pdf,,,,,,47.40966,8.15688,Aargau,01,6,0,163.79,4.918
 2020-04-29,11:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-04-29,10:20,AR,,94,-2,2,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,170.29,5.435
@@ -1380,7 +1380,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-29,03:00,VD,,5289,-10,145,29,,,382,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,14,1,666.88,48.165
 2020-04-29,03:00,VS,,1876,-1,62,11,8.0,,136,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,12,1,549.34,39.824
 2020-04-29,08:00,ZG,,185,-1,6,3,,135,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,147.53,6.38
-2020-04-29,14:30,ZH,,3462,-2,82,,19.0,,121,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,29,2,230.14,8.044
+2020-04-29,14:30,ZH,,3061,-2,82,,19.0,,121,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,28,2,203.48,8.044
 2020-04-30,14:45,AG,,1108,-5,33,9,8.0,870,33,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200430_KFS_Coronavirus_Lagebulletin_44.pdf,,,,,,47.40966,8.15688,Aargau,01,9,0,165.13,4.918
 2020-04-30,11:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-04-30,13:30,AR,,95,0,2,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,172.1,5.435
@@ -1407,7 +1407,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-30,03:00,VD,,5301,-8,137,25,,,384,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,12,2,668.39,48.418
 2020-04-30,03:00,VS,,1882,0,62,10,8.0,,138,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,6,2,551.1,40.41
 2020-04-30,08:00,ZG,,189,0,6,3,,135,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,4,0,150.72,6.38
-2020-04-30,14:30,ZH,,3473,-21,61,,15.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,11,2,230.87,8.177
+2020-04-30,14:30,ZH,,3072,-21,61,,15.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,11,2,204.21,8.177
 2020-05-01,14:45,AG,,1112,1,34,11,8.0,890,34,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200501_KFS_Coronavirus_Lagebulletin_45.pdf,,,,,,47.40966,8.15688,Aargau,01,4,1,165.72,5.067
 2020-05-01,11:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-05-01,12:30,AR,,96,4,6,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,173.91,5.435
@@ -1434,7 +1434,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-01,03:00,VD,,5315,-10,127,24,,,386,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,14,2,670.16,48.67
 2020-05-01,03:00,VS,,1887,-2,60,10,8.0,,138,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,5,0,552.56,40.41
 2020-05-01,08:00,ZG,,189,-2,4,1,,136,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,150.72,6.38
-2020-05-01,14:30,ZH,,3486,-18,43,,14.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,13,0,231.74,8.177
+2020-05-01,14:30,ZH,,3085,-18,43,,14.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,13,0,205.08,8.177
 2020-05-02,03:00,AG,,1124,0,34,11,8.0,890,34,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200504_KFS_Coronavirus_Lagebulletin_46.pdf,,,,,,47.40966,8.15688,Aargau,01,12,0,167.51,5.067
 2020-05-02,12:30,AR,,96,-3,3,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,173.91,5.435
 2020-05-02,08:00,BE,,1779,4,44,9,6.0,,90,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,12,4,172.53,8.729
@@ -1458,7 +1458,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-02,03:00,VD,,5324,-19,108,23,,,388,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,9,2,671.29,48.922
 2020-05-02,03:00,VS,,1889,0,60,10,8.0,,140,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,2,2,553.15,40.996
 2020-05-02,08:00,ZG,,189,-1,3,1,,136,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,150.72,6.38
-2020-05-02,14:30,ZH,,3489,-2,41,,13.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,3,0,231.94,8.177
+2020-05-02,14:30,ZH,,3088,-2,41,,13.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,3,0,205.28,8.177
 2020-05-03,03:00,AG,,1129,0,34,11,8.0,890,34,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200504_KFS_Coronavirus_Lagebulletin_46.pdf,,,,,,47.40966,8.15688,Aargau,01,5,0,168.26,5.067
 2020-05-03,13:30,AR,,97,0,3,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,175.72,5.435
 2020-05-03,08:00,BE,,1791,-3,41,10,7.0,,90,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,12,0,173.7,8.729
@@ -1482,7 +1482,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-03,03:00,VD,,5329,1,109,23,,,389,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,5,1,671.92,49.048
 2020-05-03,03:00,VS,,1891,0,60,10,8.0,,142,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,2,2,553.73,41.581
 2020-05-03,08:00,ZG,,189,0,3,1,,137,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,150.72,6.38
-2020-05-03,14:30,ZH,,3493,1,42,,12.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,4,0,232.2,8.177
+2020-05-03,14:30,ZH,,3092,1,42,,12.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,4,0,205.54,8.177
 2020-05-04,14:45,AG,,1133,0,38,5,4.0,940,36,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200504_KFS_Coronavirus_Lagebulletin_46.pdf,,,,,,47.40966,8.15688,Aargau,01,4,0,168.85,5.365
 2020-05-04,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-05-04,08:00,AR,,97,3,6,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,175.72,5.435
@@ -1509,7 +1509,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-04,03:00,VD,,5337,0,109,23,,,389,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,8,0,672.93,49.048
 2020-05-04,03:00,VS,,1899,-5,55,10,7.0,,142,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,8,0,556.08,41.581
 2020-05-04,08:00,ZG,,190,0,3,1,,138,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,151.52,6.38
-2020-05-04,14:30,ZH,,3495,1,43,,11.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,2,0,232.33,8.177
+2020-05-04,14:30,ZH,,3094,1,43,,11.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,2,0,205.68,8.177
 2020-05-05,14:45,AG,,1135,-15,23,5,4.0,940,36,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200505_KFS_Coronavirus_Lagebulletin_47.pdf,,,,,,47.40966,8.15688,Aargau,01,2,0,169.15,5.365
 2020-05-05,11:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-05-05,09:30,AR,,97,0,6,3,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,175.72,5.435
@@ -1536,7 +1536,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-05,03:00,VD,,5349,-11,98,22,,,389,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,12,0,674.44,49.048
 2020-05-05,03:00,VS,,1899,-5,50,8,6.0,,146,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,0,4,556.08,42.753
 2020-05-05,08:00,ZG,,191,1,4,2,,138,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,152.31,6.38
-2020-05-05,14:30,ZH,,3511,11,54,,9.0,,124,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,16,1,233.4,8.243
+2020-05-05,14:30,ZH,,3110,11,54,,9.0,,124,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,16,1,206.74,8.243
 2020-05-06,14:45,AG,,1141,1,24,5,5.0,960,36,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200506_KFS_Coronavirus_Lagebulletin_48.pdf,,,,,,47.40966,8.15688,Aargau,01,6,0,170.04,5.365
 2020-05-06,11:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-05-06,10:40,AR,,97,2,8,3,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,175.72,5.435
@@ -1563,7 +1563,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-06,03:00,VD,,5363,-8,90,23,,,389,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,14,0,676.21,49.048
 2020-05-06,03:00,VS,,1899,-3,47,8,5.0,,146,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,556.08,42.753
 2020-05-06,08:00,ZG,,191,-1,3,2,,142,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,152.31,6.38
-2020-05-06,14:30,ZH,,3526,-1,53,,7.0,,124,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,15,0,234.39,8.243
+2020-05-06,14:30,ZH,,3124,-1,53,,7.0,,125,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,14,1,207.67,8.31
 2020-05-07,14:45,AG,,1145,-5,19,4,4.0,970,37,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200507_KFS_Coronavirus_Lagebulletin_49.pdf,,,,,,47.40966,8.15688,Aargau,01,4,1,170.64,5.514
 2020-05-07,09:05,AR,,97,-3,5,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,175.72,5.435
 2020-05-07,08:00,BE,,1809,3,37,8,6.0,,90,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,5,0,175.44,8.729
@@ -1588,16 +1588,19 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-07,03:00,VD,,5363,-2,88,22,,,389,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,0,0,676.21,49.048
 2020-05-07,03:00,VS,,1899,0,47,9,5.0,,146,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,556.08,42.753
 2020-05-07,08:00,ZG,,192,-1,2,1,,143,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,153.11,6.38
-2020-05-07,14:30,ZH,,3536,-3,50,,7.0,,124,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,10,0,235.06,8.243
+2020-05-07,14:30,ZH,,3134,-3,50,,7.0,,125,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,10,0,208.34,8.31
 2020-05-08,10:00,AR,,97,0,5,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,175.72,5.435
 2020-05-08,08:00,BE,,1818,2,39,8,6.0,,90,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,9,0,176.32,8.729
 2020-05-08,03:00,BL,,834,-1,5,1,1.0,778,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,1,1,290.59,11.847
 2020-05-08,08:30,BS,235,966,-1,19,4,,874,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-966-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,525.0,7.0,,,,47.564869,7.615259,Basel-Stadt,12,1,0,498.19,25.786
 2020-05-08,03:00,FR,30,1117,0,30,5,,134,81,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0805.xlsx,,,,,,46.718391,7.074008,Fribourg,10,2,1,354.49,25.706
 2020-05-08,03:00,LU,,713,-3,28,6,,,19,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,3,0,175.4,4.674
+2020-05-08,15:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
+2020-05-08,03:00,SG,,798,0,25,2,,210,35,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,3,2,158.11,6.935
 2020-05-08,09:30,SH,,76,-3,4,3,,,6,https://sh.ch/CMS/get/file/07eb835d-ba9e-40a8-9e15-a0c5db24f019,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,93.37,7.371
 2020-05-08,10:00,SZ,10,305,0,1,,,267,23,https://www.sz.ch/public/upload/assets/46524/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,0,0,193.9,14.622
 2020-05-08,03:00,TG,276,374,-3,12,5,,,17,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,47.568715,9.091957,Thurgau,01,0,0,136.6,6.209
 2020-05-08,08:00,TI,,3257,-15,92,13,11.0,829,334,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,4,2,920.84,94.43
 2020-05-08,14:00,UR,85,92,1,3,,,75,7,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,0,0,253.44,19.284
 2020-05-08,08:00,ZG,,192,0,2,1,,144,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,153.11,6.38
+2020-05-08,14:30,ZH,,3545,-3,47,,5.0,,125,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,411,0,235.66,8.31
