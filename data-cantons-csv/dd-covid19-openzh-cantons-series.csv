@@ -1571,7 +1571,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-07,10:00,BS,235,965,-1,20,4,,870,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-965-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,524.0,7.0,,,,47.564869,7.615259,Basel-Stadt,12,3,0,497.68,25.786
 2020-05-07,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223470/?typ=news,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-07,03:00,FR,30,1115,-4,30,5,,134,80,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0905.xlsx,,,,,,46.718391,7.074008,Fribourg,10,8,0,353.86,25.389
-2020-05-07,03:00,GE,28176,4971,-17,214,15,13.0,671,260,https://www.ge.ch/document/20094/telecharger,,,,,9.0,46.220528,6.132935,Genève,25,3,4,1003.84,52.504
+2020-05-07,03:00,GE,28176,4971,-17,214,15,13.0,686,260,https://www.ge.ch/document/20094/telecharger,,,,,9.0,46.220528,6.132935,Genève,25,3,4,1003.84,52.504
 2020-05-07,13:00,GL,,125,0,2,,,,12,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,310.17,29.777
 2020-05-07,03:00,GR,,818,-6,14,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,413.34,22.739
 2020-05-07,03:00,JU,,201,-2,7,4,,,7,https://www.jura.ch/Htdocs/Files/v/34378.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_08_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,274.22,9.55
@@ -1597,7 +1597,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-08,08:30,BS,235,966,-1,19,4,,874,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-966-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,525.0,7.0,,,,47.564869,7.615259,Basel-Stadt,12,1,0,498.19,25.786
 2020-05-08,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/250-corona-erste-lockerungen-kulturbereich-0508.pdf?t=637245631950707048,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-08,03:00,FR,30,1117,0,30,5,,134,81,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0905.xlsx,,,,,,46.718391,7.074008,Fribourg,10,2,1,354.49,25.706
-2020-05-08,12:00,GE,28176,4971,-9,205,11,9.0,671,260,https://www.ge.ch/document/20094/telecharger,,,,,9.0,46.220528,6.132935,Genève,25,0,0,1003.84,52.504
+2020-05-08,12:00,GE,28176,4971,-9,205,11,9.0,694,260,https://www.ge.ch/document/20094/telecharger,,,,,9.0,46.220528,6.132935,Genève,25,0,0,1003.84,52.504
 2020-05-08,13:30,GL,,125,0,2,,,,12,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,310.17,29.777
 2020-05-08,03:00,JU,,202,-1,6,4,,,7,https://www.jura.ch/Htdocs/Files/v/34378.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_08_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,275.58,9.55
 2020-05-08,03:00,LU,,713,-3,28,6,,,19,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,3,0,175.4,4.674
@@ -1615,6 +1615,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-09,09:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-05-09,08:00,BE,,1825,-3,36,7,6.0,,92,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,7,2,177.0,8.923
 2020-05-09,03:00,BL,,835,-2,3,1,1.0,783,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,1,0,290.94,11.847
+2020-05-09,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223472/?typ=news,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-09,03:00,FR,30,1121,0,30,5,,134,82,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0905.xlsx,,,,,,46.718391,7.074008,Fribourg,10,4,1,355.76,26.023
 2020-05-09,03:00,NE,,703,1,17,2,1.0,,77,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,394.94,43.258
 2020-05-09,09:30,SH,,76,1,5,3,,,6,https://sh.ch/CMS/get/file/99b2606f-7e80-4bb3-888e-51ec34d15fe3,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,93.37,7.371
