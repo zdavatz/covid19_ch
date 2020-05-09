@@ -1618,4 +1618,5 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-09,03:00,FR,30,1121,0,30,5,,134,82,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0905.xlsx,,,,,,46.718391,7.074008,Fribourg,10,4,1,355.76,26.023
 2020-05-09,00:01,SZ,10,306,0,1,,,268,23,https://www.sz.ch/public/upload/assets/46535/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,1,0,194.53,14.622
 2020-05-09,08:00,TI,,3260,-11,81,12,10.0,843,338,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,3,4,921.69,95.561
+2020-05-09,14:00,UR,85,92,0,3,,,75,7,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,0,0,253.44,19.284
 2020-05-09,14:30,ZH,,3550,-10,37,,5.0,,125,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,5,0,235.99,8.31
