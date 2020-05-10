@@ -1617,6 +1617,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-09,03:00,BL,,835,-2,3,1,1.0,783,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,1,0,290.94,11.847
 2020-05-09,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223472/?typ=news,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-09,03:00,FR,30,1121,0,30,5,,134,82,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_0905.xlsx,,,,,,46.718391,7.074008,Fribourg,10,4,1,355.76,26.023
+2020-05-09,03:00,LU,,713,0,28,6,,,19,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,0,0,175.4,4.674
 2020-05-09,03:00,NE,,703,1,17,2,1.0,,77,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,394.94,43.258
 2020-05-09,09:30,SH,,76,1,5,3,,,6,https://sh.ch/CMS/get/file/99b2606f-7e80-4bb3-888e-51ec34d15fe3,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,93.37,7.371
 2020-05-09,00:01,SZ,10,306,0,1,,,268,23,https://www.sz.ch/public/upload/assets/46535/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,1,0,194.53,14.622
