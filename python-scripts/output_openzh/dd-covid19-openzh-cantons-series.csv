@@ -1629,6 +1629,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-09,14:30,ZH,,3550,-10,37,,5.0,,125,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,5,0,235.99,8.31
 2020-05-10,08:00,BE,,1832,0,36,7,6.0,,92,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,7,0,177.67,8.923
 2020-05-10,03:00,BL,,836,-1,2,1,1.0,785,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,1,0,291.29,11.847
+2020-05-10,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/253-corona-auswertung-0510.pdf?t=637247323699465940,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-10,03:00,FR,30,1126,-4,26,4,,137,83,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1005.xlsx,,,,,,46.718391,7.074008,Fribourg,10,5,1,357.35,26.341
 2020-05-10,03:00,JU,,202,0,6,4,,,7,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,275.58,9.55
 2020-05-10,03:00,LU,,713,0,28,6,,,19,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,0,0,175.4,4.674
