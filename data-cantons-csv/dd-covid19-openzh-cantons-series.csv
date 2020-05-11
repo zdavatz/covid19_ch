@@ -5,7 +5,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-02-26,03:00,TI,,1,0,0,0,0.0,0,0,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,1,0,0.28,0.0
 2020-02-27,19:17,BS,,1,0,,,,,,https://www.coronavirus.bs.ch/nm/2020-coronavirus-erster-positiver-fall-in-basel-stadt-zweiter-positiv-getesteter-ausserkantonaler-fall-gd.html,1.0,,,,,47.564869,7.615259,Basel-Stadt,12,0,0,0.52,
 2020-02-27,03:00,FL,3,,0,,,,,,https://www.regierung.li/media/attachments/83-verdachtsfaelle-negativ-getestet.pdf?t=637202562374055719,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,,
-2020-02-27,03:00,GE,325,1,0,1,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,0,0,0.2,0.0
+2020-02-27,03:00,GE,328,1,0,1,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,0,0,0.2,0.0
 2020-02-27,03:00,JU,,1,0,1,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,1.36,0.0
 2020-02-27,03:00,TI,,1,0,0,0,0.0,0,0,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,0,0,0.28,0.0
 2020-02-27,14:30,ZH,,2,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,0,0,0.13,
@@ -13,7 +13,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-02-28,03:00,BE,,1,0,,,,,,https://www.be.ch/portal/de/index/mediencenter/medienmitteilungen/suche.archiv.meldungNeu.html/portal/de/meldungen/mm/2020/02/20200229_0936_corona.html,,,,,,46.823608,7.636667,Bern/Berne,02,0,0,0.1,
 2020-02-28,03:00,BL,,1,0,,,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/neuer-coronavirus-covid-19-erster-bestaetigter-fall-aus-dem-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,0.35,
 2020-02-28,10:15,BS,,1,0,,,,,,https://twitter.com/BR_Sprecher/status/1233316679863631873?s=20,1.0,,,,,47.564869,7.615259,Basel-Stadt,12,0,0,0.52,
-2020-02-28,03:00,GE,532,4,1,2,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,3,0,0.81,0.0
+2020-02-28,03:00,GE,539,4,1,2,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,3,0,0.81,0.0
 2020-02-28,03:00,JU,,1,0,1,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,1.36,0.0
 2020-02-28,03:00,TI,,1,0,0,0,0.0,0,0,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,0,0,0.28,0.0
 2020-02-28,03:00,VD,,,0,4,,,,,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,,46.570091,6.557809000000001,Vaud,22,0,0,,
@@ -21,7 +21,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-02-28,14:30,ZH,,2,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,0,0,0.13,
 2020-02-29,03:00,BL,,2,0,1,,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/weiterer-bestaetigter-fall-aus-dem-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,1,0,0.7,
 2020-02-29,15:23,BS,,1,0,,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1233759578241863681?s=20,1.0,,,,,47.564869,7.615259,Basel-Stadt,12,0,0,0.52,
-2020-02-29,03:00,GE,673,7,1,3,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,3,0,1.41,0.0
+2020-02-29,03:00,GE,681,8,1,3,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,4,0,1.62,0.0
 2020-02-29,03:00,JU,,1,0,1,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,1.36,0.0
 2020-02-29,03:00,TI,,2,0,0,0,0.0,0,0,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,1,0,0.57,0.0
 2020-02-29,03:00,VD,,,0,4,,,,,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,,46.570091,6.557809000000001,Vaud,22,0,0,,
@@ -32,7 +32,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-01,03:00,BL,,2,0,1,,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/weiterer-bestaetigter-fall-aus-dem-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,0.7,
 2020-03-01,17:29,BS,,1,0,,,,,,https://www.coronavirus.bs.ch/nm/2020-coronavirus-anzahl-der-getesteten-faelle-und-zwischenstand-kita-riehen-gd.html,1.0,,,,,47.564869,7.615259,Basel-Stadt,12,0,0,0.52,
 2020-03-01,03:00,FR,30,1,0,,,,,,https://www.fr.ch/sites/default/files/2020-03/200301_commd_dsas_covid_cas_fr.pdf,,,,,,46.718391,7.074008,Fribourg,10,0,0,0.32,
-2020-03-01,03:00,GE,780,10,0,3,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,3,0,2.02,0.0
+2020-03-01,03:00,GE,783,9,0,3,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,1,0,1.82,0.0
 2020-03-01,03:00,JU,,1,0,1,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,1.36,0.0
 2020-03-01,03:00,NE,,1,0,,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,0.56,
 2020-03-01,03:00,TI,,2,0,0,0,0.0,0,0,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,0,0,0.57,0.0
@@ -45,7 +45,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-02,03:00,BL,,2,0,1,,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/weiterer-bestaetigter-fall-aus-dem-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,0.7,
 2020-03-02,17:15,BS,235,1,0,,,,,,https://www.coronavirus.bs.ch/nm/2020-coronavirus-zwei-neue-positive-faelle-in-basel-stadt-gd.html,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,0,0,0.52,
 2020-03-02,03:00,FR,30,2,0,,,,,,https://www.fr.ch/sites/default/files/2020-03/200302_CommD_DSAS_covid_cas%20FR.pdf,,,,,,46.718391,7.074008,Fribourg,10,1,0,0.63,
-2020-03-02,03:00,GE,868,11,0,3,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,1,0,2.22,0.0
+2020-03-02,03:00,GE,871,10,0,3,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,1,0,2.02,0.0
 2020-03-02,03:00,JU,,1,0,1,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,1.36,0.0
 2020-03-02,03:00,NE,,1,0,1,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,0.56,
 2020-03-02,03:00,SG,,0,0,,,,,,https://www.sg.ch/news/sgch_allgemein/2020/03/zwei-personen-in-quarantaene---kein-bestaetigter-fall.html,,,,,,47.1832,9.274744,St. Gallen,17,0,0,0.0,
@@ -58,7 +58,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-03,03:00,BL,,2,0,1,,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/weiterer-bestaetigter-fall-aus-dem-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,0.7,
 2020-03-03,17:30,BS,235,3,0,,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1234880556095213569?s=20,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,2,0,1.55,
 2020-03-03,03:00,FL,14,,0,,,,,,https://www.regierung.li/media/attachments/90-coronavirus.pdf?t=637202562374055719,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,,
-2020-03-03,03:00,GE,977,14,1,4,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,3,0,2.83,0.0
+2020-03-03,03:00,GE,978,13,1,4,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,3,0,2.63,0.0
 2020-03-03,03:00,JU,,2,0,1,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,2.73,0.0
 2020-03-03,03:00,NE,,1,0,1,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,0.56,
 2020-03-03,03:00,SZ,1,1,0,,,,,,https://www.sz.ch/public/upload/assets/45351/MM_Coronavirus_4_3_2020.pdf,,,,,,47.061787,8.756585,Schwyz,05,0,0,0.64,
@@ -73,7 +73,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-04,17:20,BS,235,3,0,,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1235240377134862336?s=20,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,0,0,1.55,
 2020-03-04,03:00,FL,16,1,0,,,,,,https://www.regierung.li/media/attachments/97-coronavirus.pdf?t=637202562374055719,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,2.59,
 2020-03-04,03:00,FR,30,4,0,,,,,,https://www.fr.ch/sites/default/files/2020-03/200304_CommD_DSAS_covid_cas%20FR.pdf,,,,,,46.718391,7.074008,Fribourg,10,2,0,1.27,
-2020-03-04,03:00,GE,1084,14,0,4,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,0,0,2.83,0.0
+2020-03-04,03:00,GE,1084,14,0,4,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,1,0,2.83,0.0
 2020-03-04,03:00,JU,,2,0,1,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,2.73,0.0
 2020-03-04,18:00,LU,,0,0,,,,,,https://web.archive.org/web/20200304173939/https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,0,0,0.0,
 2020-03-04,03:00,NE,,8,3,4,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,7,0,4.49,
@@ -90,7 +90,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-05,17:15,BS,235,8,0,1,,,,,https://www.coronavirus.bs.ch/nm/2020-coronavirus-fuenf-neue-positive-faelle-in-basel-stadt-gd.html,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,5,0,4.13,
 2020-03-05,03:00,FL,18,1,0,,,,,,https://www.regierung.li/media/attachments/100-coronavirus-18-verdachtsfaelle-0305.pdf?t=637202562374055719,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,2.59,
 2020-03-05,03:00,FR,30,6,0,,,,,,https://www.fr.ch/de/covid19/gesundheit/covid-19/coronavirus-entwicklungen-der-situation,,,,,,46.718391,7.074008,Fribourg,10,2,0,1.9,
-2020-03-05,03:00,GE,1148,17,1,5,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,3,0,3.43,0.0
+2020-03-05,03:00,GE,1151,17,1,5,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,3,0,3.43,0.0
 2020-03-05,03:00,JU,,4,1,2,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,2,0,5.46,0.0
 2020-03-05,03:00,NE,,9,0,4,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,5.06,
 2020-03-05,03:00,TI,,25,0,0,0,0.0,0,0,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,12,0,7.07,0.0
@@ -103,7 +103,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-06,03:00,BL,,6,3,4,2,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/neuer-coronavirus-covid-19-sechs-bestaetigte-faelle-im-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,2.09,
 2020-03-06,14:00,BS,235,15,0,1,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1235934884167852035?s=20,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,7,0,7.74,
 2020-03-06,03:00,FL,22,1,0,,,,,,https://www.regierung.li/media/attachments/104-coronavirus-vorsicht.pdf?t=637202562374055719,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,2.59,
-2020-03-06,03:00,GE,1243,21,2,7,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,4,0,4.24,0.0
+2020-03-06,03:00,GE,1247,25,2,7,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,8,0,5.05,0.0
 2020-03-06,03:00,JU,,4,3,5,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,5.46,0.0
 2020-03-06,03:00,NE,,13,-2,2,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,4,0,7.3,
 2020-03-06,15:38,SG,,2,0,,,,,,https://www.sg.ch/news/sgch_allgemein/2020/03/zweiter-bestaetigter-fall-einer-corona-patientin.html,,,,,,47.1832,9.274744,St. Gallen,17,1,0,0.4,
@@ -116,7 +116,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-06,14:30,ZH,,29,0,,,,,,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,6,0,1.93,
 2020-03-07,03:00,BL,,15,0,4,2,,,,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-15-bestaetigte-faelle-in-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,9,0,5.23,
 2020-03-07,12:00,BS,235,21,0,1,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1236249864473894914?s=20,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,6,0,10.83,
-2020-03-07,03:00,GE,1318,32,0,7,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,11,0,6.46,0.0
+2020-03-07,03:00,GE,1323,38,0,7,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,13,0,7.67,0.0
 2020-03-07,03:00,JU,,5,0,5,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,6.82,0.0
 2020-03-07,03:00,NE,,18,0,2,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,5,0,10.11,
 2020-03-07,03:00,TI,,41,0,0,0,0.0,0,0,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,58.0,,,46.295617,8.808924,Ticino,21,13,0,11.59,0.0
@@ -127,7 +127,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-08,03:00,BL,,19,0,4,2,,,1,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/patient-im-kantonsspital-baselland-stirbt-an-den-folgen-einer-coronavirus-infektion,,,,,,47.45176,7.702414,Basel-Landschaft,13,4,0,6.62,0.348
 2020-03-08,12:00,BS,235,24,0,1,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1236609191831384064?s=20,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,3,0,12.38,
 2020-03-08,03:00,FR,30,8,0,,,,,,https://www.fr.ch/de/covid19/gesundheit/covid-19/coronavirus-entwicklungen-der-situation,,,,,,46.718391,7.074008,Fribourg,10,2,0,2.54,
-2020-03-08,03:00,GE,1385,40,2,9,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,8,0,8.08,0.0
+2020-03-08,03:00,GE,1391,39,2,9,0,0.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,1,0,7.88,0.0
 2020-03-08,03:00,JU,,5,0,5,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,6.82,0.0
 2020-03-08,03:00,NE,,24,1,3,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,6,0,13.48,
 2020-03-08,03:00,TI,,49,0,0,0,0.0,0,0,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,68.0,,,46.295617,8.808924,Ticino,21,8,0,13.85,0.0
@@ -142,7 +142,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-09,12:00,BS,235,28,0,1,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1236973685602426881?s=20,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,4,0,14.44,
 2020-03-09,03:00,FL,24,1,0,,,,,,https://www.regierung.li/media/attachments/106-coronavirus-anpassung-massnahmen.pdf?t=637202562374055719,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,2.59,
 2020-03-09,03:00,FR,30,11,0,,,,,,https://www.fr.ch/de/covid19/gesundheit/covid-19/coronavirus-entwicklungen-der-situation,,,,,,46.718391,7.074008,Fribourg,10,3,0,3.49,
-2020-03-09,03:00,GE,1491,50,4,13,3,1.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,10,0,10.1,0.0
+2020-03-09,03:00,GE,1497,55,4,13,3,1.0,,0,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,16,0,11.11,0.0
 2020-03-09,03:00,JU,,7,0,5,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,2,0,9.55,0.0
 2020-03-09,03:00,NE,,27,1,4,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,3,0,15.17,
 2020-03-09,03:00,TI,,61,0,0,0,0.0,0,0,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,12,0,17.25,0.0
@@ -154,7 +154,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-10,03:00,BL,,22,1,5,1,,2,1,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update,,,,,,47.45176,7.702414,Basel-Landschaft,13,2,0,7.67,0.348
 2020-03-10,12:00,BS,235,33,0,1,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1237336196772175873?s=20,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,5,0,17.02,
 2020-03-10,03:00,FL,37,1,0,,,,,,https://www.regierung.li/media/attachments/110-corona-0310.pdf?t=637202562374055719,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,2.59,
-2020-03-10,03:00,GE,1684,75,5,18,4,1.0,,1,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,25,1,15.15,0.202
+2020-03-10,03:00,GE,1678,75,5,18,4,1.0,,1,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,20,1,15.15,0.202
 2020-03-10,03:00,GL,,1,0,0,,,,0,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,2.48,0.0
 2020-03-10,03:00,JU,,7,0,5,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,9.55,0.0
 2020-03-10,03:00,NE,,31,0,4,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,4,0,17.42,
@@ -168,7 +168,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-11,12:00,BS,235,49,12,13,2,,4,,https://www.coronavirus.bs.ch/nm/2020-coronavirus-ende-der-quarantaenemassnahmen-im-fall-kita-riehen-gd.html,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,16,0,25.27,
 2020-03-11,03:00,FL,50,3,0,,,,1,,https://www.regierung.li/media/attachments/112-drei-personen-infiziert.pdf?t=637202562374055719,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,2,0,7.77,
 2020-03-11,03:00,FR,30,16,0,,,,,0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,5,0,5.08,0.0
-2020-03-11,03:00,GE,1924,91,2,20,6,4.0,,1,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,16,0,18.38,0.202
+2020-03-11,03:00,GE,1928,108,2,20,6,4.0,,1,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,33,0,21.81,0.202
 2020-03-11,03:00,GL,,1,0,0,,,,0,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,2.48,0.0
 2020-03-11,03:00,JU,,7,1,6,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,9.55,0.0
 2020-03-11,03:00,NE,,37,2,6,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,6,0,20.79,
@@ -185,7 +185,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-12,12:00,BS,235,73,0,13,2,,4,1,https://twitter.com/BAG_OFSP_UFSP/status/1238073089902235648?s=20 https://www.coronavirus.bs.ch/nm/2020-coronavirus-erster-todesfall-im-kanton-basel-stadt-gd.html,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,24,0,37.65,0.516
 2020-03-12,03:00,FL,57,3,0,,,,1,,https://www.regierung.li/media/attachments/114-hallenbaeder-geschlossen-0312.pdf?t=637202562374055719,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,7.77,
 2020-03-12,03:00,FR,30,22,0,,,,,0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,6,0,6.98,0.0
-2020-03-12,03:00,GE,2277,123,3,23,6,4.0,,2,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,32,1,24.84,0.404
+2020-03-12,03:00,GE,2306,149,3,23,6,4.0,,2,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,41,1,30.09,0.404
 2020-03-12,03:00,GL,,3,0,0,,,,0,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,2,0,7.44,0.0
 2020-03-12,03:00,JU,,12,0,6,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,5,0,16.37,0.0
 2020-03-12,03:00,NE,,46,0,6,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,9,0,25.84,
@@ -202,7 +202,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-13,03:00,BL,,42,3,12,3,,2,2,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-26-bestaetigte-faelle-in-basel-landschaft-2,,,,,,47.45176,7.702414,Basel-Landschaft,13,16,0,14.63,0.697
 2020-03-13,12:30,BS,235,92,0,13,2,,4,1,https://twitter.com/BAG_OFSP_UFSP/status/1238430659762364417?s=20,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,19,0,47.45,0.516
 2020-03-13,03:00,FR,30,29,0,,,,,0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,7,0,9.2,0.0
-2020-03-13,03:00,GE,2717,197,10,33,7,5.0,,2,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,74,0,39.78,0.404
+2020-03-13,03:00,GE,2753,221,10,33,7,5.0,,2,https://www.ge.ch/document/20094/telecharger,,,,,0.0,46.220528,6.132935,Genève,25,72,0,44.63,0.404
 2020-03-13,03:00,GL,,6,0,0,,,,0,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,3,0,14.89,0.0
 2020-03-13,03:00,JU,,17,2,8,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,5,0,23.19,0.0
 2020-03-13,03:00,NE,,59,3,9,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,13,0,33.15,
@@ -220,7 +220,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-14,11:27,BS,235,100,0,13,2,,4,1,https://twitter.com/BAG_OFSP_UFSP/status/1238773726423941127?s=20,3.0,,,,,47.564869,7.615259,Basel-Stadt,12,8,0,51.57,0.516
 2020-03-14,03:00,FL,99,3,0,,,,1,,https://www.regierung.li/media/attachments/118-corona-rueckkehrer-skiferien-0314.pdf?t=637202562374055719,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,7.77,
 2020-03-14,03:00,FR,30,36,0,,,,,0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,7,0,11.42,0.0
-2020-03-14,03:00,GE,3309,310,10,43,8,5.0,,2,https://www.ge.ch/document/20094/telecharger,,,,,2.0,46.220528,6.132935,Genève,25,113,0,62.6,0.404
+2020-03-14,03:00,GE,3378,339,10,43,8,5.0,,2,https://www.ge.ch/document/20094/telecharger,,,,,2.0,46.220528,6.132935,Genève,25,118,0,68.46,0.404
 2020-03-14,03:00,GL,,8,0,0,,,,0,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,2,0,19.85,0.0
 2020-03-14,03:00,JU,,18,0,8,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,24.56,0.0
 2020-03-14,03:00,NE,,68,1,10,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,9,0,38.2,
@@ -235,7 +235,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-15,03:00,BL,,54,4,12,2,,5,2,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-54-bestaetigte-faelle-in-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,7,0,18.82,0.697
 2020-03-15,03:00,FL,99,7,0,,,,1,,https://www.regierung.li/media/attachments/119-corona-massnahmen-verschaerft-0315.pdf?t=637202562374055719,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,4,0,18.13,
 2020-03-15,03:00,FR,30,40,0,,,,,0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,4,0,12.69,0.0
-2020-03-15,03:00,GE,3712,403,3,46,12,8.0,,4,https://www.ge.ch/document/20094/telecharger,,,,,2.0,46.220528,6.132935,Genève,25,93,2,81.38,0.808
+2020-03-15,03:00,GE,3733,421,3,46,12,8.0,,4,https://www.ge.ch/document/20094/telecharger,,,,,2.0,46.220528,6.132935,Genève,25,82,2,85.02,0.808
 2020-03-15,03:00,GL,,10,0,0,,,,0,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,2,0,24.81,0.0
 2020-03-15,03:00,JU,,19,1,9,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,25.92,0.0
 2020-03-15,03:00,NE,,74,-1,9,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,6,0,41.57,
@@ -253,7 +253,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-16,03:00,BL,,76,5,17,4,,5,2,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-67-bestaetigte-faelle-in-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,22,0,26.48,0.697
 2020-03-16,12:00,BS,235,143,0,13,2,,4,4,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-144-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,126.0,,,,,47.564869,7.615259,Basel-Stadt,12,43,3,73.75,2.063
 2020-03-16,03:00,FR,30,45,0,,,,,0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,5,0,14.28,0.0
-2020-03-16,03:00,GE,4164,497,20,66,10,9.0,,4,https://www.ge.ch/document/20094/telecharger,,,,,4.0,46.220528,6.132935,Genève,25,94,0,100.36,0.808
+2020-03-16,03:00,GE,4251,542,20,66,10,9.0,,4,https://www.ge.ch/document/20094/telecharger,,,,,4.0,46.220528,6.132935,Genève,25,121,0,109.45,0.808
 2020-03-16,03:00,GL,,10,0,0,,,,0,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,24.81,0.0
 2020-03-16,03:00,JU,,25,0,9,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,6,0,34.11,0.0
 2020-03-16,03:00,NE,,93,4,13,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,19,0,52.25,
@@ -271,7 +271,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-17,12:00,BS,235,164,17,30,2,,25,4,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-165-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,145.0,,,,,47.564869,7.615259,Basel-Stadt,12,21,0,84.58,2.063
 2020-03-17,03:00,FL,99,19,0,,,,1,,https://www.regierung.li/media/attachments/126-corona-generelles-veranstaltungsverbot-weitere-schliessungen.pdf?t=637202562374055719,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,12,0,49.22,
 2020-03-17,03:00,FR,30,59,0,,,,,0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,14,0,18.72,0.0
-2020-03-17,03:00,GE,4773,633,9,75,19,17.0,,5,https://www.ge.ch/document/20094/telecharger,,,,,2.0,46.220528,6.132935,Genève,25,136,1,127.83,1.01
+2020-03-17,03:00,GE,4946,689,9,75,19,17.0,,5,https://www.ge.ch/document/20094/telecharger,,,,,2.0,46.220528,6.132935,Genève,25,147,1,139.14,1.01
 2020-03-17,03:00,GL,,12,0,0,,,,0,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,2,0,29.78,0.0
 2020-03-17,03:00,GR,,101,0,9,,,,1,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,51.04,0.505
 2020-03-17,03:00,JU,,29,2,11,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,4,0,39.56,0.0
@@ -292,7 +292,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-18,11:15,BS,235,181,10,40,2,,36,4,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-182-bestaetigte-faelle-im-kanton-basel-stadt-treffen-mit-allen-spitaelern-gd.html,164.0,,,,,47.564869,7.615259,Basel-Stadt,12,17,0,93.35,2.063
 2020-03-18,03:00,FL,99,28,0,,,,1,,https://www.regierung.li/media/attachments/131-corona-hotline-0318.pdf?t=637202562374055719,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,9,0,72.54,
 2020-03-18,03:00,FR,30,86,0,11,5,,,0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,27,0,27.29,0.0
-2020-03-18,03:00,GE,5548,778,3,78,20,17.0,,6,https://www.ge.ch/document/20094/telecharger,,,,,2.0,46.220528,6.132935,Genève,25,145,1,157.11,1.212
+2020-03-18,03:00,GE,5795,844,3,78,20,17.0,,6,https://www.ge.ch/document/20094/telecharger,,,,,2.0,46.220528,6.132935,Genève,25,155,1,170.44,1.212
 2020-03-18,03:00,GL,,14,0,0,,,,0,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,2,0,34.74,0.0
 2020-03-18,03:00,GR,,128,4,13,,,,1,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,27,0,64.68,0.505
 2020-03-18,03:00,JU,,32,0,11,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,3,0,43.66,0.0
@@ -315,7 +315,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-19,03:00,BL,,134,-8,19,2,,16,2,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-131-bestaetigte-faelle-in-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,18,0,46.69,0.697
 2020-03-19,11:00,BS,235,220,0,40,2,,44,4,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-222-bestaetigte-faelle-basel-stadt-trifft-gemeinsam-mit-den-spitaelern-vorkehrungen-fuer-intensiv--und-beatmungskapazitaeten-gd.html,199.0,,,,,47.564869,7.615259,Basel-Stadt,12,39,0,113.46,2.063
 2020-03-19,03:00,FR,30,111,1,12,5,,,1,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,25,1,35.23,0.317
-2020-03-19,03:00,GE,6176,967,14,92,19,18.0,,7,https://www.ge.ch/document/20094/telecharger,,,,,5.0,46.220528,6.132935,Genève,25,189,1,195.27,1.414
+2020-03-19,03:00,GE,6484,1020,14,92,19,18.0,,7,https://www.ge.ch/document/20094/telecharger,,,,,5.0,46.220528,6.132935,Genève,25,176,1,205.98,1.414
 2020-03-19,03:00,GL,,16,0,0,,,,0,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,2,0,39.7,0.0
 2020-03-19,03:00,GR,,182,5,18,,,,2,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,54,1,91.97,1.011
 2020-03-19,03:00,JU,,36,1,12,0,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,4,0,49.11,0.0
@@ -336,7 +336,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-20,10:00,BS,235,270,5,45,2,,46,4,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-272-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,232.0,,,,,47.564869,7.615259,Basel-Stadt,12,50,0,139.25,2.063
 2020-03-20,03:00,FL,99,37,0,,,,1,,https://www.regierung.li/media/attachments/136-soziale-kontakte-reduktion-corona.pdf?t=637203388043363286,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,9,0,95.85,
 2020-03-20,03:00,FR,30,145,8,20,6,,,1,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,34,0,46.02,0.317
-2020-03-20,03:00,GE,6607,1110,17,109,22,21.0,,9,https://www.ge.ch/document/20094/telecharger,,,,,5.0,46.220528,6.132935,Genève,25,143,2,224.15,1.817
+2020-03-20,03:00,GE,7012,1185,17,109,22,21.0,,9,https://www.ge.ch/document/20094/telecharger,,,,,5.0,46.220528,6.132935,Genève,25,165,2,239.3,1.817
 2020-03-20,03:00,GL,,20,0,0,,,,0,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,4,0,49.63,0.0
 2020-03-20,03:00,GR,,226,6,24,,,,3,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,44,1,114.2,1.516
 2020-03-20,03:00,JU,,44,2,14,1,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,8,0,60.03,0.0
@@ -359,7 +359,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-21,10:00,BS,235,297,1,46,2,,57,5,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-299-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,242.0,,,,,47.564869,7.615259,Basel-Stadt,12,27,1,153.17,2.579
 2020-03-21,03:00,FL,99,44,0,,,,1,,https://www.regierung.li/media/attachments/138-corona-starke-zunahme-0321.pdf?t=637204593432337675,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,7,0,113.99,
 2020-03-21,03:00,FR,30,167,8,28,6,,,2,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,22,1,53.0,0.635
-2020-03-21,03:00,GE,6968,1241,36,145,25,24.0,,9,https://www.ge.ch/document/20094/telecharger,,,,,13.0,46.220528,6.132935,Genève,25,131,0,250.61,1.817
+2020-03-21,03:00,GE,7418,1321,36,145,25,24.0,,9,https://www.ge.ch/document/20094/telecharger,,,,,13.0,46.220528,6.132935,Genève,25,136,0,266.76,1.817
 2020-03-21,03:00,GL,,25,0,0,,,,0,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,5,0,62.03,0.0
 2020-03-21,03:00,GR,,258,0,24,,,,4,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,32,1,130.37,2.021
 2020-03-21,03:00,JU,,54,-1,13,1,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,10,0,73.67,0.0
@@ -379,7 +379,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-22,10:30,BS,235,356,4,50,2,,73,5,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-358-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,265.0,,,,,47.564869,7.615259,Basel-Stadt,12,59,0,183.6,2.579
 2020-03-22,03:00,FL,99,46,0,,,,1,,https://www.regierung.li/media/attachments/139-46-faelle-0322.pdf?t=637204971345932209,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,2,0,119.17,
 2020-03-22,03:00,FR,30,202,4,32,8,,,3,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,35,1,64.11,0.952
-2020-03-22,03:00,GE,7202,1383,34,179,36,36.0,,10,https://www.ge.ch/document/20094/telecharger,,,,,6.0,46.220528,6.132935,Genève,25,142,1,279.28,2.019
+2020-03-22,03:00,GE,7622,1420,34,179,36,36.0,,10,https://www.ge.ch/document/20094/telecharger,,,,,6.0,46.220528,6.132935,Genève,25,99,1,286.75,2.019
 2020-03-22,03:00,GL,,29,0,0,,,,0,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,4,0,71.96,0.0
 2020-03-22,03:00,GR,,284,3,27,,,,4,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,26,0,143.51,2.021
 2020-03-22,03:00,JU,,61,5,18,2,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,7,0,83.22,0.0
@@ -400,7 +400,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-23,10:00,BS,235,374,6,56,2,,78,5,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-376-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,276.0,,,,,47.564869,7.615259,Basel-Stadt,12,18,0,192.88,2.579
 2020-03-23,18:00,FL,99,51,0,,,,1,,https://www.regierung.li/media/attachments/140-corona-regierung-0323.pdf?t=637205847493377066,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,5,0,132.12,
 2020-03-23,03:00,FR,30,226,3,35,7,,,4,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,24,1,71.72,1.269
-2020-03-23,03:00,GE,7581,1532,35,214,43,41.0,,16,https://www.ge.ch/document/20094/telecharger,,,,,11.0,46.220528,6.132935,Genève,25,149,6,309.37,3.231
+2020-03-23,03:00,GE,8039,1572,35,214,43,41.0,,16,https://www.ge.ch/document/20094/telecharger,,,,,11.0,46.220528,6.132935,Genève,25,152,6,317.45,3.231
 2020-03-23,03:00,GL,,31,3,3,,,,0,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,2,0,76.92,0.0
 2020-03-23,03:00,GR,,300,2,29,,,,5,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,16,1,151.59,2.527
 2020-03-23,03:00,JU,,69,0,18,3,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,8,0,94.13,0.0
@@ -426,7 +426,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-24,09:00,BS,235,410,2,58,2,,105,5,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-414-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,291.0,,,,,47.564869,7.615259,Basel-Stadt,12,36,0,211.45,2.579
 2020-03-24,03:00,FL,99,51,0,,,,1,,https://www.regierung.li/media/attachments/143-coronavirus-praesenz-fernunterricht.pdf?t=637207680400073990,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,132.12,
 2020-03-24,03:00,FR,30,255,0,35,7,,,5,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,29,1,80.93,1.587
-2020-03-24,03:00,GE,7922,1632,24,238,41,41.0,103,17,https://www.ge.ch/document/20094/telecharger,,,,,21.0,46.220528,6.132935,Genève,25,100,1,329.56,3.433
+2020-03-24,03:00,GE,8387,1688,24,238,41,41.0,103,17,https://www.ge.ch/document/20094/telecharger,,,,,21.0,46.220528,6.132935,Genève,25,116,1,340.87,3.433
 2020-03-24,03:00,GL,,33,0,3,,,,0,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,2,0,81.89,0.0
 2020-03-24,03:00,GR,,343,14,43,,,,6,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,43,1,173.32,3.032
 2020-03-24,03:00,JU,,82,4,22,4,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,13,0,111.87,0.0
@@ -453,7 +453,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-25,10:00,BS,235,462,0,58,2,,128,8,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-466-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,307.0,,,,,47.564869,7.615259,Basel-Stadt,12,52,3,238.27,4.126
 2020-03-25,03:00,FL,99,53,0,,,,1,,https://www.regierung.li/media/attachments/145-drive-trouhg-anlage-corona.pdf?t=637207634421649200,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,2,0,137.31,
 2020-03-25,03:00,FR,30,293,4,39,7,,,6,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,38,1,92.99,1.904
-2020-03-25,03:00,GE,8328,1755,20,258,50,48.0,122,24,https://www.ge.ch/document/20094/telecharger,,,,,18.0,46.220528,6.132935,Genève,25,123,7,354.4,4.847
+2020-03-25,03:00,GE,8835,1823,20,258,50,48.0,122,24,https://www.ge.ch/document/20094/telecharger,,,,,18.0,46.220528,6.132935,Genève,25,135,7,368.13,4.847
 2020-03-25,03:00,GL,,40,-1,2,,,,0,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,7,0,99.26,0.0
 2020-03-25,03:00,GR,,393,2,45,,,,8,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,50,2,198.59,4.042
 2020-03-25,03:00,JU,,92,1,23,4,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,10,0,125.51,0.0
@@ -479,7 +479,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-26,10:30,BS,235,501,16,74,8,,155,12,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-505-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,326.0,20.0,,,,47.564869,7.615259,Basel-Stadt,12,39,4,258.38,6.189
 2020-03-26,03:00,FL,900,56,0,,,,1,,https://www.regierung.li/media/attachments/151-900-personen-getestet.pdf?t=637208497707275503,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,3,0,145.08,
 2020-03-26,03:00,FR,30,309,5,44,5,,,11,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,16,5,98.06,3.491
-2020-03-26,03:00,GE,8835,1981,14,272,52,48.0,144,26,https://www.ge.ch/document/20094/telecharger,,,,,18.0,46.220528,6.132935,Genève,25,226,2,400.04,5.25
+2020-03-26,03:00,GE,9349,2009,14,272,52,48.0,144,26,https://www.ge.ch/document/20094/telecharger,,,,,18.0,46.220528,6.132935,Genève,25,186,2,405.69,5.25
 2020-03-26,03:00,GL,,43,0,2,,,,0,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,3,0,106.7,0.0
 2020-03-26,03:00,GR,,433,7,52,,,,8,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,40,0,218.8,4.042
 2020-03-26,03:00,JU,,100,-1,22,4,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,8,0,136.43,0.0
@@ -506,7 +506,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-27,10:00,BS,235,530,2,76,8,,191,13,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-534-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,343.0,19.0,,,,47.564869,7.615259,Basel-Stadt,12,29,1,273.34,6.704
 2020-03-27,03:00,FL,900,60,0,,,,1,,https://www.regierung.li/media/attachments/152-regierung-bedankt-sich.pdf?t=637209361840426241,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,4,0,155.44,
 2020-03-27,03:00,FR,30,369,6,50,8,,,14,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,60,3,117.11,4.443
-2020-03-27,03:00,GE,9327,2169,41,313,54,54.0,153,33,https://www.ge.ch/document/20094/telecharger,,,,,23.0,46.220528,6.132935,Genève,25,188,7,438.0,6.664
+2020-03-27,03:00,GE,9808,2163,41,313,54,54.0,153,33,https://www.ge.ch/document/20094/telecharger,,,,,23.0,46.220528,6.132935,Genève,25,154,7,436.79,6.664
 2020-03-27,03:00,GL,,47,1,3,,,,0,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,4,0,116.63,0.0
 2020-03-27,03:00,GR,,474,6,58,,,,9,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,41,1,239.51,4.548
 2020-03-27,03:00,JU,,114,3,25,6,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,14,0,155.53,0.0
@@ -532,7 +532,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-28,10:00,BS,235,569,3,79,11,,211,13,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-573-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,365.0,20.0,,,,47.564869,7.615259,Basel-Stadt,12,39,0,293.45,6.704
 2020-03-28,03:00,FL,900,61,0,,,,1,,https://www.regierung.li/de/mitteilungen/223346/?typ=news,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,1,0,158.03,
 2020-03-28,03:00,FR,30,421,17,67,12,,,15,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,52,1,133.61,4.76
-2020-03-28,03:00,GE,9916,2365,26,339,59,54.0,175,41,https://www.ge.ch/document/20094/telecharger,,,,,24.0,46.220528,6.132935,Genève,25,196,8,477.58,8.279
+2020-03-28,03:00,GE,10384,2366,26,339,59,54.0,175,41,https://www.ge.ch/document/20094/telecharger,,,,,24.0,46.220528,6.132935,Genève,25,203,8,477.79,8.279
 2020-03-28,03:00,GL,,47,0,3,,,,1,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,1,116.63,2.481
 2020-03-28,03:00,GR,,495,5,63,,,,12,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,21,3,250.13,6.064
 2020-03-28,03:00,JU,,119,2,27,5,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,5,0,162.35,0.0
@@ -556,7 +556,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-29,10:00,BS,235,605,8,87,12,,228,15,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-609-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,373.0,22.0,,,,47.564869,7.615259,Basel-Stadt,12,36,2,312.02,7.736
 2020-03-29,03:00,FL,900,62,0,,,,1,,https://www.regierung.li/de/mitteilungen/223347/?typ=news,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,1,0,160.62,
 2020-03-29,03:00,FR,30,442,9,76,13,,,15,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,21,0,140.27,4.76
-2020-03-29,03:00,GE,10225,2472,26,365,59,55.0,193,49,https://www.ge.ch/document/20094/telecharger,,,,,27.0,46.220528,6.132935,Genève,25,107,8,499.19,9.895
+2020-03-29,03:00,GE,10679,2473,26,365,59,55.0,193,49,https://www.ge.ch/document/20094/telecharger,,,,,27.0,46.220528,6.132935,Genève,25,107,8,499.39,9.895
 2020-03-29,03:00,GL,,50,-1,2,,,,1,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,3,0,124.07,2.481
 2020-03-29,03:00,GR,,519,0,63,,,,15,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,24,3,262.25,7.58
 2020-03-29,03:00,JU,,127,1,28,5,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,8,0,173.26,0.0
@@ -582,7 +582,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-30,10:00,BS,235,617,3,90,12,,263,15,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-621-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,376.0,20.0,,,,47.564869,7.615259,Basel-Stadt,12,12,0,318.21,7.736
 2020-03-30,03:00,FL,900,64,0,,,,1,,https://www.regierung.li/de/mitteilungen/223349/?typ=newss,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,2,0,165.8,
 2020-03-30,03:00,FR,30,477,1,77,16,,,17,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,35,2,151.38,5.395
-2020-03-30,03:00,GE,10887,2682,17,382,57,54.0,216,59,https://www.ge.ch/document/20094/telecharger,,,,,24.0,46.220528,6.132935,Genève,25,210,10,541.6,11.914
+2020-03-30,03:00,GE,11309,2686,17,382,57,54.0,216,59,https://www.ge.ch/document/20094/telecharger,,,,,24.0,46.220528,6.132935,Genève,25,213,10,542.41,11.914
 2020-03-30,03:00,GL,,51,1,3,,,,2,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,1,1,126.55,4.963
 2020-03-30,03:00,GR,,535,-5,58,,,,19,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,16,4,270.34,9.601
 2020-03-30,03:00,JU,,128,0,28,5,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,174.62,0.0
@@ -608,7 +608,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-31,10:00,BS,235,653,15,105,15,,292,16,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-628-bestaetigte-faelle-im-kanton-basel-stadt-gd.html https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-691-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,381.0,23.0,,,,47.564869,7.615259,Basel-Stadt,12,36,1,336.77,8.252
 2020-03-31,03:00,FL,900,68,0,,,,1,,https://www.regierung.li/media/attachments/160-coronavirus-68-personen-positiv.pdf?t=637212737830081294,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,4,0,176.17,
 2020-03-31,03:00,FR,30,491,0,77,20,,,20,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,14,3,155.82,6.347
-2020-03-31,03:00,GE,11645,2914,23,405,64,49.0,241,68,https://www.ge.ch/document/20094/telecharger,,,,,20.0,46.220528,6.132935,Genève,25,232,9,588.45,13.732
+2020-03-31,03:00,GE,12096,2922,23,405,64,49.0,241,68,https://www.ge.ch/document/20094/telecharger,,,,,20.0,46.220528,6.132935,Genève,25,236,9,590.06,13.732
 2020-03-31,03:00,GL,,53,2,5,,,,2,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,2,0,131.51,4.963
 2020-03-31,03:00,GR,,547,0,58,,,,23,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,12,4,276.4,11.622
 2020-03-31,03:00,JU,,140,1,29,5,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,12,0,191.0,0.0
@@ -634,7 +634,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-01,10:00,BS,235,687,3,108,16,,323,18,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-691-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,404.0,20.0,,,,47.564869,7.615259,Basel-Stadt,12,34,2,354.31,9.283
 2020-04-01,03:00,FL,900,72,0,,,,1,,https://www.regierung.li/media/attachments/164-corona-schweizer-sanitaetssoldaten-0401.pdf?t=637213766824962451,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,4,0,186.53,
 2020-04-01,03:00,FR,30,525,4,81,23,,,23,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,34,3,166.61,7.299
-2020-04-01,03:00,GE,12313,3094,1,406,64,58.0,260,77,https://www.ge.ch/document/20094/telecharger,,,,,24.0,46.220528,6.132935,Genève,25,180,9,624.8,15.549
+2020-04-01,03:00,GE,12758,3099,1,406,64,58.0,260,77,https://www.ge.ch/document/20094/telecharger,,,,,24.0,46.220528,6.132935,Genève,25,177,9,625.81,15.549
 2020-04-01,03:00,GL,,56,0,5,,,,2,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,3,0,138.96,4.963
 2020-04-01,03:00,GR,,592,1,59,,,,26,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,45,3,299.14,13.138
 2020-04-01,03:00,JU,,145,0,29,5,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,5,0,197.82,0.0
@@ -661,7 +661,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-02,10:00,BS,235,714,11,119,17,,350,19,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-718-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,409.0,24.0,,,,47.564869,7.615259,Basel-Stadt,12,27,1,368.23,9.799
 2020-04-02,03:00,FL,900,75,0,,,,1,,https://www.regierung.li/media/attachments/166-massnahmen-weiter-einhalten-0402.pdf?t=637214501732587547,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,3,0,194.3,
 2020-04-02,03:00,FR,30,550,-1,80,23,,46,26,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,25,3,174.55,8.251
-2020-04-02,03:00,GE,13379,3354,18,424,62,54.0,283,85,https://www.ge.ch/document/20094/telecharger,,,,,24.0,46.220528,6.132935,Genève,25,260,8,677.3,17.165
+2020-04-02,03:00,GE,13828,3371,18,424,62,54.0,283,85,https://www.ge.ch/document/20094/telecharger,,,,,24.0,46.220528,6.132935,Genève,25,272,8,680.74,17.165
 2020-04-02,03:00,GL,,58,0,5,,,,2,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,2,0,143.92,4.963
 2020-04-02,03:00,GR,,622,1,60,,,,28,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,30,2,314.3,14.149
 2020-04-02,03:00,JU,,149,0,29,3,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,4,0,203.27,0.0
@@ -688,7 +688,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-03,08:30,BS,235,754,-4,115,17,,397,21,https://www.gd.bs.ch/nm/2020-tagesbulletin-coronavirus-748-bestaetigte-faelle-im-kanton-basel-stadt-gd.html https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-771-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,420.0,22.0,,,,47.564869,7.615259,Basel-Stadt,12,40,2,388.86,10.83
 2020-04-03,03:00,FL,900,76,0,,,,1,,https://www.regierung.li/media/attachments/166-massnahmen-weiter-einhalten-0402.pdf?t=637214501732587547,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,1,0,196.89,
 2020-04-03,03:00,FR,30,588,-3,77,21,,46,31,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,38,5,186.61,9.838
-2020-04-03,03:00,GE,14220,3553,0,424,65,58.0,284,92,https://www.ge.ch/document/20094/telecharger,,,,,25.0,46.220528,6.132935,Genève,25,199,7,717.49,18.578
+2020-04-03,03:00,GE,14652,3560,0,424,65,58.0,284,92,https://www.ge.ch/document/20094/telecharger,,,,,25.0,46.220528,6.132935,Genève,25,189,7,718.9,18.578
 2020-04-03,03:00,GL,,59,0,5,,,,2,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,1,0,146.4,4.963
 2020-04-03,03:00,GR,,649,-9,51,,,,30,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,27,2,327.94,15.159
 2020-04-03,03:00,JU,,149,-1,28,3,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,203.27,0.0
@@ -714,7 +714,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-04,10:15,BS,235,767,-3,112,16,,434,24,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-771-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,425.0,21.0,,,,47.564869,7.615259,Basel-Stadt,12,13,3,395.56,12.378
 2020-04-04,03:00,FL,900,77,0,,,,1,1,https://www.regierung.li/media/attachments/168-corona-person-verstorben-0404.pdf?t=637216219078826521,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,1,0,199.48,2.591
 2020-04-04,03:00,FR,30,638,12,89,21,,49,37,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,50,6,202.48,11.742
-2020-04-04,03:00,GE,14791,3685,-3,421,61,51.0,305,106,https://www.ge.ch/document/20094/telecharger,,,,,22.0,46.220528,6.132935,Genève,25,132,14,744.14,21.405
+2020-04-04,03:00,GE,15215,3690,-3,421,61,51.0,305,106,https://www.ge.ch/document/20094/telecharger,,,,,22.0,46.220528,6.132935,Genève,25,130,14,745.15,21.405
 2020-04-04,03:00,GL,,61,0,5,,,,2,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,2,0,151.36,4.963
 2020-04-04,03:00,GR,,657,1,52,,,,30,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,8,0,331.99,15.159
 2020-04-04,03:00,JU,,154,-1,27,3,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,5,0,210.1,0.0
@@ -738,7 +738,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-05,10:15,BS,235,789,-6,106,15,,460,26,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-794-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,436.0,22.0,,,,47.564869,7.615259,Basel-Stadt,12,22,2,406.91,13.409
 2020-04-05,03:00,FL,900,77,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223366/?typ=news,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,199.48,2.591
 2020-04-05,03:00,FR,30,669,-2,87,20,,55,40,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,31,3,212.31,12.694
-2020-04-05,03:00,GE,15085,3750,3,424,56,50.0,327,113,https://www.ge.ch/document/20094/telecharger,,,,,26.0,46.220528,6.132935,Genève,25,65,7,757.27,22.819
+2020-04-05,03:00,GE,15515,3763,3,424,56,50.0,327,113,https://www.ge.ch/document/20094/telecharger,,,,,26.0,46.220528,6.132935,Genève,25,73,7,759.89,22.819
 2020-04-05,03:00,GL,,63,0,5,,,,2,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,2,0,156.33,4.963
 2020-04-05,03:00,GR,,668,-3,49,,,,33,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,11,3,337.54,16.675
 2020-04-05,03:00,JU,,160,2,29,4,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,6,0,218.28,0.0
@@ -763,7 +763,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-06,03:00,BL,,682,-6,67,17,17.0,412,19,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,12,0,237.63,6.62
 2020-04-06,9:45,BS,235,798,-7,99,13,,481,26,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-803-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,438.0,21.0,,,,47.564869,7.615259,Basel-Stadt,12,9,0,411.55,13.409
 2020-04-06,03:00,FR,30,689,0,87,19,,56,41,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,20,1,218.66,13.012
-2020-04-06,03:00,GE,15704,3869,-6,418,56,50.0,345,125,https://www.ge.ch/document/20094/telecharger,,,,,24.0,46.220528,6.132935,Genève,25,119,12,781.3,25.242
+2020-04-06,03:00,GE,16125,3877,-6,418,56,50.0,345,125,https://www.ge.ch/document/20094/telecharger,,,,,24.0,46.220528,6.132935,Genève,25,114,12,782.92,25.242
 2020-04-06,03:00,GL,,63,-3,2,,,,2,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,156.33,4.963
 2020-04-06,03:00,GR,,679,3,52,,,,34,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,11,1,343.1,17.18
 2020-04-06,03:00,JU,,164,-2,27,4,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,4,0,223.74,0.0
@@ -790,7 +790,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-07,09:30,BS,235,808,2,101,13,,508,28,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-813-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,442.0,18.0,,,,47.564869,7.615259,Basel-Stadt,12,10,2,416.71,14.44
 2020-04-07,03:00,FL,900,78,0,,,,1,1,https://www.liechtenstein.li/news-detail/article/aktuelle-informationen-zum-coronavirus/,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,1,0,202.07,2.591
 2020-04-07,03:00,FR,30,729,-9,78,22,,73,44,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,40,3,231.36,13.964
-2020-04-07,03:00,GE,16545,4029,-6,412,51,48.0,374,136,https://www.ge.ch/document/20094/telecharger,,,,,21.0,46.220528,6.132935,Genève,25,160,11,813.61,27.464
+2020-04-07,03:00,GE,16956,4034,-6,412,51,48.0,374,136,https://www.ge.ch/document/20094/telecharger,,,,,21.0,46.220528,6.132935,Genève,25,157,11,814.62,27.464
 2020-04-07,03:00,GL,,63,0,2,,,,2,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,156.33,4.963
 2020-04-07,03:00,GR,,684,-3,49,,,,35,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,5,1,345.63,17.686
 2020-04-07,03:00,JU,,171,1,28,4,,,0,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,7,0,233.29,0.0
@@ -816,7 +816,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-08,03:00,BL,,694,-1,65,18,17.0,461,21,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,4,2,241.81,7.317
 2020-04-08,10:00,BS,235,829,-2,99,14,,535,31,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-834-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,459.0,16.0,,,,47.564869,7.615259,Basel-Stadt,12,21,3,427.54,15.988
 2020-04-08,03:00,FR,30,756,2,80,22,,78,45,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,27,1,239.92,14.281
-2020-04-08,03:00,GE,17314,4160,-10,402,49,47.0,442,150,https://www.ge.ch/document/20094/telecharger,,,,,21.0,46.220528,6.132935,Genève,25,131,14,840.06,30.291
+2020-04-08,03:00,GE,17716,4160,-10,402,49,47.0,442,150,https://www.ge.ch/document/20094/telecharger,,,,,21.0,46.220528,6.132935,Genève,25,126,14,840.06,30.291
 2020-04-08,03:00,GL,,64,0,2,,,,2,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,1,0,158.81,4.963
 2020-04-08,03:00,GR,,698,-11,38,,,,35,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,14,0,352.7,17.686
 2020-04-08,03:00,JU,,174,3,31,4,,,1,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,3,1,237.38,1.364
@@ -842,7 +842,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-09,03:00,BL,,711,-3,62,18,16.0,485,21,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,17,0,247.74,7.317
 2020-04-09,10:00,BS,235,841,-6,93,13,,572,33,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-846-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,466.0,19.0,,,,47.564869,7.615259,Basel-Stadt,12,12,2,433.73,17.019
 2020-04-09,03:00,FR,30,786,0,80,20,,84,46,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,30,1,249.44,14.599
-2020-04-09,03:00,GE,17898,4254,-9,393,47,45.0,442,159,https://www.ge.ch/document/20094/telecharger,,,,,27.0,46.220528,6.132935,Genève,25,94,9,859.05,32.108
+2020-04-09,03:00,GE,18278,4241,-9,393,47,45.0,442,159,https://www.ge.ch/document/20094/telecharger,,,,,27.0,46.220528,6.132935,Genève,25,81,9,856.42,32.108
 2020-04-09,03:00,GL,,67,0,2,,,,2,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,3,0,166.25,4.963
 2020-04-09,03:00,GR,,719,1,39,,,,36,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,21,1,363.31,18.191
 2020-04-09,03:00,JU,,179,-3,28,5,,,1,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,5,0,244.2,1.364
@@ -868,7 +868,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-10,10:00,BS,235,854,-6,87,13,,593,33,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-859-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,471.0,21.0,,,,47.564869,7.615259,Basel-Stadt,12,13,0,440.43,17.019
 2020-04-10,03:00,FL,900,79,0,,,,1,1,https://www.regierung.li/media/attachments/188-corona-keine-neuen-faelle-0410.pdf?t=637222261316868970,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,1,0,204.66,2.591
 2020-04-10,03:00,FR,30,796,-7,73,19,,88,49,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,10,3,252.62,15.551
-2020-04-10,03:00,GE,18304,4296,-14,379,47,47.0,448,170,https://www.ge.ch/document/20094/telecharger,,,,,24.0,46.220528,6.132935,Genève,25,42,11,867.53,34.33
+2020-04-10,03:00,GE,18677,4279,-14,379,47,47.0,448,170,https://www.ge.ch/document/20094/telecharger,,,,,24.0,46.220528,6.132935,Genève,25,38,11,864.1,34.33
 2020-04-10,03:00,GL,,76,0,2,,,,2,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,9,0,188.59,4.963
 2020-04-10,03:00,GR,,730,-4,35,,,,36,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,11,0,368.87,18.191
 2020-04-10,03:00,JU,,182,-3,25,5,,,3,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,3,2,248.29,4.093
@@ -894,7 +894,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-11,09:30,BS,235,861,0,87,13,,612,33,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-866-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,474.0,,,,,47.564869,7.615259,Basel-Stadt,12,7,0,444.04,17.019
 2020-04-11,03:00,FL,900,79,0,,,,1,1,https://www.regierung.li/media/attachments/189-corona-keine-neuen-faelle-0411.pdf?t=637222261316868970,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,204.66,2.591
 2020-04-11,03:00,FR,30,834,-5,68,20,,93,53,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,38,4,264.68,16.82
-2020-04-11,03:00,GE,18647,4345,-15,364,48,44.0,463,178,https://www.ge.ch/document/20094/telecharger,,,,,20.0,46.220528,6.132935,Genève,25,49,8,877.42,35.945
+2020-04-11,03:00,GE,19019,4328,-15,364,48,44.0,463,178,https://www.ge.ch/document/20094/telecharger,,,,,20.0,46.220528,6.132935,Genève,25,49,8,873.99,35.945
 2020-04-11,03:00,GL,,91,0,2,,,,2,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,15,0,225.81,4.963
 2020-04-11,03:00,GR,,743,0,35,,,,36,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,13,0,375.44,18.191
 2020-04-11,03:00,JU,,183,-2,23,5,,,3,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,249.66,4.093
@@ -918,7 +918,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-12,10:00,BS,235,877,0,86,12,,629,33,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-882-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,485.0,23.0,,,,47.564869,7.615259,Basel-Stadt,12,16,0,452.29,17.019
 2020-04-12,03:00,FL,900,80,0,,,,1,1,https://www.regierung.li/media/attachments/190-corona-zusaetzliche-person-0412.pdf?t=637223083991919653,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,1,0,207.25,2.591
 2020-04-12,03:00,FR,30,846,-3,65,19,,97,54,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,12,1,268.49,17.137
-2020-04-12,03:00,GE,18820,4367,-1,363,47,43.0,479,185,https://www.ge.ch/document/20094/telecharger,,,,,21.0,46.220528,6.132935,Genève,25,22,7,881.87,37.359
+2020-04-12,03:00,GE,19188,4347,-1,363,47,43.0,479,185,https://www.ge.ch/document/20094/telecharger,,,,,21.0,46.220528,6.132935,Genève,25,19,7,877.83,37.359
 2020-04-12,03:00,GL,,91,0,2,,,,2,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,225.81,4.963
 2020-04-12,03:00,GR,,747,0,35,,,,36,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,4,0,377.46,18.191
 2020-04-12,03:00,JU,,183,-1,22,5,,,3,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,249.66,4.093
@@ -944,7 +944,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-13,10:00,BS,235,888,0,86,12,,653,34,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-893-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,487.0,,,,,47.564869,7.615259,Basel-Stadt,12,11,1,457.97,17.535
 2020-04-13,03:00,FL,900,80,0,,,,1,1,https://www.regierung.li/media/attachments/191-corona-keine-neuen-faelle-0413.pdf?t=637224053004137202,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,207.25,2.591
 2020-04-13,03:00,FR,30,859,3,68,17,,97,55,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,13,1,272.61,17.455
-2020-04-13,03:00,GE,19114,4417,1,364,47,42.0,490,188,https://www.ge.ch/document/20094/telecharger,,,,,18.0,46.220528,6.132935,Genève,25,50,3,891.96,37.964
+2020-04-13,03:00,GE,19471,4390,1,364,47,42.0,490,188,https://www.ge.ch/document/20094/telecharger,,,,,18.0,46.220528,6.132935,Genève,25,43,3,886.51,37.964
 2020-04-13,03:00,GL,,92,0,2,,,,2,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,1,0,228.29,4.963
 2020-04-13,03:00,GR,,750,-1,34,,,,37,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,3,1,378.98,18.696
 2020-04-13,03:00,JU,,184,2,24,5,,,3,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,251.02,4.093
@@ -969,7 +969,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-14,03:00,BL,,755,0,48,14,8.0,597,25,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,6,1,263.07,8.711
 2020-04-14,10:00,BS,235,894,0,86,9,,663,34,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-899-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,490.0,25.0,,,,47.564869,7.615259,Basel-Stadt,12,6,0,461.06,17.535
 2020-04-14,03:00,FR,30,879,0,68,14,,98,57,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,20,2,278.96,18.089
-2020-04-14,03:00,GE,19663,4471,1,365,46,41.0,490,193,https://www.ge.ch/document/20094/telecharger,,,,,21.0,46.220528,6.132935,Genève,25,54,5,902.87,38.974
+2020-04-14,03:00,GE,20014,4444,1,365,46,41.0,490,193,https://www.ge.ch/document/20094/telecharger,,,,,21.0,46.220528,6.132935,Genève,25,54,5,897.42,38.974
 2020-04-14,03:00,GL,,105,0,2,,,,2,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,13,0,260.55,4.963
 2020-04-14,03:00,GR,,753,0,34,,,,37,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,3,0,380.5,18.696
 2020-04-14,03:00,JU,,185,-3,21,5,,,3,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,252.39,4.093
@@ -996,7 +996,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-15,10:00,BS,235,904,-6,80,7,,682,36,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-909-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,492.0,22.0,,,,47.564869,7.615259,Basel-Stadt,12,10,2,466.22,18.566
 2020-04-15,03:00,FL,900,80,0,,,,1,1,https://www.regierung.li/media/attachments/194-corona-neue-wege-zur-messung-0415.pdf?t=637225709239139141,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,207.25,2.591
 2020-04-15,03:00,FR,30,890,-7,61,16,,105,63,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,11,6,282.45,19.994
-2020-04-15,03:00,GE,20107,4539,-13,352,41,37.0,502,198,https://www.ge.ch/document/20094/telecharger,,,,,26.0,46.220528,6.132935,Genève,25,68,5,916.6,39.984
+2020-04-15,03:00,GE,20450,4512,-13,352,41,37.0,502,199,https://www.ge.ch/document/20094/telecharger,,,,,26.0,46.220528,6.132935,Genève,25,68,6,911.15,40.186
 2020-04-15,03:00,GL,,105,0,2,,,,2,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,260.55,4.963
 2020-04-15,03:00,GR,,759,2,36,,,,38,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,6,1,383.53,19.202
 2020-04-15,03:00,JU,,188,-4,17,5,,,3,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,3,0,256.48,4.093
@@ -1023,7 +1023,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-16,09:00,BS,235,912,-4,76,6,,711,37,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-917-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,499.0,22.0,,,,47.564869,7.615259,Basel-Stadt,12,8,1,470.35,19.082
 2020-04-16,03:00,FL,900,80,0,,,,1,1,https://www.regierung.li/media/attachments/196-corona-regierung-informiert-freitag-0416.pdf?t=637226573940474014,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,207.25,2.591
 2020-04-16,03:00,FR,30,907,-1,60,15,,105,65,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,17,2,287.85,20.628
-2020-04-16,03:00,GE,20748,4605,-2,350,38,33.0,520,205,https://www.ge.ch/document/20094/telecharger,,,,,27.0,46.220528,6.132935,Genève,25,66,7,929.93,41.397
+2020-04-16,03:00,GE,21082,4576,-2,350,38,33.0,520,207,https://www.ge.ch/document/20094/telecharger,,,,,27.0,46.220528,6.132935,Genève,25,64,8,924.07,41.801
 2020-04-16,03:00,GL,,106,2,4,,,,3,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,1,1,263.03,7.444
 2020-04-16,03:00,GR,,764,1,37,,,,39,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,5,1,386.05,19.707
 2020-04-16,03:00,JU,,189,1,18,5,,,3,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,257.84,4.093
@@ -1050,7 +1050,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-17,09:00,BS,235,918,-8,68,7,,720,37,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-923-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,501.0,18.0,,,,47.564869,7.615259,Basel-Stadt,12,6,0,473.44,19.082
 2020-04-17,03:00,FL,900,81,0,,,,1,1,https://www.regierung.li/media/attachments/197-corona-regierung-orientiert-ueber-vorgehen-0417.pdf?t=637227446845695629,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,1,0,209.84,2.591
 2020-04-17,03:00,FR,30,930,6,66,13,,106,67,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,23,2,295.14,21.263
-2020-04-17,03:00,GE,21162,4665,-21,329,39,33.0,532,211,https://www.ge.ch/document/20094/telecharger,,,,,22.0,46.220528,6.132935,Genève,25,60,6,942.04,42.609
+2020-04-17,03:00,GE,21492,4636,-21,329,39,33.0,532,213,https://www.ge.ch/document/20094/telecharger,,,,,22.0,46.220528,6.132935,Genève,25,60,6,936.19,43.013
 2020-04-17,13:00,GL,,108,0,4,,,,3,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,2,0,267.99,7.444
 2020-04-17,03:00,GR,,770,-4,33,,,,40,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,6,1,389.09,20.212
 2020-04-17,03:00,JU,,191,0,18,5,,,3,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,2,0,260.57,4.093
@@ -1075,7 +1075,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-18,09:45,BS,235,924,0,68,7,,753,40,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-929-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,506.0,,,,,47.564869,7.615259,Basel-Stadt,12,6,3,476.53,20.629
 2020-04-18,03:00,FL,900,81,0,,,,1,1,https://www.regierung.li/media/attachments/198-corona-kein-zusaetzlicher-fall-0418.pdf?t=637228301134424983,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,209.84,2.591
 2020-04-18,03:00,FR,30,956,-2,64,11,,109,69,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,26,2,303.4,21.898
-2020-04-18,03:00,GE,21576,4716,-14,315,34,33.0,553,215,https://www.ge.ch/document/20094/telecharger,,,,,20.0,46.220528,6.132935,Genève,25,51,4,952.34,43.417
+2020-04-18,03:00,GE,21897,4681,-14,315,34,33.0,553,217,https://www.ge.ch/document/20094/telecharger,,,,,20.0,46.220528,6.132935,Genève,25,45,4,945.27,43.821
 2020-04-18,13:00,GL,,111,0,4,,,,3,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,3,0,275.43,7.444
 2020-04-18,03:00,GR,,773,-4,29,,,,40,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,3,0,390.6,20.212
 2020-04-18,03:00,JU,,192,-1,17,5,,,3,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,261.94,4.093
@@ -1100,7 +1100,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-19,10:00,BS,235,927,0,68,7,,764,40,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-932-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,508.0,,,,,47.564869,7.615259,Basel-Stadt,12,3,0,478.08,20.629
 2020-04-19,03:00,FL,900,81,0,,,,1,1,https://www.regierung.li/media/attachments/199-corona-keine-neuen-faelle-0419.pdf?t=637229165752237624,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,209.84,2.591
 2020-04-19,03:00,FR,30,980,-3,61,12,,113,71,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,24,2,311.01,22.533
-2020-04-19,03:00,GE,21734,4727,0,315,35,33.0,558,218,https://www.ge.ch/document/20094/telecharger,,,,,19.0,46.220528,6.132935,Genève,25,11,3,954.56,44.023
+2020-04-19,03:00,GE,22052,4690,0,315,35,33.0,558,220,https://www.ge.ch/document/20094/telecharger,,,,,19.0,46.220528,6.132935,Genève,25,9,3,947.09,44.426
 2020-04-19,13:00,GL,,111,0,4,,,,3,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,275.43,7.444
 2020-04-19,03:00,GR,,778,-1,28,,,,41,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,5,1,393.13,20.718
 2020-04-19,03:00,JU,,192,-1,16,5,,,5,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,2,261.94,6.821
@@ -1126,7 +1126,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-20,09:30,BS,235,928,0,68,7,,770,42,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-933-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,509.0,,,,,47.564869,7.615259,Basel-Stadt,12,1,2,478.6,21.661
 2020-04-20,03:00,FL,900,81,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223410/?typ=news,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,209.84,2.591
 2020-04-20,03:00,FR,30,989,1,62,11,,113,72,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,9,1,313.87,22.85
-2020-04-20,03:00,GE,22105,4754,6,321,34,29.0,561,220,https://www.ge.ch/document/20094/telecharger,,,,,20.0,46.220528,6.132935,Genève,25,27,2,960.02,44.426
+2020-04-20,03:00,GE,22415,4716,6,321,34,29.0,561,223,https://www.ge.ch/document/20094/telecharger,,,,,20.0,46.220528,6.132935,Genève,25,26,3,952.34,45.032
 2020-04-20,13:00,GL,,114,1,5,,,,5,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,3,2,282.88,12.407
 2020-04-20,03:00,GR,,785,1,29,,,,42,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,7,1,396.66,21.223
 2020-04-20,03:00,JU,,195,-2,14,4,,,6,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,3,1,266.03,8.186
@@ -1153,7 +1153,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-21,09:15,BS,235,928,0,54,9,,781,44,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-933-bestaetigte-faelle-im-kanton-basel-stadt-gd-2.html,509.0,19.0,,,,47.564869,7.615259,Basel-Stadt,12,0,2,478.6,22.692
 2020-04-21,03:00,FL,900,81,0,,,,1,1,https://www.regierung.li/media/attachments/207-corona-keine-neuen-Faelle-0421.pdf?t=637230900737305962,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,209.84,2.591
 2020-04-21,03:00,FR,30,995,-2,60,8,,115,74,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,6,2,315.77,23.485
-2020-04-21,03:00,GE,22579,4784,-17,304,32,29.0,581,225,https://www.ge.ch/document/20094/telecharger,,,,,18.0,46.220528,6.132935,Genève,25,30,5,966.07,45.436
+2020-04-21,03:00,GE,22904,4747,-17,304,32,29.0,581,228,https://www.ge.ch/document/20094/telecharger,,,,,18.0,46.220528,6.132935,Genève,25,31,5,958.6,46.042
 2020-04-21,13:30,GL,,115,-2,3,,,,6,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,1,1,285.36,14.888
 2020-04-21,03:00,GR,,787,-2,27,,,,43,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,1,397.68,21.728
 2020-04-21,03:00,JU,,195,-2,12,4,,,6,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,266.03,8.186
@@ -1180,7 +1180,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-22,09:45,BS,235,928,-5,49,7,,786,45,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-933-bestaetigte-faelle-im-kanton-basel-stadt-gd-3.html,511.0,16.0,,,,47.564869,7.615259,Basel-Stadt,12,0,1,478.6,23.208
 2020-04-22,03:00,FL,900,81,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223419/?typ=news,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,209.84,2.591
 2020-04-22,03:00,FR,30,1006,-3,57,5,,116,76,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,11,2,319.26,24.119
-2020-04-22,03:00,GE,22938,4809,-16,288,30,27.0,589,230,https://www.ge.ch/document/20094/telecharger,,,,,18.0,46.220528,6.132935,Genève,25,25,5,971.12,46.446
+2020-04-22,03:00,GE,23337,4776,-16,288,30,27.0,589,234,https://www.ge.ch/document/20094/telecharger,,,,,18.0,46.220528,6.132935,Genève,25,29,6,964.46,47.254
 2020-04-22,13:30,GL,,117,0,3,,,,6,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,2,0,290.32,14.888
 2020-04-22,03:00,GR,,791,-1,26,,,,43,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,4,0,399.7,21.728
 2020-04-22,03:00,JU,,196,0,12,4,,,6,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,267.39,8.186
@@ -1207,7 +1207,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-23,09:00,BS,235,931,-7,42,7,,793,45,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-931-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,512.0,13.0,,,,47.564869,7.615259,Basel-Stadt,12,3,0,480.14,23.208
 2020-04-23,03:00,FL,900,81,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223424/?typ=news,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,209.84,2.591
 2020-04-23,03:00,FR,30,1014,0,57,5,,118,76,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,8,0,321.8,24.119
-2020-04-23,03:00,GE,23392,4841,-4,284,29,27.0,592,234,https://www.ge.ch/document/20094/telecharger,,,,,21.0,46.220528,6.132935,Genève,25,32,4,977.58,47.254
+2020-04-23,03:00,GE,23796,4809,-4,284,29,27.0,592,238,https://www.ge.ch/document/20094/telecharger,,,,,21.0,46.220528,6.132935,Genève,25,33,4,971.12,48.061
 2020-04-23,13:30,GL,,117,0,3,,,,6,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,290.32,14.888
 2020-04-23,03:00,GR,,794,0,26,,,,43,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,3,0,401.21,21.728
 2020-04-23,03:00,JU,,196,-1,11,4,,,6,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,267.39,8.186
@@ -1234,7 +1234,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-24,09:15,BS,235,936,-2,40,7,,800,46,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-936-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,512.0,13.0,,,,47.564869,7.615259,Basel-Stadt,12,5,1,482.72,23.724
 2020-04-24,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/212-corona-massnahmen-und-wirtschaft.pdf?t=637233485133850178,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,1,0,212.44,2.591
 2020-04-24,03:00,FR,30,1021,-2,55,8,,119,76,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,7,0,324.02,24.119
-2020-04-24,03:00,GE,23757,4859,-6,278,26,25.0,600,239,https://www.ge.ch/document/20094/telecharger,,,,,17.0,46.220528,6.132935,Genève,25,18,5,981.22,48.263
+2020-04-24,03:00,GE,24149,4827,-6,278,26,25.0,600,243,https://www.ge.ch/document/20094/telecharger,,,,,17.0,46.220528,6.132935,Genève,25,18,5,974.76,49.071
 2020-04-24,13:00,GL,,117,0,3,,,,7,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,1,290.32,17.37
 2020-04-24,03:00,GR,,799,3,29,,,,44,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,5,1,403.74,22.233
 2020-04-24,03:00,JU,,196,1,12,4,,,6,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,267.39,8.186
@@ -1259,7 +1259,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-25,09:30,BS,235,938,0,40,7,,800,46,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-941-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,2,0,483.75,23.724
 2020-04-25,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223427/?typ=news,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-04-25,03:00,FR,30,1029,-1,54,7,,119,76,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,8,0,326.56,24.119
-2020-04-25,03:00,GE,24115,4872,-7,271,27,26.0,600,240,https://www.ge.ch/document/20094/telecharger,,,,,18.0,46.220528,6.132935,Genève,25,13,1,983.84,48.465
+2020-04-25,03:00,GE,24499,4840,-7,271,27,26.0,600,244,https://www.ge.ch/document/20094/telecharger,,,,,18.0,46.220528,6.132935,Genève,25,13,1,977.38,49.273
 2020-04-25,13:00,GL,,120,0,3,,,,7,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,3,0,297.77,17.37
 2020-04-25,03:00,GR,,800,-1,28,,,,44,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,1,0,404.24,22.233
 2020-04-25,03:00,JU,,196,0,12,4,,,6,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,267.39,8.186
@@ -1282,7 +1282,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-26,09:30,BS,235,940,0,40,7,,800,46,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-941-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,2,0,484.79,23.724
 2020-04-26,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223428/?typ=news,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-04-26,03:00,FR,30,1033,0,54,5,,120,77,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,4,1,327.83,24.437
-2020-04-26,03:00,GE,24295,4877,0,271,25,24.0,610,242,https://www.ge.ch/document/20094/telecharger,,,,,17.0,46.220528,6.132935,Genève,25,5,2,984.85,48.869
+2020-04-26,03:00,GE,24677,4845,0,271,25,24.0,610,246,https://www.ge.ch/document/20094/telecharger,,,,,17.0,46.220528,6.132935,Genève,25,5,2,978.39,49.677
 2020-04-26,13:00,GL,,120,0,3,,,,7,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,297.77,17.37
 2020-04-26,03:00,GR,,802,0,28,,,,44,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,0,405.26,22.233
 2020-04-26,03:00,JU,,196,0,12,4,,,6,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,267.39,8.186
@@ -1308,7 +1308,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-27,10:30,BS,235,941,0,40,7,,800,46,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-941-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,514.0,,,,,47.564869,7.615259,Basel-Stadt,12,1,0,485.3,23.724
 2020-04-27,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223429/?typ=content&nid=11076,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-04-27,03:00,FR,30,1040,1,55,5,,120,78,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,7,1,330.05,24.754
-2020-04-27,03:00,GE,24592,4888,-1,270,26,24.0,610,244,https://www.ge.ch/document/20094/telecharger,,,,,15.0,46.220528,6.132935,Genève,25,11,2,987.08,49.273
+2020-04-27,03:00,GE,25102,4861,-1,270,26,24.0,610,248,https://www.ge.ch/document/20094/telecharger,,,,,15.0,46.220528,6.132935,Genève,25,16,2,981.62,50.081
 2020-04-27,13:30,GL,,121,0,3,,,,7,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,1,0,300.25,17.37
 2020-04-27,03:00,GR,,807,1,29,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,5,1,407.78,22.739
 2020-04-27,03:00,JU,,196,-2,10,4,,,7,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,1,267.39,9.55
@@ -1324,7 +1324,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-27,08:00,TI,,3169,-4,188,34,25.0,709,311,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,8,5,895.96,87.928
 2020-04-27,14:00,UR,85,83,1,4,,,69,5,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,3,0,228.65,13.774
 2020-04-27,03:00,VD,,5242,-12,158,31,,,376,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,19,4,660.95,47.409
-2020-04-27,03:00,VS,,1853,-10,67,14,9.0,,132,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,15,1,542.61,38.653
+2020-04-27,03:00,VS,,1853,-9,68,14,9.0,,132,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,15,1,542.61,38.653
 2020-04-27,08:00,ZG,,185,1,7,3,,134,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,4,0,147.53,6.38
 2020-04-27,14:30,ZH,,3417,-2,73,,24.0,,119,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,18,4,227.15,7.911
 2020-04-28,14:45,AG,,1093,-3,39,12,11.0,840,33,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200428_KFS_Coronavirus_Lagebulletin_42.pdf,,,,,,47.40966,8.15688,Aargau,01,5,0,162.89,4.918
@@ -1335,7 +1335,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-28,09:30,BS,235,943,0,28,7,,800,49,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-943-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,514.0,7.0,,,,47.564869,7.615259,Basel-Stadt,12,2,3,486.33,25.271
 2020-04-28,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223435/?typ=content&nid=11076,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-04-28,03:00,FR,30,1044,-6,49,5,,121,78,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,4,0,331.32,24.754
-2020-04-28,03:00,GE,24963,4901,7,277,23,21.0,617,245,https://www.ge.ch/document/20094/telecharger,,,,,17.0,46.220528,6.132935,Genève,25,13,1,989.7,49.475
+2020-04-28,03:00,GE,25635,4879,7,277,23,21.0,617,249,https://www.ge.ch/document/20094/telecharger,,,,,17.0,46.220528,6.132935,Genève,25,18,1,985.26,50.283
 2020-04-28,13:30,GL,,121,0,3,,,,8,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,1,300.25,19.851
 2020-04-28,03:00,GR,,809,-2,27,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,0,408.79,22.739
 2020-04-28,03:00,JU,,197,0,10,5,,,7,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,268.76,9.55
@@ -1351,7 +1351,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-28,08:00,TI,,3176,-2,186,30,22.0,712,316,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,7,5,897.94,89.341
 2020-04-28,12:00,UR,85,85,1,5,,,71,5,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,2,0,234.16,13.774
 2020-04-28,03:00,VD,,5264,-12,146,30,,,381,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,22,5,663.72,48.039
-2020-04-28,03:00,VS,,1864,-4,63,13,8.0,,135,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,11,3,545.83,39.531
+2020-04-28,03:00,VS,,1864,-4,64,13,8.0,,135,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,11,3,545.83,39.531
 2020-04-28,08:00,ZG,,185,0,7,3,,134,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,147.53,6.38
 2020-04-28,14:30,ZH,,3432,11,84,,19.0,,119,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,15,0,228.15,7.911
 2020-04-29,14:45,AG,,1099,-1,38,10,9.0,850,33,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200429_KFS_Coronavirus_Lagebulletin_43.pdf,,,,,,47.40966,8.15688,Aargau,01,6,0,163.79,4.918
@@ -1362,7 +1362,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-29,10:30,BS,235,946,-2,26,7,,810,49,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-946-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,516.0,8.0,,,,47.564869,7.615259,Basel-Stadt,12,3,0,487.88,25.271
 2020-04-29,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/228-corona-information-lockerungen-0429.pdf?t=637237803125206694,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-04-29,03:00,FR,30,1057,-1,48,7,,123,78,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,13,0,335.45,24.754
-2020-04-29,03:00,GE,25399,4916,-23,254,21,19.0,634,246,https://www.ge.ch/document/20094/telecharger,,,,,16.0,46.220528,6.132935,Genève,25,15,1,992.73,49.677
+2020-04-29,03:00,GE,26074,4895,-23,254,21,19.0,634,250,https://www.ge.ch/document/20094/telecharger,,,,,16.0,46.220528,6.132935,Genève,25,16,1,988.49,50.485
 2020-04-29,13:30,GL,,122,0,3,,,,9,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,1,1,302.73,22.333
 2020-04-29,03:00,GR,,811,-4,23,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,0,409.8,22.739
 2020-04-29,03:00,JU,,197,-1,9,5,,,7,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,268.76,9.55
@@ -1378,7 +1378,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-29,08:00,TI,,3191,-14,172,29,21.0,728,318,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,15,2,902.18,89.907
 2020-04-29,14:00,UR,85,85,0,5,,,71,5,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,0,0,234.16,13.774
 2020-04-29,03:00,VD,,5278,-10,136,29,,,382,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,14,1,665.49,48.165
-2020-04-29,03:00,VS,,1876,-1,62,11,8.0,,136,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,12,1,549.34,39.824
+2020-04-29,03:00,VS,,1876,-1,63,11,8.0,,136,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,12,1,549.34,39.824
 2020-04-29,08:00,ZG,,185,-1,6,3,,135,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,147.53,6.38
 2020-04-29,14:30,ZH,,3461,-2,82,,19.0,,121,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,29,2,230.07,8.044
 2020-04-30,14:45,AG,,1108,-5,33,9,8.0,870,33,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200430_KFS_Coronavirus_Lagebulletin_44.pdf,,,,,,47.40966,8.15688,Aargau,01,9,0,165.13,4.918
@@ -1389,7 +1389,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-30,09:00,BS,235,951,-2,24,8,,828,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-951-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,517.0,7.0,,,,47.564869,7.615259,Basel-Stadt,12,5,1,490.46,25.786
 2020-04-30,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/229-corona-massnahmen-0430.pdf?t=637238673125266621,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-04-30,03:00,FR,30,1070,-2,46,6,,123,78,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,13,0,339.57,24.754
-2020-04-30,03:00,GE,25608,4921,-2,252,19,18.0,640,249,https://www.ge.ch/document/20094/telecharger,,,,,18.0,46.220528,6.132935,Genève,25,5,3,993.74,50.283
+2020-04-30,03:00,GE,26360,4906,-2,252,19,18.0,640,253,https://www.ge.ch/document/20094/telecharger,,,,,18.0,46.220528,6.132935,Genève,25,11,3,990.71,51.09
 2020-04-30,13:00,GL,,122,-1,2,,,,10,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,1,302.73,24.814
 2020-04-30,03:00,GR,,813,-2,21,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,0,410.81,22.739
 2020-04-30,03:00,JU,,198,-1,8,5,,,7,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,270.12,9.55
@@ -1405,7 +1405,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-30,08:00,TI,,3210,-10,162,30,23.0,739,321,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,19,3,907.55,90.755
 2020-04-30,16:00,UR,85,86,-1,4,,,71,5,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,1,0,236.91,13.774
 2020-04-30,03:00,VD,,5290,-8,128,25,,,384,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,12,2,667.0,48.418
-2020-04-30,03:00,VS,,1883,0,62,10,8.0,,138,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,7,2,551.39,40.41
+2020-04-30,03:00,VS,,1883,0,63,10,8.0,,138,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,7,2,551.39,40.41
 2020-04-30,08:00,ZG,,189,0,6,3,,135,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,4,0,150.72,6.38
 2020-04-30,14:30,ZH,,3472,-21,61,,15.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,11,2,230.81,8.177
 2020-05-01,14:45,AG,,1112,1,34,11,8.0,890,34,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200501_KFS_Coronavirus_Lagebulletin_45.pdf,,,,,,47.40966,8.15688,Aargau,01,4,1,165.72,5.067
@@ -1416,7 +1416,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-01,10:00,BS,235,952,0,24,8,,833,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-958-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,1,0,490.97,25.786
 2020-05-01,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/230-corona-immer-noch-82-0501.pdf?t=637239528964359340,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-01,03:00,FR,30,1078,-3,43,5,,123,78,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,8,0,342.11,24.754
-2020-05-01,03:00,GE,26078,4938,-10,242,18,17.0,658,251,https://www.ge.ch/document/20094/telecharger,,,,,15.0,46.220528,6.132935,Genève,25,17,2,997.17,50.687
+2020-05-01,03:00,GE,26806,4923,-10,242,18,17.0,658,255,https://www.ge.ch/document/20094/telecharger,,,,,15.0,46.220528,6.132935,Genève,25,17,2,994.14,51.494
 2020-05-01,13:00,GL,,122,0,2,,,,11,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,1,302.73,27.295
 2020-05-01,03:00,GR,,814,0,21,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,1,0,411.32,22.739
 2020-05-01,03:00,JU,,198,0,8,5,,,7,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,270.12,9.55
@@ -1432,7 +1432,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-01,08:00,TI,,3218,-20,142,25,20.0,764,322,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,8,1,909.81,91.038
 2020-05-01,15:30,UR,85,87,-1,3,,,72,6,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,1,1,239.67,16.529
 2020-05-01,03:00,VD,,5304,-11,117,24,,,386,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,14,2,668.77,48.67
-2020-05-01,03:00,VS,,1888,-2,60,10,8.0,,138,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,5,0,552.86,40.41
+2020-05-01,03:00,VS,,1888,-2,61,10,8.0,,138,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,5,0,552.86,40.41
 2020-05-01,08:00,ZG,,189,-2,4,1,,136,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,150.72,6.38
 2020-05-01,14:30,ZH,,3485,-18,43,,14.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,13,0,231.67,8.177
 2020-05-02,03:00,AG,,1124,0,34,11,8.0,890,34,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200504_KFS_Coronavirus_Lagebulletin_46.pdf,,,,,,47.40966,8.15688,Aargau,01,12,0,167.51,5.067
@@ -1442,7 +1442,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-02,10:00,BS,235,955,0,24,8,,835,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-958-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,3,0,492.52,25.786
 2020-05-02,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/231-corona-samstag-keine-neuen-faelle-0502.pdf?t=637240398540917983,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-02,03:00,FR,30,1092,-5,38,4,,129,79,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,14,1,346.56,25.071
-2020-05-02,03:00,GE,26358,4943,-7,235,17,17.0,660,253,https://www.ge.ch/document/20094/telecharger,,,,,16.0,46.220528,6.132935,Genève,25,5,2,998.18,51.09
+2020-05-02,03:00,GE,27083,4928,-7,235,17,17.0,660,257,https://www.ge.ch/document/20094/telecharger,,,,,16.0,46.220528,6.132935,Genève,25,5,2,995.15,51.898
 2020-05-02,13:00,GL,,122,0,2,,,,11,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,302.73,27.295
 2020-05-02,03:00,GR,,816,-2,19,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,0,412.33,22.739
 2020-05-02,03:00,JU,,198,0,8,5,,,7,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,270.12,9.55
@@ -1456,7 +1456,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-02,08:00,TI,,3225,-8,134,23,16.0,774,323,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,7,1,911.79,91.32
 2020-05-02,15:00,UR,85,89,-3,0,,,72,6,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,2,0,245.18,16.529
 2020-05-02,03:00,VD,,5313,-21,96,23,,,388,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,9,2,669.9,48.922
-2020-05-02,03:00,VS,,1891,0,60,10,8.0,,140,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,3,2,553.73,40.996
+2020-05-02,03:00,VS,,1891,0,61,10,8.0,,140,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,3,2,553.73,40.996
 2020-05-02,08:00,ZG,,189,-1,3,1,,136,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,150.72,6.38
 2020-05-02,14:30,ZH,,3488,-2,41,,13.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,3,0,231.87,8.177
 2020-05-03,03:00,AG,,1129,0,34,11,8.0,890,34,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200504_KFS_Coronavirus_Lagebulletin_46.pdf,,,,,,47.40966,8.15688,Aargau,01,5,0,168.26,5.067
@@ -1466,7 +1466,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-03,10:00,BS,235,956,0,24,8,,839,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-958-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,1,0,493.04,25.786
 2020-05-03,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223445/?typ=news,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-03,03:00,FR,30,1097,-3,35,4,,130,79,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,5,0,348.14,25.071
-2020-05-03,03:00,GE,26518,4947,3,238,17,16.0,660,254,https://www.ge.ch/document/20094/telecharger,,,,,15.0,46.220528,6.132935,Genève,25,4,1,998.99,51.292
+2020-05-03,03:00,GE,27241,4932,3,238,17,16.0,660,258,https://www.ge.ch/document/20094/telecharger,,,,,15.0,46.220528,6.132935,Genève,25,4,1,995.96,52.1
 2020-05-03,13:00,GL,,122,0,2,,,,11,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,302.73,27.295
 2020-05-03,03:00,GR,,816,-1,18,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,412.33,22.739
 2020-05-03,03:00,JU,,198,0,8,5,,,7,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,270.12,9.55
@@ -1480,7 +1480,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-03,08:00,TI,,3235,-2,132,23,16.0,779,324,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,10,1,914.62,91.603
 2020-05-03,13:00,UR,85,90,0,0,,,72,6,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,1,0,247.93,16.529
 2020-05-03,03:00,VD,,5318,1,97,23,,,389,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,5,1,670.53,49.048
-2020-05-03,03:00,VS,,1893,0,60,10,8.0,,142,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,2,2,554.32,41.581
+2020-05-03,03:00,VS,,1893,1,62,10,8.0,,142,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,2,2,554.32,41.581
 2020-05-03,08:00,ZG,,189,0,3,1,,137,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,150.72,6.38
 2020-05-03,14:30,ZH,,3492,1,42,,12.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,4,0,232.13,8.177
 2020-05-04,14:45,AG,,1133,0,38,5,4.0,940,36,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200508_KFS_Coronavirus_Lagebulletin_50.pdf,,,,,,47.40966,8.15688,Aargau,01,4,0,168.85,5.365
@@ -1491,7 +1491,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-04,10:00,BS,235,958,0,24,8,,840,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-958-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,521.0,,,,,47.564869,7.615259,Basel-Stadt,12,2,0,494.07,25.786
 2020-05-04,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/238-corona-oeffnung-von-bildungseinrichtungen-0505.pdf?t=637243077631918468,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-04,03:00,FR,30,1102,1,36,4,,130,79,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,5,0,349.73,25.071
-2020-05-04,03:00,GE,26921,4953,-2,236,17,16.0,661,255,https://www.ge.ch/document/20094/telecharger,,,,,12.0,46.220528,6.132935,Genève,25,6,1,1000.2,51.494
+2020-05-04,03:00,GE,27640,4938,-2,236,17,16.0,661,259,https://www.ge.ch/document/20094/telecharger,,,,,12.0,46.220528,6.132935,Genève,25,6,1,997.17,52.302
 2020-05-04,13:00,GL,,122,0,2,,,,12,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,1,302.73,29.777
 2020-05-04,03:00,GR,,816,-2,16,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,412.33,22.739
 2020-05-04,03:00,JU,,198,0,8,5,,,7,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,270.12,9.55
@@ -1507,7 +1507,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-04,08:00,TI,,3238,-3,129,22,15.0,782,326,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,3,2,915.47,92.169
 2020-05-04,14:00,UR,85,91,2,2,,,72,6,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,1,0,250.69,16.529
 2020-05-04,03:00,VD,,5326,-1,96,23,,,389,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,8,0,671.54,49.048
-2020-05-04,03:00,VS,,1901,-5,55,10,7.0,,142,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,8,0,556.66,41.581
+2020-05-04,03:00,VS,,1901,-5,57,10,7.0,,142,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,8,0,556.66,41.581
 2020-05-04,08:00,ZG,,190,0,3,1,,138,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,151.52,6.38
 2020-05-04,14:30,ZH,,3494,1,43,,11.0,,123,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,2,0,232.27,8.177
 2020-05-05,14:45,AG,,1135,-15,23,5,4.0,940,36,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200508_KFS_Coronavirus_Lagebulletin_50.pdf,,,,,,47.40966,8.15688,Aargau,01,2,0,169.15,5.365
@@ -1518,7 +1518,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-05,09:00,BS,235,959,0,21,4,,842,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-959-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,522.0,8.0,,,,47.564869,7.615259,Basel-Stadt,12,1,0,494.58,25.786
 2020-05-05,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/246-corona-keine-neuen-faelle-0506.pdf?t=637243865310890323,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-05,03:00,FR,30,1104,-1,35,3,,131,80,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,2,1,350.36,25.389
-2020-05-05,03:00,GE,27453,4961,-2,234,17,16.0,664,255,https://www.ge.ch/document/20094/telecharger,,,,,11.0,46.220528,6.132935,Genève,25,8,0,1001.82,51.494
+2020-05-05,03:00,GE,28215,4947,-2,234,17,16.0,664,259,https://www.ge.ch/document/20094/telecharger,,,,,11.0,46.220528,6.132935,Genève,25,9,0,998.99,52.302
 2020-05-05,13:30,GL,,122,0,2,,,,12,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,302.73,29.777
 2020-05-05,03:00,GR,,816,2,18,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,412.33,22.739
 2020-05-05,03:00,JU,,201,0,8,5,,,7,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,3,0,274.22,9.55
@@ -1534,7 +1534,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-05,08:00,TI,,3239,-12,117,20,14.0,794,329,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,1,3,915.75,93.017
 2020-05-05,15:30,UR,85,91,0,2,,,74,7,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,0,1,250.69,19.284
 2020-05-05,03:00,VD,,5338,-11,85,22,,,389,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,12,0,673.06,49.048
-2020-05-05,03:00,VS,,1903,-5,50,8,6.0,,146,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,2,4,557.25,42.753
+2020-05-05,03:00,VS,,1903,-5,52,8,6.0,,146,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,2,4,557.25,42.753
 2020-05-05,08:00,ZG,,191,1,4,2,,138,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,152.31,6.38
 2020-05-05,14:30,ZH,,3510,11,54,,9.0,,124,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,16,1,233.33,8.243
 2020-05-06,14:45,AG,,1141,1,24,5,5.0,960,36,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200508_KFS_Coronavirus_Lagebulletin_50.pdf,,,,,,47.40966,8.15688,Aargau,01,6,0,170.04,5.365
@@ -1545,7 +1545,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-06,09:30,BS,235,962,0,21,4,,868,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-962-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,523.0,8.0,,,,47.564869,7.615259,Basel-Stadt,12,3,0,496.13,25.786
 2020-05-06,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/246-corona-keine-neuen-faelle-0506.pdf?t=637243865310890323,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-06,03:00,FR,30,1107,-1,34,5,,131,80,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,3,0,351.32,25.389
-2020-05-06,03:00,GE,27938,4968,-3,231,16,15.0,671,256,https://www.ge.ch/document/20094/telecharger,,,,,11.0,46.220528,6.132935,Genève,25,7,1,1003.23,51.696
+2020-05-06,03:00,GE,28695,4954,-3,231,16,15.0,671,260,https://www.ge.ch/document/20094/telecharger,,,,,11.0,46.220528,6.132935,Genève,25,7,1,1000.4,52.504
 2020-05-06,13:00,GL,,125,0,2,,,,12,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,3,0,310.17,29.777
 2020-05-06,03:00,GR,,818,2,20,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,0,413.34,22.739
 2020-05-06,03:00,JU,,201,1,9,5,,,7,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,274.22,9.55
@@ -1561,7 +1561,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-06,08:00,TI,,3245,-8,109,15,11.0,802,331,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,6,2,917.44,93.582
 2020-05-06,14:00,UR,85,91,1,3,,,74,7,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,0,0,250.69,19.284
 2020-05-06,03:00,VD,,5354,-8,77,23,,,389,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,16,0,675.07,49.048
-2020-05-06,03:00,VS,,1905,-3,47,8,5.0,,146,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,2,0,557.83,42.753
+2020-05-06,03:00,VS,,1905,-3,49,8,5.0,,146,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,2,0,557.83,42.753
 2020-05-06,08:00,ZG,,191,-1,3,2,,142,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,152.31,6.38
 2020-05-06,14:30,ZH,,3525,-1,53,,7.0,,125,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,15,1,234.33,8.31
 2020-05-07,14:45,AG,,1145,-5,19,4,4.0,970,37,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200508_KFS_Coronavirus_Lagebulletin_50.pdf,,,,,,47.40966,8.15688,Aargau,01,4,1,170.64,5.514
@@ -1571,7 +1571,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-07,10:00,BS,235,965,-1,20,4,,870,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-965-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,524.0,7.0,,,,47.564869,7.615259,Basel-Stadt,12,3,0,497.68,25.786
 2020-05-07,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223470/?typ=news,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-07,03:00,FR,30,1115,-4,30,5,,134,80,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,8,0,353.86,25.389
-2020-05-07,03:00,GE,28176,4971,-17,214,15,13.0,686,260,https://www.ge.ch/document/20094/telecharger,,,,,9.0,46.220528,6.132935,Genève,25,3,4,1003.84,52.504
+2020-05-07,03:00,GE,29048,4961,-17,214,15,13.0,686,264,https://www.ge.ch/document/20094/telecharger,,,,,9.0,46.220528,6.132935,Genève,25,7,4,1001.82,53.312
 2020-05-07,13:00,GL,,125,0,2,,,,12,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,310.17,29.777
 2020-05-07,03:00,GR,,818,-6,14,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,413.34,22.739
 2020-05-07,03:00,JU,,201,-2,7,4,,,7,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,274.22,9.55
@@ -1587,7 +1587,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-07,08:00,TI,,3253,-2,107,13,12.0,809,332,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,8,1,919.71,93.865
 2020-05-07,13:00,UR,85,92,-1,2,,,75,7,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,1,0,253.44,19.284
 2020-05-07,03:00,VD,,5359,-4,73,22,,,389,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,5,0,675.7,49.048
-2020-05-07,03:00,VS,,1905,-5,42,8,5.0,,146,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,557.83,42.753
+2020-05-07,03:00,VS,,1906,-5,44,8,5.0,,146,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,558.13,42.753
 2020-05-07,08:00,ZG,,192,-1,2,1,,143,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,153.11,6.38
 2020-05-07,14:30,ZH,,3535,-3,50,,7.0,,125,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,10,0,234.99,8.31
 2020-05-08,14:45,AG,,1149,-3,16,3,3.0,990,37,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200508_KFS_Coronavirus_Lagebulletin_50.pdf,,,,,,47.40966,8.15688,Aargau,01,4,0,171.24,5.514
@@ -1597,12 +1597,12 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-08,08:30,BS,235,966,-1,19,4,,874,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-966-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,525.0,7.0,,,,47.564869,7.615259,Basel-Stadt,12,1,0,498.19,25.786
 2020-05-08,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/250-corona-erste-lockerungen-kulturbereich-0508.pdf?t=637245631950707048,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-08,03:00,FR,30,1117,0,30,5,,134,81,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,2,1,354.49,25.706
-2020-05-08,12:00,GE,28176,4971,-9,205,11,9.0,694,260,https://www.ge.ch/document/20094/telecharger,,,,,9.0,46.220528,6.132935,Genève,25,0,0,1003.84,52.504
+2020-05-08,03:00,GE,29393,4966,-6,208,11,9.0,694,264,https://www.ge.ch/document/20094/telecharger,,,,,9.0,46.220528,6.132935,Genève,25,5,0,1002.83,53.312
 2020-05-08,13:30,GL,,125,0,2,,,,12,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,310.17,29.777
 2020-05-08,03:00,GR,,819,-1,13,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,1,0,413.85,22.739
 2020-05-08,03:00,JU,,202,-1,6,4,,,7,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,275.58,9.55
 2020-05-08,03:00,LU,,713,-3,28,6,,,19,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,3,0,175.4,4.674
-2020-05-08,03:00,NE,,705,-4,16,2,2.0,,77,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,396.07,43.258
+2020-05-08,03:00,NE,,709,-4,16,2,2.0,,77,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,6,0,398.31,43.258
 2020-05-08,03:00,NW,,115,-1,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,0,0,267.44,6.977
 2020-05-08,15:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
 2020-05-08,03:00,SG,,798,0,25,2,,210,35,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,3,2,158.11,6.935
@@ -1613,7 +1613,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-08,08:00,TI,,3257,-15,92,13,11.0,829,334,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,4,2,920.84,94.43
 2020-05-08,14:00,UR,85,92,1,3,,,75,7,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,0,0,253.44,19.284
 2020-05-08,03:00,VD,,5370,-3,70,18,,,389,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,11,0,677.09,49.048
-2020-05-08,03:00,VS,,1905,-1,41,8,5.0,,146,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,557.83,42.753
+2020-05-08,03:00,VS,,1909,-2,42,8,5.0,,148,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,3,2,559.0,43.338
 2020-05-08,08:00,ZG,,192,0,2,1,,144,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,153.11,6.38
 2020-05-08,14:30,ZH,,3545,-3,47,,5.0,,125,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,10,0,235.66,8.31
 2020-05-09,09:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
@@ -1622,11 +1622,12 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-09,09:00,BS,235,967,0,19,4,,881,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-970-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,1,0,498.71,25.786
 2020-05-09,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223472/?typ=news,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-09,03:00,FR,30,1121,0,30,5,,134,82,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,4,1,355.76,26.023
+2020-05-09,03:00,GE,29730,4975,-9,199,9,7.0,700,266,https://www.ge.ch/document/20094/telecharger,,,,,11.0,46.220528,6.132935,Genève,25,9,2,1004.64,53.716
 2020-05-09,13:00,GL,,126,0,2,,,,12,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,1,0,312.66,29.777
 2020-05-09,03:00,GR,,820,0,13,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,1,0,414.35,22.739
 2020-05-09,03:00,JU,,202,0,6,4,,,7,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,275.58,9.55
 2020-05-09,03:00,LU,,713,0,28,6,,,19,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,0,0,175.4,4.674
-2020-05-09,03:00,NE,,705,1,17,2,1.0,,77,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,396.07,43.258
+2020-05-09,03:00,NE,,709,1,17,2,1.0,,77,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,398.31,43.258
 2020-05-09,03:00,NW,,115,1,1,0,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,0,0,267.44,6.977
 2020-05-09,09:30,SH,,76,1,5,3,,,6,https://sh.ch/CMS/get/file/786add03-e977-4f31-b1ae-3d9a4ad21d5b,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,93.37,7.371
 2020-05-09,00:01,SZ,10,306,0,1,,,268,23,https://www.sz.ch/public/upload/assets/46565/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,1,0,194.53,14.622
@@ -1634,6 +1635,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-09,08:00,TI,,3260,-11,81,12,10.0,843,338,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,3,4,921.69,95.561
 2020-05-09,14:00,UR,85,92,0,3,,,75,7,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,0,0,253.44,19.284
 2020-05-09,03:00,VD,,5375,2,72,18,,,389,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,5,0,677.72,49.048
+2020-05-09,03:00,VS,,1909,-1,41,9,6.0,,148,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,559.0,43.338
 2020-05-09,08:00,ZG,,193,0,2,1,,152,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,153.91,6.38
 2020-05-09,14:30,ZH,,3550,-10,37,,5.0,,126,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,5,1,235.99,8.376
 2020-05-10,08:00,BE,,1832,0,36,7,6.0,,92,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,7,0,177.67,8.923
@@ -1641,30 +1643,39 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-10,09:00,BS,235,968,0,19,4,,882,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-970-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,1,0,499.23,25.786
 2020-05-10,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/253-corona-auswertung-0510.pdf?t=637247323699465940,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-10,03:00,FR,30,1126,-4,26,4,,137,83,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,5,1,357.35,26.341
+2020-05-10,03:00,GE,29916,4976,-1,198,8,7.0,707,267,https://www.ge.ch/document/20094/telecharger,,,,,13.0,46.220528,6.132935,Genève,25,1,1,1004.85,53.918
 2020-05-10,13:00,GL,,126,1,3,,,,12,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,312.66,29.777
 2020-05-10,03:00,GR,,820,-2,11,,,,45,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,414.35,22.739
 2020-05-10,03:00,JU,,202,0,6,4,,,7,https://www.jura.ch/Htdocs/Files/v/34380.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_10_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,275.58,9.55
 2020-05-10,03:00,LU,,713,0,28,6,,,19,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,0,0,175.4,4.674
-2020-05-10,03:00,NE,,705,-4,13,1,1.0,,77,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,396.07,43.258
+2020-05-10,03:00,NE,,709,-4,13,1,1.0,,77,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,398.31,43.258
 2020-05-10,03:00,NW,,115,0,1,0,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,0,0,267.44,6.977
 2020-05-10,09:30,SH,,78,1,6,3,,,6,https://sh.ch/CMS/get/file/786add03-e977-4f31-b1ae-3d9a4ad21d5b,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,95.82,7.371
 2020-05-10,03:00,TG,276,376,0,11,5,,,17,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,47.568715,9.091957,Thurgau,01,0,0,137.33,6.209
 2020-05-10,08:00,TI,,3265,-4,77,10,9.0,847,340,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,5,2,923.1,96.127
 2020-05-10,14:00,UR,85,92,0,3,,,75,7,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,0,0,253.44,19.284
 2020-05-10,03:00,VD,,5375,-1,71,17,,,389,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,0,0,677.72,49.048
+2020-05-10,03:00,VS,,1909,0,41,9,6.0,,148,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,559.0,43.338
 2020-05-10,08:00,ZG,,193,-1,1,1,,152,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,153.91,6.38
 2020-05-10,14:30,ZH,,3553,3,40,,5.0,,126,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,3,0,236.19,8.376
+2020-05-11,14:45,AG,,1163,-2,14,2,2.0,1030,38,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200511_KFS_Coronavirus_Lagebulletin_51.pdf,,,,,,47.40966,8.15688,Aargau,01,14,1,173.32,5.663
+2020-05-11,17:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-05-11,09:00,AR,,98,2,7,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,177.54,5.435
 2020-05-11,08:00,BE,,1835,0,36,7,6.0,,92,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,3,0,177.97,8.923
 2020-05-11,03:00,BL,,836,1,3,1,1.0,785,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,291.29,11.847
 2020-05-11,09:00,BS,235,970,0,19,4,,884,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-970-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,2,0,500.26,25.786
 2020-05-11,03:00,FR,30,1129,0,26,5,,137,83,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,3,0,358.3,26.341
+2020-05-11,12:00,GE,29916,4976,-2,196,7,6.0,709,267,https://www.ge.ch/document/20094/telecharger,,,,,12.0,46.220528,6.132935,Genève,25,0,0,1004.85,53.918
 2020-05-11,13:00,GL,,127,-1,2,,,,12,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,1,0,315.14,29.777
 2020-05-11,03:00,LU,,713,0,29,5,,,19,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,0,0,175.4,4.674
+2020-05-11,03:00,NE,,709,0,13,1,1.0,,77,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,398.31,43.258
 2020-05-11,03:00,NW,,117,-1,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,2,0,272.09,6.977
+2020-05-11,14:30,OW,6,79,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
+2020-05-11,03:00,SG,,801,0,22,1,,210,36,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,3,1,158.71,7.133
 2020-05-11,09:30,SH,,78,-2,4,3,,,6,https://sh.ch/CMS/get/file/786add03-e977-4f31-b1ae-3d9a4ad21d5b,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-11,03:00,SO,,420,0,7,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,47.304135,7.639388,Solothurn,11,13,0,154.75,5.527
 2020-05-11,10:00,SZ,10,306,0,1,,,272,23,https://www.sz.ch/public/upload/assets/46565/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,0,0,194.53,14.622
 2020-05-11,03:00,TG,276,376,0,11,5,,,17,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,47.568715,9.091957,Thurgau,01,0,0,137.33,6.209
 2020-05-11,14:00,UR,85,92,-2,1,,,75,7,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,0,0,253.44,19.284
+2020-05-11,03:00,VS,,1910,1,42,9,6.0,,148,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,559.3,43.338
 2020-05-11,14:30,ZH,,3558,4,44,,5.0,,126,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,5,0,236.52,8.376
