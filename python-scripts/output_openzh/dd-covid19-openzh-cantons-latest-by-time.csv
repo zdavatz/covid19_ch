@@ -7,20 +7,20 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-11,09:00,AR,,98,2,7,2,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,177.54,5.435
 2020-05-11,08:00,BE,,1835,0,36,7,6.0,,92,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,3,0,177.97,8.923
 2020-05-11,03:00,BL,,836,1,3,1,1.0,785,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,291.29,11.847
-2020-05-11,09:00,BS,235,970,0,19,4,,884,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-970-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,2,0,500.26,25.786
 2020-05-11,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/255-corona-keine-faelle-montag-0511.pdf?t=637248176052289699,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-11,03:00,FR,30,1129,0,26,5,,137,83,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1105.xlsx,,,,,,46.718391,7.074008,Fribourg,10,3,0,358.3,26.341
 2020-05-11,12:00,GE,29916,4976,-2,196,7,6.0,709,267,https://www.ge.ch/document/20094/telecharger,,,,,12.0,46.220528,6.132935,Genève,25,0,0,1004.85,53.918
 2020-05-11,13:00,GL,,127,-1,2,,,,12,https://www.gl.ch/public/upload/assets/28180/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,1,0,315.14,29.777
 2020-05-11,03:00,GR,,820,1,12,,,,46,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,1,414.35,23.244
 2020-05-11,03:00,JU,,202,-2,4,3,,,7,https://www.jura.ch/Htdocs/Files/v/34393.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_11_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,275.58,9.55
-2020-05-11,03:00,LU,,713,0,29,5,,,19,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,0,0,175.4,4.674
 2020-05-11,03:00,NE,,709,0,13,1,1.0,,77,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,398.31,43.258
 2020-05-11,03:00,NW,,117,-1,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,2,0,272.09,6.977
 2020-05-11,14:30,OW,6,79,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
 2020-05-11,14:00,UR,85,92,-2,1,,,75,7,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,0,0,253.44,19.284
 2020-05-11,03:00,VS,,1910,1,42,9,6.0,,148,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,559.3,43.338
 2020-05-11,14:30,ZH,,3558,4,44,,5.0,,126,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,5,0,236.52,8.376
+2020-05-12,09:50,BS,235,970,0,15,3,,892,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-970-bestaetigte-faelle-im-kanton-basel-stadt-gd-2.html,,,,,,47.564869,7.615259,Basel-Stadt,12,0,0,500.26,25.786
+2020-05-12,03:00,LU,,715,0,29,5,,,19,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,2,0,175.89,4.674
 2020-05-12,03:00,SG,,802,0,22,1,,210,36,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,1,0,158.91,7.133
 2020-05-12,09:30,SH,,78,4,8,3,,,6,https://sh.ch/CMS/get/file/bd99cbde-acd1-4a61-8dc0-06c27ef786cd,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-12,03:00,SO,,421,5,12,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,47.304135,7.639388,Solothurn,11,1,0,155.12,5.527
