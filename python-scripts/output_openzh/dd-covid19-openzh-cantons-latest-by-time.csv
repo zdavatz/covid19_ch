@@ -18,11 +18,11 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-11,03:00,NE,,709,0,13,1,1.0,,77,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,398.31,43.258
 2020-05-11,03:00,NW,,117,-1,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,2,0,272.09,6.977
 2020-05-11,14:30,OW,6,79,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
-2020-05-11,09:30,SH,,78,-2,4,3,,,6,https://sh.ch/CMS/get/file/786add03-e977-4f31-b1ae-3d9a4ad21d5b,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-11,10:00,SZ,10,306,0,1,,,272,23,https://www.sz.ch/public/upload/assets/46565/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,0,0,194.53,14.622
 2020-05-11,03:00,TG,276,376,0,11,5,,,17,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,47.568715,9.091957,Thurgau,01,0,0,137.33,6.209
 2020-05-11,14:00,UR,85,92,-2,1,,,75,7,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,0,0,253.44,19.284
 2020-05-11,03:00,VS,,1910,1,42,9,6.0,,148,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,559.3,43.338
 2020-05-11,14:30,ZH,,3558,4,44,,5.0,,126,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,5,0,236.52,8.376
 2020-05-12,03:00,SG,,802,0,22,1,,210,36,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,1,0,158.91,7.133
+2020-05-12,09:30,SH,,78,4,8,3,,,6,https://sh.ch/CMS/get/file/bd99cbde-acd1-4a61-8dc0-06c27ef786cd,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-12,03:00,SO,,421,5,12,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,47.304135,7.639388,Solothurn,11,1,0,155.12,5.527
