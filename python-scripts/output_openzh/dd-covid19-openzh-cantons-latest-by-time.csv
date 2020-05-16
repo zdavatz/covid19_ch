@@ -1,5 +1,4 @@
 date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,ncumul_confirmed_non_resident,current_hosp_non_resident,TotalPosTests1,ninst_ICU_intub,ncumul_ICF,lat,long,name_canton,number_canton,new_positive_cases,new_deaths,total_currently_positive_per_100k,deaths_per_100k
-2020-05-14,11:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-05-14,03:00,GR,,822,0,11,,,,46,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,1,0,415.36,23.244
 2020-05-14,16:15,UR,85,92,0,3,,,78,7,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,0,0,253.44,19.284
 2020-05-14,03:00,VD,,5403,-5,63,14,,,401,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,2,1,681.25,50.561
@@ -23,6 +22,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-15,03:00,VS,,1919,-1,34,8,5.0,,149,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,561.93,43.631
 2020-05-15,08:00,ZG,,198,3,3,0,,163,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,157.89,6.38
 2020-05-15,14:30,ZH,,3571,-3,33,,7.0,,127,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,2,1,237.39,8.442
+2020-05-16,11:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-05-16,03:00,LU,,719,0,27,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,4,0,176.88,4.92
 2020-05-16,00:01,SZ,10,307,0,1,,,281,23,https://www.sz.ch/public/upload/assets/46692/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.17,14.622
 2020-05-16,08:00,TI,,3280,-4,59,8,5.0,870,341,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,1,0,927.34,96.409
