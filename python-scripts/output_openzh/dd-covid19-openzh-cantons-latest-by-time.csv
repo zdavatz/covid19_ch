@@ -20,9 +20,9 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-16,11:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-05-16,03:00,BL,,838,0,1,1,0.0,791,34,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,1,0,291.99,11.847
 2020-05-16,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/268-corona-situationsbericht-0516.pdf?t=637252563949584631,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
-2020-05-16,03:00,LU,,719,0,27,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,4,0,176.88,4.92
 2020-05-16,00:01,SZ,10,307,0,1,,,281,23,https://www.sz.ch/public/upload/assets/46692/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.17,14.622
-2020-05-16,08:00,TI,,3280,-4,59,8,5.0,870,341,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,1,0,927.34,96.409
 2020-05-16,14:00,UR,85,93,1,4,,,79,7,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,1,0,256.2,19.284
 2020-05-16,14:30,ZH,,3576,-1,32,,8.0,,127,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,5,0,237.72,8.442
 2020-05-17,08:00,BE,,1860,0,27,5,4.0,,96,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern/Berne,02,0,0,180.39,9.31
+2020-05-17,03:00,LU,,723,0,27,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,4,0,177.86,4.92
+2020-05-17,08:00,TI,,3284,-2,57,7,4.0,873,342,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,4,1,928.47,96.692
