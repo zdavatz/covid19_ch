@@ -1802,6 +1802,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-16,03:00,NW,,123,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,1,0,286.05,6.977
 2020-05-16,03:00,SH,,78,0,6,3,,,6,https://sh.ch/CMS/get/file/dbdaf884-d0be-490b-9b4e-5b55dd37e920,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-16,00:01,SZ,10,307,0,1,,,281,23,https://www.sz.ch/public/upload/assets/46707/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.17,14.622
+2020-05-16,03:00,TG,276,380,0,8,4,,,17,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,47.568715,9.091957,Thurgau,01,1,0,138.79,6.209
 2020-05-16,08:00,TI,,3280,-4,59,8,5.0,870,341,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,1,0,927.34,96.409
 2020-05-16,14:00,UR,85,93,1,4,,,79,7,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,1,0,256.2,19.284
 2020-05-16,08:00,ZG,,199,0,0,0,,168,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,1,0,158.69,6.38
@@ -1817,6 +1818,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-17,03:00,NW,,123,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,0,0,286.05,6.977
 2020-05-17,03:00,SH,,78,0,6,3,,,6,https://sh.ch/CMS/get/file/dbdaf884-d0be-490b-9b4e-5b55dd37e920,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-17,00:01,SZ,10,307,0,1,,,281,23,https://www.sz.ch/public/upload/assets/46707/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.17,14.622
+2020-05-17,03:00,TG,276,380,0,8,4,,,17,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,47.568715,9.091957,Thurgau,01,0,0,138.79,6.209
 2020-05-17,08:00,TI,,3284,-2,57,7,4.0,873,342,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,4,1,928.47,96.692
 2020-05-17,15:30,UR,85,93,1,5,,,79,7,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,0,0,256.2,19.284
 2020-05-17,08:00,ZG,,199,0,0,0,,168,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,158.69,6.38
@@ -1826,4 +1828,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-18,03:00,SG,,806,-3,8,1,,217,36,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,3,0,159.7,7.133
 2020-05-18,09:30,SH,,79,0,5,3,,,6,https://sh.ch/CMS/get/file/dbdaf884-d0be-490b-9b4e-5b55dd37e920,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,97.05,7.371
 2020-05-18,10:00,SZ,10,307,0,1,,,281,23,https://www.sz.ch/public/upload/assets/46707/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.17,14.622
+2020-05-18,03:00,TG,276,380,-1,7,4,,,17,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,47.568715,9.091957,Thurgau,01,0,0,138.79,6.209
+2020-05-18,08:00,TI,,3285,-1,56,5,3.0,874,343,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,1,1,928.75,96.975
 2020-05-18,08:00,ZG,,199,0,0,0,,169,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,47.157296,8.537294,Zug,09,0,0,158.69,6.38
