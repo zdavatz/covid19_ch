@@ -253,7 +253,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-03-16,,AI,,4.0,,,,,,0.0,Kantonaler Führungsstab Appenzell Innerrhoden,,,,,
 2020-03-16,,BE,,123.0,,,,,,1.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-03-16,,BL,,76.0,,17.0,4.0,,5.0,2.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-03-16,12:00,BS,,143.0,,13.0,,,4.0,4.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-144-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,126.0,,,,
+2020-03-16,12:00,BS,,143.0,,13.0,,,4.0,4.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-144-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,122.0,,,,
 2020-03-16,,FR,,45.0,,,,,,0.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-03-16,,GE,4248.0,544.0,,66.0,10.0,9.0,,4.0,https://www.ge.ch/document/20094/telecharger,,,,,4.0
 2020-03-16,,GL,,10.0,,0.0,,,,0.0,https://www.gl.ch/public/upload/assets/28211/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
@@ -270,7 +270,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-03-17,16:00,AG,,67.0,,2.0,,,4.0,,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200317_KFS_Coronavirus_Lagebulletin_13.pdf,,,,,
 2020-03-17,,AI,,5.0,,,,,,0.0,Kantonaler Führungsstab Appenzell Innerrhoden,,,,,
 2020-03-17,,BL,,89.0,,26.0,5.0,,13.0,2.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-03-17,12:00,BS,,164.0,,30.0,,,25.0,4.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-165-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,145.0,,,,
+2020-03-17,12:00,BS,,164.0,,30.0,,,25.0,4.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-165-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,141.0,,,,
 2020-03-17,,FL,,19.0,,,,,1.0,,https://www.regierung.li/media/attachments/126-corona-generelles-veranstaltungsverbot-weitere-schliessungen.pdf?t=637202562374055719,,,,,
 2020-03-17,,FR,,59.0,,,,,,0.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-03-17,,GE,4944.0,692.0,,75.0,19.0,17.0,,5.0,https://www.ge.ch/document/20094/telecharger,,,,,2.0
@@ -291,7 +291,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-03-18,,AR,,11.0,,3.0,,,,,https://www.ar.ch/schnellzugriff/medienmitteilungen-der-kantonalen-verwaltung/detail/news/coronavirus-bevoelkerung-und-alle-spitaeler-machen-bei-der-gesundheitsversorgung-mit/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=3d2a0733446b5fc7cdad0f48f61c28fd,,,,,
 2020-03-18,,BE,,193.0,,,,,,1.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-03-18,,BL,,116.0,,27.0,2.0,,16.0,2.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-03-18,11:15,BS,,181.0,,40.0,,,36.0,4.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-182-bestaetigte-faelle-im-kanton-basel-stadt-treffen-mit-allen-spitaelern-gd.html,164.0,,,,
+2020-03-18,11:15,BS,,181.0,,40.0,,,36.0,4.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-182-bestaetigte-faelle-im-kanton-basel-stadt-treffen-mit-allen-spitaelern-gd.html,160.0,,,,
 2020-03-18,,FL,,28.0,,,,,1.0,,https://www.regierung.li/media/attachments/131-corona-hotline-0318.pdf?t=637202562374055719,,,,,
 2020-03-18,,FR,,86.0,,11.0,5.0,,,0.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-03-18,,GE,5792.0,848.0,,78.0,20.0,17.0,,6.0,https://www.ge.ch/document/20094/telecharger,,,,,2.0
@@ -314,7 +314,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-03-19,,AI,,6.0,,1.0,,,,0.0,Kantonaler Führungsstab Appenzell Innerrhoden,,,,,
 2020-03-19,,BE,,282.0,,,,,,1.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-03-19,,BL,,134.0,,19.0,2.0,,16.0,2.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-03-19,11:00,BS,,220.0,,40.0,,,44.0,4.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-222-bestaetigte-faelle-basel-stadt-trifft-gemeinsam-mit-den-spitaelern-vorkehrungen-fuer-intensiv--und-beatmungskapazitaeten-gd.html,199.0,,,,
+2020-03-19,11:00,BS,,220.0,,40.0,,,44.0,4.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-222-bestaetigte-faelle-basel-stadt-trifft-gemeinsam-mit-den-spitaelern-vorkehrungen-fuer-intensiv--und-beatmungskapazitaeten-gd.html,195.0,,,,
 2020-03-19,,FR,,111.0,,12.0,5.0,,,1.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-03-19,,GE,6483.0,1027.0,,92.0,19.0,18.0,,7.0,https://www.ge.ch/document/20094/telecharger,,,,,5.0
 2020-03-19,,GL,,16.0,,0.0,,,,0.0,https://www.gl.ch/public/upload/assets/28211/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
@@ -334,7 +334,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-03-20,15:00,AG,,168.0,,25.0,4.0,2.0,,1.0,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200320_KFS_Coronavirus_Lagebulletin_16.pdf,,,,,
 2020-03-20,,BE,,377.0,,,,,,2.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-03-20,,BL,,184.0,,27.0,2.0,,18.0,3.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-03-20,10:00,BS,,270.0,,45.0,,,46.0,4.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-272-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,232.0,,,,
+2020-03-20,10:00,BS,,270.0,,45.0,,,46.0,4.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-272-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,227.0,,,,
 2020-03-20,,FL,,37.0,,,,,1.0,,https://www.regierung.li/media/attachments/136-soziale-kontakte-reduktion-corona.pdf?t=637203388043363286,,,,,
 2020-03-20,,FR,,145.0,,20.0,6.0,,,1.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-03-20,,GE,7012.0,1194.0,,109.0,22.0,21.0,,9.0,https://www.ge.ch/document/20094/telecharger,,,,,5.0
@@ -357,7 +357,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-03-21,,AR,,,,,,,,1.0,https://www.ar.ch/schnellzugriff/medienmitteilungen-der-kantonalen-verwaltung/detail/news/coronavirus-erster-todesfall-in-appenzell-ausserrhoden/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=a88f209df29c38474f9c5f9e1c5dd53f,,,,,
 2020-03-21,,BE,,418.0,,,,,,3.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-03-21,,BL,,282.0,,30.0,4.0,,21.0,3.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-03-21,10:00,BS,,297.0,,46.0,,,57.0,5.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-299-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,242.0,,,,
+2020-03-21,10:00,BS,,297.0,,46.0,,,57.0,5.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-299-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,237.0,,,,
 2020-03-21,,FL,,44.0,,,,,,,https://www.regierung.li/media/attachments/138-corona-starke-zunahme-0321.pdf?t=637204593432337675,,,,,
 2020-03-21,,FR,,167.0,,28.0,6.0,,,2.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-03-21,,GE,7419.0,1331.0,,145.0,25.0,24.0,,9.0,https://www.ge.ch/document/20094/telecharger,,,,,13.0
@@ -377,7 +377,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-03-21,14:30,ZH,,711.0,,83.0,,23.0,,5.0,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,
 2020-03-22,12:00,AG,,232.0,,,,,,1.0,https://www.ag.ch/de/aktuelles/medienportal/medienmitteilung/medienmitteilungen/mediendetails_139237.jsp,,,,,
 2020-03-22,,BL,,289.0,,40.0,7.0,,21.0,3.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-03-22,10:30,BS,,356.0,,50.0,,,73.0,5.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-358-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,265.0,,,,
+2020-03-22,10:30,BS,,356.0,,50.0,,,73.0,5.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-358-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,259.0,,,,
 2020-03-22,,FL,,46.0,,,,,,,https://www.regierung.li/media/attachments/139-46-faelle-0322.pdf?t=637204971345932209,,,,,
 2020-03-22,,FR,,202.0,,32.0,8.0,,,3.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-03-22,,GE,7623.0,1430.0,,179.0,36.0,36.0,,10.0,https://www.ge.ch/document/20094/telecharger,,,,,6.0
@@ -398,7 +398,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-03-23,10:00,AR,,30.0,,7.0,,,,1.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-03-23,,BE,,470.0,,,,,,5.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-03-23,,BL,,302.0,,51.0,10.0,,35.0,3.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-03-23,10:00,BS,,374.0,,56.0,,,78.0,5.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-376-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,276.0,,,,
+2020-03-23,10:00,BS,,374.0,,56.0,,,78.0,5.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-376-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,269.0,,,,
 2020-03-23,18:00,FL,,51.0,,,,,,,https://www.regierung.li/media/attachments/140-corona-regierung-0323.pdf?t=637205847493377066,,,,,
 2020-03-23,,FR,,226.0,,35.0,7.0,,,4.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-03-23,,GE,8039.0,1582.0,,214.0,43.0,41.0,,16.0,https://www.ge.ch/document/20094/telecharger,,,,,11.0
@@ -424,7 +424,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-03-24,10:00,AR,,33.0,,6.0,,,,2.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-03-24,,BE,,532.0,,,,,,6.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-03-24,,BL,,306.0,,66.0,11.0,,40.0,4.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-03-24,09:00,BS,,410.0,,58.0,,,105.0,5.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-414-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,291.0,,,,
+2020-03-24,09:00,BS,,410.0,,58.0,,,105.0,5.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-414-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,284.0,,,,
 2020-03-24,,FL,,51.0,,,,,,,https://www.regierung.li/media/attachments/143-coronavirus-praesenz-fernunterricht.pdf?t=637207680400073990,,,,,
 2020-03-24,,FR,,255.0,,35.0,7.0,,,5.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-03-24,,GE,8388.0,1699.0,,238.0,41.0,41.0,103.0,17.0,https://www.ge.ch/document/20094/telecharger,,,,,21.0
@@ -451,7 +451,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-03-25,08:00,AR,,34.0,,,,,,2.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-03-25,,BE,,624.0,,,,,,6.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-03-25,,BL,,341.0,,68.0,8.0,,46.0,5.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-03-25,10:00,BS,,462.0,,58.0,,,128.0,8.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-466-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,307.0,,,,
+2020-03-25,10:00,BS,,462.0,,58.0,,,128.0,8.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-466-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,299.0,,,,
 2020-03-25,,FL,,53.0,,,,,,,https://www.regierung.li/media/attachments/145-drive-trouhg-anlage-corona.pdf?t=637207634421649200,,,,,
 2020-03-25,,FR,,293.0,,39.0,7.0,,,6.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-03-25,,GE,8839.0,1837.0,,258.0,50.0,48.0,122.0,24.0,https://www.ge.ch/document/20094/telecharger,,,,,18.0
@@ -477,7 +477,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-03-26,16:00,AR,,42.0,,,,,,2.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-03-26,,BE,,660.0,,,,,,7.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-03-26,,BL,,422.0,,68.0,9.0,,65.0,5.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-03-26,10:30,BS,,501.0,,74.0,8.0,,155.0,12.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-505-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,326.0,20.0,,,
+2020-03-26,10:30,BS,,501.0,,74.0,8.0,,155.0,12.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-505-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,318.0,20.0,,,
 2020-03-26,,FL,900.0,56.0,,,,,,,https://www.regierung.li/media/attachments/151-900-personen-getestet.pdf?t=637208497707275503,,,,,
 2020-03-26,,FR,,309.0,,44.0,5.0,,,11.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-03-26,,GE,9363.0,2033.0,,272.0,52.0,48.0,144.0,26.0,https://www.ge.ch/document/20094/telecharger,,,,,18.0
@@ -504,7 +504,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-03-27,13:00,AR,,44.0,,,,,,2.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-03-27,,BE,,718.0,,,,,,8.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-03-27,,BL,,466.0,,79.0,11.0,,76.0,5.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-03-27,10:00,BS,,530.0,,76.0,8.0,,191.0,13.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-534-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,343.0,19.0,,,
+2020-03-27,10:00,BS,,530.0,,76.0,8.0,,191.0,13.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-534-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,335.0,19.0,,,
 2020-03-27,,FL,,60.0,,,,,,,https://www.regierung.li/media/attachments/152-regierung-bedankt-sich.pdf?t=637209361840426241,,,,,
 2020-03-27,,FR,,369.0,,50.0,8.0,,,14.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-03-27,,GE,9825.0,2190.0,,313.0,54.0,54.0,153.0,33.0,https://www.ge.ch/document/20094/telecharger,,,,,23.0
@@ -530,7 +530,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-03-28,08:00,AR,,45.0,,,,,,2.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-03-28,,BE,,767.0,,,,,,9.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-03-28,,BL,,502.0,,75.0,14.0,13.0,100.0,5.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-03-28,10:00,BS,,569.0,,79.0,11.0,,211.0,13.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-573-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,365.0,20.0,,,
+2020-03-28,10:00,BS,,569.0,,79.0,11.0,,211.0,13.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-573-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,357.0,20.0,,,
 2020-03-28,,FL,,61.0,,,,,,,https://www.regierung.li/de/mitteilungen/223346/?typ=news,,,,,
 2020-03-28,,FR,,421.0,,67.0,12.0,,,15.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-03-28,,GE,10399.0,2393.0,,339.0,59.0,54.0,175.0,41.0,https://www.ge.ch/document/20094/telecharger,,,,,24.0
@@ -554,7 +554,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-03-29,08:00,AR,,48.0,,,,,,2.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-03-29,,BE,,798.0,,,,,,10.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-03-29,,BL,,511.0,,99.0,15.0,14.0,115.0,6.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-03-29,10:00,BS,,605.0,,87.0,12.0,,228.0,15.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-609-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,373.0,22.0,,,
+2020-03-29,10:00,BS,,605.0,,87.0,12.0,,228.0,15.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-609-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,365.0,22.0,,,
 2020-03-29,,FL,,62.0,,,,,,,https://www.regierung.li/de/mitteilungen/223347/?typ=news,,,,,
 2020-03-29,,FR,,442.0,,76.0,13.0,,,15.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-03-29,,GE,10698.0,2505.0,,365.0,59.0,55.0,193.0,49.0,https://www.ge.ch/document/20094/telecharger,,,,,27.0
@@ -580,7 +580,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-03-30,18:00,AR,,50.0,,,,,,2.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-03-30,07:00,BE,,826.0,,112.0,21.0,17.0,,13.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-03-30,,BL,,539.0,,86.0,17.0,16.0,158.0,7.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-03-30,10:00,BS,,617.0,,90.0,12.0,,263.0,15.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-621-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,376.0,20.0,,,
+2020-03-30,10:00,BS,,617.0,,90.0,12.0,,263.0,15.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-621-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,368.0,20.0,,,
 2020-03-30,,FL,,64.0,,,,,,,https://www.regierung.li/de/mitteilungen/223349/?typ=newss,,,,,
 2020-03-30,,FR,,477.0,,77.0,16.0,,,17.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-03-30,,GE,11329.0,2721.0,,382.0,57.0,54.0,216.0,59.0,https://www.ge.ch/document/20094/telecharger,,,,,24.0
@@ -606,7 +606,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-03-31,16:00,AR,,58.0,,,,,,2.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-03-31,08:00,BE,,856.0,,111.0,23.0,18.0,,16.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-03-31,,BL,,561.0,,88.0,18.0,16.0,242.0,10.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-03-31,10:00,BS,,653.0,,105.0,15.0,,292.0,16.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-628-bestaetigte-faelle-im-kanton-basel-stadt-gd.html https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-691-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,381.0,23.0,,,
+2020-03-31,10:00,BS,,653.0,,105.0,15.0,,292.0,16.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-628-bestaetigte-faelle-im-kanton-basel-stadt-gd.html https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-691-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,373.0,23.0,,,
 2020-03-31,,FL,,68.0,,,,,,,https://www.regierung.li/media/attachments/160-coronavirus-68-personen-positiv.pdf?t=637212737830081294,,,,,
 2020-03-31,,FR,,491.0,,77.0,20.0,,,20.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-03-31,,GE,12116.0,2958.0,,405.0,64.0,49.0,241.0,68.0,https://www.ge.ch/document/20094/telecharger,,,,,20.0
@@ -632,7 +632,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-01,17:00,AR,,61.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-01,08:00,BE,,909.0,,115.0,26.0,21.0,,20.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-01,,BL,,588.0,,86.0,17.0,17.0,249.0,11.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-01,10:00,BS,,687.0,,108.0,16.0,,323.0,18.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-691-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,404.0,20.0,,,
+2020-04-01,10:00,BS,,687.0,,108.0,16.0,,323.0,18.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-691-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,395.0,20.0,,,
 2020-04-01,,FL,,72.0,,,,,,,https://www.regierung.li/media/attachments/164-corona-schweizer-sanitaetssoldaten-0401.pdf?t=637213766824962451,,,,,
 2020-04-01,,FR,,525.0,,81.0,23.0,,,23.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-01,,GE,12777.0,3137.0,,406.0,64.0,58.0,260.0,77.0,https://www.ge.ch/document/20094/telecharger,,,,,24.0
@@ -659,7 +659,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-02,12:00,AR,,64.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-02,08:00,BE,,1003.0,,104.0,24.0,20.0,,23.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-02,,BL,,610.0,,81.0,18.0,18.0,262.0,12.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-02,10:00,BS,,714.0,,119.0,17.0,,350.0,19.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-718-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,409.0,24.0,,,
+2020-04-02,10:00,BS,,714.0,,119.0,17.0,,350.0,19.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-718-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,400.0,24.0,,,
 2020-04-02,,FL,,75.0,,,,,,,https://www.regierung.li/media/attachments/166-massnahmen-weiter-einhalten-0402.pdf?t=637214501732587547,,,,,
 2020-04-02,,FR,,550.0,,80.0,23.0,,46.0,26.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-02,,GE,13852.0,3420.0,,424.0,62.0,54.0,283.0,85.0,https://www.ge.ch/document/20094/telecharger,,,,,24.0
@@ -686,7 +686,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-03,08:00,AR,,65.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-03,08:00,BE,,1073.0,,109.0,30.0,26.0,,26.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-03,,BL,,625.0,,82.0,18.0,18.0,266.0,14.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-03,08:30,BS,,754.0,,115.0,17.0,,397.0,21.0,https://www.gd.bs.ch/nm/2020-tagesbulletin-coronavirus-748-bestaetigte-faelle-im-kanton-basel-stadt-gd.html https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-771-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,420.0,22.0,,,
+2020-04-03,08:30,BS,,754.0,,115.0,17.0,,397.0,21.0,https://www.gd.bs.ch/nm/2020-tagesbulletin-coronavirus-748-bestaetigte-faelle-im-kanton-basel-stadt-gd.html https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-771-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,411.0,22.0,,,
 2020-04-03,,FL,,76.0,,,,,,,https://www.regierung.li/media/attachments/166-massnahmen-weiter-einhalten-0402.pdf?t=637214501732587547,,,,,
 2020-04-03,,FR,,588.0,,77.0,21.0,,46.0,31.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-03,,GE,14685.0,3621.0,,424.0,65.0,58.0,284.0,92.0,https://www.ge.ch/document/20094/telecharger,,,,,25.0
@@ -712,7 +712,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-04,13:00,AR,,66.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-04,08:00,BE,,1106.0,,113.0,35.0,28.0,,28.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-04,,BL,,656.0,,73.0,19.0,17.0,298.0,19.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-04,10:15,BS,,767.0,,112.0,16.0,,434.0,24.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-771-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,425.0,21.0,,,
+2020-04-04,10:15,BS,,767.0,,112.0,16.0,,434.0,24.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-771-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,414.0,21.0,,,
 2020-04-04,,FL,,77.0,,,,,,1.0,https://www.regierung.li/media/attachments/168-corona-person-verstorben-0404.pdf?t=637216219078826521,,,,,
 2020-04-04,,FR,,638.0,,89.0,21.0,,49.0,37.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-04,,GE,15246.0,3753.0,,421.0,61.0,51.0,305.0,106.0,https://www.ge.ch/document/20094/telecharger,,,,,22.0
@@ -736,7 +736,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-05,13:00,AR,,67.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-05,08:00,BE,,1137.0,,110.0,30.0,25.0,,28.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-05,,BL,,670.0,,73.0,19.0,17.0,369.0,19.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-05,10:15,BS,,789.0,,106.0,15.0,,460.0,26.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-794-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,436.0,22.0,,,
+2020-04-05,10:15,BS,,789.0,,106.0,15.0,,460.0,26.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-794-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,425.0,22.0,,,
 2020-04-05,,FL,,77.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223366/?typ=news,,,,,
 2020-04-05,,FR,,669.0,,87.0,20.0,,55.0,40.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-05,,GE,15555.0,3838.0,,424.0,56.0,50.0,327.0,113.0,https://www.ge.ch/document/20094/telecharger,,,,,26.0
@@ -762,7 +762,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-06,08:00,AR,,69.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-06,08:00,BE,,1173.0,,117.0,35.0,30.0,,31.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-06,,BL,,682.0,,67.0,17.0,17.0,412.0,19.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-06,9:45,BS,,798.0,,99.0,13.0,,481.0,26.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-803-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,438.0,21.0,,,
+2020-04-06,9:45,BS,,798.0,,99.0,13.0,,481.0,26.0,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-803-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,427.0,21.0,,,
 2020-04-06,,FR,,689.0,,87.0,19.0,,56.0,41.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-06,,GE,16169.0,3956.0,,418.0,56.0,50.0,345.0,125.0,https://www.ge.ch/document/20094/telecharger,,,,,24.0
 2020-04-06,,GL,,63.0,,2.0,,,,2.0,https://www.gl.ch/public/upload/assets/28211/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
@@ -788,7 +788,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-07,08:00,AR,,69.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-07,08:00,BE,,1228.0,,122.0,34.0,26.0,,33.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-07,,BL,,690.0,,66.0,18.0,17.0,452.0,19.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-07,09:30,BS,,808.0,,101.0,13.0,,508.0,28.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-813-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,442.0,18.0,,,
+2020-04-07,09:30,BS,,808.0,,101.0,13.0,,508.0,28.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-813-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,430.0,18.0,,,
 2020-04-07,,FL,,78.0,,,,,,1.0,https://www.liechtenstein.li/news-detail/article/aktuelle-informationen-zum-coronavirus/,,,,,
 2020-04-07,,FR,,729.0,,78.0,22.0,,73.0,44.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-07,,GE,17003.0,4118.0,,412.0,51.0,48.0,374.0,136.0,https://www.ge.ch/document/20094/telecharger,,,,,21.0
@@ -815,7 +815,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-08,08:00,AR,,72.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-08,08:00,BE,,1286.0,,127.0,35.0,27.0,,37.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-08,,BL,,694.0,,65.0,18.0,17.0,461.0,21.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-08,10:00,BS,,829.0,,99.0,14.0,,535.0,31.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-834-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,459.0,16.0,,,
+2020-04-08,10:00,BS,,829.0,,99.0,14.0,,535.0,31.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-834-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,447.0,16.0,,,
 2020-04-08,,FR,,756.0,,80.0,22.0,,78.0,45.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-08,,GE,17762.0,4248.0,,402.0,49.0,47.0,442.0,150.0,https://www.ge.ch/document/20094/telecharger,,,,,21.0
 2020-04-08,,GL,,64.0,,2.0,,,,2.0,https://www.gl.ch/public/upload/assets/28211/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
@@ -841,7 +841,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-09,08:00,AR,,74.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-09,08:00,BE,,1335.0,,117.0,36.0,27.0,,38.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-09,,BL,,711.0,,62.0,18.0,16.0,485.0,21.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-09,10:00,BS,,841.0,,93.0,13.0,,572.0,33.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-846-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,466.0,19.0,,,
+2020-04-09,10:00,BS,,841.0,,93.0,13.0,,572.0,33.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-846-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,454.0,19.0,,,
 2020-04-09,,FR,,786.0,,80.0,20.0,,84.0,46.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-09,,GE,18328.0,4337.0,,393.0,47.0,45.0,,159.0,https://www.ge.ch/document/20094/telecharger,,,,,27.0
 2020-04-09,,GL,,67.0,,2.0,,,,2.0,https://www.gl.ch/public/upload/assets/28211/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
@@ -866,7 +866,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-10,08:00,AR,,77.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-10,08:00,BE,,1375.0,,107.0,33.0,25.0,,42.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-10,,BL,,722.0,,54.0,17.0,15.0,502.0,22.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-10,10:00,BS,,854.0,,87.0,13.0,,593.0,33.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-859-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,471.0,21.0,,,
+2020-04-10,10:00,BS,,854.0,,87.0,13.0,,593.0,33.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-859-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,459.0,21.0,,,
 2020-04-10,,FL,,79.0,,,,,,1.0,https://www.regierung.li/media/attachments/188-corona-keine-neuen-faelle-0410.pdf?t=637222261316868970,,,,,
 2020-04-10,,FR,,796.0,,73.0,19.0,,88.0,49.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-10,,GE,18730.0,4382.0,,379.0,47.0,47.0,448.0,170.0,https://www.ge.ch/document/20094/telecharger,,,,,24.0
@@ -892,7 +892,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-11,10:00,AR,,77.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-11,08:00,BE,,1419.0,,99.0,33.0,24.0,,44.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-11,,BL,,736.0,,50.0,16.0,15.0,527.0,22.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-11,09:30,BS,,861.0,,,,,612.0,33.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-866-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,474.0,,,,
+2020-04-11,09:30,BS,,861.0,,,,,612.0,33.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-866-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,462.0,,,,
 2020-04-11,,FL,,79.0,,,,,,1.0,https://www.regierung.li/media/attachments/189-corona-keine-neuen-faelle-0411.pdf?t=637222261316868970,,,,,
 2020-04-11,,FR,,834.0,,68.0,20.0,,93.0,53.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-11,,GE,19073.0,4431.0,,364.0,48.0,44.0,463.0,178.0,https://www.ge.ch/document/20094/telecharger,,,,,20.0
@@ -916,7 +916,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-12,14:45,AG,,899.0,,,,,,18.0,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200414_KFS_Coronavirus_Lagebulletin_32.pdf,,,,,
 2020-04-12,08:00,BE,,1441.0,,95.0,33.0,22.0,,49.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-12,,BL,,740.0,,48.0,17.0,14.0,554.0,23.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-12,10:00,BS,,877.0,,86.0,12.0,,629.0,33.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-882-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,485.0,23.0,,,
+2020-04-12,10:00,BS,,877.0,,86.0,12.0,,629.0,33.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-882-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,473.0,23.0,,,
 2020-04-12,,FL,,80.0,,,,,,1.0,https://www.regierung.li/media/attachments/190-corona-zusaetzliche-person-0412.pdf?t=637223083991919653,,,,,
 2020-04-12,,FR,,846.0,,65.0,19.0,,97.0,54.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-12,,GE,19242.0,4453.0,,363.0,47.0,43.0,479.0,185.0,https://www.ge.ch/document/20094/telecharger,,,,,21.0
@@ -942,7 +942,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-13,08:00,AR,,78.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-13,08:00,BE,,1456.0,,92.0,32.0,21.0,,49.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-13,,BL,,749.0,,48.0,16.0,12.0,570.0,24.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-13,10:00,BS,,888.0,,,,,653.0,34.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-893-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,487.0,,,,
+2020-04-13,10:00,BS,,888.0,,,,,653.0,34.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-893-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,475.0,,,,
 2020-04-13,,FL,,80.0,,,,,,1.0,https://www.regierung.li/media/attachments/191-corona-keine-neuen-faelle-0413.pdf?t=637224053004137202,,,,,
 2020-04-13,,FR,,859.0,,68.0,17.0,,97.0,55.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-13,,GE,19519.0,4496.0,,364.0,47.0,42.0,490.0,188.0,https://www.ge.ch/document/20094/telecharger,,,,,18.0
@@ -968,7 +968,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-14,08:00,AR,,79.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-14,08:00,BE,,1470.0,,85.0,31.0,21.0,,49.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-14,,BL,,755.0,,48.0,14.0,8.0,597.0,25.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-14,10:00,BS,,894.0,,86.0,9.0,,663.0,34.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-899-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,490.0,25.0,,,
+2020-04-14,10:00,BS,,894.0,,86.0,9.0,,663.0,34.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-899-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,478.0,25.0,,,
 2020-04-14,,FR,,879.0,,68.0,14.0,,98.0,57.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-14,,GE,20061.0,4552.0,,365.0,46.0,41.0,490.0,193.0,https://www.ge.ch/document/20094/telecharger,,,,,21.0
 2020-04-14,,GL,,105.0,,2.0,,,,2.0,https://www.gl.ch/public/upload/assets/28211/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
@@ -994,7 +994,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-15,08:00,AR,,79.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-15,08:00,BE,,1489.0,,82.0,30.0,18.0,,53.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-15,,BL,,768.0,,45.0,9.0,7.0,610.0,25.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-15,10:00,BS,,904.0,,80.0,7.0,,682.0,36.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-909-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,492.0,22.0,,,
+2020-04-15,10:00,BS,,904.0,,80.0,7.0,,682.0,36.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-909-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,480.0,22.0,,,
 2020-04-15,,FL,,80.0,,,,,,1.0,https://www.regierung.li/media/attachments/194-corona-neue-wege-zur-messung-0415.pdf?t=637225709239139141,,,,,
 2020-04-15,,FR,,890.0,,61.0,16.0,,105.0,63.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-15,,GE,20489.0,4613.0,,352.0,41.0,37.0,502.0,199.0,https://www.ge.ch/document/20094/telecharger,,,,,26.0
@@ -1021,7 +1021,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-16,08:00,AR,,79.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-16,08:00,BE,,1515.0,,70.0,26.0,12.0,,55.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-16,,BL,,781.0,,46.0,8.0,6.0,623.0,25.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-16,09:00,BS,,912.0,,76.0,6.0,,711.0,37.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-917-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,499.0,22.0,,,
+2020-04-16,09:00,BS,,912.0,,76.0,6.0,,711.0,37.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-917-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,486.0,22.0,,,
 2020-04-16,,FL,,80.0,,,,,,1.0,https://www.regierung.li/media/attachments/196-corona-regierung-informiert-freitag-0416.pdf?t=637226573940474014,,,,,
 2020-04-16,,FR,,907.0,,60.0,15.0,,105.0,65.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-16,,GE,21121.0,4680.0,,350.0,38.0,33.0,520.0,207.0,https://www.ge.ch/document/20094/telecharger,,,,,27.0
@@ -1048,7 +1048,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-17,12:00,AR,,82.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-17,08:00,BE,,1553.0,,69.0,25.0,13.0,,67.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-17,,BL,,794.0,,40.0,8.0,5.0,632.0,25.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-17,09:00,BS,,918.0,,68.0,7.0,,720.0,37.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-923-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,501.0,18.0,,,
+2020-04-17,09:00,BS,,918.0,,68.0,7.0,,720.0,37.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-923-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,488.0,18.0,,,
 2020-04-17,,FL,,81.0,,,,,,1.0,https://www.regierung.li/media/attachments/197-corona-regierung-orientiert-ueber-vorgehen-0417.pdf?t=637227446845695629,,,,,
 2020-04-17,,FR,,930.0,,66.0,13.0,,106.0,67.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-17,,GE,21511.0,4724.0,,329.0,39.0,33.0,532.0,213.0,https://www.ge.ch/document/20094/telecharger,,,,,22.0
@@ -1073,7 +1073,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-18,14:45,AG,,987.0,,,,,,25.0,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200420_KFS_Coronavirus_Lagebulletin_36.pdf,,,,,
 2020-04-18,08:00,BE,,1586.0,,71.0,22.0,12.0,,69.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-18,,BL,,798.0,,44.0,7.0,5.0,636.0,25.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-18,09:45,BS,,924.0,,,,,753.0,40.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-929-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,506.0,,,,
+2020-04-18,09:45,BS,,924.0,,,,,753.0,40.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-929-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,492.0,,,,
 2020-04-18,,FL,,81.0,,,,,,1.0,https://www.regierung.li/media/attachments/198-corona-kein-zusaetzlicher-fall-0418.pdf?t=637228301134424983,,,,,
 2020-04-18,,FR,,956.0,,64.0,11.0,,109.0,69.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-18,,GE,21908.0,4769.0,,315.0,34.0,33.0,553.0,217.0,https://www.ge.ch/document/20094/telecharger,,,,,20.0
@@ -1098,7 +1098,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-19,11:00,AI,,24.0,,,,,,0.0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,
 2020-04-19,08:00,BE,,1599.0,,78.0,20.0,13.0,,69.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-19,,BL,,803.0,,40.0,7.0,5.0,653.0,25.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-19,10:00,BS,,927.0,,,,,764.0,40.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-932-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,508.0,,,,
+2020-04-19,10:00,BS,,927.0,,,,,764.0,40.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-932-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,494.0,,,,
 2020-04-19,,FL,,81.0,,,,,,1.0,https://www.regierung.li/media/attachments/199-corona-keine-neuen-faelle-0419.pdf?t=637229165752237624,,,,,
 2020-04-19,,FR,,980.0,,61.0,12.0,,113.0,71.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-19,,GE,22063.0,4779.0,,315.0,35.0,33.0,558.0,220.0,https://www.ge.ch/document/20094/telecharger,,,,,19.0
@@ -1124,7 +1124,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-20,13:00,AR,,86.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-20,08:00,BE,,1613.0,,71.0,19.0,11.0,,73.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-20,,BL,,806.0,,40.0,6.0,3.0,664.0,25.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-20,09:30,BS,,928.0,,,,,770.0,42.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-933-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,509.0,,,,
+2020-04-20,09:30,BS,,928.0,,,,,770.0,42.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-933-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,494.0,,,,
 2020-04-20,,FL,,81.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223410/?typ=news,,,,,
 2020-04-20,,FR,,989.0,,62.0,11.0,,113.0,72.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-20,,GE,22415.0,4806.0,,321.0,34.0,29.0,561.0,223.0,https://www.ge.ch/document/20094/telecharger,,,,,20.0
@@ -1151,7 +1151,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-21,13:00,AR,,86.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-21,08:00,BE,,1622.0,,66.0,17.0,11.0,,77.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-21,,BL,,809.0,,33.0,3.0,3.0,679.0,26.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-21,09:15,BS,,928.0,,54.0,9.0,,781.0,44.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-933-bestaetigte-faelle-im-kanton-basel-stadt-gd-2.html,509.0,19.0,,,
+2020-04-21,09:15,BS,,928.0,,54.0,9.0,,781.0,44.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-933-bestaetigte-faelle-im-kanton-basel-stadt-gd-2.html,494.0,19.0,,,
 2020-04-21,,FL,,81.0,,,,,,1.0,https://www.regierung.li/media/attachments/207-corona-keine-neuen-Faelle-0421.pdf?t=637230900737305962,,,,,
 2020-04-21,,FR,,995.0,,60.0,8.0,,115.0,74.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-21,,GE,22899.0,4840.0,,304.0,32.0,29.0,581.0,228.0,https://www.ge.ch/document/20094/telecharger,,,,,18.0
@@ -1178,7 +1178,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-22,18:00,AR,,87.0,,,,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-22,08:00,BE,,1643.0,,67.0,14.0,10.0,,77.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-22,,BL,,811.0,,33.0,3.0,3.0,683.0,26.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-22,09:45,BS,,928.0,,49.0,7.0,,786.0,45.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-933-bestaetigte-faelle-im-kanton-basel-stadt-gd-3.html,511.0,16.0,,,
+2020-04-22,09:45,BS,,928.0,,49.0,7.0,,786.0,45.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-933-bestaetigte-faelle-im-kanton-basel-stadt-gd-3.html,496.0,16.0,,,
 2020-04-22,,FL,,81.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223419/?typ=news,,,,,
 2020-04-22,,FR,,1006.0,,57.0,5.0,,116.0,76.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-22,,GE,23323.0,4870.0,,288.0,30.0,27.0,589.0,234.0,https://www.ge.ch/document/20094/telecharger,,,,,18.0
@@ -1205,7 +1205,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-23,14:00,AR,,88.0,,5.0,2.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-23,08:00,BE,,1670.0,,66.0,11.0,7.0,,79.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-23,,BL,,811.0,,32.0,3.0,2.0,692.0,26.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-23,09:00,BS,,931.0,,42.0,7.0,,793.0,45.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-931-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,512.0,13.0,,,
+2020-04-23,09:00,BS,,931.0,,42.0,7.0,,793.0,45.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-931-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,496.0,13.0,,,
 2020-04-23,,FL,,81.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223424/?typ=news,,,,,
 2020-04-23,,FR,,1014.0,,57.0,5.0,,118.0,76.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-23,,GE,23774.0,4904.0,,284.0,29.0,27.0,592.0,238.0,https://www.ge.ch/document/20094/telecharger,,,,,21.0
@@ -1232,7 +1232,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-24,09:30,AR,,88.0,,4.0,2.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-24,08:00,BE,,1694.0,,60.0,11.0,8.0,,82.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-24,,BL,,813.0,,24.0,2.0,1.0,698.0,30.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-24,09:15,BS,,936.0,,40.0,7.0,,800.0,46.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-936-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,512.0,13.0,,,
+2020-04-24,09:15,BS,,936.0,,40.0,7.0,,800.0,46.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-936-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,495.0,13.0,,,
 2020-04-24,,FL,,82.0,,,,,,1.0,https://www.regierung.li/media/attachments/212-corona-massnahmen-und-wirtschaft.pdf?t=637233485133850178,,,,,
 2020-04-24,,FR,,1021.0,,55.0,8.0,,119.0,76.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-24,,GE,24120.0,4923.0,,278.0,26.0,25.0,600.0,243.0,https://www.ge.ch/document/20094/telecharger,,,,,17.0
@@ -1306,7 +1306,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-27,10:15,AR,,94.0,,2.0,2.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-27,08:00,BE,,1722.0,,54.0,10.0,9.0,,83.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-27,,BL,,816.0,,17.0,1.0,0.0,738.0,30.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-27,10:30,BS,,941.0,,,,,,46.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-941-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,514.0,,,,
+2020-04-27,10:30,BS,,941.0,,,,,,46.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-941-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,497.0,,,,
 2020-04-27,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223429/?typ=content&nid=11076,,,,,
 2020-04-27,,FR,,1040.0,,55.0,5.0,,120.0,78.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-27,,GE,25058.0,4961.0,,270.0,26.0,24.0,610.0,248.0,https://www.ge.ch/document/20094/telecharger,,,,,15.0
@@ -1333,7 +1333,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-28,09:40,AR,,94.0,,4.0,2.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-28,08:00,BE,,1733.0,,47.0,7.0,7.0,,83.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-28,,BL,,818.0,,15.0,1.0,0.0,747.0,30.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-28,09:30,BS,,943.0,,28.0,7.0,,,49.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-943-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,514.0,7.0,,,
+2020-04-28,09:30,BS,,943.0,,28.0,7.0,,,49.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-943-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,497.0,7.0,,,
 2020-04-28,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223435/?typ=content&nid=11076,,,,,
 2020-04-28,,FR,,1044.0,,49.0,5.0,,121.0,78.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-28,,GE,25573.0,4980.0,,277.0,23.0,21.0,617.0,249.0,https://www.ge.ch/document/20094/telecharger,,,,,17.0
@@ -1360,7 +1360,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-29,10:20,AR,,94.0,,2.0,2.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-29,08:00,BE,,1741.0,,44.0,10.0,10.0,,83.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-29,,BL,,822.0,,12.0,1.0,1.0,752.0,30.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-29,10:30,BS,,946.0,,26.0,7.0,,810.0,49.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-946-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,516.0,8.0,,,
+2020-04-29,10:30,BS,,946.0,,26.0,7.0,,810.0,49.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-946-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,499.0,8.0,,,
 2020-04-29,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/228-corona-information-lockerungen-0429.pdf?t=637237803125206694,,,,,
 2020-04-29,,FR,,1057.0,,48.0,7.0,,123.0,78.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-29,,GE,25998.0,4997.0,,254.0,21.0,19.0,634.0,250.0,https://www.ge.ch/document/20094/telecharger,,,,,16.0
@@ -1387,7 +1387,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-04-30,13:30,AR,,95.0,,2.0,2.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-04-30,08:00,BE,,1757.0,,39.0,9.0,9.0,,85.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-04-30,,BL,,824.0,,9.0,1.0,1.0,756.0,30.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-04-30,09:00,BS,,951.0,,24.0,8.0,,828.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-951-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,517.0,7.0,,,
+2020-04-30,09:00,BS,,951.0,,24.0,8.0,,828.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-951-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,500.0,7.0,,,
 2020-04-30,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/229-corona-massnahmen-0430.pdf?t=637238673125266621,,,,,
 2020-04-30,,FR,,1070.0,,46.0,6.0,,123.0,78.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-04-30,,GE,26275.0,5007.0,,252.0,19.0,18.0,640.0,253.0,https://www.ge.ch/document/20094/telecharger,,,,,18.0
@@ -1489,7 +1489,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-04,08:00,AR,,97.0,,6.0,2.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-05-04,08:00,BE,,1796.0,,35.0,8.0,7.0,,90.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-05-04,,BL,,828.0,,9.0,1.0,1.0,769.0,32.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-05-04,10:00,BS,,958.0,,,,,840.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-958-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,521.0,,,,
+2020-05-04,10:00,BS,,958.0,,,,,840.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-958-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,503.0,,,,
 2020-05-04,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/238-corona-oeffnung-von-bildungseinrichtungen-0505.pdf?t=637243077631918468,,,,,
 2020-05-04,,FR,,1102.0,,36.0,4.0,,130.0,79.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-05-04,,GE,27502.0,5042.0,,236.0,17.0,16.0,661.0,259.0,https://www.ge.ch/document/20094/telecharger,,,,,12.0
@@ -1516,7 +1516,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-05,09:30,AR,,97.0,,6.0,3.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-05-05,08:00,BE,,1798.0,,38.0,7.0,5.0,,90.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-05-05,,BL,,829.0,,8.0,1.0,1.0,773.0,32.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-05-05,09:00,BS,,959.0,,21.0,4.0,,842.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-959-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,522.0,8.0,,,
+2020-05-05,09:00,BS,,959.0,,21.0,4.0,,842.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-959-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,503.0,8.0,,,
 2020-05-05,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/246-corona-keine-neuen-faelle-0506.pdf?t=637243865310890323,,,,,
 2020-05-05,,FR,,1104.0,,35.0,3.0,,131.0,80.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-05-05,,GE,28056.0,5051.0,,234.0,17.0,16.0,664.0,259.0,https://www.ge.ch/document/20094/telecharger,,,,,11.0
@@ -1543,7 +1543,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-06,10:40,AR,,97.0,,8.0,3.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-05-06,08:00,BE,,1804.0,,34.0,6.0,4.0,,90.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-05-06,,BL,,830.0,,6.0,1.0,1.0,774.0,33.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-05-06,09:30,BS,,962.0,,21.0,4.0,,868.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-962-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,523.0,8.0,,,
+2020-05-06,09:30,BS,,962.0,,21.0,4.0,,868.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-962-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,504.0,8.0,,,
 2020-05-06,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/246-corona-keine-neuen-faelle-0506.pdf?t=637243865310890323,,,,,
 2020-05-06,,FR,,1107.0,,34.0,5.0,,131.0,80.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-05-06,,GE,28494.0,5058.0,,231.0,16.0,15.0,671.0,260.0,https://www.ge.ch/document/20094/telecharger,,,,,11.0
@@ -1569,7 +1569,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-07,09:05,AR,,97.0,,5.0,2.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-05-07,08:00,BE,,1809.0,,37.0,8.0,6.0,,90.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-05-07,,BL,,833.0,,6.0,1.0,1.0,775.0,33.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-05-07,10:00,BS,,965.0,,20.0,4.0,,870.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-965-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,524.0,7.0,,,
+2020-05-07,10:00,BS,,965.0,,20.0,4.0,,870.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-965-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,505.0,7.0,,,
 2020-05-07,,FL,,82.0,,,,,,,https://www.regierung.li/de/mitteilungen/223470/?typ=news,,,,,
 2020-05-07,,FR,,1115.0,,30.0,5.0,,134.0,80.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-05-07,,GE,28825.0,5065.0,,214.0,15.0,13.0,686.0,264.0,https://www.ge.ch/document/20094/telecharger,,,,,9.0
@@ -1595,7 +1595,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-08,08:00,AR,,97.0,,5.0,2.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-05-08,08:00,BE,,1818.0,,39.0,8.0,6.0,,90.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-05-08,,BL,,834.0,,5.0,1.0,1.0,778.0,34.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-05-08,08:30,BS,,966.0,,19.0,4.0,,874.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-966-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,525.0,7.0,,,
+2020-05-08,08:30,BS,,966.0,,19.0,4.0,,874.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-966-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,505.0,7.0,,,
 2020-05-08,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/250-corona-erste-lockerungen-kulturbereich-0508.pdf?t=637245631950707048,,,,,
 2020-05-08,,FR,,1117.0,,30.0,5.0,,134.0,81.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-05-08,,GE,29157.0,5071.0,,208.0,11.0,9.0,694.0,264.0,https://www.ge.ch/document/20094/telecharger,,,,,9.0
@@ -1666,7 +1666,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-11,09:00,AR,,98.0,,7.0,2.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-05-11,08:00,BE,,1835.0,,36.0,7.0,6.0,,92.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-05-11,,BL,,836.0,,3.0,1.0,1.0,785.0,34.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-05-11,09:00,BS,,970.0,,,,,884.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-970-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,
+2020-05-11,09:00,BS,,970.0,,,,,884.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-970-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,505.0,,,,
 2020-05-11,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/255-corona-keine-faelle-montag-0511.pdf?t=637248176052289699,,,,,
 2020-05-11,,FR,,1129.0,,26.0,5.0,,137.0,83.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-05-11,,GE,30081.0,5086.0,,196.0,7.0,6.0,709.0,268.0,https://www.ge.ch/document/20094/telecharger,,,,,12.0
@@ -1693,7 +1693,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-12,12:00,AR,,98.0,,5.0,2.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-05-12,08:00,BE,,1840.0,,35.0,6.0,5.0,,93.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-05-12,,BL,,837.0,,3.0,1.0,1.0,789.0,34.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-05-12,09:50,BS,,970.0,,15.0,3.0,,892.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-970-bestaetigte-faelle-im-kanton-basel-stadt-gd-2.html,,,,,
+2020-05-12,09:50,BS,,970.0,,15.0,3.0,,892.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-970-bestaetigte-faelle-im-kanton-basel-stadt-gd-2.html,505.0,,,,
 2020-05-12,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/257-corona-ruhige-lage-haelt-an-0512.pdf?t=637249078342194162,,,,,
 2020-05-12,,FR,,1138.0,,26.0,6.0,,138.0,83.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-05-12,,GE,30634.0,5096.0,,193.0,5.0,5.0,711.0,269.0,https://www.ge.ch/document/20094/telecharger,,,,,12.0
@@ -1718,7 +1718,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-13,14:45,AG,,1169.0,,8.0,1.0,1.0,1045.0,42.0,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200515_KFS_Coronavirus_Lagebulletin_55_aussordentliche_Ergaenzung.pdf,,,,,
 2020-05-13,08:00,BE,,1843.0,,34.0,7.0,6.0,,94.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-05-13,,BL,,837.0,,2.0,1.0,0.0,789.0,34.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-05-13,08:30,BS,,970.0,,,,,894.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-970-bestaetigte-faelle-im-kanton-basel-stadt-gd-3.html,,,,,
+2020-05-13,08:30,BS,,970.0,,,,,894.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-970-bestaetigte-faelle-im-kanton-basel-stadt-gd-3.html,505.0,,,,
 2020-05-13,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/259-corona-lockerung-mit-vorsicht-0513.pdf?t=637249897958492165,,,,,
 2020-05-13,,FR,,1141.0,,25.0,5.0,,139.0,84.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-05-13,,GE,31105.0,5100.0,,186.0,6.0,6.0,722.0,269.0,https://www.ge.ch/document/20094/telecharger,,,,,10.0
@@ -1744,7 +1744,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-14,11:00,AI,,25.0,,,,,,0.0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,
 2020-05-14,08:00,BE,,1847.0,,29.0,5.0,5.0,,94.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-05-14,,BL,,837.0,,3.0,1.0,0.0,790.0,34.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-05-14,09:15,BS,,971.0,,,,,895.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-971-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,
+2020-05-14,09:15,BS,,971.0,,,,,895.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-971-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,505.0,,,,
 2020-05-14,,FL,,82.0,,,,,,,https://www.regierung.li/de/mitteilungen/223485/?typ=news,,,,,
 2020-05-14,,FR,,1143.0,,20.0,5.0,,142.0,84.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-05-14,,GE,31450.0,5102.0,,175.0,6.0,6.0,734.0,269.0,https://www.ge.ch/document/20094/telecharger,,,,,9.0
@@ -1770,7 +1770,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-15,11:00,AR,,99.0,,4.0,1.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-05-15,08:00,BE,,1852.0,,27.0,5.0,4.0,,96.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-05-15,,BL,,837.0,,1.0,0.0,0.0,791.0,34.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
-2020-05-15,08:30,BS,,972.0,,11.0,3.0,,897.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-972-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,5.0,,,
+2020-05-15,08:30,BS,,972.0,,11.0,3.0,,897.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-972-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,505.0,5.0,,,
 2020-05-15,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223488/?typ=news,,,,,
 2020-05-15,,FR,,1145.0,,19.0,5.0,,143.0,84.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1805.xlsx,,,,,
 2020-05-15,12:00,GE,31547.0,,,174.0,6.0,6.0,736.0,,https://www.ge.ch/document/20094/telecharger,,,,,8.0
@@ -1822,7 +1822,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-17,08:00,ZG,,199.0,,0.0,0.0,,168.0,8.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,
 2020-05-17,14:30,ZH,,3578.0,,33.0,,8.0,,127.0,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,
 2020-05-18,09:25,AR,,99.0,,1.0,1.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
-2020-05-18,08:30,BS,,974.0,,,,,904.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-974-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,
+2020-05-18,08:30,BS,,974.0,,,,,904.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-974-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,505.0,,,,
 2020-05-18,,SG,,806.0,,8.0,1.0,,217.0,36.0,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,
 2020-05-18,09:30,SH,,79.0,,5.0,3.0,,,6.0,https://sh.ch/CMS/get/file/dbdaf884-d0be-490b-9b4e-5b55dd37e920,,,,,
 2020-05-18,10:00,SZ,,307.0,,,,,281.0,23.0,https://www.sz.ch/public/upload/assets/46707/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,

@@ -21,7 +21,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-17,15:30,UR,85,93,1,5,,,79,7,https://www.ur.ch/themen/2962,,,,,,46.771849,8.628586,Uri,04,0,0,256.2,19.284
 2020-05-17,14:30,ZH,,3578,1,33,,8.0,,127,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,47.41275,8.65508,Zürich,01,2,0,237.85,8.442
 2020-05-18,09:25,AR,,99,-3,1,1,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,179.35,5.435
-2020-05-18,08:30,BS,235,974,0,11,3,,904,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-974-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,0,0,502.32,25.786
+2020-05-18,08:30,BS,235,974,0,11,3,,904,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-974-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,505.0,,,,,47.564869,7.615259,Basel-Stadt,12,0,0,502.32,25.786
 2020-05-18,03:00,SG,,806,-3,8,1,,217,36,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,3,0,159.7,7.133
 2020-05-18,09:30,SH,,79,0,5,3,,,6,https://sh.ch/CMS/get/file/dbdaf884-d0be-490b-9b4e-5b55dd37e920,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,97.05,7.371
 2020-05-18,10:00,SZ,10,307,0,1,,,281,23,https://www.sz.ch/public/upload/assets/46707/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.17,14.622
