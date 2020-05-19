@@ -1723,7 +1723,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-13,,FR,,1141.0,,25.0,5.0,,139.0,84.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1905.xlsx,,,,,
 2020-05-13,,GE,31018.0,5102.0,,186.0,6.0,6.0,722.0,269.0,https://www.ge.ch/document/20094/telecharger,,,,,10.0
 2020-05-13,12:00,GL,,127.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/28211/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
-2020-05-13,,GR,,821.0,,11.0,,,,46.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
+2020-05-13,,GR,,822.0,,11.0,,,,46.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-05-13,,JU,,202.0,,2.0,2.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34481.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_18_05.xlsx?download=1,,,,,
 2020-05-13,,LU,,715.0,,29.0,4.0,,,19.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,
 2020-05-13,,NE,,716.0,,12.0,1.0,1.0,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,
@@ -1749,7 +1749,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-14,,FR,,1143.0,,20.0,5.0,,142.0,84.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1905.xlsx,,,,,
 2020-05-14,,GE,31463.0,5110.0,,175.0,6.0,6.0,734.0,269.0,https://www.ge.ch/document/20094/telecharger,,,,,9.0
 2020-05-14,13:30,GL,,128.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/28211/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
-2020-05-14,,GR,,822.0,,11.0,,,,47.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
+2020-05-14,,GR,,823.0,,11.0,,,,47.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-05-14,,JU,,202.0,,2.0,1.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34481.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_18_05.xlsx?download=1,,,,,
 2020-05-14,,LU,,715.0,,29.0,4.0,,,19.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,
 2020-05-14,,NE,,716.0,,11.0,1.0,1.0,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,
@@ -1775,7 +1775,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-15,,FR,,1145.0,,19.0,5.0,,143.0,84.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1905.xlsx,,,,,
 2020-05-15,,GE,31995.0,5115.0,,174.0,6.0,6.0,736.0,269.0,https://www.ge.ch/document/20094/telecharger,,,,,8.0
 2020-05-15,12:30,GL,,128.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/28211/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
-2020-05-15,,GR,,822.0,,9.0,,,,47.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
+2020-05-15,,GR,,823.0,,9.0,,,,47.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-05-15,,JU,,202.0,,2.0,1.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34481.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_18_05.xlsx?download=1,,,,,
 2020-05-15,,LU,,715.0,,27.0,4.0,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,
 2020-05-15,,NE,,716.0,,11.0,1.0,1.0,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,
@@ -1798,7 +1798,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-16,,FL,,82.0,,,,,,1.0,https://www.regierung.li/media/attachments/268-corona-situationsbericht-0516.pdf?t=637252563949584631,,,,,
 2020-05-16,,FR,,1146.0,,18.0,5.0,,143.0,84.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1905.xlsx,,,,,
 2020-05-16,,GE,32284.0,5117.0,,167.0,5.0,5.0,737.0,270.0,https://www.ge.ch/document/20094/telecharger,,,,,7.0
-2020-05-16,,GR,,822.0,,9.0,,,,47.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
+2020-05-16,,GR,,823.0,,9.0,,,,47.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-05-16,,JU,,202.0,,2.0,1.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34481.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_18_05.xlsx?download=1,,,,,
 2020-05-16,,LU,,719.0,,,,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,
 2020-05-16,,NE,,716.0,,,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,
@@ -1818,7 +1818,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-17,,FL,,82.0,,,,,,1.0,https://www.regierung.li/media/attachments/269-corona-situationsbericht-0517.pdf?t=637253429846473959,,,,,
 2020-05-17,,FR,,1147.0,,17.0,4.0,,144.0,84.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1905.xlsx,,,,,
 2020-05-17,,GE,32468.0,5118.0,,167.0,4.0,4.0,738.0,270.0,https://www.ge.ch/document/20094/telecharger,,,,,9.0
-2020-05-17,,GR,,822.0,,7.0,,,,47.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
+2020-05-17,,GR,,823.0,,7.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-05-17,,JU,,202.0,,2.0,1.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34481.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_18_05.xlsx?download=1,,,,,
 2020-05-17,,LU,,723.0,,,,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,
 2020-05-17,,NE,,719.0,,,,,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,
@@ -1833,7 +1833,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-17,08:00,ZG,,199.0,,0.0,0.0,,168.0,8.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,
 2020-05-17,14:30,ZH,,3578.0,,33.0,,8.0,,127.0,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,
 2020-05-18,14:45,AG,,1185.0,,7.0,1.0,1.0,1075.0,44.0,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200518_KFS_Coronavirus_Lagebulletin_56.pdf,,,,,
-2020-05-18,09:25,AR,,99.0,,1.0,1.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
+2020-05-18,08:00,AR,,99.0,,1.0,1.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,
 2020-05-18,08:00,BE,,1863.0,,29.0,2.0,2.0,,96.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,
 2020-05-18,,BL,,838.0,,3.0,0.0,,795.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,
 2020-05-18,08:30,BS,,974.0,,,,,904.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-974-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,505.0,,,,
@@ -1841,6 +1841,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-18,,FR,,1147.0,,16.0,4.0,,144.0,84.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1905.xlsx,,,,,
 2020-05-18,12:00,GE,,,,171.0,5.0,4.0,739.0,,https://www.ge.ch/document/20094/telecharger,,,,,11.0
 2020-05-18,13:00,GL,,128.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/28211/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,
+2020-05-18,,GR,,824.0,,4.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,
 2020-05-18,,JU,,202.0,,2.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34481.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_18_05.xlsx?download=1,,,,,
 2020-05-18,,LU,,726.0,,26.0,4.0,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,
 2020-05-18,,NW,,123.0,,0.0,0.0,,,3.0,http://www.nw.ch/coronastatistik,,,,,
@@ -1868,5 +1869,6 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-19,10:00,SZ,,307.0,,,,,281.0,23.0,https://www.sz.ch/public/upload/assets/46739/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,
 2020-05-19,,TG,,380.0,,7.0,4.0,,,17.0,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,
 2020-05-19,08:00,TI,,3285.0,,53.0,5.0,4.0,877.0,344.0,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,
+2020-05-19,15:00,UR,,93.0,,3.0,,,79.0,7.0,https://www.ur.ch/themen/2962,,,,,
 2020-05-19,08:00,ZG,,199.0,,0.0,0.0,,171.0,8.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,
 2020-05-19,14:30,ZH,,3586.0,,30.0,,6.0,,128.0,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,
