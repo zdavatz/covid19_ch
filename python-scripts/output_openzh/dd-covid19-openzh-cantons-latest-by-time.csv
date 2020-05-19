@@ -3,7 +3,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-18,08:00,AR,,99,-3,1,1,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,179.35,5.435
 2020-05-18,12:00,GE,32468,5118,4,171,5,4.0,739,270,https://www.ge.ch/document/20094/telecharger,,,,,11.0,46.220528,6.132935,Genève,25,0,0,1033.52,54.523
 2020-05-18,03:00,GR,,824,-3,4,,,,48,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,1,0,416.37,24.255
-2020-05-18,03:00,JU,,202,0,2,2,,,7,https://www.jura.ch/Htdocs/Files/v/34490.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_18-mai.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,0,0,275.58,9.55
 2020-05-18,03:00,NE,,720,0,11,1,1.0,,82,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,404.49,46.067
 2020-05-18,03:00,VD,,5418,-5,55,13,,,401,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,46.570091,6.557809000000001,Vaud,22,7,0,683.14,50.561
 2020-05-19,14:45,AG,,1187,3,10,4,2.0,1085,44,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200519_KFS_Coronavirus_Lagebulletin_57.pdf,,,,,,47.40966,8.15688,Aargau,01,2,0,176.9,6.557
@@ -13,6 +12,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-19,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223494/?typ=news,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-19,03:00,FR,30,1147,-1,15,4,,144,84,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_1905.xlsx,,,,,,46.718391,7.074008,Fribourg,10,0,0,364.01,26.658
 2020-05-19,12:00,GL,,128,0,2,,,,12,https://www.gl.ch/public/upload/assets/28211/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,317.62,29.777
+2020-05-19,03:00,JU,,203,0,3,2,,,7,https://www.jura.ch/Htdocs/Files/v/34494.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_19_05.xlsx?download=1,,,,,,47.350744,7.156107,Jura,26,1,0,276.94,9.55
 2020-05-19,03:00,LU,,727,-3,23,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03,1,0,178.84,4.92
 2020-05-19,03:00,NW,,123,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,46.926755,8.405302,Nidwalden,07,0,0,286.05,6.977
 2020-05-19,15:30,OW,6,80,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,212.77,0.0
