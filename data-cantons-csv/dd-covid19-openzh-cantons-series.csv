@@ -1897,7 +1897,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-20,15:30,OW,6,82,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,218.09,0.0
 2020-05-20,03:00,SG,,807,0,11,1,,217,36,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,47.1832,9.274744,St. Gallen,17,1,0,159.9,7.133
 2020-05-20,09:30,SH,,78,-1,7,1,,,6,https://sh.ch/CMS/get/file/88a37350-86d7-4145-a80f-0eae8f5f9206,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
-2020-05-20,03:00,SO,,436,0,6,,,,16,https://corona.so.ch/index.php?id=27979,,,,,,47.304135,7.639388,Solothurn,11,2,0,160.65,5.895
+2020-05-20,03:00,SO,,436,0,6,,,,16,https://corona.so.ch/,,,,,,47.304135,7.639388,Solothurn,11,2,0,160.65,5.895
 2020-05-20,10:00,SZ,10,307,0,1,,,282,23,https://www.sz.ch/public/upload/assets/46774/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.17,14.622
 2020-05-20,03:00,TG,276,380,0,7,4,,,18,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,47.568715,9.091957,Thurgau,01,0,1,138.79,6.574
 2020-05-20,08:00,TI,,3287,-1,53,4,4.0,881,344,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,46.295617,8.808924,Ticino,21,2,0,929.32,97.258
