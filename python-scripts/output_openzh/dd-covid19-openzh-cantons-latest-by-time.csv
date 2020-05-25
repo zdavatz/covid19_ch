@@ -1,10 +1,7 @@
 date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,ncumul_confirmed_non_resident,current_hosp_non_resident,current_infected_isolated,current_quarantined,TotalPosTests1,ninst_ICU_intub,ncumul_ICF,lat,long,name_canton,number_canton,new_positive_cases,new_deaths,total_currently_positive_per_100k,deaths_per_100k
-2020-05-20,03:00,VS,,1933,0,28,6,4.0,,151,https://www.vs.ch/de/web/coronavirus,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,566.03,44.217
 2020-05-22,03:00,JU,,204,0,3,1,,,7,https://www.jura.ch/Htdocs/Files/v/34506.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_22_05.xlsx?download=1,,,,,,,,47.350744,7.156107,Jura,26,1,0,278.31,9.55
-2020-05-22,03:00,NE,,722,-3,4,1,1.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,405.62,46.629
 2020-05-24,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223505/?typ=news,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-24,03:00,GR,,826,0,4,,,,48,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,417.38,24.255
-2020-05-24,17:30,UR,85,93,0,1,,,84,7,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,0,0,256.2,19.284
 2020-05-24,03:00,VD,,5432,1,51,13,,,406,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,1,0,684.91,51.192
 2020-05-25,14:45,AG,,1198,0,6,1,1.0,1110,45,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200525_KFS_Coronavirus_Lagebulletin_59.pdf,,,,,,,,47.40966,8.15688,Aargau,01,3,0,178.54,6.706
 2020-05-25,11:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
@@ -16,6 +13,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-25,12:00,GE,34539,5133,1,143,2,0.0,777,279,https://www.ge.ch/document/20094/telecharger,,,,,,,8.0,46.220528,6.132935,Genève,25,0,0,1036.55,56.341
 2020-05-25,12:30,GL,,128,0,1,,,,12,https://www.gl.ch/public/upload/assets/28353/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,317.62,29.777
 2020-05-25,03:00,LU,,733,0,19,3,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,0,0,180.32,4.92
+2020-05-25,03:00,NE,,724,0,4,1,1.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,406.74,46.629
 2020-05-25,03:00,NW,,123,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,286.05,6.977
 2020-05-25,15:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-05-25,03:00,SG,,807,0,11,1,,217,36,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,159.9,7.133
@@ -24,5 +22,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-25,10:00,SZ,10,307,0,1,,,284,23,https://www.sz.ch/public/upload/assets/46794/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.17,14.622
 2020-05-25,03:00,TG,276,380,0,5,2,,,18,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,0,0,138.79,6.574
 2020-05-25,08:00,TI,,3306,-1,49,4,4.0,888,348,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github_.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,1,1,934.69,98.388
+2020-05-25,17:00,UR,85,93,0,1,,,84,7,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,0,0,256.2,19.284
+2020-05-25,03:00,VS,,1935,0,32,4,3.0,,151,https://www.vs.ch/de/web/coronavirus,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,566.62,44.217
 2020-05-25,08:00,ZG,,202,1,1,0,,175,8,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,0,0,161.08,6.38
 2020-05-25,14:30,ZH,,3597,-5,23,,1.0,,128,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,2,0,239.11,8.509
