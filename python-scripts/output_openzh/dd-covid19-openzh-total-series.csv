@@ -1996,7 +1996,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-24,14:30,ZH,,3595.0,,28.0,,1.0,,128.0,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,
 2020-05-25,14:45,AG,,1198.0,,6.0,1.0,1.0,1110.0,45.0,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200525_KFS_Coronavirus_Lagebulletin_59.pdf,,,,,,,
 2020-05-25,11:00,AI,,25.0,,,,,,0.0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,,
-2020-05-25,14:00,AR,,99.0,,1.0,1.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,
+2020-05-25,18:00,AR,,99.0,,1.0,1.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,
 2020-05-25,08:00,BE,,1881.0,,18.0,2.0,2.0,,96.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,
 2020-05-25,,BL,,838.0,,2.0,0.0,0.0,801.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,
 2020-05-25,09:00,BS,,976.0,,,,,920.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-976-bestaetigte-faelle-im-kanton-basel-stadt-gd-3.html,505.0,,6.0,9.0,,,
@@ -2005,7 +2005,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-25,12:00,GE,,,,143.0,2.0,0.0,,,https://www.ge.ch/document/20094/telecharger,,,,,,,8.0
 2020-05-25,12:30,GL,,128.0,,1.0,,,,12.0,https://www.gl.ch/public/upload/assets/28353/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-25,,JU,,204.0,,3.0,2.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34518.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_25_05.xlsx?download=1,,,,,,,
-2020-05-25,,LU,,733.0,,,,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,
+2020-05-25,,LU,,733.0,,25.0,4.0,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,
 2020-05-25,,NE,,,,4.0,1.0,1.0,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,
 2020-05-25,,NW,,123.0,,0.0,0.0,,,3.0,http://www.nw.ch/coronastatistik,,,,,,,
 2020-05-25,15:00,OW,,82.0,,0.0,,,,0.0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,
@@ -2020,3 +2020,5 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-25,08:00,ZG,,202.0,,1.0,0.0,,175.0,8.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,
 2020-05-25,14:30,ZH,,3597.0,,23.0,,1.0,,128.0,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,
 2020-05-26,,LU,,733.0,,25.0,4.0,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,
+2020-05-26,,SG,,807.0,,,,,,36.0,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,
+2020-05-26,00:00,SO,,439.0,,,,,,17.0,https://corona.so.ch/index.php?id=27979,,,,,,,
