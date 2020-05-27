@@ -2050,6 +2050,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-27,03:00,FR,30,1157,0,7,3,,148,84,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_2705.xlsx,,,,,,,,46.718391,7.074008,Fribourg,10,1,0,367.19,26.658
 2020-05-27,13:00,GL,,128,0,0,,,,12,https://www.gl.ch/public/upload/assets/28353/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,317.62,29.777
 2020-05-27,03:00,LU,,734,1,26,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,0,0,180.57,4.92
+2020-05-27,03:00,NW,,123,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,286.05,6.977
 2020-05-27,14:30,OW,6,82,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-05-27,03:00,SG,,807,0,11,1,,217,37,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,0,1,159.9,7.331
 2020-05-27,09:30,SH,,78,-2,6,2,,,6,https://sh.ch/CMS/get/file/b26a6c08-ad38-4cfe-b13c-b5583f261289,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
