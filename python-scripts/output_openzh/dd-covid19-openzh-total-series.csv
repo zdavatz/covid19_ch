@@ -2051,6 +2051,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-27,08:00,BE,,1881.0,,11.0,2.0,1.0,,96.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,
 2020-05-27,,BL,,838.0,,0.0,0.0,0.0,802.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,
 2020-05-27,09:00,BS,,976.0,,,,,923.0,50.0,https://www.coronavirus.bs.ch//nm/2020-tagesbulletin-coronavirus-noch-drei-aktive-faelle-im-kanton-basel-stadt-gd.html,506.0,,1.0,6.0,,,
+2020-05-27,,FL,,82.0,,,,,,1.0,https://www.regierung.li/media/attachments/289-corona-aufarbeitung-covid19-pandemie-0527.pdf?t=637262854269934127,,,,,,,
 2020-05-27,,FR,,1157.0,,7.0,3.0,,148.0,84.0,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_2705.xlsx,,,,,,,
 2020-05-27,,GE,35693.0,5142.0,,133.0,0.0,0.0,788.0,280.0,https://www.ge.ch/document/20094/telecharger,,,,47.0,,,7.0
 2020-05-27,13:00,GL,,128.0,,0.0,,,,12.0,https://www.gl.ch/public/upload/assets/28353/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
@@ -2073,8 +2074,11 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-28,08:00,AR,,99.0,,1.0,1.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,
 2020-05-28,08:00,BE,,1883.0,,11.0,2.0,1.0,,96.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,
 2020-05-28,,BL,,840.0,,0.0,0.0,0.0,802.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,
+2020-05-28,09:30,BS,,976.0,,,2.0,,923.0,50.0,https://www.gd.bs.ch/nm/2020-tagesbulletin-coronavirus-weiterhin-total-976-bestaetigte-infektionen-und-noch-drei-aktive-faelle-im-kanton-basel-stadt-gd.html,506.0,,1.0,0.0,,,
+2020-05-28,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223526/?typ=news,,,,,,,
 2020-05-28,12:00,GE,,,,131.0,0.0,0.0,792.0,,https://www.ge.ch/document/20094/telecharger,,,,,,,6.0
 2020-05-28,14:00,GL,,128.0,,0.0,,,,12.0,https://www.gl.ch/public/upload/assets/28353/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
+2020-05-28,,NW,,123.0,,0.0,0.0,,,3.0,http://www.nw.ch/coronastatistik,,,,,,,
 2020-05-28,14:30,OW,,82.0,,0.0,,,,0.0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,
 2020-05-28,,SG,,808.0,,,,,,37.0,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,
 2020-05-28,09:30,SH,,78.0,,8.0,2.0,,,6.0,https://sh.ch/CMS/get/file/b531043f-06bd-43c4-9ba1-217d8f43f69b,,,,,,,
