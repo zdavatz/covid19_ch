@@ -2066,3 +2066,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-28,08:00,BE,,1883,0,11,2,1.0,,96,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,2,0,182.62,9.31
 2020-05-28,09:30,SH,,78,2,8,2,,,6,https://sh.ch/CMS/get/file/b531043f-06bd-43c4-9ba1-217d8f43f69b,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-28,03:00,SO,,440,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,162.12,6.264
+2020-05-28,03:00,TG,276,380,-1,4,1,,,18,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,0,0,138.79,6.574
