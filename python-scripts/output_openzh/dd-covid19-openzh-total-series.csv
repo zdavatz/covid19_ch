@@ -2078,6 +2078,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-28,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223526/?typ=news,,,,,,,
 2020-05-28,12:00,GE,,,,131.0,0.0,0.0,792.0,,https://www.ge.ch/document/20094/telecharger,,,,,,,6.0
 2020-05-28,14:00,GL,,128.0,,0.0,,,,12.0,https://www.gl.ch/public/upload/assets/28353/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
+2020-05-28,,GR,,827.0,,2.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-28,,NW,,123.0,,0.0,0.0,,,3.0,http://www.nw.ch/coronastatistik,,,,,,,
 2020-05-28,14:30,OW,,82.0,,0.0,,,,0.0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,
 2020-05-28,,SG,,808.0,,,,,,37.0,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,
@@ -2092,3 +2093,4 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-28,14:30,ZH,,3611.0,,20.0,,1.0,,130.0,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,
 2020-05-29,00:00,SO,,440.0,,,,,,17.0,https://corona.so.ch/index.php?id=27979,,,,,,,
 2020-05-29,10:00,SZ,,307.0,,,,,284.0,23.0,https://www.sz.ch/public/upload/assets/46896/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,
+2020-05-29,,TG,,381.0,,4.0,1.0,,,18.0,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,

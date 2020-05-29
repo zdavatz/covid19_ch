@@ -2078,6 +2078,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-28,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223526/?typ=news,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-05-28,12:00,GE,35693,5142,-2,131,0,0.0,792,280,https://www.ge.ch/document/20094/telecharger,,,,,,,6.0,46.220528,6.132935,Genève,25,0,0,1038.37,56.543
 2020-05-28,14:00,GL,,128,0,0,,,,12,https://www.gl.ch/public/upload/assets/28353/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,317.62,29.777
+2020-05-28,03:00,GR,,827,-2,2,,,,48,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,417.89,24.255
 2020-05-28,03:00,NW,,123,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,286.05,6.977
 2020-05-28,14:30,OW,6,82,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-05-28,03:00,SG,,808,0,11,1,,217,37,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,160.1,7.331
@@ -2092,3 +2093,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-28,14:30,ZH,,3611,2,20,,1.0,,130,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,6,0,240.05,8.642
 2020-05-29,03:00,SO,,440,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,162.12,6.264
 2020-05-29,10:00,SZ,10,307,0,1,,,284,23,https://www.sz.ch/public/upload/assets/46896/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.17,14.622
+2020-05-29,03:00,TG,276,381,0,4,1,,,18,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,1,0,139.15,6.574
