@@ -1,5 +1,4 @@
 date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,ncumul_confirmed_non_resident,current_hosp_non_resident,current_isolated,current_quarantined,TotalPosTests1,ninst_ICU_intub,ncumul_ICF,lat,long,name_canton,number_canton,new_positive_cases,new_deaths,total_currently_positive_per_100k,deaths_per_100k
-2020-05-26,03:00,NE,,725,0,4,1,1.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,407.3,46.629
 2020-05-27,03:00,FR,30,1157,0,7,3,,148,84,https://www.fr.ch/sites/default/files/2020-05/statistiques_situation_FR_2705.xlsx,,,,,,,,46.718391,7.074008,Fribourg,10,1,0,367.19,26.658
 2020-05-28,14:45,AG,,1201,0,6,1,1.0,1120,46,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200528_KFS_Coronavirus_Lagebulletin_60.pdf,,,,,,,,47.40966,8.15688,Aargau,01,0,0,178.99,6.855
 2020-05-28,12:00,GE,35693,5142,-2,131,0,0.0,792,280,https://www.ge.ch/document/20094/telecharger,,,,,,,6.0,46.220528,6.132935,Genève,25,0,0,1038.37,56.543
@@ -15,6 +14,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-29,13:00,GL,,128,0,0,,,,12,https://www.gl.ch/public/upload/assets/28353/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,317.62,29.777
 2020-05-29,03:00,JU,,205,0,3,1,,,7,https://www.jura.ch/Htdocs/Files/v/34557.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_29_05.xlsx?download=1,,,,,,,,47.350744,7.156107,Jura,26,0,0,279.67,9.55
 2020-05-29,03:00,LU,,735,0,26,5,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,0,0,180.81,4.92
+2020-05-29,03:00,NE,,725,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,407.3,46.629
 2020-05-29,03:00,NW,,123,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,286.05,6.977
 2020-05-29,14:30,OW,6,82,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-05-29,03:00,SG,,808,0,11,1,,217,37,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,160.1,7.331
