@@ -1417,7 +1417,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-01,10:00,BS,,952.0,,,,,833.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-958-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,,
 2020-05-01,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/230-corona-immer-noch-82-0501.pdf?t=637239528964359340,,,,,,,
 2020-05-01,,FR,,1078.0,,43.0,5.0,,123.0,78.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-01,,GE,26398.0,5026.0,,242.0,18.0,17.0,658.0,257.0,https://www.ge.ch/document/20094/telecharger,,35.0,,,,,15.0
+2020-05-01,,GE,26395.0,5026.0,,242.0,18.0,17.0,658.0,257.0,https://www.ge.ch/document/20094/telecharger,,32.0,,,,,15.0
 2020-05-01,13:00,GL,,122.0,,2.0,,,,11.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-01,,GR,,814.0,,21.0,,,,45.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-01,,JU,,198.0,,8.0,5.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1443,7 +1443,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-02,10:00,BS,,955.0,,,,,835.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-958-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,,
 2020-05-02,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/231-corona-samstag-keine-neuen-faelle-0502.pdf?t=637240398540917983,,,,,,,
 2020-05-02,,FR,,1092.0,,38.0,4.0,,129.0,79.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-02,,GE,26657.0,5031.0,,235.0,17.0,17.0,660.0,260.0,https://www.ge.ch/document/20094/telecharger,,48.0,,,,,16.0
+2020-05-02,,GE,26652.0,5031.0,,235.0,17.0,17.0,660.0,260.0,https://www.ge.ch/document/20094/telecharger,,45.0,,,,,16.0
 2020-05-02,13:00,GL,,122.0,,2.0,,,,11.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-02,,GR,,816.0,,19.0,,,,45.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-02,,JU,,198.0,,8.0,5.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1467,7 +1467,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-03,10:00,BS,,956.0,,,,,839.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-958-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,,
 2020-05-03,,FL,,82.0,,,,,,,https://www.regierung.li/de/mitteilungen/223445/?typ=news,,,,,,,
 2020-05-03,,FR,,1097.0,,35.0,4.0,,130.0,79.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-03,,GE,26801.0,5037.0,,238.0,17.0,16.0,660.0,261.0,https://www.ge.ch/document/20094/telecharger,,50.0,,,,,15.0
+2020-05-03,,GE,26796.0,5037.0,,238.0,17.0,16.0,660.0,261.0,https://www.ge.ch/document/20094/telecharger,,46.0,,,,,15.0
 2020-05-03,13:00,GL,,122.0,,2.0,,,,11.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-03,,GR,,816.0,,18.0,,,,45.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-03,,JU,,198.0,,8.0,5.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1492,7 +1492,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-04,10:00,BS,,958.0,,,,,840.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-958-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,503.0,,,,
 2020-05-04,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/238-corona-oeffnung-von-bildungseinrichtungen-0505.pdf?t=637243077631918468,,,,,,,
 2020-05-04,,FR,,1102.0,,36.0,4.0,,130.0,79.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-04,,GE,27145.0,5043.0,,236.0,17.0,16.0,661.0,263.0,https://www.ge.ch/document/20094/telecharger,,60.0,,,,,12.0
+2020-05-04,,GE,27139.0,5043.0,,236.0,17.0,16.0,661.0,263.0,https://www.ge.ch/document/20094/telecharger,,56.0,,,,,12.0
 2020-05-04,13:00,GL,,122.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-04,,GR,,816.0,,16.0,,,,45.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-04,,JU,,198.0,,8.0,5.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1519,7 +1519,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-05,09:00,BS,,959.0,,21.0,4.0,,842.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-959-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,503.0,8.0,,,
 2020-05-05,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/246-corona-keine-neuen-faelle-0506.pdf?t=637243865310890323,,,,,,,
 2020-05-05,,FR,,1104.0,,35.0,3.0,,131.0,80.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-05,,GE,27677.0,5052.0,,234.0,17.0,16.0,664.0,264.0,https://www.ge.ch/document/20094/telecharger,,69.0,,,,,11.0
+2020-05-05,,GE,27665.0,5052.0,,234.0,17.0,16.0,664.0,264.0,https://www.ge.ch/document/20094/telecharger,,65.0,,,,,11.0
 2020-05-05,13:30,GL,,122.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-05,,GR,,816.0,,18.0,,,,45.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-05,,JU,,201.0,,8.0,5.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1546,7 +1546,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-06,09:30,BS,,962.0,,21.0,4.0,,868.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-962-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,504.0,8.0,,,
 2020-05-06,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/246-corona-keine-neuen-faelle-0506.pdf?t=637243865310890323,,,,,,,
 2020-05-06,,FR,,1107.0,,34.0,5.0,,131.0,80.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-06,,GE,28090.0,5059.0,,231.0,16.0,15.0,671.0,265.0,https://www.ge.ch/document/20094/telecharger,,74.0,,,,,11.0
+2020-05-06,,GE,28074.0,5059.0,,231.0,16.0,15.0,671.0,265.0,https://www.ge.ch/document/20094/telecharger,,70.0,,,,,11.0
 2020-05-06,13:00,GL,,125.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-06,,GR,,818.0,,20.0,,,,45.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-06,,JU,,201.0,,9.0,5.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1572,7 +1572,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-07,10:00,BS,,965.0,,20.0,4.0,,870.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-965-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,505.0,7.0,,,
 2020-05-07,,FL,,82.0,,,,,,,https://www.regierung.li/de/mitteilungen/223470/?typ=news,,,,,,,
 2020-05-07,,FR,,1115.0,,30.0,5.0,,134.0,80.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-07,,GE,28408.0,5067.0,,214.0,15.0,13.0,686.0,270.0,https://www.ge.ch/document/20094/telecharger,,79.0,,,,,9.0
+2020-05-07,,GE,28389.0,5067.0,,214.0,15.0,13.0,686.0,270.0,https://www.ge.ch/document/20094/telecharger,,75.0,,,,,9.0
 2020-05-07,13:00,GL,,125.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-07,,GR,,818.0,,14.0,,,,46.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-07,,JU,,201.0,,7.0,4.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1598,7 +1598,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-08,08:30,BS,,966.0,,19.0,4.0,,874.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-966-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,505.0,7.0,,,
 2020-05-08,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/250-corona-erste-lockerungen-kulturbereich-0508.pdf?t=637245631950707048,,,,,,,
 2020-05-08,,FR,,1117.0,,30.0,5.0,,134.0,81.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-08,,GE,28723.0,5073.0,,208.0,11.0,9.0,694.0,270.0,https://www.ge.ch/document/20094/telecharger,,91.0,,,,,9.0
+2020-05-08,,GE,28702.0,5073.0,,208.0,11.0,9.0,694.0,270.0,https://www.ge.ch/document/20094/telecharger,,87.0,,,,,9.0
 2020-05-08,13:30,GL,,125.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-08,,GR,,819.0,,13.0,,,,46.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-08,,JU,,202.0,,6.0,4.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1624,7 +1624,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-09,09:00,BS,,967.0,,,,,881.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-970-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,,
 2020-05-09,,FL,,82.0,,,,,,,https://www.regierung.li/de/mitteilungen/223472/?typ=news,,,,,,,
 2020-05-09,,FR,,1121.0,,30.0,5.0,,134.0,82.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-09,,GE,29029.0,5082.0,,199.0,9.0,7.0,700.0,272.0,https://www.ge.ch/document/20094/telecharger,,86.0,,,,,11.0
+2020-05-09,,GE,29007.0,5082.0,,199.0,9.0,7.0,700.0,272.0,https://www.ge.ch/document/20094/telecharger,,82.0,,,,,11.0
 2020-05-09,13:00,GL,,126.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-09,,GR,,820.0,,13.0,,,,46.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-09,,JU,,202.0,,6.0,4.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1646,7 +1646,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-10,09:00,BS,,968.0,,,,,882.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-970-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,,
 2020-05-10,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/253-corona-auswertung-0510.pdf?t=637247323699465940,,,,,,,
 2020-05-10,,FR,,1126.0,,26.0,4.0,,137.0,83.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-10,,GE,29203.0,5083.0,,198.0,8.0,7.0,707.0,274.0,https://www.ge.ch/document/20094/telecharger,,79.0,,,,,13.0
+2020-05-10,,GE,29179.0,5083.0,,198.0,8.0,7.0,707.0,274.0,https://www.ge.ch/document/20094/telecharger,,75.0,,,,,13.0
 2020-05-10,13:00,GL,,126.0,,3.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-10,,GR,,820.0,,11.0,,,,46.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-10,,JU,,202.0,,6.0,4.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1669,7 +1669,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-11,09:00,BS,,970.0,,,,,884.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-970-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,505.0,,,,
 2020-05-11,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/255-corona-keine-faelle-montag-0511.pdf?t=637248176052289699,,,,,,,
 2020-05-11,,FR,,1129.0,,26.0,5.0,,137.0,83.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-11,,GE,29571.0,5088.0,,196.0,7.0,6.0,709.0,274.0,https://www.ge.ch/document/20094/telecharger,,68.0,,,,,12.0
+2020-05-11,,GE,29543.0,5088.0,,196.0,7.0,6.0,709.0,274.0,https://www.ge.ch/document/20094/telecharger,,67.0,,,,,12.0
 2020-05-11,13:00,GL,,127.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-11,,GR,,820.0,,12.0,,,,46.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-11,,JU,,202.0,,4.0,3.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1696,7 +1696,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-12,09:50,BS,,970.0,,15.0,3.0,,892.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-970-bestaetigte-faelle-im-kanton-basel-stadt-gd-2.html,,,505.0,,,,
 2020-05-12,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/257-corona-ruhige-lage-haelt-an-0512.pdf?t=637249078342194162,,,,,,,
 2020-05-12,,FR,,1138.0,,26.0,6.0,,138.0,83.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-12,,GE,30078.0,5098.0,,193.0,5.0,5.0,711.0,275.0,https://www.ge.ch/document/20094/telecharger,,56.0,,,,,12.0
+2020-05-12,,GE,30044.0,5098.0,,193.0,5.0,5.0,711.0,275.0,https://www.ge.ch/document/20094/telecharger,,55.0,,,,,12.0
 2020-05-12,13:30,GL,,127.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-12,,GR,,821.0,,12.0,,,,46.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-12,,JU,,202.0,,4.0,3.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1721,7 +1721,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-13,08:30,BS,,970.0,,,,,894.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-970-bestaetigte-faelle-im-kanton-basel-stadt-gd-3.html,,,505.0,,,,
 2020-05-13,,FL,,82.0,,,,,,,https://www.regierung.li/media/attachments/259-corona-lockerung-mit-vorsicht-0513.pdf?t=637249897958492165,,,,,,,
 2020-05-13,,FR,,1141.0,,25.0,5.0,,139.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-13,,GE,30522.0,5102.0,,186.0,6.0,6.0,722.0,276.0,https://www.ge.ch/document/20094/telecharger,,63.0,,,,,10.0
+2020-05-13,,GE,30485.0,5102.0,,186.0,6.0,6.0,722.0,276.0,https://www.ge.ch/document/20094/telecharger,,63.0,,,,,10.0
 2020-05-13,12:00,GL,,127.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-13,,GR,,822.0,,11.0,,,,46.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-13,,JU,,202.0,,2.0,2.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1747,7 +1747,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-14,09:15,BS,,971.0,,,,,895.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-971-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,505.0,,,,
 2020-05-14,,FL,,82.0,,,,,,,https://www.regierung.li/de/mitteilungen/223485/?typ=news,,,,,,,
 2020-05-14,,FR,,1143.0,,20.0,5.0,,142.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-14,,GE,30934.0,5109.0,,175.0,6.0,6.0,734.0,276.0,https://www.ge.ch/document/20094/telecharger,,60.0,,,,,9.0
+2020-05-14,,GE,30895.0,5109.0,,175.0,6.0,6.0,734.0,276.0,https://www.ge.ch/document/20094/telecharger,,60.0,,,,,9.0
 2020-05-14,13:30,GL,,128.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-14,,GR,,823.0,,11.0,,,,47.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-14,,JU,,202.0,,2.0,2.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1773,7 +1773,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-15,08:30,BS,,972.0,,11.0,3.0,,897.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-972-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,505.0,5.0,,,
 2020-05-15,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223488/?typ=news,,,,,,,
 2020-05-15,,FR,,1145.0,,19.0,5.0,,143.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-15,,GE,31422.0,5114.0,,174.0,7.0,6.0,736.0,276.0,https://www.ge.ch/document/20094/telecharger,,56.0,,,,,8.0
+2020-05-15,,GE,31377.0,5114.0,,174.0,7.0,6.0,736.0,276.0,https://www.ge.ch/document/20094/telecharger,,56.0,,,,,8.0
 2020-05-15,12:30,GL,,128.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-15,,GR,,823.0,,9.0,,,,47.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-15,,JU,,202.0,,2.0,2.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1797,7 +1797,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-16,08:30,BS,,974.0,,,,,904.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-974-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,,
 2020-05-16,,FL,,82.0,,,,,,1.0,https://www.regierung.li/media/attachments/268-corona-situationsbericht-0516.pdf?t=637252563949584631,,,,,,,
 2020-05-16,,FR,,1146.0,,18.0,5.0,,143.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-16,,GE,31693.0,5116.0,,167.0,5.0,5.0,737.0,276.0,https://www.ge.ch/document/20094/telecharger,,51.0,,,,,7.0
+2020-05-16,,GE,31646.0,5116.0,,167.0,5.0,5.0,737.0,276.0,https://www.ge.ch/document/20094/telecharger,,51.0,,,,,7.0
 2020-05-16,,GR,,823.0,,9.0,,,,47.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-16,,JU,,202.0,,2.0,2.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
 2020-05-16,,LU,,719.0,,,,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,
@@ -1817,7 +1817,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-17,08:30,BS,,974.0,,,,,904.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-974-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,,
 2020-05-17,,FL,,82.0,,,,,,1.0,https://www.regierung.li/media/attachments/269-corona-situationsbericht-0517.pdf?t=637253429846473959,,,,,,,
 2020-05-17,,FR,,1147.0,,17.0,4.0,,144.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-17,,GE,31873.0,5117.0,,167.0,4.0,4.0,738.0,277.0,https://www.ge.ch/document/20094/telecharger,,42.0,,,,,9.0
+2020-05-17,,GE,31824.0,5117.0,,167.0,4.0,4.0,738.0,278.0,https://www.ge.ch/document/20094/telecharger,,42.0,,,,,9.0
 2020-05-17,,GR,,823.0,,7.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-17,,JU,,202.0,,3.0,2.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
 2020-05-17,,LU,,723.0,,,,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,
@@ -1839,7 +1839,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-18,08:30,BS,,974.0,,,,,904.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-974-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,505.0,,,,
 2020-05-18,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223492/?typ=news,,,,,,,
 2020-05-18,,FR,,1147.0,,16.0,4.0,,144.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-18,,GE,32365.0,5118.0,,171.0,5.0,4.0,739.0,278.0,https://www.ge.ch/document/20094/telecharger,,34.0,,,,,11.0
+2020-05-18,,GE,32311.0,5118.0,,171.0,5.0,4.0,739.0,279.0,https://www.ge.ch/document/20094/telecharger,,34.0,,,,,11.0
 2020-05-18,13:00,GL,,128.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-18,,GR,,824.0,,4.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-18,,JU,,202.0,,3.0,2.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1864,7 +1864,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-19,08:30,BS,,975.0,,12.0,3.0,,916.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-975-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,505.0,5.0,,,
 2020-05-19,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223494/?typ=news,,,,,,,
 2020-05-19,,FR,,1147.0,,15.0,4.0,,144.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-19,,GE,32803.0,5120.0,,167.0,4.0,1.0,743.0,278.0,https://www.ge.ch/document/20094/telecharger,,26.0,,,,,12.0
+2020-05-19,,GE,32753.0,5120.0,,167.0,4.0,1.0,743.0,279.0,https://www.ge.ch/document/20094/telecharger,,26.0,,,,,12.0
 2020-05-19,12:00,GL,,128.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-19,,GR,,824.0,,4.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-19,,JU,,203.0,,3.0,2.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1891,7 +1891,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-20,08:30,BS,,976.0,,,,,916.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-976-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,505.0,,,,
 2020-05-20,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223501/?typ=news,,,,,,,
 2020-05-20,,FR,,1152.0,,12.0,4.0,,144.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-20,,GE,33248.0,5127.0,,166.0,3.0,0.0,746.0,278.0,https://www.ge.ch/document/20094/telecharger,,31.0,,,,,14.0
+2020-05-20,,GE,33173.0,5127.0,,166.0,3.0,0.0,746.0,279.0,https://www.ge.ch/document/20094/telecharger,,26.0,,,,,14.0
 2020-05-20,12:00,GL,,128.0,,2.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-20,,GR,,825.0,,4.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-20,,JU,,203.0,,3.0,2.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1916,7 +1916,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-21,09:00,BS,,976.0,,,,,916.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-976-bestaetigte-faelle-im-kanton-basel-stadt-gd-2.html,,,,,,,
 2020-05-21,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223502/?typ=news,,,,,,,
 2020-05-21,,FR,,1152.0,,11.0,3.0,,146.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-21,,GE,33506.0,5132.0,,154.0,2.0,0.0,763.0,279.0,https://www.ge.ch/document/20094/telecharger,,41.0,,,,,8.0
+2020-05-21,,GE,33423.0,5132.0,,154.0,2.0,0.0,763.0,280.0,https://www.ge.ch/document/20094/telecharger,,36.0,,,,,8.0
 2020-05-21,12:00,GL,,128.0,,1.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-21,,GR,,825.0,,4.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-21,,JU,,204.0,,4.0,1.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1939,7 +1939,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-22,09:00,BS,,976.0,,,,,916.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-976-bestaetigte-faelle-im-kanton-basel-stadt-gd-2.html,,,505.0,,,,
 2020-05-22,,FL,,82.0,,,,,,1.0,https://www.regierung.li/media/attachments/278-corona-situationsbericht-0522.pdf?t=637258469696418204,,,,,,,
 2020-05-22,,FR,,1152.0,,11.0,3.0,,146.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-22,,GE,33865.0,5134.0,,149.0,2.0,0.0,765.0,279.0,https://www.ge.ch/document/20094/telecharger,,50.0,,,,,7.0
+2020-05-22,,GE,33778.0,5134.0,,149.0,2.0,0.0,765.0,280.0,https://www.ge.ch/document/20094/telecharger,,45.0,,,,,7.0
 2020-05-22,12:00,GL,,128.0,,1.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-22,,GR,,826.0,,4.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-22,,JU,,204.0,,2.0,1.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -1960,7 +1960,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-23,09:00,BS,,976.0,,,,,916.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-976-bestaetigte-faelle-im-kanton-basel-stadt-gd-3.html,,,505.0,,,,
 2020-05-23,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223504/?typ=news,,,,,,,
 2020-05-23,,FR,,1154.0,,10.0,3.0,,146.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-23,,GE,34099.0,5136.0,,142.0,2.0,0.0,,279.0,https://www.ge.ch/document/20094/telecharger,,49.0,,,,,9.0
+2020-05-23,,GE,34014.0,5136.0,,142.0,2.0,0.0,,280.0,https://www.ge.ch/document/20094/telecharger,,44.0,,,,,9.0
 2020-05-23,,GR,,826.0,,4.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-23,,JU,,204.0,,3.0,2.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
 2020-05-23,,LU,,733.0,,,,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,
@@ -1980,7 +1980,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-24,09:00,BS,,976.0,,,,,916.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-976-bestaetigte-faelle-im-kanton-basel-stadt-gd-3.html,,,505.0,,,,
 2020-05-24,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223505/?typ=news,,,,,,,
 2020-05-24,,FR,,1155.0,,9.0,3.0,,147.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-24,,GE,34324.0,5136.0,,142.0,2.0,0.0,,279.0,https://www.ge.ch/document/20094/telecharger,,43.0,,,,,9.0
+2020-05-24,,GE,34234.0,5136.0,,142.0,2.0,0.0,,280.0,https://www.ge.ch/document/20094/telecharger,,38.0,,,,,9.0
 2020-05-24,,GR,,826.0,,4.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-24,,JU,,204.0,,3.0,2.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
 2020-05-24,,LU,,733.0,,,,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,
@@ -1994,15 +1994,15 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-24,,VS,,1936.0,,25.0,4.0,3.0,,151.0,https://www.vs.ch/de/web/coronavirus,,,,,,,
 2020-05-24,08:00,ZG,,202.0,,0.0,0.0,,174.0,8.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,
 2020-05-24,14:30,ZH,,3589.0,,28.0,,1.0,,130.0,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,
-2020-05-25,14:45,AG,,1198.0,,6.0,1.0,1.0,1110.0,45.0,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200528_KFS_Coronavirus_Lagebulletin_60.pdf,,,,,,,
+2020-05-25,14:45,AG,,1198.0,,6.0,1.0,1.0,1110.0,45.0,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200528_KFS_Coronavirus_Lagebulletin_60.pdf,37.0,88.0,,,,,
 2020-05-25,11:00,AI,,25.0,,,,,,0.0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,,
-2020-05-25,18:00,AR,,99.0,,1.0,1.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,
+2020-05-25,18:00,AR,,99.0,,1.0,1.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,1.0,0.0,,,,,
 2020-05-25,08:00,BE,,1881.0,,18.0,2.0,2.0,,96.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,
 2020-05-25,,BL,,838.0,,2.0,0.0,0.0,801.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,
 2020-05-25,09:00,BS,,976.0,,,,,920.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-976-bestaetigte-faelle-im-kanton-basel-stadt-gd-3.html,6.0,9.0,505.0,,,,
 2020-05-25,,FL,,82.0,,,,,,1.0,https://www.regierung.li/media/attachments/282-corona-auffahrtswochenende-0525.pdf?t=637260312158361518,,,,,,,
 2020-05-25,,FR,,1156.0,,8.0,3.0,,148.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-25,,GE,34680.0,5136.0,,143.0,2.0,0.0,775.0,280.0,https://www.ge.ch/document/20094/telecharger,,36.0,,,,,8.0
+2020-05-25,,GE,34585.0,5136.0,,143.0,2.0,0.0,775.0,281.0,https://www.ge.ch/document/20094/telecharger,,31.0,,,,,8.0
 2020-05-25,12:30,GL,,128.0,,1.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-25,,GR,,826.0,,5.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-25,,JU,,204.0,,3.0,2.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -2027,7 +2027,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-26,10:00,BS,,976.0,,4.0,2.0,,922.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-weiterhin-976-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,4.0,7.0,505.0,2.0,,,
 2020-05-26,,FL,,82.0,,,,,,1.0,https://www.regierung.li/media/attachments/285-corona-regierung-informiert-freitag-0526.pdf?t=637261155039872915,,,,,,,
 2020-05-26,,FR,,1156.0,,7.0,3.0,,148.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-26,,GE,35316.0,5139.0,,141.0,1.0,0.0,780.0,280.0,https://www.ge.ch/document/20094/telecharger,,36.0,,,,,7.0
+2020-05-26,,GE,35239.0,5139.0,,141.0,1.0,0.0,780.0,281.0,https://www.ge.ch/document/20094/telecharger,,31.0,,,,,7.0
 2020-05-26,12:00,GL,,128.0,,0.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-26,,GR,,827.0,,4.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-26,,JU,,204.0,,3.0,2.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -2054,7 +2054,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-27,09:00,BS,,976.0,,2.0,,,923.0,50.0,https://www.coronavirus.bs.ch//nm/2020-tagesbulletin-coronavirus-noch-drei-aktive-faelle-im-kanton-basel-stadt-gd.html,1.0,6.0,506.0,,,,
 2020-05-27,,FL,,82.0,,,,,,1.0,https://www.regierung.li/media/attachments/289-corona-aufarbeitung-covid19-pandemie-0527.pdf?t=637262854269934127,,,,,,,
 2020-05-27,,FR,,1157.0,,7.0,3.0,,148.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-27,,GE,35693.0,5142.0,,133.0,0.0,0.0,788.0,280.0,https://www.ge.ch/document/20094/telecharger,,47.0,,,,,7.0
+2020-05-27,,GE,35751.0,5142.0,,133.0,0.0,0.0,788.0,281.0,https://www.ge.ch/document/20094/telecharger,,43.0,,,,,7.0
 2020-05-27,13:00,GL,,128.0,,0.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-27,,GR,,827.0,,4.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-27,,JU,,205.0,,3.0,1.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -2073,14 +2073,14 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-27,,VS,,1942.0,,22.0,3.0,3.0,,151.0,https://www.vs.ch/de/web/coronavirus,,,,,,,
 2020-05-27,08:00,ZG,,202.0,,0.0,0.0,,179.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,
 2020-05-27,14:30,ZH,,3600.0,,18.0,,1.0,,130.0,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,
-2020-05-28,14:45,AG,,1201.0,,6.0,1.0,1.0,1120.0,46.0,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200528_KFS_Coronavirus_Lagebulletin_60.pdf,,,,,,,
+2020-05-28,14:45,AG,,1201.0,,6.0,1.0,1.0,1120.0,46.0,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200528_KFS_Coronavirus_Lagebulletin_60.pdf,34.0,110.0,,,,,
 2020-05-28,08:00,AR,,99.0,,1.0,1.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,
 2020-05-28,08:00,BE,,1883.0,,11.0,2.0,1.0,,96.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,
 2020-05-28,,BL,,840.0,,0.0,0.0,0.0,802.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,
 2020-05-28,09:30,BS,,976.0,,2.0,,,923.0,50.0,https://www.gd.bs.ch/nm/2020-tagesbulletin-coronavirus-weiterhin-total-976-bestaetigte-infektionen-und-noch-drei-aktive-faelle-im-kanton-basel-stadt-gd.html,1.0,0.0,506.0,,,,
 2020-05-28,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223526/?typ=news,,,,,,,
 2020-05-28,,FR,,1158.0,,7.0,3.0,,149.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
-2020-05-28,12:00,GE,,,,131.0,0.0,0.0,792.0,,https://www.ge.ch/document/20094/telecharger,,,,,,,6.0
+2020-05-28,,GE,36000.0,5144.0,,131.0,0.0,0.0,792.0,281.0,https://www.ge.ch/document/20094/telecharger,,42.0,,,,,6.0
 2020-05-28,14:00,GL,,128.0,,0.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-28,,GR,,827.0,,2.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-28,,JU,,205.0,,3.0,1.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -2106,6 +2106,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-29,10:00,BS,,978.0,,2.0,,,923.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-978-bestaetigte-infektionen-im-kanton-basel-stadt-gd.html,3.0,3.0,507.0,,,,
 2020-05-29,,FL,,82.0,,,,,,1.0,https://www.regierung.li/media/attachments/293-corona-neue-normalitaet-0529.pdf?t=637263730261374532,,,,,,,
 2020-05-29,,FR,,1159.0,,7.0,3.0,,149.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
+2020-05-29,,GE,36276.0,5148.0,,,0.0,0.0,,281.0,https://www.ge.ch/document/20094/telecharger,,44.0,,,,,
 2020-05-29,13:00,GL,,128.0,,0.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-05-29,,GR,,827.0,,2.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-29,,JU,,205.0,,3.0,1.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -2129,6 +2130,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-30,10:00,BS,,978.0,,2.0,,,923.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-978-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,3.0,73.0,508.0,,,,
 2020-05-30,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223530/?typ=news,,,,,,,
 2020-05-30,,FR,,1159.0,,5.0,3.0,,150.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
+2020-05-30,,GE,36446.0,5153.0,,,0.0,0.0,,281.0,https://www.ge.ch/document/20094/telecharger,,45.0,,,,,
 2020-05-30,,GR,,827.0,,2.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-30,,JU,,205.0,,3.0,1.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
 2020-05-30,,LU,,735.0,,,,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,
@@ -2147,6 +2149,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-05-31,10:00,BS,,978.0,,2.0,,,923.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-978-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,3.0,73.0,508.0,,,,
 2020-05-31,,FL,,82.0,,,,,,1.0,https://www.regierung.li/media/attachments/295-corona-situationsbericht-0531.pdf?t=637265718330529302,,,,,,,
 2020-05-31,,FR,,1159.0,,5.0,3.0,,150.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
+2020-05-31,,GE,36576.0,5153.0,,,0.0,0.0,,281.0,https://www.ge.ch/document/20094/telecharger,,44.0,,,,,
 2020-05-31,,GR,,827.0,,2.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-05-31,,JU,,205.0,,3.0,1.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
 2020-05-31,,LU,,735.0,,,,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,
@@ -2166,6 +2169,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-06-01,10:00,BS,,978.0,,2.0,,,923.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-978-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,3.0,84.0,508.0,,,,
 2020-06-01,,FL,,82.0,,,,,,1.0,https://www.regierung.li/de/mitteilungen/223532/?typ=news,,,,,,,
 2020-06-01,,FR,,1159.0,,5.0,3.0,,150.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
+2020-06-01,,GE,36715.0,5154.0,,,0.0,0.0,,,https://www.ge.ch/document/20094/telecharger,,31.0,,,,,
 2020-06-01,,GR,,827.0,,2.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-06-01,,JU,,205.0,,3.0,1.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
 2020-06-01,,LU,,735.0,,,,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,
@@ -2185,6 +2189,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-06-02,10:00,BS,,978.0,,2.0,,,923.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-978-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,3.0,84.0,509.0,,,,
 2020-06-02,,FL,,82.0,,,,,,1.0,https://www.regierung.li/media/attachments/302-corona-situationsbericht-0602.pdf?t=637267982856064951,,,,,,,
 2020-06-02,,FR,,1161.0,,5.0,3.0,,150.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
+2020-06-02,12:00,GE,,,,131.0,1.0,0.0,807.0,,https://www.ge.ch/document/20094/telecharger,,,,,,,6.0
 2020-06-02,12:00,GL,,128.0,,0.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-06-02,,GR,,827.0,,2.0,,,,48.0,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,
 2020-06-02,,JU,,205.0,,1.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34568.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_02_06.xlsx?download=1,,,,,,,
@@ -2209,6 +2214,8 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-06-03,,FR,,1162.0,,5.0,3.0,,150.0,84.0,https://www.fr.ch/sites/default/files/2020-06/Copie%20de%20statistiques_situation_FR_0306.xlsx,,,,,,,
 2020-06-03,11:30,GL,,128.0,,0.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-06-03,,LU,,735.0,,20.0,5.0,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,
+2020-06-03,,NW,,124.0,,0.0,0.0,,,3.0,http://www.nw.ch/coronastatistik,,,,,,,
+2020-06-03,16:00,OW,,82.0,,0.0,,,,0.0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,
 2020-06-03,,SG,,809.0,,8.0,2.0,,223.0,37.0,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,
 2020-06-03,09:30,SH,,78.0,,4.0,1.0,,,6.0,https://sh.ch/CMS/get/file/26495700-dd80-49f3-ba00-b922726b002b,,,,,,,
 2020-06-03,00:00,SO,,445.0,,,,,,17.0,https://corona.so.ch/index.php?id=27979,,,,,,,
@@ -2216,4 +2223,4 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-06-03,,TG,,383.0,,1.0,0.0,,,18.0,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,
 2020-06-03,08:00,TI,,3315.0,,20.0,1.0,1.0,899.0,348.0,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,
 2020-06-03,,VS,,1947.0,,21.0,4.0,4.0,,151.0,https://www.vs.ch/de/web/coronavirus,,,,,,,
-2020-06-03,14:30,ZH,,3623.0,,9.0,,1.0,,130.0,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,
+2020-06-03,14:30,ZH,,3623.0,,9.0,,1.0,,130.0,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,18.0,47.0,,,,,
