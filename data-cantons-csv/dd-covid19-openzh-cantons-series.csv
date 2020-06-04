@@ -2237,6 +2237,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-04,03:00,FR,30,1164,-1,4,3,,150,84,https://www.fr.ch/sites/default/files/2020-06/statistiques_situation_FR_0406.xlsx,,,,,,,,46.718391,7.074008,Fribourg,10,2,0,369.41,26.658
 2020-06-04,12:30,GL,,128,0,0,,,,12,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,317.62,29.777
 2020-06-04,03:00,LU,,735,0,20,5,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,0,0,180.81,4.92
+2020-06-04,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
 2020-06-04,13:30,OW,6,82,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-04,09:30,SH,,78,0,4,1,,,6,https://sh.ch/CMS/get/file/62687fc6-e386-4c55-97c9-6d7666b3d8a9,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-06-04,03:00,SO,,446,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,164.33,6.264
