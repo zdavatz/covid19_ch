@@ -2230,6 +2230,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-03,14:30,ZH,,3623,-2,9,,1.0,,130,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,18.0,47.0,,,,,,47.41275,8.65508,Zürich,01,3,0,240.84,8.642
 2020-06-04,09:00,AR,,100,0,1,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,0.0,0.0,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,181.16,5.435
 2020-06-04,08:00,BE,,1914,0,6,0,0.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,2,0,185.63,9.407
+2020-06-04,03:00,BL,,844,0,0,0,0.0,802,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,294.08,12.195
 2020-06-04,10:00,BS,235,979,0,2,2,,924,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-979-bestaetigte-faelle-im-kanton-basel-stadt-gd-2.html,5.0,92.0,509.0,,,,,47.564869,7.615259,Basel-Stadt,12,0,0,504.9,25.786
 2020-06-04,03:00,FR,30,1164,-1,4,3,,150,84,https://www.fr.ch/sites/default/files/2020-06/statistiques_situation_FR_0406.xlsx,,,,,,,,46.718391,7.074008,Fribourg,10,2,0,369.41,26.658
 2020-06-04,12:30,GL,,128,0,0,,,,12,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,317.62,29.777
@@ -2240,3 +2241,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-04,10:00,SZ,10,307,0,1,,,284,23,https://www.sz.ch/public/upload/assets/46959/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.17,14.622
 2020-06-04,03:00,TG,276,383,0,1,0,,,18,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,0,0,139.88,6.574
 2020-06-04,08:00,TI,,3316,-2,18,1,1.0,902,348,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,1,0,937.52,98.388
+2020-06-04,14:30,ZH,,3631,0,9,,1.0,,130,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,8,0,241.37,8.642
