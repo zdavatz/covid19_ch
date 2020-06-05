@@ -4,7 +4,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-02,17:00,UR,85,93,0,0,,,86,7,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,0,0,256.2,19.284
 2020-06-02,08:00,ZG,,202,0,0,0,,185,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,0,0,161.08,7.177
 2020-06-03,11:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
-2020-06-03,03:00,GR,,828,0,2,,,,48,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,1,0,418.39,24.255
 2020-06-03,03:00,SG,,809,0,8,2,,223,37,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,1,0,160.29,7.331
 2020-06-03,03:00,VD,,5450,0,42,9,,,406,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,1,0,687.18,51.192
 2020-06-04,14:45,AG,,1216,0,3,2,2.0,1145,46,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200604_KFS_Coronavirus_Lagebulletin_62.pdf,,,,,,,,47.40966,8.15688,Aargau,01,3,0,181.22,6.855
@@ -16,13 +15,14 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-04,03:00,FR,30,1164,-1,4,3,,150,84,https://www.fr.ch/sites/default/files/2020-06/statistiques_situation_FR_0406.xlsx,,,,,,,,46.718391,7.074008,Fribourg,10,2,0,369.41,26.658
 2020-06-04,03:00,GE,37233,5158,-3,122,1,1.0,817,281,https://www.ge.ch/document/20094/telecharger,,,,,,,5.0,46.220528,6.132935,Genève,25,0,0,1041.6,56.745
 2020-06-04,12:30,GL,,128,0,0,,,,12,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,317.62,29.777
+2020-06-04,03:00,GR,,828,0,2,,,,48,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/_layouts/15/GenericDataFeed/feed.aspx?PageID=26&ID=g_1175d522_e609_4287_93af_d14c9efd5218&FORMAT=JSONRAW,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,418.39,24.255
 2020-06-04,03:00,LU,,735,0,20,5,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,0,0,180.81,4.92
 2020-06-04,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
 2020-06-04,13:30,OW,6,82,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-04,09:30,SH,,78,0,4,1,,,6,https://sh.ch/CMS/get/file/62687fc6-e386-4c55-97c9-6d7666b3d8a9,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
-2020-06-04,03:00,SO,,446,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,164.33,6.264
 2020-06-04,10:00,SZ,10,307,0,1,,,284,23,https://www.sz.ch/public/upload/assets/46959/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.17,14.622
 2020-06-04,03:00,TG,276,383,0,1,0,,,18,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,0,0,139.88,6.574
 2020-06-04,08:00,TI,,3316,-2,18,1,1.0,902,348,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,1,0,937.52,98.388
 2020-06-04,03:00,VS,,1948,1,22,5,4.0,,151,https://www.vs.ch/de/web/coronavirus,,,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,570.42,44.217
 2020-06-04,14:30,ZH,,3631,0,9,,1.0,,130,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,19.0,68.0,,,,,,47.41275,8.65508,Zürich,01,8,0,241.37,8.642
+2020-06-05,03:00,SO,,446,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,164.33,6.264
