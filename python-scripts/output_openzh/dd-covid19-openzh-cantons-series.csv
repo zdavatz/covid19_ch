@@ -2276,3 +2276,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-05,03:00,VS,,1948,0,21,5,4.0,,151,https://www.vs.ch/de/web/coronavirus,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,570.42,44.217
 2020-06-05,14:30,ZH,,3637,-1,8,,1.0,,130,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,19.0,68.0,,,,,,47.41275,8.65508,Zürich,01,6,0,241.77,8.642
 2020-06-06,08:00,BE,,1918,0,5,0,0.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,2,0,186.01,9.407
+2020-06-06,03:00,BL,,845,0,0,0,0.0,803,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,294.43,12.195
