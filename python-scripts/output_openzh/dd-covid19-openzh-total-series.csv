@@ -2261,6 +2261,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-06-05,08:00,BE,,1916.0,,5.0,0.0,0.0,,97.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,
 2020-06-05,,BL,,845.0,,0.0,0.0,0.0,802.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,
 2020-06-05,08:45,BS,,982.0,,3.0,,,924.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-982-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,5.0,93.0,509.0,,,,
+2020-06-05,,FL,,82.0,,,,,,1.0,https://www.regierung.li/media/attachments/309-corona-situationsbericht-0605.pdf?t=637270690877677862,,,,,,,
 2020-06-05,,FR,,1166.0,,5.0,2.0,,150.0,84.0,https://www.fr.ch/sites/default/files/2020-06/statistiques_situation_FR_0506.xlsx,,,,,,,
 2020-06-05,12:30,GL,,128.0,,0.0,,,,12.0,https://www.gl.ch/public/upload/assets/28562/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-06-05,,JU,,205.0,,1.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34604.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_05_06.xlsx?download=1,,,,,,,
@@ -2277,4 +2278,5 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-06-05,14:30,ZH,,3637.0,,8.0,,1.0,,130.0,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,19.0,68.0,,,,,
 2020-06-06,08:00,BE,,1918.0,,5.0,0.0,0.0,,97.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,
 2020-06-06,,BL,,845.0,,0.0,0.0,0.0,803.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,
+2020-06-06,,FL,,82.0,,,,,,1.0,https://www.regierung.li/media/attachments/310-corona-situationsbericht-0606.pdf?t=637270690877677862,,,,,,,
 2020-06-06,10:00,SZ,,307.0,,,,,284.0,23.0,https://www.sz.ch/public/upload/assets/46983/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,
