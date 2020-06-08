@@ -2285,5 +2285,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-07,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/311-corona-situationsbericht-0607.pdf?t=637271726579813377,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-06-07,03:00,LU,,736,0,20,5,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,1,0,181.06,4.92
 2020-06-07,10:00,SZ,10,307,0,1,,,284,23,https://www.sz.ch/public/upload/assets/46988/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.17,14.622
+2020-06-08,10:00,BS,235,982,0,3,2,,928,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-unveraendert-982-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,4.0,,,,,,,47.564869,7.615259,Basel-Stadt,12,0,0,506.45,25.786
 2020-06-08,03:00,SO,,446,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,164.33,6.264
 2020-06-08,10:00,SZ,10,307,0,1,,,284,23,https://www.sz.ch/public/upload/assets/46988/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.17,14.622
