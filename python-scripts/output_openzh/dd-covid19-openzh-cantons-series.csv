@@ -2331,3 +2331,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-08,03:00,VS,,1957,0,16,4,3.0,,151,https://www.vs.ch/de/web/coronavirus,,,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,573.06,44.217
 2020-06-08,08:00,ZG,,203,0,0,0,,185,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,1,0,161.88,7.177
 2020-06-08,14:30,ZH,,3641,0,7,,0.0,,130,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,19.0,68.0,,,,,,47.41275,8.65508,Zürich,01,0,0,242.04,8.642
+2020-06-09,03:00,SO,,446,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,164.33,6.264
