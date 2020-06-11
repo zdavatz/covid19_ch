@@ -25,4 +25,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-11,09:30,SH,,79,0,3,1,,,7,https://sh.ch/CMS/get/file/fc4b3e89-0a82-4052-83a0-82b138d373aa,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,97.05,8.6
 2020-06-11,10:00,SZ,10,308,0,1,,,284,23,https://www.sz.ch/public/upload/assets/47022/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,1,0,195.8,14.622
 2020-06-11,03:00,TG,276,384,0,1,0,,,18,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,0,0,140.25,6.574
-2020-06-11,14:30,ZH,,3646,1,8,,0.0,,130,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,16.0,37.0,,,,,,47.41275,8.65508,Zürich,01,2,0,242.37,8.642
+2020-06-11,14:30,ZH,,3646,1,8,,0.0,,130,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,20.0,64.0,,,,,,47.41275,8.65508,Zürich,01,2,0,242.37,8.642
