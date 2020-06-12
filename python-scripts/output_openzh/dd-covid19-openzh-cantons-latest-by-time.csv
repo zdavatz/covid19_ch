@@ -21,8 +21,8 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-11,09:30,BS,235,983,0,1,2,,929,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-983-bestaetigte-faelle-im-kanton-basel-stadt-gd-3.html,4.0,5.0,,509.0,,,,47.564869,7.615259,Basel-Stadt,12,0,0,506.96,25.786
 2020-06-11,15:30,GL,,128,0,0,,,,12,https://www.gl.ch/public/upload/assets/28728/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,317.62,29.777
 2020-06-11,03:00,LU,,736,0,8,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,0,0,181.06,4.92
-2020-06-11,09:30,SH,,79,0,3,1,,,7,https://sh.ch/CMS/get/file/fc4b3e89-0a82-4052-83a0-82b138d373aa,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,97.05,8.6
-2020-06-11,10:00,SZ,10,308,0,1,,,284,23,https://www.sz.ch/public/upload/assets/47022/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,1,0,195.8,14.622
 2020-06-11,03:00,TG,276,384,0,1,0,,,18,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,0,0,140.25,6.574
 2020-06-11,14:30,ZH,,3646,1,8,,0.0,,130,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,20.0,64.0,,,,,,47.41275,8.65508,Zürich,01,2,0,242.37,8.642
 2020-06-12,08:00,AR,,100,0,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,0.0,0.0,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,181.16,5.435
+2020-06-12,09:30,SH,,79,0,3,1,,,7,https://sh.ch/CMS/get/file/e955c771-144c-4276-80f9-04f3a786b7d1,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,97.05,8.6
+2020-06-12,10:00,SZ,10,308,0,1,,,284,23,https://www.sz.ch/public/upload/assets/47024/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.8,14.622
