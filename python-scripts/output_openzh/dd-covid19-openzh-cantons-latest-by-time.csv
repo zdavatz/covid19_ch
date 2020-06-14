@@ -16,7 +16,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-12,11:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-06-12,09:15,AR,,100,0,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,0.0,0.0,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,181.16,5.435
 2020-06-12,09:30,BS,235,983,0,1,2,,930,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-983-bestaetigte-faelle-im-kanton-basel-stadt-gd-4.html,3.0,5.0,,509.0,,,,47.564869,7.615259,Basel-Stadt,12,0,0,506.96,25.786
-2020-06-12,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/media/attachments/324-corona-situationsbericht-0612.pdf?t=637275809215362533,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-06-12,12:30,GL,,128,0,0,,,,12,https://www.gl.ch/public/upload/assets/28728/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,317.62,29.777
 2020-06-12,03:00,NE,,735,1,3,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,412.92,46.629
 2020-06-12,09:30,SH,,79,0,3,1,,,7,https://sh.ch/CMS/get/file/e955c771-144c-4276-80f9-04f3a786b7d1,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,97.05,8.6
@@ -26,3 +25,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-13,10:00,SZ,10,308,0,1,,,284,23,https://www.sz.ch/public/upload/assets/47042/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.8,14.622
 2020-06-14,08:00,BE,,1933,0,1,0,0.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,0,0,187.47,9.407
 2020-06-14,03:00,BL,,846,0,0,0,0.0,808,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,294.77,12.195
+2020-06-14,03:00,FL,900,82,0,,,,1,1,https://www.regierung.li/de/mitteilungen/223567/?typ=news,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
