@@ -18,11 +18,11 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-17,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
 2020-06-17,15:30,OW,6,82,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-17,03:00,SG,,820,0,7,2,,223,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,162.47,7.529
-2020-06-17,09:30,SH,,81,0,3,1,,,7,https://sh.ch/CMS/get/file/e874e2ce-3454-4bea-88cf-93ca7deacc5b,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,99.51,8.6
 2020-06-17,10:00,SZ,10,308,0,1,,,284,23,https://www.sz.ch/public/upload/assets/47106/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.8,14.622
 2020-06-17,03:00,TG,276,385,0,1,0,,,18,https://www.tg.ch/news/fachdossier-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,1,0,140.61,6.574
 2020-06-17,08:00,TI,,3323,0,6,0,0.0,908,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,2,0,939.5,98.954
 2020-06-17,03:00,VS,,1985,0,15,4,3.0,287,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,581.26,44.802
 2020-06-17,14:30,ZH,,3681,0,8,,0.0,,130,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,23.0,64.0,,,,,,47.41275,8.65508,Zürich,01,11,0,244.7,8.642
+2020-06-18,09:30,SH,,81,0,3,1,,,7,https://sh.ch/CMS/get/file/9679299b-c7b6-4850-adce-a2baab6994ef,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,99.51,8.6
 2020-06-18,03:00,SO,,449,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,165.44,6.264
 2020-06-18,08:00,ZG,,215,0,0,0,,190,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,0,0,171.45,7.177
