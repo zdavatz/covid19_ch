@@ -10,7 +10,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-18,11:30,GL,,128,0,0,,,,13,https://www.gl.ch/public/upload/assets/28728/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,317.62,32.258
 2020-06-18,03:00,GR,,830,0,0,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,1.0,6.0,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,419.4,25.265
 2020-06-18,03:00,JU,,206,0,1,0,,,7,https://www.jura.ch/Htdocs/Files/v/34692.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_18_06.xlsx?download=1,,,,,,,,47.350744,7.156107,Jura,26,0,0,281.04,9.55
-2020-06-18,03:00,LU,,740,0,13,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,0,0,182.04,4.92
 2020-06-18,03:00,NE,,738,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,414.61,46.629
 2020-06-18,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
 2020-06-18,15:30,OW,6,82,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
@@ -22,6 +21,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-19,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-06-19,09:00,AR,,100,-1,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,0.0,0.0,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,181.16,5.435
 2020-06-19,09:30,BS,235,985,0,3,2,,933,50,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-985-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,2.0,3.0,,,509.0,,,47.564869,7.615259,Basel-Stadt,12,1,0,507.99,25.786
+2020-06-19,03:00,LU,,741,0,13,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,1,0,182.29,4.92
 2020-06-19,09:30,SH,,81,0,3,1,,,7,https://sh.ch/CMS/get/file/ebae6cb0-fb55-44e4-b321-71fa9d344df2,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,99.51,8.6
 2020-06-19,03:00,SO,,451,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,166.18,6.264
 2020-06-19,10:00,SZ,10,309,0,1,,,285,23,https://www.sz.ch/public/upload/assets/47138/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,1,0,196.44,14.622
