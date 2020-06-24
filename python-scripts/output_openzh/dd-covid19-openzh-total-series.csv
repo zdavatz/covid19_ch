@@ -2744,6 +2744,8 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-06-24,11:30,GL,,129.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/28728/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
 2020-06-24,,JU,,208.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34705.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees-cas-confirmes-et-cas-confirmes-hospitalises_24-juin-2020.xlsx?download=1,,,,,,,
 2020-06-24,,LU,,747.0,,10.0,1.0,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,
+2020-06-24,,NW,,124.0,,0.0,0.0,,,3.0,http://www.nw.ch/coronastatistik,,,,,,,
+2020-06-24,15:00,OW,,82.0,,0.0,,,,0.0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,
 2020-06-24,,SG,,825.0,,12.0,3.0,,226.0,38.0,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,
 2020-06-24,00:00,SO,,452.0,,,,,,17.0,https://corona.so.ch/index.php?id=27979,,,,,,,
 2020-06-24,10:00,SZ,,316.0,,,,,285.0,23.0,https://www.sz.ch/public/upload/assets/47275/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,
