@@ -2788,6 +2788,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-26,08:50,BS,235,985,0,2,1,,934,50,Medizinische Dienste des Gesundheitsdepartements des Kantons Basel-Stadt,1.0,6.0,,,509.0,,,47.564869,7.615259,Basel-Stadt,12,0,0,507.99,25.786
 2020-06-26,03:00,FR,30,1211,0,2,0,,152,85,https://www.fr.ch/sites/default/files/2020-06/statistiques_situation_FR_2606.xlsx,,,,,,,,46.718391,7.074008,Fribourg,10,5,0,384.32,26.976
 2020-06-26,11:30,GL,,129,0,0,,,,13,https://www.gl.ch/public/upload/assets/28728/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,320.1,32.258
+2020-06-26,03:00,LU,,749,0,10,1,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,2,0,184.26,4.92
 2020-06-26,03:00,SG,,831,0,12,3,,226,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,3,0,164.65,7.529
 2020-06-26,03:00,SO,,453,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,166.91,6.264
 2020-06-26,10:00,SZ,10,320,0,1,,,285,23,https://www.sz.ch/public/upload/assets/47325/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,3,0,203.43,14.622
