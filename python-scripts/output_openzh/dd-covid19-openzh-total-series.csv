@@ -2767,6 +2767,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-06-25,09:30,BS,,985.0,,2.0,1.0,,934.0,50.0,https://www.gd.bs.ch//nm/2020-tagesbulletin-coronavirus-unveraendert-985-bestaetigte-faelle-im-kanton-basel-stadt-gd-4.html,1.0,6.0,,,509.0,2.0,
 2020-06-25,,FL,,82.0,,,,,,1.0,https://www.regierung.li/media/attachments/356-corona-situationsbericht-0625.pdf,,,,,,,
 2020-06-25,11:30,GL,,129.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/28728/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
+2020-06-25,,GR,,831.0,,0.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,1.0,13.0,,,,,
 2020-06-25,,JU,,210.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34711.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees--cas-confirmes-et-cas-confirmes-hospitalises---situation-au-25-juin-2020.xlsx?download=1,,,,,,,
 2020-06-25,,LU,,747.0,,10.0,1.0,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,
 2020-06-25,,NE,,,,1.0,0.0,0.0,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,
@@ -2780,3 +2781,5 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-06-25,,VS,,2020.0,0.0,13.0,2.0,1.0,293.0,153.0,https://www.vs.ch/de/web/coronavirus,,,,,,,
 2020-06-25,08:00,ZG,,219.0,,0.0,0.0,,196.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,
 2020-06-25,14:30,ZH,,3727.0,,7.0,,1.0,,130.0,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,59.0,122.0,,,,,
+2020-06-26,08:00,AI,,25.0,,,,,,0.0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,,,,,
+2020-06-26,,SG,,831.0,,,,,,38.0,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,
