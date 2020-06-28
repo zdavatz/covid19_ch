@@ -23,6 +23,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-26,03:00,VS,,2029,0,10,1,1.0,296,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,594.14,44.802
 2020-06-26,14:30,ZH,,3746,0,7,,1.0,,130,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,59.0,122.0,,,,,,47.41275,8.65508,Zürich,01,19,0,249.02,8.642
 2020-06-27,08:00,BE,,1929,0,1,0,0.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,1,0,187.08,9.407
-2020-06-27,09:20,BS,235,985,0,2,1,,934,50,Medizinische Dienste des Gesundheitsdepartements des Kantons Basel-Stadt,1.0,5.0,,,509.0,,,47.564869,7.615259,Basel-Stadt,12,0,0,507.99,25.786
 2020-06-27,03:00,LU,,749,0,10,1,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,0,0,184.26,4.92
 2020-06-27,10:00,SZ,10,323,0,1,,,285,23,https://www.sz.ch/public/upload/assets/47359/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,3,0,205.34,14.622
+2020-06-28,13:00,BS,235,985,0,2,1,,934,50,Medizinische Dienste des Gesundheitsdepartements des Kantons Basel-Stadt,1.0,5.0,,,511.0,,,47.564869,7.615259,Basel-Stadt,12,0,0,507.99,25.786
