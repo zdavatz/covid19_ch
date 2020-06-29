@@ -2834,6 +2834,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-29,12:00,GL,,129,0,0,,,,13,https://www.gl.ch/public/upload/assets/28728/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,320.1,32.258
 2020-06-29,03:00,LU,,754,0,10,1,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,2,0,185.49,4.92
 2020-06-29,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
+2020-06-29,16:00,OW,6,83,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,220.74,0.0
 2020-06-29,03:00,SG,,837,0,12,3,,226,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,6,0,165.84,7.529
 2020-06-29,09:30,SH,,83,0,3,0,,,7,https://sh.ch/CMS/get/file/6d39d86a-691b-40f0-9008-16264e316785,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,101.97,8.6
 2020-06-29,03:00,SO,,456,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,3,0,168.02,6.264
