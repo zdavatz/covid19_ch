@@ -2851,6 +2851,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-29,14:30,ZH,,3778,2,10,,1.0,,130,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,9,0,251.15,8.642
 2020-06-30,08:00,AG,,1282,0,2,1,1.0,1170,47,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,39.0,152.0,,,,,,47.40966,8.15688,Aargau,01,8,0,191.06,7.004
 2020-06-30,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
+2020-06-30,08:00,BE,,1937,0,2,0,0.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,2,0,187.86,9.407
 2020-06-30,08:30,BS,235,985,0,2,1,,935,50,Medizinische Dienste des Gesundheitsdepartements des Kantons Basel-Stadt,0.0,7.0,,,510.0,,,47.564869,7.615259,Basel-Stadt,12,0,0,507.99,25.786
 2020-06-30,03:00,SG,,843,0,12,3,,226,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,6,0,167.03,7.529
 2020-06-30,09:30,SH,,83,-1,2,0,,,7,https://sh.ch/CMS/get/file/8a001782-9c2f-4ede-abb8-6b7a962e2ad5,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,101.97,8.6
