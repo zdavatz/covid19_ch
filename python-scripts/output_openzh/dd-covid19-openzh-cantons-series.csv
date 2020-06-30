@@ -2896,4 +2896,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-30,08:00,TI,,3329,0,4,0,0.0,912,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,1,0,941.19,98.954
 2020-06-30,15:00,UR,85,97,0,0,,,86,7,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,2,0,267.22,19.284
 2020-06-30,08:00,ZG,,225,0,0,0,,199,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,2,0,179.43,7.177
-2020-06-30,14:30,ZH,,3805,2,12,,0.0,,131,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,28,0,252.94,8.708
+2020-06-30,14:30,ZH,,3805,2,12,,0.0,,131,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,92.0,636.0,,,,,,47.41275,8.65508,Zürich,01,28,0,252.94,8.708
