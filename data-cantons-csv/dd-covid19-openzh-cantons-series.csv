@@ -2832,6 +2832,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-27,03:00,SH,,81,0,2,0,,,7,https://sh.ch/CMS/get/file/8a001782-9c2f-4ede-abb8-6b7a962e2ad5,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,99.51,8.6
 2020-06-27,10:00,SZ,10,323,0,1,,,285,23,https://www.sz.ch/public/upload/assets/47412/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,3,0,205.34,14.622
 2020-06-27,10:00,TG,276,393,0,2,0,,69,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,2,0,143.54,6.574
+2020-06-27,08:00,TI,,3327,0,5,0,0.0,911,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,0,0,940.63,98.954
 2020-06-27,03:00,VD,,5549,0,27,2,,,424,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,3,0,699.66,53.461
 2020-06-27,08:00,ZG,,221,0,0,0,,198,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,0,0,176.24,7.177
 2020-06-27,14:30,ZH,,3758,1,8,,0.0,,130,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,12,0,249.82,8.642
@@ -2846,6 +2847,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-28,03:00,SH,,81,0,2,0,,,7,https://sh.ch/CMS/get/file/8a001782-9c2f-4ede-abb8-6b7a962e2ad5,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,99.51,8.6
 2020-06-28,10:00,SZ,10,323,0,1,,,285,23,https://www.sz.ch/public/upload/assets/47412/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,205.34,14.622
 2020-06-28,10:00,TG,276,393,0,2,0,,69,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,0,0,143.54,6.574
+2020-06-28,08:00,TI,,3327,0,5,0,0.0,911,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,0,0,940.63,98.954
 2020-06-28,03:00,VD,,5557,0,27,2,,,424,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,8,0,700.67,53.461
 2020-06-28,08:00,ZG,,221,0,0,0,,198,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,0,0,176.24,7.177
 2020-06-28,14:30,ZH,,3769,0,8,,0.0,,130,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,11,0,250.55,8.642
@@ -2866,6 +2868,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-29,03:00,SO,,456,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,3,0,168.02,6.264
 2020-06-29,10:00,SZ,10,328,0,1,,,286,23,https://www.sz.ch/public/upload/assets/47412/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,5,0,208.52,14.622
 2020-06-29,10:00,TG,276,394,0,2,0,,69,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,1,0,143.9,6.574
+2020-06-29,08:00,TI,,3328,-1,4,0,0.0,912,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,1,0,940.91,98.954
 2020-06-29,08:00,UR,85,95,0,0,,,86,7,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,1,0,261.71,19.284
 2020-06-29,03:00,VD,,5567,1,28,3,,,424,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,10,0,701.93,53.461
 2020-06-29,08:00,ZG,,223,0,0,0,,198,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,2,0,177.83,7.177
@@ -2874,9 +2877,11 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-30,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-06-30,08:00,BE,,1937,0,2,0,0.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,2,0,187.86,9.407
 2020-06-30,08:30,BS,235,985,0,2,1,,935,50,Medizinische Dienste des Gesundheitsdepartements des Kantons Basel-Stadt,0.0,7.0,,,510.0,,,47.564869,7.615259,Basel-Stadt,12,0,0,507.99,25.786
+2020-06-30,03:00,LU,,760,0,10,1,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,6,0,186.96,4.92
 2020-06-30,03:00,SG,,843,0,12,3,,226,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,6,0,167.03,7.529
 2020-06-30,09:30,SH,,83,-1,2,0,,,7,https://sh.ch/CMS/get/file/8a001782-9c2f-4ede-abb8-6b7a962e2ad5,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,101.97,8.6
 2020-06-30,03:00,SO,,459,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,3,0,169.12,6.264
 2020-06-30,10:00,SZ,10,328,0,1,,,288,23,https://www.sz.ch/public/upload/assets/47412/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,208.52,14.622
 2020-06-30,10:00,TG,276,395,0,2,0,,69,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,1,0,144.27,6.574
+2020-06-30,08:00,TI,,3329,0,4,0,0.0,912,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,1,0,941.19,98.954
 2020-06-30,08:00,ZG,,225,0,0,0,,199,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,2,0,179.43,7.177
