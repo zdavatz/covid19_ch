@@ -7,7 +7,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-29,03:00,BL,,859,0,0,0,0.0,812,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,12.0,56.0,,,,,,47.45176,7.702414,Basel-Landschaft,13,1,0,299.3,12.195
 2020-06-29,03:00,FL,900,82,0,,,,81,1,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,212.44,2.591
 2020-06-29,03:00,FR,30,1220,0,4,0,,152,85,https://www.fr.ch/sites/default/files/2020-06/statistiques_situation_FR_2906.xlsx,,,,,,,,46.718391,7.074008,Fribourg,10,0,0,387.18,26.976
-2020-06-29,12:00,GL,,129,0,0,,,,13,https://www.gl.ch/public/upload/assets/28728/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,320.1,32.258
 2020-06-29,03:00,GR,,836,0,0,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,6.0,80.0,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,422.44,25.265
 2020-06-29,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
 2020-06-29,16:00,OW,6,83,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,220.74,0.0
@@ -18,6 +17,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-30,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-06-30,08:00,BE,,1937,0,2,0,0.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,2,0,187.86,9.407
 2020-06-30,08:30,BS,235,985,0,2,1,,935,50,Medizinische Dienste des Gesundheitsdepartements des Kantons Basel-Stadt,0.0,7.0,,,510.0,,,47.564869,7.615259,Basel-Stadt,12,0,0,507.99,25.786
+2020-06-30,13:00,GL,,129,0,0,,,,13,https://www.gl.ch/public/upload/assets/28728/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,320.1,32.258
 2020-06-30,03:00,LU,,760,0,10,1,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,47.067763,8.1102,Luzern,03,6,0,186.96,4.92
 2020-06-30,03:00,SG,,843,0,12,3,,226,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,6,0,167.03,7.529
 2020-06-30,09:30,SH,,83,-1,2,0,,,7,https://sh.ch/CMS/get/file/8a001782-9c2f-4ede-abb8-6b7a962e2ad5,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,101.97,8.6
