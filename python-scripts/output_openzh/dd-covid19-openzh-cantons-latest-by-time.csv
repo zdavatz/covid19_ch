@@ -2,7 +2,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-26,03:00,VS,,2029,0,10,1,1.0,296,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,594.14,44.802
 2020-06-29,03:00,FR,30,1220,0,4,0,,152,85,https://www.fr.ch/sites/default/files/2020-06/statistiques_situation_FR_2906.xlsx,,,,,,,,46.718391,7.074008,Fribourg,10,0,0,387.18,26.976
 2020-06-29,03:00,GE,37233,5250,0,7,3,1.0,847,295,https://www.ge.ch/document/20094/annexe/0,,,,,,,3.0,46.220528,6.132935,Genève,25,0,0,1060.18,59.572
-2020-06-29,03:00,VD,,5567,1,28,3,,,424,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,10,0,701.93,53.461
 2020-06-30,03:00,JU,,217,0,0,0,,,7,https://www.jura.ch/Htdocs/Files/v/34745.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees--cas-confirmes-et-cas-confirmes-hospitalises---situation-au-30-juin-2020.xlsx?download=1,,,,,,,,47.350744,7.156107,Jura,26,1,0,296.04,9.55
 2020-06-30,08:00,TI,,3329,0,4,0,0.0,912,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,1,0,941.19,98.954
 2020-07-01,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
@@ -18,6 +17,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-01,10:00,SZ,10,332,0,1,,,290,23,https://www.sz.ch/public/upload/assets/47445/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,4,0,211.06,14.622
 2020-07-01,10:00,TG,276,398,1,3,0,,69,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,3,0,145.36,6.574
 2020-07-01,17:00,UR,85,103,0,0,,,86,7,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,6,0,283.75,19.284
+2020-07-01,03:00,VD,,5587,-2,30,4,,,424,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,5,0,704.45,53.461
 2020-07-01,14:30,ZH,,3853,1,13,,0.0,,131,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,92.0,636.0,,,,,,47.41275,8.65508,Zürich,01,48,0,256.13,8.708
 2020-07-02,08:00,AG,,1316,0,2,1,1.0,1170,47,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,65.0,227.0,,,,,,47.40966,8.15688,Aargau,01,13,0,196.13,7.004
 2020-07-02,08:00,BE,,1945,0,7,0,0.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,6,0,188.63,9.407
