@@ -2938,4 +2938,9 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-01,08:00,ZG,,227,0,0,0,,202,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,2,0,181.02,7.177
 2020-07-01,14:30,ZH,,3853,1,13,,0.0,,131,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,92.0,636.0,,,,,,47.41275,8.65508,Zürich,01,48,0,256.13,8.708
 2020-07-02,08:00,AG,,1316,0,2,1,1.0,1170,47,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,65.0,227.0,,,,,,47.40966,8.15688,Aargau,01,13,0,196.13,7.004
+2020-07-02,08:00,BE,,1945,0,7,0,0.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,6,0,188.63,9.407
+2020-07-02,09:00,BS,235,986,0,2,1,,935,50,https://www.gesundheit.bs.ch,1.0,7.0,,,510.0,,,47.564869,7.615259,Basel-Stadt,12,1,0,508.51,25.786
+2020-07-02,03:00,SG,,859,0,12,3,,226,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,170.2,7.529
 2020-07-02,09:30,SH,,83,0,2,0,,,7,https://sh.ch/CMS/get/file/ee8edf05-588b-427f-a138-a49075160043,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,101.97,8.6
+2020-07-02,03:00,SO,,463,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,170.6,6.264
+2020-07-02,08:00,ZG,,229,0,0,0,,202,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,2,0,182.62,7.177
