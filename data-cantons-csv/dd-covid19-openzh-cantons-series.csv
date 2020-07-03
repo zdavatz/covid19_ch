@@ -2963,3 +2963,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-02,16:30,UR,85,104,0,0,,,86,7,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,1,0,286.5,19.284
 2020-07-02,08:00,ZG,,229,0,0,0,,202,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,9.0,39.0,,,,,,47.157296,8.537294,Zug,09,2,0,182.62,7.177
 2020-07-02,14:30,ZH,,3910,-3,10,,0.0,,131,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html,165.0,540.0,,,,,,47.41275,8.65508,Zürich,01,57,0,259.92,8.708
+2020-07-03,03:00,SG,,870,0,12,3,,226,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,11,0,172.38,7.529
+2020-07-03,03:00,SO,,464,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,170.97,6.264
+2020-07-03,08:00,ZG,,233,0,0,0,,202,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,4,0,185.81,7.177
