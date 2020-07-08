@@ -3093,6 +3093,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-08,08:15,BS,235,996,0,4,0,,935,50,https://www.gesundheit.bs.ch,11.0,24.0,,,510.0,,,47.564869,7.615259,Basel-Stadt,12,3,0,513.67,25.786
 2020-07-08,03:00,FR,30,1258,0,4,1,,152,85,https://www.fr.ch/sites/default/files/2020-07/200802_statistiques_situation_COVID_FR.xlsx,,,,,,,,46.718391,7.074008,Fribourg,10,3,0,399.24,26.976
 2020-07-08,12:00,GL,,130,0,0,,,,13,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,322.58,32.258
+2020-07-08,03:00,LU,,775,0,5,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,23.0,41.0,,,,,,47.067763,8.1102,Luzern,03,3,0,190.65,4.92
 2020-07-08,03:00,SG,,893,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,10,0,176.94,7.727
 2020-07-08,09:30,SH,,86,-1,0,0,,,7,https://sh.ch/CMS/get/file/81d4de9f-f56d-4274-8c40-6e788423791a,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,105.65,8.6
 2020-07-08,10:00,SZ,10,353,0,1,,,301,23,https://www.sz.ch/public/upload/assets/47644/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,4,0,224.41,14.622
