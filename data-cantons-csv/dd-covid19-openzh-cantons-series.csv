@@ -3128,6 +3128,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-09,16:45,OW,6,87,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,3,0,231.38,0.0
 2020-07-09,03:00,SG,,900,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,7,0,178.32,7.727
 2020-07-09,09:30,SH,,86,2,2,0,,,7,https://sh.ch/CMS/get/file/f2d4245c-d7bf-495a-ae50-4af01fcd89f4,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,105.65,8.6
+2020-07-09,03:00,SO,,481,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,177.23,6.264
 2020-07-09,10:00,SZ,10,356,0,1,,,301,23,https://www.sz.ch/public/upload/assets/47670/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,3,0,226.32,14.622
 2020-07-09,10:00,TG,276,410,0,4,1,,69,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,3,0,149.74,6.574
 2020-07-09,08:00,TI,,3365,1,2,0,0.0,915,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,2,0,951.37,98.954
