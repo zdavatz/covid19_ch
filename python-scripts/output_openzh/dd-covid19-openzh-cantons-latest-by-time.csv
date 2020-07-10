@@ -2,7 +2,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-06,03:00,GE,37233,5405,0,8,3,1.0,847,295,https://www.ge.ch/document/20094/annexe/0,,,,,,,4.0,46.220528,6.132935,Genève,25,0,0,1091.48,59.572
 2020-07-08,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-07-08,03:00,GR,,842,1,1,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,6.0,11.0,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,1,0,425.47,25.265
-2020-07-08,03:00,SO,,479,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,4,0,176.49,6.264
 2020-07-08,03:00,VD,,5680,2,10,3,,,424,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,6,0,716.18,53.461
 2020-07-09,08:00,AG,,1361,0,2,1,1.0,1170,47,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,70.0,238.0,,,,,,47.40966,8.15688,Aargau,01,7,0,202.83,7.004
 2020-07-09,10:55,AR,,106,-1,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,4.0,66.0,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,2,0,192.03,5.435
@@ -19,6 +18,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-09,16:45,OW,6,87,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,3,0,231.38,0.0
 2020-07-09,03:00,SG,,900,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,7,0,178.32,7.727
 2020-07-09,09:30,SH,,86,2,2,0,,,7,https://sh.ch/CMS/get/file/f2d4245c-d7bf-495a-ae50-4af01fcd89f4,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,105.65,8.6
+2020-07-09,03:00,SO,,481,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,177.23,6.264
 2020-07-09,10:00,SZ,10,356,0,1,,,301,23,https://www.sz.ch/public/upload/assets/47670/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,3,0,226.32,14.622
 2020-07-09,10:00,TG,276,410,0,4,1,,69,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,3,0,149.74,6.574
 2020-07-09,08:00,TI,,3365,1,2,0,0.0,915,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,2,0,951.37,98.954
