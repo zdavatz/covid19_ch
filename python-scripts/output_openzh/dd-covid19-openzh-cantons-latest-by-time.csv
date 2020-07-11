@@ -25,4 +25,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-11,09:00,BS,235,1005,-1,4,1,,937,50,https://www.gesundheit.bs.ch,18.0,84.0,,,511.0,,,47.564869,7.615259,Basel-Stadt,12,2,0,518.31,25.786
 2020-07-11,03:00,FL,900,84,0,,,,81,1,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,217.62,2.591
 2020-07-11,03:00,JU,,256,0,0,0,,,7,https://www.jura.ch/Htdocs/Files/v/34847.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees-internet_11.07.xlsx?download=1,,,,,,,,47.350744,7.156107,Jura,26,3,0,349.25,9.55
-2020-07-11,14:30,ZH,,4072,0,12,,3.0,,133,https://www.zh.ch/de/gesundheit/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,12,0,270.69,8.841
+2020-07-11,14:30,ZH,,4072,0,12,,3.0,,133,https://www.zh.ch/de/gesundheit/coronavirus.html,184.0,444.0,,,,,,47.41275,8.65508,Zürich,01,12,0,270.69,8.841
