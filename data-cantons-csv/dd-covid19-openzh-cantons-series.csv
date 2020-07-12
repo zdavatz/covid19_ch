@@ -3168,4 +3168,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-12,08:00,BE,,1991,0,5,1,1.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,9,0,193.09,9.407
 2020-07-12,08:45,BS,235,1008,0,4,1,,937,50,https://www.gesundheit.bs.ch,21.0,108.0,,,510.0,,,47.564869,7.615259,Basel-Stadt,12,2,0,519.86,25.786
 2020-07-12,03:00,FL,900,84,0,,,,81,1,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,217.62,2.591
-2020-07-12,14:30,ZH,,4092,8,20,,3.0,,133,https://www.zh.ch/de/gesundheit/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,20,0,272.02,8.841
+2020-07-12,14:30,ZH,,4092,8,20,,3.0,,133,https://www.zh.ch/de/gesundheit/coronavirus.html,184.0,444.0,,,,,,47.41275,8.65508,Zürich,01,20,0,272.02,8.841
