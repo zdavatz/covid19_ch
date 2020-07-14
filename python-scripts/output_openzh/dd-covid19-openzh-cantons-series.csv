@@ -3046,7 +3046,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-06,08:00,BE,,1962,-1,3,1,1.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,3,0,190.28,9.407
 2020-07-06,03:00,BL,,871,1,1,0,0.0,818,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,16.0,60.0,,,,,,47.45176,7.702414,Basel-Landschaft,13,2,0,303.48,12.195
 2020-07-06,08:15,BS,235,990,0,4,1,,935,50,https://www.gesundheit.bs.ch,5.0,10.0,,,510.0,1.0,,47.564869,7.615259,Basel-Stadt,12,0,0,510.57,25.786
-2020-07-06,03:00,FL,900,84,0,,,,81,1,https://www.regierung.li/media/attachments/375-corona-situationsbericht-0706.pdf,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,217.62,2.591
+2020-07-06,03:00,FL,900,84,0,,,,81,1,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,217.62,2.591
 2020-07-06,03:00,FR,30,1253,0,4,1,,152,85,https://www.fr.ch/sites/default/files/2020-07/200714_statistiques_situation_COVID_FR13.xlsx,,,,,,,,46.718391,7.074008,Fribourg,10,2,0,397.65,26.976
 2020-07-06,03:00,GE,37233,5411,0,8,3,1.0,847,295,https://www.ge.ch/document/20094/annexe/0,,,,,,,4.0,46.220528,6.132935,Genève,25,6,0,1092.69,59.572
 2020-07-06,12:00,GL,,129,0,0,,,,13,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,320.1,32.258
