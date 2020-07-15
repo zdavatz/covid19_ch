@@ -3249,7 +3249,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-14,09:30,SH,,94,-2,5,0,,,7,https://sh.ch/CMS/get/file/3f91d6f2-fba5-41bf-8ec2-2362846263d6,,,,,,,,47.71357,8.59167,Schaffhausen,14,4,0,115.48,8.6
 2020-07-14,01:00,SO,,493,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,181.65,6.264
 2020-07-14,10:00,SZ,10,366,0,1,,,322,23,https://www.sz.ch/public/upload/assets/47711/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,3,0,232.68,14.622
-2020-07-14,10:00,TG,276,413,4,6,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,1,0,150.84,6.574
+2020-07-14,10:00,TG,276,413,2,4,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,1,0,150.84,6.574
 2020-07-14,08:00,TI,,3376,0,4,1,1.0,916,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,1,0,954.48,98.954
 2020-07-14,03:00,VS,,2092,0,7,2,0.0,307,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,612.59,44.802
 2020-07-14,08:00,ZG,,255,0,3,0,,221,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,5,0,203.35,7.177
@@ -3264,5 +3264,5 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-15,09:30,SH,,96,0,5,0,,,7,https://sh.ch/CMS/get/file/3f91d6f2-fba5-41bf-8ec2-2362846263d6,,,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,117.94,8.6
 2020-07-15,01:00,SO,,497,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,4,0,183.12,6.264
 2020-07-15,10:00,SZ,10,371,0,1,,,325,23,https://www.sz.ch/public/upload/assets/47711/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,5,0,235.86,14.622
-2020-07-15,10:00,TG,276,417,0,6,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,4,0,152.3,6.574
+2020-07-15,10:00,TG,276,417,0,4,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,4,0,152.3,6.574
 2020-07-15,08:00,UR,85,111,0,0,,,93,7,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,2,0,305.79,19.284
