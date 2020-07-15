@@ -24,5 +24,5 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-15,09:30,SH,,96,0,5,0,,,7,https://sh.ch/CMS/get/file/3f91d6f2-fba5-41bf-8ec2-2362846263d6,,,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,117.94,8.6
 2020-07-15,01:00,SO,,497,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,4,0,183.12,6.264
 2020-07-15,10:00,SZ,10,371,0,1,,,325,23,https://www.sz.ch/public/upload/assets/47711/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,5,0,235.86,14.622
-2020-07-15,10:00,TG,276,417,0,6,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,4,0,152.3,6.574
+2020-07-15,10:00,TG,276,417,0,4,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,4,0,152.3,6.574
 2020-07-15,08:00,UR,85,111,0,0,,,93,7,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,2,0,305.79,19.284
