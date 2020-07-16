@@ -24,5 +24,5 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-16,08:00,TI,,3390,0,4,2,1.0,916,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,9,0,958.44,98.954
 2020-07-16,16:00,UR,85,111,0,0,,,100,7,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,0,0,305.79,19.284
 2020-07-16,03:00,VS,,2100,1,7,1,0.0,312,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,614.93,44.802
-2020-07-16,08:00,ZG,,259,0,3,0,,223,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,2,0,206.54,7.177
+2020-07-16,08:00,ZG,,259,0,3,0,,223,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,15.0,42.0,,,,,,47.157296,8.537294,Zug,09,2,0,206.54,7.177
 2020-07-16,14:30,ZH,,4180,-1,23,,6.0,,133,https://www.zh.ch/de/gesundheit/coronavirus.html,158.0,436.0,,,,,,47.41275,8.65508,Zürich,01,15,0,277.87,8.841
