@@ -11,7 +11,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-15,08:00,UR,85,111,0,0,,,93,7,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,2,0,305.79,19.284
 2020-07-15,03:00,VD,,5757,0,8,3,,,424,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,7,0,725.89,53.461
 2020-07-15,03:00,VS,,2097,0,7,2,0.0,309,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,614.06,44.802
-2020-07-15,14:30,ZH,,4165,0,24,,6.0,,133,https://www.zh.ch/de/gesundheit/coronavirus.html,152.0,418.0,,,,,,47.41275,8.65508,Zürich,01,32,0,276.87,8.841
 2020-07-16,08:00,AG,,1430,0,2,1,1.0,1170,47,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,64.0,187.0,,,,,,47.40966,8.15688,Aargau,01,12,0,213.11,7.004
 2020-07-16,08:00,AR,,106,-2,1,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,4.0,35.0,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,192.03,5.435
 2020-07-16,03:00,BL,,898,0,2,0,0.0,834,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,25.0,217.0,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,312.89,12.195
@@ -26,3 +25,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-16,10:00,TG,276,423,0,4,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,6,0,154.49,6.574
 2020-07-16,08:00,TI,,3390,0,4,2,1.0,916,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,9,0,958.44,98.954
 2020-07-16,08:00,ZG,,259,0,3,0,,223,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,2,0,206.54,7.177
+2020-07-16,14:30,ZH,,4180,-1,23,,6.0,,133,https://www.zh.ch/de/gesundheit/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,15,0,277.87,8.841
