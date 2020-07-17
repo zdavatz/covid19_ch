@@ -3308,6 +3308,8 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-07-17,10:30,AR,,107.0,,0.0,0.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,4.0,40.0,,,,,
 2020-07-17,08:15,BS,,1022.0,,,,,949.0,50.0,https://www.gesundheit.bs.ch,23.0,236.0,,,510.0,,
 2020-07-17,,FR,,1284.0,,2.0,1.0,,155.0,85.0,https://www.fr.ch/sites/default/files/2020-07/200717_statistiques_situation_COVID_FR1311.xlsx,,,,,,,
+2020-07-17,11:00,GL,,136.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,
+2020-07-17,,LU,,813.0,,6.0,4.0,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,36.0,86.0,,,,,
 2020-07-17,09:30,SH,,100.0,,7.0,0.0,,,7.0,https://sh.ch/CMS/get/file/d68253af-e045-4473-9905-e2828f27145a,,,,,,,
 2020-07-17,01:00,SO,,500.0,,,,,,17.0,https://corona.so.ch/index.php?id=27979,,,,,,,
 2020-07-17,10:00,SZ,,374.0,,,,,327.0,24.0,https://www.sz.ch/public/upload/assets/47711/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,
