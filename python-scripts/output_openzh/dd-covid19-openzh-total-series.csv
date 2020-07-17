@@ -3316,3 +3316,5 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-07-17,10:00,SZ,,374.0,,,,,327.0,24.0,https://www.sz.ch/public/upload/assets/47711/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,
 2020-07-17,10:00,TG,,427.0,0.0,4.0,1.0,,71.0,18.0,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,
 2020-07-17,08:00,TI,,3393.0,,4.0,2.0,1.0,916.0,350.0,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,
+2020-07-17,08:00,ZG,,259.0,,5.0,0.0,,223.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,
+2020-07-17,14:30,ZH,,4209.0,,26.0,,6.0,,133.0,https://www.zh.ch/de/gesundheit/coronavirus.html,158.0,436.0,,,,,

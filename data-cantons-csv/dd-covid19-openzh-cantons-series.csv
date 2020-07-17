@@ -3316,3 +3316,5 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-17,10:00,SZ,10,374,0,1,,,327,24,https://www.sz.ch/public/upload/assets/47711/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,1,0,237.76,15.257
 2020-07-17,10:00,TG,276,427,0,4,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,4,0,155.95,6.574
 2020-07-17,08:00,TI,,3393,0,4,2,1.0,916,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,3,0,959.29,98.954
+2020-07-17,08:00,ZG,,259,2,5,0,,223,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,0,0,206.54,7.177
+2020-07-17,14:30,ZH,,4209,3,26,,6.0,,133,https://www.zh.ch/de/gesundheit/coronavirus.html,158.0,436.0,,,,,,47.41275,8.65508,Zürich,01,29,0,279.8,8.841
