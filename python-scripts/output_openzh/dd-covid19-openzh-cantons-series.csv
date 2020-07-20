@@ -3352,6 +3352,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-20,08:00,AG,,1461,0,2,1,1.0,1170,47,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,68.0,205.0,,,,,,47.40966,8.15688,Aargau,01,21,0,217.73,7.004
 2020-07-20,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,3.0,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-07-20,07:40,AR,,107,0,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,5.0,54.0,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,193.84,5.435
+2020-07-20,08:00,BE,,2045,0,7,4,0.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,46.823608,7.636667,Bern/Berne,02,4,0,198.33,9.407
 2020-07-20,08:45,BS,235,1026,0,5,2,,958,50,https://www.gesundheit.bs.ch,18.0,278.0,,,510.0,,,47.564869,7.615259,Basel-Stadt,12,1,0,529.14,25.786
 2020-07-20,03:00,FR,30,1304,0,3,1,,155,85,https://www.fr.ch/sites/default/files/2020-07/200720_statistiques_situation_COVID.xlsx,,,,,,,,46.718391,7.074008,Fribourg,10,7,0,413.84,26.976
 2020-07-20,03:00,SG,,944,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,12,0,187.04,7.727
