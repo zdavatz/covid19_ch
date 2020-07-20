@@ -3367,6 +3367,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-07-20,,JU,,259.0,,1.0,0.0,,,,https://www.jura.ch/Htdocs/Files/v/34890.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_20_07.xlsx?download=1,,,,,,,
 2020-07-20,,LU,,819.0,,7.0,4.0,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,37.0,60.0,,,,,
 2020-07-20,,NW,,128.0,,0.0,0.0,,,3.0,http://www.nw.ch/coronastatistik,,,,,,,
+2020-07-20,17:00,OW,,89.0,,0.0,,,,0.0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,
 2020-07-20,,SG,,944.0,,,,,,39.0,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,
 2020-07-20,09:30,SH,,101.0,,3.0,0.0,,,7.0,https://sh.ch/CMS/get/file/f28dda30-2dd0-4e35-a866-64d491d277c8,,,,,,,
 2020-07-20,01:00,SO,,503.0,,,,,,18.0,https://corona.so.ch/index.php?id=27979,,,,,,,
@@ -3376,4 +3377,4 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-07-20,16:00,UR,,112.0,,0.0,,,104.0,7.0,https://www.ur.ch/themen/2962,,,,,,,
 2020-07-20,,VS,,2108.0,0.0,7.0,2.0,1.0,309.0,153.0,https://www.vs.ch/de/web/coronavirus,,,,,,,
 2020-07-20,08:00,ZG,,261.0,,2.0,0.0,,224.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,
-2020-07-20,14:30,ZH,,4252.0,,29.0,,4.0,,134.0,https://www.zh.ch/de/gesundheit/coronavirus.html,,,,,,,
+2020-07-20,14:30,ZH,,4252.0,,29.0,,4.0,,134.0,https://www.zh.ch/de/gesundheit/coronavirus.html,158.0,436.0,,,,,
