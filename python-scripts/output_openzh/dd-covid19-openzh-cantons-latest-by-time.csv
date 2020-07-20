@@ -3,14 +3,12 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-15,03:00,VD,,5757,0,8,3,,,424,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,7,0,725.89,53.461
 2020-07-16,16:00,UR,85,111,0,0,,,100,7,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,0,0,305.79,19.284
 2020-07-17,16:00,OW,6,88,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,234.04,0.0
-2020-07-17,03:00,VS,,2101,0,7,1,0.0,307,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,615.23,44.802
 2020-07-17,08:00,ZG,,259,2,5,0,,223,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,0,0,206.54,7.177
 2020-07-18,03:00,FL,900,86,0,,,,81,1,https://www.regierung.li/media/attachments/405-corona-situationsbericht-0718.pdf,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,1,0,222.8,2.591
 2020-07-18,03:00,JU,,259,0,1,0,,,7,https://www.jura.ch/Htdocs/Files/v/34884.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_18_07.xlsx?download=1,,,,,,,,47.350744,7.156107,Jura,26,0,0,353.34,9.55
 2020-07-18,03:00,NE,,765,0,2,1,1.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,429.78,46.629
 2020-07-19,03:00,GR,,853,0,1,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,10.0,23.0,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,431.03,25.265
 2020-07-19,03:00,NW,,128,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,297.67,6.977
-2020-07-19,14:30,ZH,,4237,0,24,,6.0,,133,https://www.zh.ch/de/gesundheit/coronavirus.html,158.0,436.0,,,,,,47.41275,8.65508,Zürich,01,13,0,281.66,8.841
 2020-07-20,08:00,AG,,1461,0,2,1,1.0,1170,47,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,68.0,205.0,,,,,,47.40966,8.15688,Aargau,01,21,0,217.73,7.004
 2020-07-20,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,3.0,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-07-20,07:40,AR,,107,0,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,5.0,54.0,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,193.84,5.435
@@ -26,3 +24,5 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-20,10:00,SZ,10,376,0,1,,,329,24,https://www.sz.ch/public/upload/assets/47711/2020-07-20%20-%20Formularexport%20-%20R%C3%BCckreise%20aus%20Risikol%C3%A4ndern.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,1,0,239.03,15.257
 2020-07-20,10:00,TG,276,436,0,5,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,4,0,159.24,6.574
 2020-07-20,08:00,TI,,3407,2,6,2,1.0,916,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,14,0,963.25,98.954
+2020-07-20,03:00,VS,,2108,0,7,2,1.0,309,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,617.28,44.802
+2020-07-20,14:30,ZH,,4252,5,29,,4.0,,134,https://www.zh.ch/de/gesundheit/coronavirus.html,,,,,,,,47.41275,8.65508,Zürich,01,15,0,282.66,8.908
