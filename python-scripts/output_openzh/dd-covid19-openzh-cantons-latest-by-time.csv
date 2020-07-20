@@ -15,7 +15,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-20,03:00,JU,,259,0,1,0,,,7,https://www.jura.ch/Htdocs/Files/v/34890.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_20_07.xlsx?download=1,,,,,,,,47.350744,7.156107,Jura,26,0,0,353.34,9.55
 2020-07-20,03:00,LU,,819,0,7,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,37.0,60.0,,,,,,47.067763,8.1102,Luzern,03,0,0,201.48,4.92
 2020-07-20,03:00,NW,,128,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,297.67,6.977
-2020-07-20,17:00,OW,6,89,0,0,,,1,0,https://www.ow.ch/de/verwaltung/dienstleistungen/?dienst_id=5962,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,236.7,0.0
+2020-07-20,03:00,OW,6,89,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f15b316db325/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,236.7,0.0
 2020-07-20,03:00,SG,,944,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,12,0,187.04,7.727
 2020-07-20,09:30,SH,,101,0,3,0,,,7,https://sh.ch/CMS/get/file/f28dda30-2dd0-4e35-a866-64d491d277c8,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,124.08,8.6
 2020-07-20,01:00,SO,,503,0,6,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,3,1,185.34,6.632
