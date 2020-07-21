@@ -1,7 +1,6 @@
-date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,current_isolated,current_quarantined,TotalPosTests1,ninst_ICU_intub,ncumul_confirmed_non_resident,current_hosp_non_resident,ncumul_ICF,lat,long,name_canton,number_canton,new_positive_cases,new_deaths,total_currently_positive_per_100k,deaths_per_100k
+date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,current_isolated,current_quarantined,ncumul_confirmed_non_resident,current_hosp_non_resident,ncumul_ICF,TotalPosTests1,ninst_ICU_intub,lat,long,name_canton,number_canton,new_positive_cases,new_deaths,total_currently_positive_per_100k,deaths_per_100k
 2020-07-15,03:00,VD,,5757,0,8,3,,,424,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,7,0,725.89,53.461
 2020-07-18,03:00,FL,900,86,0,,,,81,1,https://www.regierung.li/media/attachments/405-corona-situationsbericht-0718.pdf,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,1,0,222.8,2.591
-2020-07-18,03:00,NE,,765,0,2,1,1.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,429.78,46.629
 2020-07-19,03:00,GE,37233,5528,0,4,1,1.0,847,295,https://www.ge.ch/document/20094/annexe/0,,,,,,,,46.220528,6.132935,Genève,25,3,0,1116.32,59.572
 2020-07-20,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,3.0,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-07-20,07:40,AR,,107,0,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,5.0,54.0,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,193.84,5.435
@@ -11,18 +10,19 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-20,03:00,GR,,855,0,1,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,10.0,14.0,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,0,432.04,25.265
 2020-07-20,03:00,JU,,259,0,1,0,,,7,https://www.jura.ch/Htdocs/Files/v/34890.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_20_07.xlsx?download=1,,,,,,,,47.350744,7.156107,Jura,26,0,0,353.34,9.55
 2020-07-20,03:00,LU,,819,0,7,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,37.0,60.0,,,,,,47.067763,8.1102,Luzern,03,0,0,201.48,4.92
+2020-07-20,03:00,NE,,766,0,1,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,430.34,46.629
 2020-07-20,03:00,NW,,128,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,297.67,6.977
 2020-07-20,03:00,OW,6,89,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f15b316db325/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,236.7,0.0
-2020-07-20,09:30,SH,,101,0,3,0,,,7,https://sh.ch/CMS/get/file/f28dda30-2dd0-4e35-a866-64d491d277c8,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,124.08,8.6
 2020-07-20,01:00,SO,,503,0,6,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,3,1,185.34,6.632
-2020-07-20,10:00,SZ,10,376,0,1,,,329,24,https://www.sz.ch/public/upload/assets/47711/2020-07-20%20-%20Formularexport%20-%20R%C3%BCckreise%20aus%20Risikol%C3%A4ndern.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,1,0,239.03,15.257
-2020-07-20,08:00,TI,,3407,2,6,2,1.0,916,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,14,0,963.25,98.954
 2020-07-20,16:00,UR,85,112,0,0,,,104,7,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,1,0,308.54,19.284
 2020-07-20,03:00,VS,,2108,0,7,2,1.0,309,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,617.28,44.802
 2020-07-20,08:00,ZG,,261,-3,2,0,,224,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,2,0,208.13,7.177
 2020-07-20,14:30,ZH,,4252,5,29,,4.0,,134,https://www.zh.ch/de/gesundheit/coronavirus.html,158.0,436.0,,,,,,47.41275,8.65508,Zürich,01,15,0,282.66,8.908
 2020-07-21,08:00,AG,,1480,0,2,1,1.0,1170,47,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,54.0,158.0,,,,,,47.40966,8.15688,Aargau,01,19,0,220.57,7.004
-2020-07-21,08:45,BS,235,1031,0,5,2,,963,50,https://www.gesundheit.bs.ch,18.0,326.0,,,511.0,,,47.564869,7.615259,Basel-Stadt,12,5,0,531.72,25.786
+2020-07-21,08:45,BS,235,1031,0,5,2,,963,50,https://www.gesundheit.bs.ch,18.0,326.0,511.0,,,,,47.564869,7.615259,Basel-Stadt,12,5,0,531.72,25.786
 2020-07-21,03:00,FR,30,1305,-1,2,1,,156,85,https://www.fr.ch/sites/default/files/2020-07/200721_statistiques_situation_COVID.xlsx,,,,,,,,46.718391,7.074008,Fribourg,10,1,0,414.15,26.976
 2020-07-21,03:00,SG,,948,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,4,0,187.83,7.727
+2020-07-21,09:30,SH,,102,3,6,0,,,7,https://sh.ch/CMS/get/file/2ae7145e-5a4c-4913-87e4-48d671b98469,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,125.31,8.6
+2020-07-21,10:00,SZ,10,378,0,1,,,332,25,https://www.sz.ch/public/upload/assets/47864/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,47.061787,8.756585,Schwyz,05,2,1,240.31,15.893
 2020-07-21,10:00,TG,276,438,0,5,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,2,0,159.97,6.574
+2020-07-21,08:00,TI,,3413,-1,5,1,1.0,917,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,6,0,964.94,98.954
