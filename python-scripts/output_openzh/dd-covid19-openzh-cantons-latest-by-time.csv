@@ -3,7 +3,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-19,03:00,GE,37233,5528,0,4,1,1.0,847,295,https://www.ge.ch/document/20094/annexe/0,,,,,,,,46.220528,6.132935,Genève,25,3,0,1116.32,59.572
 2020-07-20,03:00,GR,,855,0,1,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,10.0,14.0,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,0,432.04,25.265
 2020-07-20,03:00,NE,,766,0,1,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,430.34,46.629
-2020-07-20,03:00,OW,6,89,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f15b316db325/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,236.7,0.0
 2020-07-20,16:00,UR,85,112,0,0,,,104,7,https://www.ur.ch/themen/2962,,,,,,,,46.771849,8.628586,Uri,04,1,0,308.54,19.284
 2020-07-20,03:00,VD,,5823,1,20,5,,,424,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,46.570091,6.557809000000001,Vaud,22,9,0,734.21,53.461
 2020-07-21,08:00,AG,,1480,0,2,1,1.0,1170,47,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,54.0,158.0,,,,,,47.40966,8.15688,Aargau,01,19,0,220.57,7.004
@@ -17,6 +16,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-21,03:00,JU,,259,0,1,0,,,7,https://www.jura.ch/Htdocs/Files/v/34894.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_21_07.xlsx?download=1,,,,,,,,47.350744,7.156107,Jura,26,0,0,353.34,9.55
 2020-07-21,03:00,LU,,836,0,7,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,48.0,28.0,,,,,,47.067763,8.1102,Luzern,03,17,0,205.66,4.92
 2020-07-21,03:00,NW,,128,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,297.67,6.977
+2020-07-21,03:00,OW,6,90,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f17033047023/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,239.36,0.0
 2020-07-21,03:00,SG,,948,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,4,0,187.83,7.727
 2020-07-21,09:30,SH,,102,3,6,0,,,7,https://sh.ch/CMS/get/file/2ae7145e-5a4c-4913-87e4-48d671b98469,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,125.31,8.6
 2020-07-21,01:00,SO,,505,0,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,186.07,6.632
