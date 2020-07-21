@@ -3402,6 +3402,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-21,03:00,FR,30,1305,-1,2,1,,156,85,https://www.fr.ch/sites/default/files/2020-07/200721_statistiques_situation_COVID.xlsx,,,,,,,,46.718391,7.074008,Fribourg,10,1,0,414.15,26.976
 2020-07-21,13:00,GL,,137,0,0,,,,13,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,46.931042000000005,9.065751,Glarus,08,1,0,339.95,32.258
 2020-07-21,03:00,LU,,836,0,7,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,48.0,28.0,,,,,,47.067763,8.1102,Luzern,03,17,0,205.66,4.92
+2020-07-21,03:00,NW,,128,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,297.67,6.977
 2020-07-21,03:00,SG,,948,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,47.1832,9.274744,St. Gallen,17,4,0,187.83,7.727
 2020-07-21,09:30,SH,,102,3,6,0,,,7,https://sh.ch/CMS/get/file/2ae7145e-5a4c-4913-87e4-48d671b98469,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,125.31,8.6
 2020-07-21,01:00,SO,,505,0,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,186.07,6.632
@@ -3409,3 +3410,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-21,10:00,TG,276,438,0,5,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,47.568715,9.091957,Thurgau,01,2,0,159.97,6.574
 2020-07-21,08:00,TI,,3413,-1,5,1,1.0,917,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,46.295617,8.808924,Ticino,21,6,0,964.94,98.954
 2020-07-21,08:00,ZG,,265,0,2,1,,231,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,47.157296,8.537294,Zug,09,4,0,211.32,7.177
+2020-07-21,14:30,ZH,,4290,-3,26,,3.0,,134,https://www.zh.ch/de/gesundheit/coronavirus.html,175.0,402.0,,,,,,47.41275,8.65508,Zürich,01,38,0,285.18,8.908
