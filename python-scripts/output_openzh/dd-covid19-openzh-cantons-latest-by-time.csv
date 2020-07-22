@@ -25,4 +25,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-22,16:00,UR,85,116,0,0,,,104,7,https://www.ur.ch/themen/2962,,,,,,,,,46.771849,8.628586,Uri,04,4,0,319.56,19.284
 2020-07-22,03:00,VS,,2116,0,6,2,1.0,310,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,2,0,619.62,44.802
 2020-07-22,08:00,ZG,,268,-1,1,0,,233,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,47.157296,8.537294,Zug,09,3,0,213.72,7.177
-2020-07-22,14:30,ZH,,4317,-2,24,,3.0,,136,https://www.zh.ch/de/gesundheit/coronavirus.html,,,,,,,,,47.41275,8.65508,Zürich,01,27,0,286.98,9.041
+2020-07-22,14:30,ZH,,4317,-2,24,,3.0,,136,https://www.zh.ch/de/gesundheit/coronavirus.html,175.0,402.0,,,,,,,47.41275,8.65508,Zürich,01,27,0,286.98,9.041
