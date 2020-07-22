@@ -3375,6 +3375,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-20,03:00,BL,,901,0,0,0,0.0,836,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,19.0,304.0,,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,313.94,12.195
 2020-07-20,08:45,BS,235,1026,1,7,3,,958,50,https://www.gesundheit.bs.ch,18.0,278.0,510.0,1.0,246.0,,,,47.564869,7.615259,Basel-Stadt,12,1,0,529.14,25.786
 2020-07-20,03:00,FR,30,1304,0,3,1,,155,85,https://www.fr.ch/sites/default/files/2020-07/200721_statistiques_situation_COVID.xlsx,,,,,,,,,46.718391,7.074008,Fribourg,10,7,0,413.84,26.976
+2020-07-20,03:00,GE,37233,5532,0,6,1,1.0,847,295,https://www.ge.ch/document/20094/annexe/0,,,,,,2.0,,,46.220528,6.132935,Genève,25,4,0,1117.12,59.572
 2020-07-20,13:30,GL,,136,0,0,,,,13,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,337.47,32.258
 2020-07-20,03:00,GR,,855,0,1,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,10.0,14.0,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,0,432.04,25.265
 2020-07-20,03:00,JU,,259,0,1,0,,,7,https://www.jura.ch/Htdocs/Files/v/34894.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_21_07.xlsx?download=1,,,,,,,,,47.350744,7.156107,Jura,26,0,0,353.34,9.55
@@ -3413,12 +3414,14 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-21,10:00,TG,276,438,0,5,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,47.568715,9.091957,Thurgau,01,2,0,159.97,6.574
 2020-07-21,08:00,TI,,3413,-1,5,1,1.0,917,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,46.295617,8.808924,Ticino,21,6,0,964.94,98.954
 2020-07-21,03:00,VS,,2110,0,6,2,1.0,310,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,617.86,44.802
-2020-07-21,08:00,ZG,,265,0,2,1,,231,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,47.157296,8.537294,Zug,09,4,0,211.32,7.177
+2020-07-21,08:00,ZG,,265,0,2,1,,231,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,16.0,186.0,,,,,,,47.157296,8.537294,Zug,09,4,0,211.32,7.177
 2020-07-21,14:30,ZH,,4290,-3,26,,3.0,,134,https://www.zh.ch/de/gesundheit/coronavirus.html,175.0,402.0,,,,,,,47.41275,8.65508,Zürich,01,38,0,285.18,8.908
 2020-07-22,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-07-22,07:50,BS,235,1033,0,7,3,,964,50,https://www.gesundheit.bs.ch,19.0,348.0,510.0,,309.0,,,,47.564869,7.615259,Basel-Stadt,12,1,0,532.75,25.786
+2020-07-22,03:00,LU,,840,0,7,3,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,47.0,49.0,,,,,,,47.067763,8.1102,Luzern,03,4,0,206.64,4.92
 2020-07-22,03:00,SG,,958,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,47.1832,9.274744,St. Gallen,17,10,0,189.82,7.727
 2020-07-22,09:30,SH,,103,-1,5,0,,,7,https://sh.ch/CMS/get/file/257a659e-1d21-477b-ba93-46debaf35e60,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,126.54,8.6
+2020-07-22,01:00,SO,,506,-1,1,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,186.44,6.632
 2020-07-22,10:00,SZ,10,380,0,1,,,333,25,https://www.sz.ch/public/upload/assets/47873/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,47.061787,8.756585,Schwyz,05,2,0,241.58,15.893
 2020-07-22,10:00,TG,276,439,0,5,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,47.568715,9.091957,Thurgau,01,1,0,160.34,6.574
 2020-07-22,08:00,TI,,3415,0,5,1,1.0,917,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,46.295617,8.808924,Ticino,21,2,0,965.51,98.954
