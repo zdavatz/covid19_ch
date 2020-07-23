@@ -3387,7 +3387,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-20,09:30,SH,,101,0,3,0,,,7,https://sh.ch/CMS/get/file/8e989a4d-6b41-4fc6-a10d-9567afbc8b1d,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,124.08,8.6
 2020-07-20,01:00,SO,,503,0,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,47.304135,7.639388,Solothurn,11,3,1,185.34,6.632
 2020-07-20,10:00,SZ,10,376,0,1,,,329,24,https://www.sz.ch/public/upload/assets/47893/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,47.061787,8.756585,Schwyz,05,1,0,239.03,15.257
-2020-07-20,10:00,TG,276,436,0,5,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,47.568715,9.091957,Thurgau,01,4,0,159.24,6.574
+2020-07-20,10:00,TG,276,436,-3,2,1,,74,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,47.568715,9.091957,Thurgau,01,4,0,159.24,6.574
 2020-07-20,08:00,TI,,3407,2,6,2,1.0,916,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,46.295617,8.808924,Ticino,21,14,0,963.25,98.954
 2020-07-20,16:00,UR,85,112,0,0,,,104,7,https://www.ur.ch/themen/2962,,,,,,,,,46.771849,8.628586,Uri,04,1,0,308.54,19.284
 2020-07-20,03:00,VD,,5823,1,20,5,,,424,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,46.570091,6.557809000000001,Vaud,22,9,0,734.21,53.461
@@ -3411,7 +3411,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-21,09:30,SH,,102,3,6,0,,,7,https://sh.ch/CMS/get/file/8e989a4d-6b41-4fc6-a10d-9567afbc8b1d,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,125.31,8.6
 2020-07-21,01:00,SO,,505,0,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,186.07,6.632
 2020-07-21,10:00,SZ,10,378,0,1,,,332,25,https://www.sz.ch/public/upload/assets/47893/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,47.061787,8.756585,Schwyz,05,2,1,240.31,15.893
-2020-07-21,10:00,TG,276,438,0,5,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,47.568715,9.091957,Thurgau,01,2,0,159.97,6.574
+2020-07-21,10:00,TG,276,438,0,2,1,,74,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,47.568715,9.091957,Thurgau,01,2,0,159.97,6.574
 2020-07-21,08:00,TI,,3413,-1,5,1,1.0,917,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,46.295617,8.808924,Ticino,21,6,0,964.94,98.954
 2020-07-21,03:00,VS,,2114,0,6,2,1.0,310,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,2,0,619.03,44.802
 2020-07-21,08:00,ZG,,265,0,2,1,,231,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,16.0,186.0,,,,,,,47.157296,8.537294,Zug,09,4,0,211.32,7.177
@@ -3431,7 +3431,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-22,09:30,SH,,103,-1,5,0,,,7,https://sh.ch/CMS/get/file/8e989a4d-6b41-4fc6-a10d-9567afbc8b1d,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,126.54,8.6
 2020-07-22,01:00,SO,,506,-1,1,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,186.44,6.632
 2020-07-22,10:00,SZ,10,380,0,1,,,333,25,https://www.sz.ch/public/upload/assets/47893/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,47.061787,8.756585,Schwyz,05,2,0,241.58,15.893
-2020-07-22,10:00,TG,276,439,0,5,1,,71,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,47.568715,9.091957,Thurgau,01,1,0,160.34,6.574
+2020-07-22,10:00,TG,276,439,0,2,1,,74,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,47.568715,9.091957,Thurgau,01,1,0,160.34,6.574
 2020-07-22,08:00,TI,,3415,0,5,1,1.0,917,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,46.295617,8.808924,Ticino,21,2,0,965.51,98.954
 2020-07-22,16:00,UR,85,116,0,0,,,104,7,https://www.ur.ch/themen/2962,,,,,,,,,46.771849,8.628586,Uri,04,4,0,319.56,19.284
 2020-07-22,03:00,VS,,2116,0,6,2,1.0,310,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,2,0,619.62,44.802
@@ -3446,5 +3446,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-23,09:30,SH,,105,1,6,0,,,7,https://sh.ch/CMS/get/file/8e989a4d-6b41-4fc6-a10d-9567afbc8b1d,,,,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,128.99,8.6
 2020-07-23,01:00,SO,,509,0,1,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,47.304135,7.639388,Solothurn,11,3,0,187.55,6.632
 2020-07-23,10:00,SZ,10,382,0,1,,,338,25,https://www.sz.ch/public/upload/assets/47893/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,47.061787,8.756585,Schwyz,05,2,0,242.85,15.893
+2020-07-23,10:00,TG,276,444,0,2,1,,74,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,47.568715,9.091957,Thurgau,01,5,0,162.16,6.574
 2020-07-23,08:00,TI,,3416,0,5,1,1.0,917,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,46.295617,8.808924,Ticino,21,1,0,965.79,98.954
 2020-07-23,09:00,UR,85,115,0,0,,,104,7,https://www.ur.ch/themen/2962,,,,,,,,,46.771849,8.628586,Uri,04,-1,0,316.8,19.284
