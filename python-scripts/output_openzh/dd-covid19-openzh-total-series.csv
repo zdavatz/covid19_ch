@@ -3472,6 +3472,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-07-24,08:45,BS,,1034.0,,4.0,2.0,,968.0,51.0,https://www.gesundheit.bs.ch,15.0,31.0,511.0,2.0,327.0,358.0,,,
 2020-07-24,,FR,,1315.0,,2.0,1.0,,156.0,85.0,https://www.fr.ch/sites/default/files/2020-07/200724_statistiques_situation_COVID.xlsx,,,,,,,,,
 2020-07-24,13:00,GL,,138.0,,1.0,,,,13.0,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,
+2020-07-24,,GR,,897.0,,2.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,47.0,290.0,,,,,,,
 2020-07-24,,JU,,259.0,,1.0,0.0,,,,https://www.jura.ch/Htdocs/Files/v/34908.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_24_07.xlsx?download=1,,,,,,,,,
 2020-07-24,,LU,,839.0,,6.0,3.0,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,38.0,84.0,,,,,,,
 2020-07-24,,NW,,128.0,,0.0,0.0,,,3.0,http://www.nw.ch/coronastatistik,,,,,,,,,
