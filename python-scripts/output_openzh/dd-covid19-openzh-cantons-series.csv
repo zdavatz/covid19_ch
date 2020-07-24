@@ -3480,4 +3480,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-24,10:00,SZ,10,384,0,1,,,341,25,https://www.sz.ch/public/upload/assets/47893/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,47.061787,8.756585,Schwyz,05,2,0,244.12,15.893
 2020-07-24,10:00,TG,276,444,1,2,0,,75,18,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,47.568715,9.091957,Thurgau,01,0,0,162.16,6.574
 2020-07-24,08:00,TI,,3417,1,6,1,1.0,917,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,46.295617,8.808924,Ticino,21,1,0,966.07,98.954
+2020-07-24,11:00,UR,85,115,0,1,,,104,7,https://www.ur.ch/themen/2962,,,,,,,,,,46.771849,8.628586,Uri,04,0,0,316.8,19.284
 2020-07-24,08:00,ZG,,271,0,1,0,,236,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,47.157296,8.537294,Zug,09,1,0,216.11,7.177
+2020-07-24,14:30,ZH,,4364,2,26,,2.0,,136,https://www.zh.ch/de/gesundheit/coronavirus.html,198.0,438.0,,,,,,,,47.41275,8.65508,Zürich,01,23,0,290.1,9.041
