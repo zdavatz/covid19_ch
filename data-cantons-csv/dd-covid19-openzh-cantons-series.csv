@@ -3489,3 +3489,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-24,14:30,ZH,,4364,2,26,,2.0,,136,https://www.zh.ch/de/gesundheit/coronavirus.html,198.0,438.0,,,,,,,,47.41275,8.65508,Zürich,01,23,0,290.1,9.041
 2020-07-25,09:00,BS,235,1035,-1,3,2,,969,51,https://www.gesundheit.bs.ch,15.0,30.0,512.0,,386.0,416.0,,,,47.564869,7.615259,Basel-Stadt,12,1,0,533.78,26.302
 2020-07-25,10:00,SZ,10,386,0,1,,,343,25,https://www.sz.ch/public/upload/assets/47893/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,47.061787,8.756585,Schwyz,05,2,0,245.39,15.893
+2020-07-25,14:30,ZH,,4378,0,26,,1.0,,136,https://www.zh.ch/de/gesundheit/coronavirus.html,,,,,,,,,,47.41275,8.65508,Zürich,01,14,0,291.03,9.041
