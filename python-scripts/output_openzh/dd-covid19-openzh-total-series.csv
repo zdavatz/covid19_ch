@@ -3488,5 +3488,6 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-07-24,08:00,ZG,,271.0,,1.0,0.0,,236.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,
 2020-07-24,14:30,ZH,,4364.0,,26.0,,2.0,,136.0,https://www.zh.ch/de/gesundheit/coronavirus.html,198.0,438.0,,,,,,,
 2020-07-25,09:00,BS,,1035.0,,3.0,,,969.0,51.0,https://www.gesundheit.bs.ch,15.0,30.0,512.0,,386.0,416.0,,,
+2020-07-25,,GR,,907.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,57.0,311.0,,,,,,,
 2020-07-25,10:00,SZ,,386.0,,,,,343.0,25.0,https://www.sz.ch/public/upload/assets/47893/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,
 2020-07-25,14:30,ZH,,4378.0,,26.0,,1.0,,136.0,https://www.zh.ch/de/gesundheit/coronavirus.html,198.0,438.0,,,,,,,
