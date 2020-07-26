@@ -3493,3 +3493,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-25,14:30,ZH,,4378,0,26,,1.0,,136,https://www.zh.ch/de/gesundheit/coronavirus.html,198.0,438.0,,,,,,,,47.41275,8.65508,Zürich,01,14,0,291.03,9.041
 2020-07-26,08:00,BE,,2072,0,7,2,0.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,13,0,200.95,9.407
 2020-07-26,08:30,BS,235,1036,0,3,2,,969,52,https://www.gesundheit.bs.ch,16.0,26.0,512.0,,444.0,470.0,,,,47.564869,7.615259,Basel-Stadt,12,1,1,534.3,26.818
+2020-07-26,14:30,ZH,,4384,-2,24,,1.0,,136,https://www.zh.ch/de/gesundheit/coronavirus.html,198.0,438.0,,,,,,,,47.41275,8.65508,Zürich,01,6,0,291.43,9.041
