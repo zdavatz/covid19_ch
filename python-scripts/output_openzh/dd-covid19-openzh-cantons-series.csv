@@ -3512,8 +3512,12 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-26,14:30,ZH,,4384,-2,24,,1.0,,136,https://www.zh.ch/de/gesundheit/coronavirus.html,198.0,438.0,,,,,,,,47.41275,8.65508,Zürich,01,6,0,291.43,9.041
 2020-07-27,08:00,AG,,1533,0,2,1,1.0,1170,48,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,97.0,269.0,,,,,,,,47.40966,8.15688,Aargau,01,22,0,228.46,7.154
 2020-07-27,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,2.0,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
+2020-07-27,13:15,AR,,108,0,1,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,195.65,5.435
+2020-07-27,08:00,BE,,2082,0,10,2,0.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,10,0,201.92,9.407
 2020-07-27,10:00,BS,235,1038,0,4,2,,969,52,https://www.gesundheit.bs.ch,17.0,27.0,512.0,,426.0,453.0,,,,47.564869,7.615259,Basel-Stadt,12,2,0,535.33,26.818
 2020-07-27,03:00,FR,30,1321,0,1,1,,157,85,https://www.fr.ch/sites/default/files/2020-07/200727_statistiques_situation_COVID_FR_0.xlsx,,,,,,,,,,46.718391,7.074008,Fribourg,10,1,0,419.23,26.976
+2020-07-27,12:30,GL,,138,0,1,,,,13,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,342.43,32.258
+2020-07-27,03:00,LU,,841,0,6,3,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,32.0,89.0,,,,,,,,47.067763,8.1102,Luzern,03,0,0,206.89,4.92
 2020-07-27,03:00,SG,,986,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,47.1832,9.274744,St. Gallen,17,12,0,195.36,7.926
 2020-07-27,09:30,SH,,106,0,4,1,,,7,https://sh.ch/CMS/get/file/ce600006-0070-4eed-8523-af34a2d200c9,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,130.22,8.6
 2020-07-27,01:00,SO,,519,0,1,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,47.304135,7.639388,Solothurn,11,8,0,191.23,6.632
