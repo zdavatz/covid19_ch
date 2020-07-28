@@ -3544,3 +3544,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-27,03:00,VS,,2120,0,6,2,1.0,311,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,620.79,44.802
 2020-07-27,08:00,ZG,,272,-1,0,0,,236,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,47.157296,8.537294,Zug,09,1,0,216.91,7.177
 2020-07-27,14:30,ZH,,4404,2,26,,2.0,,136,https://www.zh.ch/de/gesundheit/coronavirus.html,198.0,438.0,,,,,,,,47.41275,8.65508,Zürich,01,20,0,292.76,9.041
+2020-07-28,07:00,UR,85,115,0,1,,,104,7,https://www.ur.ch/themen/2962,,,,,,,,,,46.771849,8.628586,Uri,04,0,0,316.8,19.284

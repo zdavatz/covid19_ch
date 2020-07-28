@@ -2,7 +2,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-18,03:00,FL,900,86,0,,,,81,1,https://www.regierung.li/media/attachments/405-corona-situationsbericht-0718.pdf,,,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,1,0,222.8,2.591
 2020-07-22,03:00,VD,,5848,-2,11,3,,,424,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,9,0,737.36,53.461
 2020-07-24,03:00,NW,,128,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,297.67,6.977
-2020-07-24,11:00,UR,85,115,0,1,,,104,7,https://www.ur.ch/themen/2962,,,,,,,,,,46.771849,8.628586,Uri,04,0,0,316.8,19.284
 2020-07-26,03:00,NE,,771,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,433.15,46.629
 2020-07-27,08:00,AG,,1533,0,2,1,1.0,1170,48,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,97.0,269.0,,,,,,,,47.40966,8.15688,Aargau,01,22,0,228.46,7.154
 2020-07-27,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,2.0,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
@@ -26,3 +25,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-27,03:00,VS,,2120,0,6,2,1.0,311,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,620.79,44.802
 2020-07-27,08:00,ZG,,272,-1,0,0,,236,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,47.157296,8.537294,Zug,09,1,0,216.91,7.177
 2020-07-27,14:30,ZH,,4404,2,26,,2.0,,136,https://www.zh.ch/de/gesundheit/coronavirus.html,198.0,438.0,,,,,,,,47.41275,8.65508,Zürich,01,20,0,292.76,9.041
+2020-07-28,07:00,UR,85,115,0,1,,,104,7,https://www.ur.ch/themen/2962,,,,,,,,,,46.771849,8.628586,Uri,04,0,0,316.8,19.284
