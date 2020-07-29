@@ -12,13 +12,13 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-28,12:00,GL,,138,0,1,,,,13,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,342.43,32.258
 2020-07-28,03:00,GR,,913,0,1,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,61.0,350.0,,,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,1,0,461.34,25.265
 2020-07-28,03:00,JU,,260,0,0,0,,,7,https://www.jura.ch/Htdocs/Files/v/34922.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_28_07.xlsx?download=1,,,,,,,,,,,,47.350744,7.156107,Jura,26,1,0,354.71,9.55
-2020-07-28,03:00,LU,,848,0,6,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,32.0,53.0,,,,,,,,,,47.067763,8.1102,Luzern,03,7,0,208.61,4.92
 2020-07-28,03:00,OW,6,90,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f20278d76116/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,239.36,0.0
 2020-07-28,07:00,UR,85,115,0,1,,,104,7,https://www.ur.ch/themen/2962,,,,,,,,,,,,46.771849,8.628586,Uri,04,0,0,316.8,19.284
 2020-07-28,03:00,VS,,2122,0,6,2,1.0,311,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,621.38,44.802
 2020-07-28,14:30,ZH,,4429,-1,25,,3.0,,137,https://www.zh.ch/de/gesundheit/coronavirus.html,224.0,478.0,,,,,,,,,,47.41275,8.65508,Zürich,01,25,0,294.42,9.107
 2020-07-29,08:00,AG,,1554,0,2,1,1.0,1170,48,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,81.0,289.0,,,,,,,,,,47.40966,8.15688,Aargau,01,11,0,231.59,7.154
 2020-07-29,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,2.0,,,20.0,22.0,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
+2020-07-29,03:00,LU,,854,2,8,3,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,35.0,66.0,,,,,,,,,,47.067763,8.1102,Luzern,03,6,0,210.09,4.92
 2020-07-29,03:00,SG,,1000,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,9,0,198.14,7.926
 2020-07-29,09:30,SH,,115,1,4,1,,,7,https://sh.ch/CMS/get/file/814bfcb9-e26d-41e5-836f-3827c79a5c15,,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,6,0,141.28,8.6
 2020-07-29,01:00,SO,,522,0,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,192.34,6.632

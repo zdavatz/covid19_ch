@@ -3574,6 +3574,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-28,14:30,ZH,,4429,-1,25,,3.0,,137,https://www.zh.ch/de/gesundheit/coronavirus.html,224.0,478.0,,,,,,,,,,47.41275,8.65508,Zürich,01,25,0,294.42,9.107
 2020-07-29,08:00,AG,,1554,0,2,1,1.0,1170,48,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,81.0,289.0,,,,,,,,,,47.40966,8.15688,Aargau,01,11,0,231.59,7.154
 2020-07-29,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,2.0,,,20.0,22.0,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
+2020-07-29,03:00,LU,,854,2,8,3,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,35.0,66.0,,,,,,,,,,47.067763,8.1102,Luzern,03,6,0,210.09,4.92
 2020-07-29,03:00,SG,,1000,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,9,0,198.14,7.926
 2020-07-29,09:30,SH,,115,1,4,1,,,7,https://sh.ch/CMS/get/file/814bfcb9-e26d-41e5-836f-3827c79a5c15,,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,6,0,141.28,8.6
 2020-07-29,01:00,SO,,522,0,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,192.34,6.632
