@@ -3599,7 +3599,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-07-29,13:00,UR,,116.0,,1.0,,,105.0,7.0,https://www.ur.ch/themen/2962,,,,,,,,,,,
 2020-07-29,,VD,,5954.0,,14.0,5.0,,,424.0,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,,
 2020-07-29,,VS,,2136.0,0.0,6.0,2.0,1.0,311.0,153.0,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,
-2020-07-29,08:00,ZG,,279.0,,0.0,0.0,,242.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,
+2020-07-29,08:00,ZG,,279.0,,0.0,0.0,,242.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,18.0,47.0,,,276.0,323.0,,,,,
 2020-07-29,14:30,ZH,,4474.0,,27.0,,3.0,,137.0,https://www.zh.ch/de/gesundheit/coronavirus.html,224.0,478.0,,,,,,,,,
 2020-07-30,08:00,AG,,1565.0,,,,,,49.0,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,78.0,210.0,,,,,,,,,
 2020-07-30,08:00,AI,,25.0,,,,,,0.0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,,,34.0,34.0,,,,,
