@@ -3597,3 +3597,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-29,03:00,VS,,2127,0,6,2,1.0,311,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,622.84,44.802
 2020-07-29,08:00,ZG,,279,0,0,0,,242,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,,47.157296,8.537294,Zug,09,6,0,222.49,7.177
 2020-07-29,14:30,ZH,,4473,2,27,,3.0,,137,https://www.zh.ch/de/gesundheit/coronavirus.html,224.0,478.0,,,,,,,,,,47.41275,8.65508,Zürich,01,44,0,297.35,9.107
+2020-07-30,01:00,SO,,524,0,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,193.07,6.632
