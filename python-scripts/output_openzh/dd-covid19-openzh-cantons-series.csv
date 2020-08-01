@@ -3646,6 +3646,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-31,11:00,UR,85,116,0,0,,,104,7,https://www.ur.ch/themen/2962,,,,,,,,,,,,46.771849,8.628586,Uri,04,0,0,319.56,19.284
 2020-07-31,03:00,VS,,2144,-1,4,1,1.0,313,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,627.82,44.802
 2020-07-31,14:30,ZH,,4535,7,34,,5.0,,137,https://www.zh.ch/de/gesundheit/coronavirus.html,267.0,536.0,,,,,,,,,,47.41275,8.65508,Zürich,01,31,0,301.47,9.107
+2020-08-01,08:00,BE,,2124,0,12,1,1.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,13,0,205.99,9.407
 2020-08-01,10:10,BS,235,1064,0,3,0,,973,52,https://www.gesundheit.bs.ch,39.0,33.0,515.0,,570.0,603.0,,3.0,,,,47.564869,7.615259,Basel-Stadt,12,10,0,548.74,26.818
 2020-08-01,03:00,LU,,878,1,13,8,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,48.0,131.0,,,,,,,,,,47.067763,8.1102,Luzern,03,4,0,215.99,4.92
 2020-08-01,10:00,SZ,10,405,0,1,,,354,25,https://www.sz.ch/public/upload/assets/47995/COVID-19_Fallzahlen_Kanton_Schwyz..xlsx,,,,,,,,,,,,47.061787,8.756585,Schwyz,05,2,0,257.47,15.893
