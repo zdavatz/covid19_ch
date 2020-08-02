@@ -3661,3 +3661,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-01,14:30,ZH,,4558,2,36,,5.0,,137,https://www.zh.ch/de/gesundheit/coronavirus.html,267.0,536.0,,,,,,,,,,47.41275,8.65508,Zürich,01,23,0,303.0,9.107
 2020-08-02,08:00,BE,,2143,0,12,1,1.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,18,0,207.84,9.407
 2020-08-02,10:00,BS,235,1068,0,3,0,,974,52,https://www.gesundheit.bs.ch,42.0,41.0,515.0,,546.0,587.0,,3.0,,,,47.564869,7.615259,Basel-Stadt,12,4,0,550.8,26.818
+2020-08-02,14:30,ZH,,4569,0,36,,4.0,,137,https://www.zh.ch/de/gesundheit/coronavirus.html,,,,,,,,,,,,47.41275,8.65508,Zürich,01,11,0,303.73,9.107
