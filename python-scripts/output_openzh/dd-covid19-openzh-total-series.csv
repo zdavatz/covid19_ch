@@ -3638,7 +3638,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-07-31,,BL,,924.0,,3.0,1.0,0.0,864.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,15.0,55.0,,,568.0,623.0,,,,,
 2020-07-31,09:35,BS,,1054.0,,3.0,0.0,,973.0,52.0,https://www.gesundheit.bs.ch,29.0,30.0,514.0,0.0,555.0,585.0,,3.0,,,
 2020-07-31,,FR,,1350.0,,2.0,1.0,,157.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200803_statistiques_situation_COVID_site%20fr.ch_.xlsx,,,,,,,,,,,
-2020-07-31,,GE,,5993.0,,14.0,1.0,,936.0,295.0,https://www.ge.ch/document/21502/telecharger,258.0,749.0,,,,,,,,,
+2020-07-31,,GE,,5993.0,,14.0,1.0,,936.0,295.0,https://www.ge.ch/document/21502/telecharger,258.0,749.0,,,,,,,,,2.0
 2020-07-31,11:30,GL,,141.0,,1.0,,,,13.0,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-07-31,,GR,,923.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,59.0,209.0,,,,,,,,,
 2020-07-31,,JU,,260.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/34949.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_31_07.xlsx?download=1,,,,,,,,,,,
@@ -3696,3 +3696,4 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-03,10:00,TG,,470.0,0.0,2.0,0.0,,77.0,19.0,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,,
 2020-08-03,08:00,TI,,3442.0,,2.0,0.0,0.0,922.0,350.0,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,
 2020-08-03,08:00,ZG,,293.0,,2.0,0.0,,246.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,
+2020-08-03,14:30,ZH,,4581.0,,36.0,,4.0,,137.0,https://www.zh.ch/de/gesundheit/coronavirus.html,,,,,,,,,,,
