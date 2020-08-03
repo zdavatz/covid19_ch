@@ -3,7 +3,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-29,03:00,VD,,5954,3,14,5,,,424,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,16,0,750.73,53.461
 2020-07-30,03:00,GE,54379,5967,0,14,1,1.0,933,295,https://www.ge.ch/document/21502/telecharger,228.0,695.0,,,,,,,,,2.0,46.220528,6.132935,Genève,25,48,0,1204.97,59.572
 2020-07-31,08:00,AG,,1587,0,2,1,1.0,1170,49,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,96.0,299.0,,,,,,,,,,47.40966,8.15688,Aargau,01,22,0,236.51,7.303
-2020-07-31,13:00,AR,,109,-1,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,3.0,11.0,,,130.0,141.0,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,197.46,5.435
 2020-07-31,03:00,BL,,924,0,3,1,0.0,864,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,15.0,55.0,,,568.0,623.0,,,,,,47.45176,7.702414,Basel-Landschaft,13,5,0,321.95,12.195
 2020-07-31,03:00,FR,30,1350,0,2,1,,157,85,https://www.fr.ch/sites/default/files/2020-07/200731_statistiques_situation_COVID_site%20fr.ch_.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,8,0,428.44,26.976
 2020-07-31,11:30,GL,,141,0,1,,,,13,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,2,0,349.88,32.258
@@ -16,6 +15,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-02,03:00,NE,,782,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,439.33,46.629
 2020-08-02,14:30,ZH,,4569,0,36,,4.0,,137,https://www.zh.ch/de/gesundheit/coronavirus.html,267.0,536.0,,,,,,,,,,47.41275,8.65508,Zürich,01,11,0,303.73,9.107
 2020-08-03,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,,,40.0,40.0,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
+2020-08-03,13:15,AR,,110,0,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,4.0,9.0,,,133.0,142.0,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,199.28,5.435
 2020-08-03,08:00,BE,,2148,0,10,2,1.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,5,0,208.32,9.407
 2020-08-03,09:30,BS,235,1069,0,3,0,,975,52,https://www.gesundheit.bs.ch,42.0,44.0,515.0,,467.0,511.0,,6.0,,,,47.564869,7.615259,Basel-Stadt,12,1,0,551.32,26.818
 2020-08-03,03:00,LU,,882,0,13,8,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,47.0,147.0,,,,,,,,,,47.067763,8.1102,Luzern,03,4,0,216.97,4.92
