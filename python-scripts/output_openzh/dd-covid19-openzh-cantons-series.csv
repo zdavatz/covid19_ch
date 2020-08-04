@@ -3584,7 +3584,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-29,13:30,AR,,108,-1,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,2.0,12.0,90.0,102.0,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,195.65,5.435
 2020-07-29,08:00,BE,,2094,0,12,2,0.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,2,0,203.08,9.407
 2020-07-29,03:00,BL,,918,1,3,1,0.0,863,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,12.0,47.0,461.0,508.0,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,1,0,319.86,12.195
-2020-07-29,11:30,BS,235,1043,1,4,0,,971,52,https://www.gesundheit.bs.ch,20.0,21.0,462.0,483.0,513.0,0.0,,,,,,47.564869,7.615259,Basel-Stadt,12,4,0,537.91,26.818
+2020-07-29,11:30,BS,235,1043,1,4,0,,971,52,https://www.gesundheit.bs.ch,20.0,21.0,462.0,483.0,513.0,0.0,,4.0,,,,47.564869,7.615259,Basel-Stadt,12,4,0,537.91,26.818
 2020-07-29,03:00,FL,900,88,0,,,,81,1,https://www.regierung.li/media/attachments/413-corona-situationsbericht-0729.pdf,,,,,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,1,0,227.98,2.591
 2020-07-29,03:00,FR,30,1332,0,1,1,,157,85,https://www.fr.ch/sites/default/files/2020-08/200804_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,7,0,422.72,26.976
 2020-07-29,03:00,GE,54379,5907,2,14,1,1.0,931,295,https://www.ge.ch/document/21502/telecharger,222.0,641.0,,,,,,,,,2.0,46.220528,6.132935,Genève,25,61,0,1192.85,59.572
@@ -3611,7 +3611,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-30,13:30,AR,,108,1,1,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,2.0,12.0,117.0,129.0,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,195.65,5.435
 2020-07-30,08:00,BE,,2098,0,12,2,0.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,4,0,203.47,9.407
 2020-07-30,03:00,BL,,919,0,3,1,0.0,863,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,13.0,49.0,478.0,527.0,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,1,0,320.21,12.195
-2020-07-30,09:15,BS,235,1052,1,5,0,,972,52,https://www.gesundheit.bs.ch,28.0,30.0,487.0,517.0,514.0,0.0,,,,,,47.564869,7.615259,Basel-Stadt,12,9,0,542.55,26.818
+2020-07-30,09:15,BS,235,1052,1,5,0,,972,52,https://www.gesundheit.bs.ch,28.0,30.0,487.0,517.0,514.0,0.0,,5.0,,,,47.564869,7.615259,Basel-Stadt,12,9,0,542.55,26.818
 2020-07-30,03:00,FR,30,1342,1,2,1,,157,85,https://www.fr.ch/sites/default/files/2020-08/200804_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,10,0,425.9,26.976
 2020-07-30,03:00,GE,54379,5961,0,14,1,1.0,933,295,https://www.ge.ch/document/21502/telecharger,242.0,699.0,,,,,,,,,2.0,46.220528,6.132935,Genève,25,54,0,1203.76,59.572
 2020-07-30,11:30,GL,,139,0,1,,,,13,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,1,0,344.91,32.258
@@ -3630,13 +3630,13 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-30,11:00,UR,85,116,-1,0,,,104,7,https://www.ur.ch/themen/2962,,,,,,,,,,,,46.771849,8.628586,Uri,04,0,0,319.56,19.284
 2020-07-30,03:00,VS,,2144,0,5,1,1.0,312,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,8,0,627.82,44.802
 2020-07-30,08:00,ZG,,284,0,0,0,,246,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,20.0,62.0,283.0,345.0,,,,,,,,47.157296,8.537294,Zug,09,5,0,226.48,7.177
-2020-07-30,14:30,ZH,,4504,0,27,,5.0,,137,https://www.zh.ch/de/gesundheit/coronavirus.html,,,,,,,,,,,,47.41275,8.65508,Zürich,01,30,0,299.41,9.107
+2020-07-30,14:30,ZH,,4504,0,27,,5.0,,137,https://www.zh.ch/de/gesundheit/coronavirus.html,,,2765.0,,,,,,,,,47.41275,8.65508,Zürich,01,30,0,299.41,9.107
 2020-07-31,08:00,AG,,1587,0,2,1,1.0,1170,49,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,96.0,299.0,,,,,,,,,,47.40966,8.15688,Aargau,01,22,0,236.51,7.303
 2020-07-31,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,36.0,36.0,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-07-31,13:00,AR,,109,-1,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,3.0,11.0,130.0,141.0,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,197.46,5.435
 2020-07-31,08:00,BE,,2111,0,12,1,1.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,13,0,204.73,9.407
 2020-07-31,03:00,BL,,924,0,3,1,0.0,864,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,15.0,55.0,568.0,623.0,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,5,0,321.95,12.195
-2020-07-31,09:35,BS,235,1054,0,5,0,,973,52,https://www.gesundheit.bs.ch,29.0,30.0,555.0,585.0,514.0,0.0,,,,,,47.564869,7.615259,Basel-Stadt,12,2,0,543.58,26.818
+2020-07-31,09:35,BS,235,1054,0,5,0,,973,52,https://www.gesundheit.bs.ch,29.0,30.0,555.0,585.0,514.0,0.0,,5.0,,,,47.564869,7.615259,Basel-Stadt,12,2,0,543.58,26.818
 2020-07-31,03:00,FR,30,1350,0,2,1,,157,85,https://www.fr.ch/sites/default/files/2020-08/200804_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,8,0,428.44,26.976
 2020-07-31,03:00,GE,54379,5993,0,14,1,1.0,936,295,https://www.ge.ch/document/21502/telecharger,258.0,749.0,,,,,,,,,2.0,46.220528,6.132935,Genève,25,32,0,1210.22,59.572
 2020-07-31,11:30,GL,,141,0,1,,,,13,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,2,0,349.88,32.258
@@ -3654,11 +3654,11 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-31,08:00,TI,,3435,0,3,1,1.0,921,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,,46.295617,8.808924,Ticino,21,4,0,971.16,98.954
 2020-07-31,11:00,UR,85,116,0,0,,,104,7,https://www.ur.ch/themen/2962,,,,,,,,,,,,46.771849,8.628586,Uri,04,0,0,319.56,19.284
 2020-07-31,03:00,VS,,2144,-1,4,1,1.0,313,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,627.82,44.802
-2020-07-31,08:00,ZG,,288,2,2,0,,246,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,,47.157296,8.537294,Zug,09,4,0,229.67,7.177
+2020-07-31,08:00,ZG,,288,2,2,0,,246,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,21.0,65.0,298.0,363.0,,,,,,,,47.157296,8.537294,Zug,09,4,0,229.67,7.177
 2020-07-31,14:30,ZH,,4535,7,34,,5.0,,137,https://www.zh.ch/de/gesundheit/coronavirus.html,267.0,536.0,,,,,,,,,,47.41275,8.65508,Zürich,01,31,0,301.47,9.107
 2020-08-01,08:00,BE,,2125,0,12,1,1.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,14,0,206.09,9.407
 2020-08-01,03:00,BL,,926,-1,2,1,0.0,868,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,14.0,50.0,610.0,660.0,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,2,0,322.65,12.195
-2020-08-01,10:10,BS,235,1064,0,5,1,,973,52,https://www.gesundheit.bs.ch,39.0,33.0,570.0,603.0,515.0,0.0,,,,,,47.564869,7.615259,Basel-Stadt,12,10,0,548.74,26.818
+2020-08-01,10:10,BS,235,1064,0,5,1,,973,52,https://www.gesundheit.bs.ch,39.0,33.0,570.0,603.0,515.0,0.0,,5.0,,,,47.564869,7.615259,Basel-Stadt,12,10,0,548.74,26.818
 2020-08-01,03:00,FR,30,1353,0,2,1,,157,85,https://www.fr.ch/sites/default/files/2020-08/200804_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,3,0,429.39,26.976
 2020-08-01,03:00,GE,54379,6020,0,14,1,1.0,936,295,https://www.ge.ch/document/21502/telecharger,257.0,755.0,,,,,,,,,,46.220528,6.132935,Genève,25,27,0,1215.67,59.572
 2020-08-01,03:00,GR,,930,0,1,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,52.0,135.0,,,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,7,0,469.93,25.265
@@ -3668,11 +3668,11 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-01,03:00,SH,,117,0,7,2,,,7,https://sh.ch/CMS/get/file/1acc2731-bef1-4768-819f-cb89b3997512,,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,143.73,8.6
 2020-08-01,10:00,SZ,10,405,0,1,,,354,25,https://www.sz.ch/public/upload/assets/48005/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,,47.061787,8.756585,Schwyz,05,2,0,257.47,15.893
 2020-08-01,10:00,TG,276,467,0,2,0,,77,19,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,,,47.568715,9.091957,Thurgau,01,2,0,170.56,6.939
-2020-08-01,08:00,ZG,,288,0,2,0,,246,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,,47.157296,8.537294,Zug,09,0,0,229.67,7.177
+2020-08-01,08:00,ZG,,288,0,2,0,,246,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,21.0,65.0,298.0,363.0,,,,,,,,47.157296,8.537294,Zug,09,0,0,229.67,7.177
 2020-08-01,14:30,ZH,,4558,2,36,,5.0,,137,https://www.zh.ch/de/gesundheit/coronavirus.html,267.0,536.0,,,,,,,,,,47.41275,8.65508,Zürich,01,23,0,303.0,9.107
 2020-08-02,08:00,BE,,2143,0,12,1,1.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,18,0,207.84,9.407
 2020-08-02,03:00,BL,,927,0,2,1,0.0,870,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,13.0,66.0,528.0,594.0,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,1,0,323.0,12.195
-2020-08-02,10:00,BS,235,1068,2,7,1,,974,52,https://www.gesundheit.bs.ch,42.0,41.0,546.0,587.0,515.0,0.0,,,,,,47.564869,7.615259,Basel-Stadt,12,4,0,550.8,26.818
+2020-08-02,10:00,BS,235,1068,2,7,1,,974,52,https://www.gesundheit.bs.ch,42.0,41.0,546.0,587.0,515.0,0.0,,7.0,,,,47.564869,7.615259,Basel-Stadt,12,4,0,550.8,26.818
 2020-08-02,03:00,FR,30,1358,-1,1,1,,158,85,https://www.fr.ch/sites/default/files/2020-08/200804_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,5,0,430.97,26.976
 2020-08-02,03:00,GE,54379,6043,0,14,1,1.0,936,295,https://www.ge.ch/document/21502/telecharger,250.0,757.0,,,,,,,,,,46.220528,6.132935,Genève,25,23,0,1220.32,59.572
 2020-08-02,03:00,GR,,932,0,1,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,30.0,86.0,,,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,0,470.94,25.265
@@ -3681,14 +3681,14 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-02,03:00,SH,,117,0,7,2,,,7,https://sh.ch/CMS/get/file/1acc2731-bef1-4768-819f-cb89b3997512,,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,143.73,8.6
 2020-08-02,10:00,SZ,10,405,0,1,,,356,25,https://www.sz.ch/public/upload/assets/48005/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,257.47,15.893
 2020-08-02,10:00,TG,276,468,0,2,0,,77,19,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,,,47.568715,9.091957,Thurgau,01,1,0,170.93,6.939
-2020-08-02,08:00,ZG,,288,0,2,0,,246,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,,47.157296,8.537294,Zug,09,0,0,229.67,7.177
+2020-08-02,08:00,ZG,,288,0,2,0,,246,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,21.0,65.0,298.0,363.0,,,,,,,,47.157296,8.537294,Zug,09,0,0,229.67,7.177
 2020-08-02,14:30,ZH,,4569,0,36,,4.0,,137,https://www.zh.ch/de/gesundheit/coronavirus.html,267.0,536.0,,,,,,,,,,47.41275,8.65508,Zürich,01,11,0,303.73,9.107
 2020-08-03,08:00,AG,,1615,0,2,1,1.0,1170,49,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,94.0,295.0,,,,,,,,,,47.40966,8.15688,Aargau,01,28,0,240.69,7.303
 2020-08-03,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,40.0,40.0,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-08-03,13:15,AR,,110,0,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,4.0,9.0,133.0,142.0,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,199.28,5.435
 2020-08-03,08:00,BE,,2148,0,10,2,1.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,5,0,208.32,9.407
 2020-08-03,03:00,BL,,929,-1,1,1,0.0,872,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,16.0,83.0,538.0,621.0,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,2,0,323.69,12.195
-2020-08-03,09:30,BS,235,1069,1,8,1,,975,52,https://www.gesundheit.bs.ch,42.0,44.0,467.0,511.0,515.0,0.0,,,,,,47.564869,7.615259,Basel-Stadt,12,1,0,551.32,26.818
+2020-08-03,09:30,BS,235,1069,1,8,1,,975,52,https://www.gesundheit.bs.ch,42.0,44.0,467.0,511.0,515.0,0.0,,8.0,,,,47.564869,7.615259,Basel-Stadt,12,1,0,551.32,26.818
 2020-08-03,03:00,FR,30,1360,0,1,1,,158,85,https://www.fr.ch/sites/default/files/2020-08/200804_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,2,0,431.61,26.976
 2020-08-03,03:00,GR,,932,0,1,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,30.0,88.0,,,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,470.94,25.265
 2020-08-03,03:00,JU,,260,0,0,0,,,7,https://www.jura.ch/Htdocs/Files/v/34963.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_03_08.xlsx?download=1,,,,,,,,,,,,47.350744,7.156107,Jura,26,0,0,354.71,9.55
@@ -3702,12 +3702,13 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-03,10:00,TG,276,470,0,2,0,,77,19,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,,,47.568715,9.091957,Thurgau,01,2,0,171.66,6.939
 2020-08-03,08:00,TI,,3442,-1,2,0,0.0,922,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,,46.295617,8.808924,Ticino,21,7,0,973.14,98.954
 2020-08-03,16:00,UR,85,117,0,0,,,106,7,https://www.ur.ch/themen/2962,,47.0,,,,,,,,,,46.771849,8.628586,Uri,04,1,0,322.31,19.284
-2020-08-03,08:00,ZG,,293,0,2,0,,246,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,,47.157296,8.537294,Zug,09,5,0,233.65,7.177
+2020-08-03,08:00,ZG,,293,0,2,0,,246,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,17.0,53.0,253.0,306.0,,,,,,,,47.157296,8.537294,Zug,09,5,0,233.65,7.177
 2020-08-03,14:30,ZH,,4581,0,36,,4.0,,137,https://www.zh.ch/de/gesundheit/coronavirus.html,267.0,536.0,,,,,,,,,,47.41275,8.65508,Zürich,01,12,0,304.53,9.107
-2020-08-04,09:00,BS,235,1072,0,8,1,,975,52,https://www.gesundheit.bs.ch,45.0,46.0,527.0,573.0,516.0,0.0,,,,,,47.564869,7.615259,Basel-Stadt,12,3,0,552.86,26.818
+2020-08-04,09:00,BS,235,1072,0,8,1,,975,52,https://www.gesundheit.bs.ch,45.0,46.0,527.0,573.0,516.0,0.0,,8.0,,,,47.564869,7.615259,Basel-Stadt,12,3,0,552.86,26.818
 2020-08-04,03:00,FR,30,1360,0,1,1,,158,85,https://www.fr.ch/sites/default/files/2020-08/200804_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,0,0,431.61,26.976
 2020-08-04,03:00,SG,,1025,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,3,0,203.09,7.926
 2020-08-04,09:30,SH,,124,-5,4,2,,,7,https://sh.ch/CMS/get/file/1acc2731-bef1-4768-819f-cb89b3997512,,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,3,0,152.33,8.6
 2020-08-04,10:00,SZ,10,408,0,1,,,358,25,https://www.sz.ch/public/upload/assets/48005/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,,47.061787,8.756585,Schwyz,05,3,0,259.38,15.893
 2020-08-04,10:00,TG,276,471,0,2,0,,77,19,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,,,47.568715,9.091957,Thurgau,01,1,0,172.02,6.939
 2020-08-04,08:00,TI,,3442,0,2,0,0.0,922,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,,46.295617,8.808924,Ticino,21,0,0,973.14,98.954
+2020-08-04,08:00,ZG,,296,0,2,0,,251,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,,47.157296,8.537294,Zug,09,3,0,236.04,7.177
