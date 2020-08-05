@@ -3735,6 +3735,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-04,08:00,ZG,,296,0,2,0,,251,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,15.0,,,,,,,,,,,47.157296,8.537294,Zug,09,3,0,236.04,7.177
 2020-08-04,14:30,ZH,,4601,-1,35,,4.0,,137,https://www.zh.ch/de/gesundheit/coronavirus.html,437.0,556.0,,,,,,,,,,47.41275,8.65508,Zürich,01,20,0,305.86,9.107
 2020-08-05,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,43.0,43.0,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
+2020-08-05,13:30,AR,,110,0,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,4.0,9.0,140.0,149.0,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,0,0,199.28,5.435
 2020-08-05,08:00,BE,,2165,0,12,3,1.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,14,0,209.97,9.407
 2020-08-05,08:30,BS,235,1076,0,8,1,,981,52,https://www.gesundheit.bs.ch,43.0,52.0,498.0,550.0,,,,518.0,,,,47.564869,7.615259,Basel-Stadt,12,4,0,554.93,26.818
 2020-08-05,03:00,FR,30,1368,0,1,1,,158,85,https://www.fr.ch/sites/default/files/2020-08/200805_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,8,0,434.15,26.976
