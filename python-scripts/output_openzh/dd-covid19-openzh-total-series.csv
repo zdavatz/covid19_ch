@@ -3801,4 +3801,4 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-06,16:15,UR,,117.0,,0.0,,,106.0,7.0,https://www.ur.ch/themen/2962,,48.0,,,,,,,,,
 2020-08-06,,VS,,2166.0,0.0,4.0,1.0,1.0,313.0,153.0,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,
 2020-08-06,08:00,ZG,,296.0,,1.0,,,259.0,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,
-2020-08-06,14:30,ZH,,4684.0,,25.0,,4.0,,139.0,https://www.zh.ch/de/gesundheit/coronavirus.html,358.0,659.0,,,,,,,,,
+2020-08-06,14:30,ZH,,4684.0,,25.0,,4.0,,139.0,https://www.zh.ch/de/gesundheit/coronavirus.html,358.0,659.0,4003.0,,,,,,,,
