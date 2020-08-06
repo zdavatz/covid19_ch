@@ -3721,7 +3721,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-04,13:30,AR,,110.0,,0.0,0.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,4.0,9.0,142.0,151.0,,,,,,,
 2020-08-04,08:00,BE,,2151.0,,,,,,97.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,
 2020-08-04,,BL,,936.0,,1.0,1.0,0.0,875.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,14.0,94.0,550.0,644.0,,,,,,,
-2020-08-04,09:00,BS,,1072.0,,8.0,1.0,,975.0,52.0,https://www.gesundheit.bs.ch,45.0,46.0,527.0,573.0,,,,516.0,0.0,,8.0
+2020-08-04,09:00,BS,,1073.0,,8.0,1.0,,975.0,52.0,https://www.gesundheit.bs.ch,45.0,46.0,527.0,573.0,,,,515.0,0.0,,8.0
 2020-08-04,,FR,,1360.0,,1.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200806_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
 2020-08-04,,GE,,6108.0,,20.0,1.0,,936.0,296.0,https://www.ge.ch/document/21502/telecharger,267.0,709.0,845.0,,3.0,,,,,,
 2020-08-04,11:30,GL,,142.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
@@ -3744,7 +3744,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-05,13:30,AR,,110.0,,1.0,0.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,4.0,9.0,140.0,149.0,,,,,,,
 2020-08-05,08:00,BE,,2165.0,,12.0,3.0,1.0,,97.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,
 2020-08-05,,BL,,941.0,,0.0,0.0,0.0,875.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,21.0,100.0,491.0,591.0,,,,,,,
-2020-08-05,08:30,BS,,1076.0,,,,,981.0,52.0,https://www.gesundheit.bs.ch,43.0,52.0,498.0,550.0,,,,518.0,,,
+2020-08-05,08:30,BS,,1079.0,,,,,981.0,52.0,https://www.gesundheit.bs.ch,43.0,52.0,498.0,550.0,,,,515.0,,,
 2020-08-05,,FR,,1368.0,,1.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200806_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
 2020-08-05,11:30,GL,,144.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-08-05,,GR,,936.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,28.0,69.0,,,,,,,,,
@@ -3761,7 +3761,10 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-05,,VS,,2157.0,0.0,4.0,1.0,1.0,313.0,153.0,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,
 2020-08-05,08:00,ZG,,296.0,,2.0,,,258.0,,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,
 2020-08-05,14:30,ZH,,4652.0,,29.0,,4.0,,138.0,https://www.zh.ch/de/gesundheit/coronavirus.html,437.0,556.0,,,,,,,,,
+2020-08-06,09:30,BS,,1081.0,,,,,984.0,52.0,https://www.gesundheit.bs.ch,45.0,56.0,471.0,527.0,,,,515.0,,,
 2020-08-06,,FR,,1373.0,,1.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200806_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
 2020-08-06,,SG,,1046.0,,,,,,40.0,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,
 2020-08-06,09:30,SH,,132.0,,6.0,2.0,,,7.0,https://sh.ch/CMS/get/file/27c8f4eb-da26-487c-9894-8ff71baec4f1,,,,,,,,,,,
 2020-08-06,10:00,SZ,,416.0,,,,,363.0,25.0,https://www.sz.ch/public/upload/assets/48045/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,
+2020-08-06,10:00,TG,,475.0,0.0,2.0,0.0,,77.0,19.0,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,,
+2020-08-06,08:00,TI,,3446.0,,3.0,0.0,0.0,922.0,350.0,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,
