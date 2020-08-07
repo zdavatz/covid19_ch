@@ -3822,6 +3822,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-07,12:30,GL,,145,0,0,,,,13,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,359.8,32.258
 2020-08-07,03:00,JU,,260,0,0,0,,,7,https://www.jura.ch/Htdocs/Files/v/34990.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees---Situation-au-7-aout-2020.xlsx?download=1,,,,,,,,,,,,47.350744,7.156107,Jura,26,0,0,354.71,9.55
 2020-08-07,03:00,LU,,916,-1,12,4,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,56.0,155.0,,,,,,,,,,47.067763,8.1102,Luzern,03,6,0,225.34,5.166
+2020-08-07,03:00,NW,,130,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,302.33,6.977
 2020-08-07,03:00,OW,6,94,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f2d3bd3c872b/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,250.0,0.0
 2020-08-07,03:00,SG,,1053,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,7,0,208.64,7.926
 2020-08-07,09:30,SH,,135,-1,5,2,,,7,https://sh.ch/CMS/get/file/913a8b2f-b2c9-4214-acf9-8ea797c5b638,,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,3,0,165.85,8.6
