@@ -3798,6 +3798,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-06,03:00,GR,,937,0,1,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,26.0,62.0,,,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,1,0,473.47,25.265
 2020-08-06,03:00,JU,,260,0,0,0,,,7,https://www.jura.ch/Htdocs/Files/v/34981.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_06_08.xlsx?download=1,,,,,,,,,,,,47.350744,7.156107,Jura,26,0,0,354.71,9.55
 2020-08-06,03:00,LU,,910,-1,13,5,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,54.0,163.0,,,,,,,,,,47.067763,8.1102,Luzern,03,5,1,223.86,5.166
+2020-08-06,03:00,NE,,789,0,1,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,443.26,46.629
 2020-08-06,03:00,NW,,130,-1,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,302.33,6.977
 2020-08-06,03:00,OW,6,94,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f2becff1491e/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,250.0,0.0
 2020-08-06,03:00,SG,,1046,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,15,0,207.25,7.926
@@ -3811,7 +3812,9 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-06,08:00,ZG,,296,-1,1,0,,259,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,14.0,,,,,,,,,,,47.157296,8.537294,Zug,09,0,0,236.04,7.177
 2020-08-06,14:30,ZH,,4684,-4,25,,4.0,,139,https://www.zh.ch/de/gesundheit/coronavirus.html,358.0,659.0,4003.0,,,,,,,,,47.41275,8.65508,Zürich,01,34,1,311.37,9.24
 2020-08-07,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,57.0,57.0,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
+2020-08-07,08:00,BE,,2190,0,11,3,1.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,13,0,212.39,9.407
 2020-08-07,03:00,FR,30,1377,0,1,1,,158,85,https://www.fr.ch/sites/default/files/2020-08/200807_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,4,0,437.0,26.976
+2020-08-07,03:00,LU,,916,-1,12,4,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,56.0,155.0,,,,,,,,,,47.067763,8.1102,Luzern,03,6,0,225.34,5.166
 2020-08-07,03:00,SG,,1053,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,7,0,208.64,7.926
 2020-08-07,09:30,SH,,135,-1,5,2,,,7,https://sh.ch/CMS/get/file/913a8b2f-b2c9-4214-acf9-8ea797c5b638,,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,3,0,165.85,8.6
 2020-08-07,01:00,SO,,548,-1,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,,47.304135,7.639388,Solothurn,11,3,0,201.92,6.632
