@@ -3818,6 +3818,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-07,08:00,BE,,2190,0,11,3,1.0,,97,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,13,0,212.39,9.407
 2020-08-07,03:00,BL,,945,-2,1,0,0.0,878,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,23.0,115.0,419.0,534.0,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,2,0,329.27,12.195
 2020-08-07,09:00,BS,235,1082,0,8,0,,988,52,https://www.gesundheit.bs.ch,42.0,53.0,428.0,481.0,,,,516.0,0.0,,8.0,47.564869,7.615259,Basel-Stadt,12,1,0,558.02,26.818
+2020-08-07,03:00,FL,900,88,0,,,,88,1,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,227.98,2.591
 2020-08-07,03:00,FR,30,1377,0,1,1,,158,85,https://www.fr.ch/sites/default/files/2020-08/200807_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,4,0,437.0,26.976
 2020-08-07,03:00,GE,58038,6172,0,16,2,1.0,945,296,https://www.ge.ch/document/21502/telecharger,,,,,2.0,,,,,,,46.220528,6.132935,Genève,25,0,0,1246.37,59.774
 2020-08-07,12:30,GL,,145,0,0,,,,13,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,359.8,32.258
@@ -3837,5 +3838,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-07,14:30,ZH,,4711,0,25,,6.0,,139,https://www.zh.ch/de/gesundheit/coronavirus.html,358.0,659.0,,,,,,,,,,47.41275,8.65508,Zürich,01,32,0,313.17,9.24
 2020-08-08,08:00,BE,,2198,0,11,3,1.0,,98,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,8,1,213.17,9.504
 2020-08-08,09:30,BS,235,1083,0,8,0,,991,52,https://www.gesundheit.bs.ch,40.0,52.0,431.0,483.0,,,,516.0,,,,47.564869,7.615259,Basel-Stadt,12,1,0,558.54,26.818
+2020-08-08,03:00,FL,900,88,0,,,,88,1,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,227.98,2.591
 2020-08-08,03:00,LU,,924,-1,11,3,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,55.0,150.0,,,,,,,,,,47.067763,8.1102,Luzern,03,8,0,227.31,5.166
 2020-08-08,14:30,ZH,,4752,1,26,,6.0,,139,https://www.zh.ch/de/gesundheit/coronavirus.html,358.0,659.0,,,,,,,,,,47.41275,8.65508,Zürich,01,41,0,315.89,9.24
