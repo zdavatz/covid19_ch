@@ -22,7 +22,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-07,08:00,TI,,3449,-1,2,0,0.0,923,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,,46.295617,8.808924,Ticino,21,3,0,975.12,98.954
 2020-08-07,16:00,UR,85,117,0,0,,,107,7,https://www.ur.ch/themen/2962,,55.0,,,,,,,,,,46.771849,8.628586,Uri,04,0,0,322.31,19.284
 2020-08-07,08:00,ZG,,297,-1,0,0,,259,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,,47.157296,8.537294,Zug,09,1,0,236.84,7.177
-2020-08-07,14:30,ZH,,4711,0,25,,6.0,,139,https://www.zh.ch/de/gesundheit/coronavirus.html,358.0,659.0,,,,,,,,,,47.41275,8.65508,Zürich,01,32,0,313.17,9.24
 2020-08-08,08:00,BE,,2198,0,11,3,1.0,,98,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,8,1,213.17,9.504
 2020-08-08,09:30,BS,235,1083,0,8,0,,991,52,https://www.gesundheit.bs.ch,40.0,52.0,431.0,483.0,,,,516.0,,,,47.564869,7.615259,Basel-Stadt,12,1,0,558.54,26.818
 2020-08-08,03:00,LU,,924,-1,11,3,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,55.0,150.0,,,,,,,,,,47.067763,8.1102,Luzern,03,8,0,227.31,5.166
+2020-08-08,14:30,ZH,,4752,1,26,,6.0,,139,https://www.zh.ch/de/gesundheit/coronavirus.html,358.0,659.0,,,,,,,,,,47.41275,8.65508,Zürich,01,41,0,315.89,9.24
