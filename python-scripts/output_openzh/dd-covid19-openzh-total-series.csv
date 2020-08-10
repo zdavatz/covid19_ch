@@ -3838,7 +3838,8 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-07,08:00,ZG,,297.0,,0.0,,,259.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,14.0,61.0,317.0,378.0,,,,,,,
 2020-08-07,14:30,ZH,,4711.0,,25.0,,6.0,,139.0,https://www.zh.ch/de/gesundheit/coronavirus.html,358.0,659.0,,,,,,,,,
 2020-08-08,08:00,BE,,2198.0,,,,,,98.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,
-2020-08-08,09:30,BS,,1083.0,,,,,991.0,52.0,https://www.gesundheit.bs.ch,40.0,52.0,431.0,483.0,,,,516.0,,,
+2020-08-08,,BL,,945.0,,1.0,0.0,0.0,879.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,23.0,96.0,410.0,506.0,,,,,,,
+2020-08-08,09:30,BS,,1083.0,,8.0,0.0,,991.0,52.0,https://www.gesundheit.bs.ch,40.0,52.0,431.0,483.0,,,,516.0,0.0,,8.0
 2020-08-08,,FL,,88.0,,,,,88.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-08,,GR,,940.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,20.0,53.0,,,,,,,,,
 2020-08-08,,LU,,924.0,,11.0,3.0,,,21.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,55.0,150.0,,,,,,,,,
@@ -3848,7 +3849,8 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-08,10:00,TG,,481.0,0.0,2.0,0.0,,77.0,19.0,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,,
 2020-08-08,08:00,ZG,,297.0,,0.0,,,259.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,14.0,61.0,317.0,378.0,,,,,,,
 2020-08-08,14:30,ZH,,4752.0,,26.0,,6.0,,139.0,https://www.zh.ch/de/gesundheit/coronavirus.html,358.0,659.0,,,,,,,,,
-2020-08-09,09:30,BS,,1085.0,,,,,995.0,52.0,https://www.gesundheit.bs.ch,38.0,44.0,370.0,414.0,,,,516.0,,,
+2020-08-09,,BL,,945.0,,1.0,0.0,0.0,880.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,23.0,97.0,378.0,475.0,,,,,,,
+2020-08-09,09:30,BS,,1085.0,,7.0,0.0,,995.0,52.0,https://www.gesundheit.bs.ch,38.0,44.0,370.0,414.0,,,,516.0,0.0,,7.0
 2020-08-09,,FL,,88.0,,,,,88.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-09,,GR,,940.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,19.0,51.0,,,,,,,,,
 2020-08-09,,NE,,,,1.0,0.0,0.0,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,
@@ -3861,7 +3863,8 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-10,08:00,AI,,25.0,,,,,,0.0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,3.0,50.0,53.0,,,,,,,
 2020-08-10,11:20,AR,,111.0,,3.0,0.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,4.0,140.0,19.0,159.0,,,,,,,
 2020-08-10,08:00,BE,,2207.0,,10.0,3.0,1.0,,98.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,
-2020-08-10,09:45,BS,,1087.0,,,,,996.0,52.0,https://www.gesundheit.bs.ch,39.0,43.0,395.0,438.0,,,,516.0,,,
+2020-08-10,,BL,,945.0,,1.0,0.0,0.0,885.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,23.0,99.0,335.0,434.0,,,,,,,
+2020-08-10,09:45,BS,,1087.0,,8.0,0.0,,996.0,52.0,https://www.gesundheit.bs.ch,39.0,43.0,395.0,438.0,,,,516.0,0.0,,8.0
 2020-08-10,11:30,GL,,146.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-08-10,,LU,,925.0,,10.0,3.0,,,21.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,47.0,110.0,,,,,,,,,
 2020-08-10,,SG,,1081.0,,,,,,40.0,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,
