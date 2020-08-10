@@ -9,7 +9,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-07,03:00,OW,6,94,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f2d3bd3c872b/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,250.0,0.0
 2020-08-07,16:00,UR,85,117,0,0,,,107,7,https://www.ur.ch/themen/2962,,55.0,,,,,,,,,,46.771849,8.628586,Uri,04,0,0,322.31,19.284
 2020-08-08,08:00,BE,,2198,0,11,3,1.0,,98,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,8,1,213.17,9.504
-2020-08-08,03:00,LU,,924,-1,11,3,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,55.0,150.0,,,,,,,,,,47.067763,8.1102,Luzern,03,8,0,227.31,5.166
 2020-08-09,03:00,FL,900,88,0,,,,88,1,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,227.98,2.591
 2020-08-09,03:00,GR,,940,0,1,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,19.0,51.0,,,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,474.99,25.265
 2020-08-09,03:00,NE,,792,0,1,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,444.94,46.629
@@ -19,6 +18,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-10,11:20,AR,,111,2,3,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,4.0,140.0,19.0,159.0,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,201.09,5.435
 2020-08-10,09:45,BS,235,1087,0,8,0,,996,52,https://www.gesundheit.bs.ch,39.0,43.0,395.0,438.0,,,,516.0,,,,47.564869,7.615259,Basel-Stadt,12,2,0,560.6,26.818
 2020-08-10,11:30,GL,,146,0,0,,,,13,https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,1,0,362.28,32.258
+2020-08-10,03:00,LU,,925,-1,10,3,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,47.0,110.0,,,,,,,,,,47.067763,8.1102,Luzern,03,1,0,227.55,5.166
 2020-08-10,03:00,SG,,1081,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,20,0,214.19,7.926
 2020-08-10,09:30,SH,,137,4,9,2,,,7,https://sh.ch/CMS/get/file/51eafc87-9c66-49a6-9e30-b7eb420a0287,,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,168.3,8.6
 2020-08-10,01:00,SO,,558,-1,1,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,,47.304135,7.639388,Solothurn,11,10,0,205.6,6.632
