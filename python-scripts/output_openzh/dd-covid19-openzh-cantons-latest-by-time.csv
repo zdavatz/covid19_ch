@@ -16,7 +16,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-12,03:00,JU,,260,0,0,0,,,7,https://www.jura.ch/Htdocs/Files/v/35017.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_12_08.xlsx?download=1,,,,,,,,,,,,47.350744,7.156107,Jura,26,0,0,354.71,9.55
 2020-08-12,03:00,LU,,940,1,9,4,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,51.0,128.0,,,,,,,,,,47.067763,8.1102,Luzern,03,8,0,231.24,5.166
 2020-08-12,03:00,NW,,131,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,304.65,6.977
-2020-08-12,03:00,SG,,1099,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,10,0,217.75,7.926
+2020-08-12,03:00,SG,,1099,0,9,5,5.0,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,10,0,217.75,7.926
 2020-08-12,09:30,SH,,147,2,7,2,,,7,https://sh.ch/CMS/get/file/87e94add-c075-4cbf-9d77-af16e57bff2f,,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,8,0,180.59,8.6
 2020-08-12,01:00,SO,,573,-1,1,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,,47.304135,7.639388,Solothurn,11,10,0,211.13,6.632
 2020-08-12,09:00,SZ,10,429,0,1,,,384,25,https://www.sz.ch/public/upload/assets/48097/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,,47.061787,8.756585,Schwyz,05,2,0,272.73,15.893
