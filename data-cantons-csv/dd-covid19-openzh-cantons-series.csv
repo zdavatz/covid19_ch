@@ -3963,6 +3963,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-13,03:00,FR,30,1405,0,2,1,,158,85,https://www.fr.ch/sites/default/files/2020-08/200813_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,4,0,445.89,26.976
 2020-08-13,03:00,GE,58038,6402,-2,17,2,1.0,951,296,https://www.ge.ch/document/21502/telecharger,,,,,1.0,,,,,,,46.220528,6.132935,Genève,25,0,0,1292.81,59.774
 2020-08-13,12:00,GL,,150,0,0,,,,13,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,1,0,372.21,32.258
+2020-08-13,03:00,GR,,946,0,0,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,13.0,34.0,,,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,478.02,25.265
 2020-08-13,03:00,JU,,261,0,0,0,,,7,https://www.jura.ch/Htdocs/Files/v/35028.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/donnees_13_08.xlsx?download=1,,,,,,,,,,,,47.350744,7.156107,Jura,26,1,0,356.07,9.55
 2020-08-13,03:00,LU,,957,1,10,4,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,61.0,141.0,,,,,,,,,,47.067763,8.1102,Luzern,03,17,0,235.42,5.166
 2020-08-13,03:00,OW,6,95,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f35233cbe54a/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,252.66,0.0
@@ -3975,4 +3976,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-13,16:00,UR,85,121,0,0,,,110,7,https://www.ur.ch/themen/2962,,71.0,,,,,,,,,,46.771849,8.628586,Uri,04,1,0,333.33,19.284
 2020-08-13,03:00,VS,,2210,0,5,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,647.14,44.802
 2020-08-13,08:00,ZG,,309,-1,0,0,,266,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,,47.157296,8.537294,Zug,09,2,0,246.41,7.177
-2020-08-13,14:30,ZH,,4979,0,27,,6.0,,140,https://www.zh.ch/de/gesundheit/coronavirus.html,,,,,,,,,,,,47.41275,8.65508,Zürich,01,56,0,330.98,9.307
+2020-08-13,14:30,ZH,,4979,0,27,,6.0,,140,https://www.zh.ch/de/gesundheit/coronavirus.html,536.0,703.0,,,,,,,,,,47.41275,8.65508,Zürich,01,56,0,330.98,9.307
