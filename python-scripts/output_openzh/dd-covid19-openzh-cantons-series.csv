@@ -3982,9 +3982,10 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-14,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,32.0,32.0,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-08-14,08:55,AR,,118,-1,2,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,10.0,21.0,105.0,126.0,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,213.77,5.435
 2020-08-14,09:00,BS,235,1115,0,5,0,,1022,53,https://www.gesundheit.bs.ch,40.0,49.0,406.0,455.0,,,,520.0,1.0,,4.0,47.564869,7.615259,Basel-Stadt,12,5,0,575.04,27.334
+2020-08-14,03:00,FL,900,91,0,,,,87,1,https://www.regierung.li/media/attachments/423-corona-situationsbericht-0814.pdf,,,,,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,1,0,235.75,2.591
 2020-08-14,03:00,FR,30,1408,0,2,1,,158,85,https://www.fr.ch/sites/default/files/2020-08/200814_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,3,0,446.84,26.976
 2020-08-14,03:00,GE,61245,6444,0,17,2,1.0,951,296,https://www.ge.ch/document/21502/telecharger,,,,,,,,,,,,46.220528,6.132935,Genève,25,0,0,1301.29,59.774
-2020-08-14,11:30,GL,,151,0,0,,,,13,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,1,0,374.69,32.258
+2020-08-14,11:30,GL,,150,0,0,,,,13,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,372.21,32.258
 2020-08-14,03:00,LU,,970,0,10,4,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,65.0,201.0,,,,,,,,,,47.067763,8.1102,Luzern,03,13,0,238.62,5.166
 2020-08-14,03:00,SG,,1124,3,12,5,4.0,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,12,0,222.71,7.926
 2020-08-14,09:30,SH,,151,-2,4,2,,,7,https://sh.ch/CMS/get/file/eec9255e-df9e-4000-a527-315e41903dd8,,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,4,0,185.5,8.6
