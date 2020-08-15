@@ -3863,7 +3863,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-09,03:00,AG,,1689,0,2,1,1.0,1170,50,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp,68.0,140.0,,,,,,,,,,47.40966,8.15688,Aargau,01,3,0,251.71,7.452
 2020-08-09,08:00,BE,,2203,0,11,3,1.0,,98,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,5,0,213.66,9.504
 2020-08-09,03:00,BL,,945,0,1,0,0.0,880,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,23.0,97.0,378.0,475.0,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,329.27,12.195
-2020-08-09,09:30,BS,235,1085,-1,7,0,,995,52,https://www.gesundheit.bs.ch,38.0,44.0,370.0,414.0,,,,516.0,0.0,,7.0,47.564869,7.615259,Basel-Stadt,12,2,0,559.57,26.818
+2020-08-09,09:30,BS,235,1085,-1,7,0,,995,52,https://www.gesundheit.bs.ch https://www.bag.admin.ch/dam/bag/de/dokumente/mt/k-und-i/aktuelle-ausbrueche-pandemien/2019-nCoV/covid-19-woechentlicher-lagebericht.pdf.download.pdf/BAG_COVID-19_Woechentliche_Lage.pdf,38.0,44.0,370.0,414.0,,,,516.0,0.0,1113.0,7.0,47.564869,7.615259,Basel-Stadt,12,2,0,559.57,26.818
 2020-08-09,03:00,FL,900,88,0,,,,87,1,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,227.98,2.591
 2020-08-09,03:00,FR,30,1384,0,1,1,,158,85,https://www.fr.ch/sites/default/files/2020-08/200814_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,6,0,439.23,26.976
 2020-08-09,03:00,GE,61245,6280,0,16,2,1.0,945,296,https://www.ge.ch/document/21502/telecharger,214.0,738.0,1281.0,,,,,,,,,46.220528,6.132935,Genève,25,33,0,1268.17,59.774
@@ -4006,3 +4006,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-14,03:00,VS,,2222,0,5,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,650.66,44.802
 2020-08-14,08:00,ZG,,312,0,0,0,,275,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,,47.157296,8.537294,Zug,09,3,0,248.8,7.177
 2020-08-14,14:30,ZH,,5035,-1,26,,6.0,,140,https://www.zh.ch/de/gesundheit/coronavirus.html,536.0,703.0,,,,,,,,,,47.41275,8.65508,Zürich,01,60,0,334.71,9.307
+2020-08-15,09:40,BS,235,1135,0,5,0,,1022,53,https://www.gesundheit.bs.ch,60.0,76.0,428.0,504.0,,,,522.0,,,,47.564869,7.615259,Basel-Stadt,12,20,0,585.35,27.334
