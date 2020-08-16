@@ -4012,3 +4012,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-15,14:30,ZH,,5096,0,26,,6.0,,140,https://www.zh.ch/de/gesundheit/coronavirus.html,536.0,703.0,,,,,,,,,,47.41275,8.65508,Zürich,01,61,0,338.76,9.307
 2020-08-16,08:00,BE,,2309,0,10,1,1.0,,98,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,13,0,223.94,9.504
 2020-08-16,10:50,BS,235,1140,0,5,0,,1028,53,https://www.gesundheit.bs.ch,59.0,97.0,451.0,548.0,,,,521.0,,,,47.564869,7.615259,Basel-Stadt,12,5,0,587.93,27.334
+2020-08-16,14:30,ZH,,5125,3,29,,7.0,,140,https://www.zh.ch/de/gesundheit/coronavirus.html,,,,,,,,,,,,47.41275,8.65508,Zürich,01,29,0,340.69,9.307
