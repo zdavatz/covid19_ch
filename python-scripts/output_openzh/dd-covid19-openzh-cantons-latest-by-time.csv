@@ -22,7 +22,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-14,16:15,UR,85,123,0,0,,,110,7,https://www.ur.ch/themen/2962,,70.0,,,,,,,,,,46.771849,8.628586,Uri,04,2,0,338.84,19.284
 2020-08-14,03:00,VS,,2222,0,5,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,650.66,44.802
 2020-08-14,08:00,ZG,,312,0,0,0,,275,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,,47.157296,8.537294,Zug,09,3,0,248.8,7.177
-2020-08-15,09:40,BS,235,1135,0,5,0,,1022,53,https://www.gesundheit.bs.ch,60.0,76.0,428.0,504.0,,,,522.0,,,,47.564869,7.615259,Basel-Stadt,12,20,0,585.35,27.334
 2020-08-15,03:00,GR,,952,0,0,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,14.0,38.0,,,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,0,481.05,25.265
 2020-08-15,14:30,ZH,,5096,0,26,,6.0,,140,https://www.zh.ch/de/gesundheit/coronavirus.html,536.0,703.0,,,,,,,,,,47.41275,8.65508,Zürich,01,61,0,338.76,9.307
 2020-08-16,08:00,BE,,2309,0,10,1,1.0,,98,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,13,0,223.94,9.504
+2020-08-16,10:50,BS,235,1140,0,5,0,,1028,53,https://www.gesundheit.bs.ch,59.0,97.0,451.0,548.0,,,,521.0,,,,47.564869,7.615259,Basel-Stadt,12,5,0,587.93,27.334
