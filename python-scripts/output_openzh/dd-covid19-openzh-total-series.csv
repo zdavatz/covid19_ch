@@ -4038,6 +4038,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-16,10:00,TG,,524.0,0.0,5.0,2.0,,77.0,19.0,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,,
 2020-08-16,08:00,ZG,,312.0,,0.0,,,275.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,19.0,89.0,252.0,341.0,,,,,,,
 2020-08-16,14:30,ZH,,5125.0,,29.0,,7.0,,140.0,https://www.zh.ch/de/gesundheit/coronavirus.html,536.0,703.0,,,,,,,,,
+2020-08-17,17:30,AR,,121.0,,2.0,1.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,9.0,32.0,,,,,,,,,
 2020-08-17,08:00,BE,,2315.0,,7.0,1.0,1.0,,98.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,
 2020-08-17,,BL,,978.0,,1.0,1.0,0.0,905.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,37.0,142.0,334.0,476.0,,,,,,,
 2020-08-17,10:30,BS,,1144.0,,8.0,0.0,,1028.0,53.0,https://www.gesundheit.bs.ch,64.0,35.0,519.0,554.0,,,,521.0,2.0,,6.0
@@ -4057,4 +4058,4 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-17,08:00,TI,,3470.0,,1.0,0.0,0.0,924.0,350.0,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,
 2020-08-17,15:45,UR,,126.0,,0.0,,,111.0,7.0,https://www.ur.ch/themen/2962,,89.0,,,,,,,,,
 2020-08-17,08:00,ZG,,315.0,,1.0,,,275.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,
-2020-08-17,14:30,ZH,,5171.0,,33.0,,9.0,,140.0,https://www.zh.ch/de/gesundheit/coronavirus.html,,,,,,,,,,,
+2020-08-17,14:30,ZH,,5171.0,,33.0,,9.0,,140.0,https://www.zh.ch/de/gesundheit/coronavirus.html,536.0,703.0,,,,,,,,,
