@@ -4038,7 +4038,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-16,10:00,TG,,524.0,0.0,5.0,2.0,,77.0,19.0,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,,
 2020-08-16,08:00,ZG,,312.0,,0.0,,,275.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,19.0,89.0,252.0,341.0,,,,,,,
 2020-08-16,14:30,ZH,,5125.0,,29.0,,7.0,,140.0,https://www.zh.ch/de/gesundheit/coronavirus.html,536.0,703.0,,,,,,,,,
-2020-08-17,17:30,AR,,121.0,,2.0,1.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,9.0,32.0,,,,,,,,,
+2020-08-17,17:30,AR,,121.0,,2.0,1.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,9.0,32.0,116.0,148.0,,,,,,,
 2020-08-17,08:00,BE,,2315.0,,7.0,1.0,1.0,,98.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,
 2020-08-17,,BL,,978.0,,1.0,1.0,0.0,905.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,37.0,142.0,334.0,476.0,,,,,,,
 2020-08-17,10:30,BS,,1144.0,,8.0,0.0,,1028.0,53.0,https://www.gesundheit.bs.ch,64.0,35.0,519.0,554.0,,,,521.0,2.0,,6.0
@@ -4046,6 +4046,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-17,,FR,,1428.0,,3.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200817_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
 2020-08-17,,GE,,,,18.0,0.0,,959.0,,https://www.ge.ch/document/21502/telecharger,,,,,1.0,,,,,,
 2020-08-17,11:30,GL,,151.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
+2020-08-17,,GR,,953.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,12.0,28.0,,,,,,,,,
 2020-08-17,,JU,,262.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35050.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_17_08.xlsx?download=1,,,,,,,,,,,
 2020-08-17,,LU,,984.0,,10.0,4.0,,,21.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,58.0,218.0,,,,,,,,,
 2020-08-17,,NW,,131.0,,0.0,0.0,,,3.0,http://www.nw.ch/coronastatistik,,,,,,,,,,,
