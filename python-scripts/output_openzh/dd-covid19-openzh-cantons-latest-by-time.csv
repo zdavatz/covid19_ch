@@ -5,7 +5,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-14,08:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,32.0,32.0,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-08-14,08:55,AR,,118,-1,2,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,10.0,21.0,105.0,126.0,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,213.77,5.435
 2020-08-14,03:00,BL,,963,0,1,1,0.0,896,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,29.0,89.0,309.0,398.0,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,4,0,335.54,12.195
-2020-08-14,03:00,FR,30,1408,0,2,1,,158,85,https://www.fr.ch/sites/default/files/2020-08/200814_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,3,0,446.84,26.976
 2020-08-14,03:00,GE,61245,6444,0,17,2,1.0,951,296,https://www.ge.ch/document/21502/telecharger,,,,,,,,,,,,46.220528,6.132935,Genève,25,0,0,1301.29,59.774
 2020-08-14,11:30,GL,,150,0,0,,,,13,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,372.21,32.258
 2020-08-14,03:00,JU,,262,1,1,0,,,7,https://www.jura.ch/Htdocs/Files/v/35035.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees---Situation-au-14-aout-2020.xlsx?download=1,,,,,,,,,,,,47.350744,7.156107,Jura,26,1,0,357.44,9.55
@@ -14,7 +13,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-14,03:00,SG,,1124,3,12,5,4.0,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,12,0,222.71,7.926
 2020-08-14,09:30,SH,,151,-2,4,2,,,7,https://sh.ch/CMS/get/file/eec9255e-df9e-4000-a527-315e41903dd8,,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,4,0,185.5,8.6
 2020-08-14,01:00,SO,,598,0,0,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,,47.304135,7.639388,Solothurn,11,9,0,220.34,6.632
-2020-08-14,09:00,SZ,10,432,0,1,,,390,25,https://www.sz.ch/public/upload/assets/48137/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,,47.061787,8.756585,Schwyz,05,1,0,274.63,15.893
 2020-08-14,10:00,TG,276,519,1,4,2,,77,19,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,,,47.568715,9.091957,Thurgau,01,10,0,189.55,6.939
 2020-08-14,08:00,TI,,3466,0,1,0,0.0,924,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,,46.295617,8.808924,Ticino,21,3,0,979.93,98.954
 2020-08-14,16:15,UR,85,123,0,0,,,110,7,https://www.ur.ch/themen/2962,,70.0,,,,,,,,,,46.771849,8.628586,Uri,04,2,0,338.84,19.284
@@ -26,3 +24,5 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-16,03:00,GR,,952,0,0,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,12.0,33.0,,,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,481.05,25.265
 2020-08-16,03:00,NW,,131,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,304.65,6.977
 2020-08-16,14:30,ZH,,5125,3,29,,7.0,,140,https://www.zh.ch/de/gesundheit/coronavirus.html,536.0,703.0,,,,,,,,,,47.41275,8.65508,Zürich,01,29,0,340.69,9.307
+2020-08-17,03:00,FR,30,1428,0,3,1,,158,85,https://www.fr.ch/sites/default/files/2020-08/200817_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,3,0,453.19,26.976
+2020-08-17,09:00,SZ,10,439,0,1,,,393,25,https://www.sz.ch/public/upload/assets/48145/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,,47.061787,8.756585,Schwyz,05,3,0,279.08,15.893
