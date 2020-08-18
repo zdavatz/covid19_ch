@@ -1,5 +1,4 @@
 date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,current_isolated,current_quarantined,current_quarantined_riskareatravel,current_quarantined_total,ncumul_ICF,TotalPosTests1,ninst_ICU_intub,ncumul_confirmed_non_resident,current_hosp_non_resident,diff_tested,current_hosp_resident,lat,long,name_canton,number_canton,new_positive_cases,new_deaths,total_currently_positive_per_100k,deaths_per_100k
-2020-08-14,03:00,VS,,2222,0,5,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,650.66,44.802
 2020-08-17,03:00,AG,,1825,0,2,1,1.0,1170,50,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,124.0,473.0,1285.0,,,,,,,,,47.40966,8.15688,Aargau,01,10,0,271.98,7.452
 2020-08-17,03:00,FL,900,94,0,,,,87,1,https://www.regierung.li/media/attachments/425-corona-situationsbericht-0817.pdf,,,,,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,3,0,243.52,2.591
 2020-08-17,03:00,NE,,823,0,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,462.36,47.191
@@ -24,5 +23,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-18,10:00,TG,276,536,0,4,1,,78,19,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,,,47.568715,9.091957,Thurgau,01,8,0,195.76,6.939
 2020-08-18,08:00,TI,,3476,0,1,0,0.0,924,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,,46.295617,8.808924,Ticino,21,6,0,982.75,98.954
 2020-08-18,16:00,UR,85,127,0,0,,,113,7,https://www.ur.ch/themen/2962,,71.0,,,,,,,,,,46.771849,8.628586,Uri,04,1,0,349.86,19.284
+2020-08-18,03:00,VS,,2244,0,5,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,657.1,44.802
 2020-08-18,08:00,ZG,,317,0,1,0,,277,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,,47.157296,8.537294,Zug,09,2,0,252.79,7.177
 2020-08-18,14:30,ZH,,5236,0,33,,9.0,,139,https://www.zh.ch/de/gesundheit/coronavirus.html,651.0,1142.0,,,,,,,,,,47.41275,8.65508,Zürich,01,68,0,348.07,9.24
