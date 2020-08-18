@@ -4049,7 +4049,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-17,08:00,BE,,2315.0,,7.0,1.0,1.0,,98.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,
 2020-08-17,,BL,,978.0,,1.0,1.0,0.0,905.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,37.0,142.0,334.0,476.0,,,,,,,
 2020-08-17,10:30,BS,,1144.0,,8.0,0.0,,1028.0,53.0,https://www.gesundheit.bs.ch,64.0,35.0,519.0,554.0,,,,521.0,2.0,,6.0
-2020-08-17,,FL,,94.0,,,,,87.0,1.0,https://www.regierung.li/media/attachments/425-corona-situationsbericht-0817.pdf,,,,,,,,,,,
+2020-08-17,,FL,,94.0,,1.0,,,87.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-17,,FR,,1428.0,,3.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200818_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
 2020-08-17,,GE,,6564.0,,18.0,0.0,,959.0,297.0,https://www.ge.ch/document/21502/telecharger,228.0,725.0,3128.0,,1.0,,,,,,
 2020-08-17,11:30,GL,,151.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
@@ -4071,10 +4071,11 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-17,08:00,ZG,,315.0,,1.0,,,275.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,18.0,87.0,292.0,379.0,,,,,,,
 2020-08-17,14:30,ZH,,5168.0,,33.0,,9.0,,139.0,https://www.zh.ch/de/gesundheit/coronavirus.html,536.0,703.0,,,,,,,,,
 2020-08-18,08:00,AI,,25.0,,,,,,0.0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,16.0,16.0,,,,,,,
-2020-08-18,15:10,AR,,122.0,,0.0,0.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,9.0,-75.0,107.0,32.0,,,,,,,
+2020-08-18,15:10,AR,,122.0,,0.0,0.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,9.0,32.0,107.0,32.0,,,,,,,
 2020-08-18,08:00,BE,,2322.0,,,,,,98.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,
 2020-08-18,,BL,,979.0,,2.0,1.0,0.0,905.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,40.0,177.0,295.0,472.0,,,,,,,
 2020-08-18,08:00,BS,,1149.0,,8.0,0.0,,1031.0,53.0,https://www.gesundheit.bs.ch,65.0,132.0,462.0,594.0,,,,526.0,2.0,,6.0
+2020-08-18,,FL,,97.0,,1.0,,,88.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-18,,FR,,1434.0,,3.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200818_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
 2020-08-18,,GE,,,,15.0,0.0,,961.0,,https://www.ge.ch/document/21502/telecharger,,,,,1.0,,,,,,
 2020-08-18,11:30,GL,,153.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
