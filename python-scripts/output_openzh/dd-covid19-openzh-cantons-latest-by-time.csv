@@ -16,13 +16,13 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-19,03:00,NW,,131,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,304.65,6.977
 2020-08-19,03:00,OW,6,99,1,1,,,1,0,https://www.ow.ch/dl.php/de/5f3d1a1c5c964/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,263.3,0.0
 2020-08-19,03:00,SG,,1187,0,7,1,4.0,226,41,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,18,0,235.19,8.124
-2020-08-19,09:30,SH,,159,-2,8,0,,,8,https://sh.ch/CMS/get/file/1ea0759d-1351-4e47-9f9e-49fff04fe648,,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,1,195.33,9.828
 2020-08-19,01:00,SO,,635,-2,1,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,,47.304135,7.639388,Solothurn,11,10,0,233.97,6.632
-2020-08-19,10:00,TG,276,542,0,4,1,,78,19,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,,,47.568715,9.091957,Thurgau,01,4,0,197.95,6.939
 2020-08-19,16:00,UR,85,129,0,0,,,116,7,https://www.ur.ch/themen/2962,,59.0,,,,,,,,,,46.771849,8.628586,Uri,04,2,0,355.37,19.284
 2020-08-19,14:30,ZH,,5306,-1,32,,9.0,,139,https://www.zh.ch/de/gesundheit/coronavirus.html,651.0,1142.0,,,,,,,,,,47.41275,8.65508,Zürich,01,70,0,352.72,9.24
 2020-08-20,09:20,BS,235,1165,0,8,0,,1036,53,https://www.gesundheit.bs.ch,76.0,129.0,364.0,493.0,,,,527.0,,,,47.564869,7.615259,Basel-Stadt,12,5,0,600.83,27.334
 2020-08-20,03:00,FR,30,1464,-2,2,1,,160,85,https://www.fr.ch/sites/default/files/2020-08/200820_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,13,0,464.61,26.976
+2020-08-20,09:30,SH,,160,-5,3,0,,,8,https://sh.ch/CMS/get/file/e709cee7-4505-401f-bcc2-d2e48a099e5e,,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,196.56,9.828
 2020-08-20,09:00,SZ,10,452,0,1,,,400,25,https://www.sz.ch/public/upload/assets/48207/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,,47.061787,8.756585,Schwyz,05,1,0,287.35,15.893
+2020-08-20,10:00,TG,276,549,0,4,1,,78,19,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,,,47.568715,9.091957,Thurgau,01,7,0,200.51,6.939
 2020-08-20,08:00,TI,,3492,0,0,0,0.0,925,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,,46.295617,8.808924,Ticino,21,6,0,987.28,98.954
 2020-08-20,08:00,ZG,,321,0,0,0,,287,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,,47.157296,8.537294,Zug,09,2,0,255.98,7.177
