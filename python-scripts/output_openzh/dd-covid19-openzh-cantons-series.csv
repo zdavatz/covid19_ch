@@ -3904,7 +3904,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-10,08:00,TI,,3453,-1,1,0,0.0,924,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,,46.295617,8.808924,Ticino,21,4,0,976.25,98.954
 2020-08-10,16:00,UR,85,117,0,0,,,110,7,https://www.ur.ch/themen/2962,,36.0,,,,,,,,,,46.771849,8.628586,Uri,04,0,0,322.31,19.284
 2020-08-10,03:00,VD,,6199,0,11,4,,,425,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,65.0,1095.0,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,25,0,781.62,53.587
-2020-08-10,03:00,VS,,2198,0,3,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,11,0,643.63,44.802
+2020-08-10,03:00,VS,,2199,0,3,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,12,0,643.92,44.802
 2020-08-10,08:00,ZG,,302,2,2,0,,261,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,7.0,50.0,408.0,464.0,,,,,,,,47.157296,8.537294,Zug,09,5,0,240.83,7.177
 2020-08-10,14:30,ZH,,4802,-1,27,,5.0,,139,https://www.zh.ch/de/gesundheit/coronavirus.html,358.0,659.0,,,,,,,,,,47.41275,8.65508,Zürich,01,39,1,319.22,9.24
 2020-08-11,03:00,AG,,1728,0,2,1,1.0,1170,50,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp,116.0,443.0,1377.0,,,,,,,,,47.40966,8.15688,Aargau,01,29,0,257.53,7.452
@@ -3930,7 +3930,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-11,08:00,TI,,3458,0,1,0,0.0,924,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,,46.295617,8.808924,Ticino,21,5,0,977.66,98.954
 2020-08-11,16:00,UR,85,119,0,0,,,110,7,https://www.ur.ch/themen/2962,,35.0,,,,,,,,,,46.771849,8.628586,Uri,04,2,0,327.82,19.284
 2020-08-11,03:00,VD,,6223,0,11,4,,,425,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,24,0,784.64,53.587
-2020-08-11,03:00,VS,,2206,1,4,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,8,0,645.97,44.802
+2020-08-11,03:00,VS,,2207,1,4,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,8,0,646.27,44.802
 2020-08-11,08:00,ZG,,305,-2,0,0,,261,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,11.0,52.0,397.0,463.0,,,,,,,,47.157296,8.537294,Zug,09,3,0,243.22,7.177
 2020-08-11,14:30,ZH,,4866,0,27,,5.0,,139,https://www.zh.ch/de/gesundheit/coronavirus.html,435.0,604.0,,,,,,,,,,47.41275,8.65508,Zürich,01,64,0,323.47,9.24
 2020-08-12,03:00,AG,,1752,0,2,1,1.0,1170,50,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp,138.0,417.0,1219.0,,,,,,,,,47.40966,8.15688,Aargau,01,24,0,261.1,7.452
@@ -3956,7 +3956,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-12,08:00,TI,,3460,0,1,0,0.0,924,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,,46.295617,8.808924,Ticino,21,2,0,978.23,98.954
 2020-08-12,16:00,UR,85,120,0,0,,,110,7,https://www.ur.ch/themen/2962,,70.0,,,,,,,,,,46.771849,8.628586,Uri,04,1,0,330.58,19.284
 2020-08-12,03:00,VD,,6246,0,11,4,,,425,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,23,0,787.54,53.587
-2020-08-12,03:00,VS,,2214,1,5,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,8,0,648.32,44.802
+2020-08-12,03:00,VS,,2215,1,5,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,8,0,648.61,44.802
 2020-08-12,08:00,ZG,,307,1,1,0,,261,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,13.0,58.0,408.0,474.0,,,,,,,,47.157296,8.537294,Zug,09,2,0,244.82,7.177
 2020-08-12,14:30,ZH,,4918,0,27,,5.0,,139,https://www.zh.ch/de/gesundheit/coronavirus.html,435.0,604.0,,,,,,,,,,47.41275,8.65508,Zürich,01,52,0,326.93,9.24
 2020-08-13,03:00,AG,,1772,0,2,1,1.0,1170,50,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp,145.0,436.0,1123.0,,,,,,,,,47.40966,8.15688,Aargau,01,20,0,264.08,7.452
@@ -3982,7 +3982,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-13,08:00,TI,,3463,0,1,0,0.0,924,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,,46.295617,8.808924,Ticino,21,3,0,979.08,98.954
 2020-08-13,16:00,UR,85,121,0,0,,,110,7,https://www.ur.ch/themen/2962,,71.0,,,,,,,,,,46.771849,8.628586,Uri,04,1,0,333.33,19.284
 2020-08-13,03:00,VD,,6282,0,11,4,,,426,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,36,1,792.08,53.713
-2020-08-13,03:00,VS,,2221,0,5,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,7,0,650.37,44.802
+2020-08-13,03:00,VS,,2222,0,5,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,7,0,650.66,44.802
 2020-08-13,08:00,ZG,,309,-1,0,0,,266,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,17.0,64.0,381.0,445.0,,,,,,,,47.157296,8.537294,Zug,09,2,0,246.41,7.177
 2020-08-13,14:30,ZH,,4974,0,27,,6.0,,139,https://www.zh.ch/de/gesundheit/coronavirus.html,536.0,703.0,5980.0,,,,,,,,,47.41275,8.65508,Zürich,01,56,0,330.65,9.24
 2020-08-14,03:00,AG,,1785,0,2,1,1.0,1170,50,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp,138.0,652.0,1112.0,,,,,,,,,47.40966,8.15688,Aargau,01,13,0,266.02,7.452
@@ -4009,7 +4009,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-14,08:00,TI,,3466,0,1,0,0.0,924,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,,46.295617,8.808924,Ticino,21,3,0,979.93,98.954
 2020-08-14,16:15,UR,85,123,0,0,,,110,7,https://www.ur.ch/themen/2962,,70.0,,,,,,,,,,46.771849,8.628586,Uri,04,2,0,338.84,19.284
 2020-08-14,03:00,VD,,6306,-2,9,4,,,426,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,24,0,795.11,53.713
-2020-08-14,03:00,VS,,2228,0,5,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,7,0,652.42,44.802
+2020-08-14,03:00,VS,,2229,1,6,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,7,0,652.71,44.802
 2020-08-14,08:00,ZG,,312,0,0,0,,275,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,17.0,64.0,381.0,445.0,,,,,,,,47.157296,8.537294,Zug,09,3,0,248.8,7.177
 2020-08-14,14:30,ZH,,5034,-1,26,,6.0,,139,https://www.zh.ch/de/gesundheit/coronavirus.html,536.0,703.0,,,,,,,,,,47.41275,8.65508,Zürich,01,60,0,334.64,9.24
 2020-08-15,03:00,AG,,1804,0,2,1,1.0,1170,50,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp,,,,,,,,,,,,47.40966,8.15688,Aargau,01,19,0,268.85,7.452
@@ -4025,7 +4025,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-15,09:00,SZ,10,436,0,1,,,390,25,https://www.sz.ch/public/upload/assets/48207/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,,47.061787,8.756585,Schwyz,05,4,0,277.18,15.893
 2020-08-15,10:00,TG,276,523,1,5,2,,77,19,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,,,47.568715,9.091957,Thurgau,01,4,0,191.02,6.939
 2020-08-15,03:00,VD,,6331,0,9,4,,,427,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,25,1,798.26,53.839
-2020-08-15,03:00,VS,,2234,0,5,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,6,0,654.17,44.802
+2020-08-15,03:00,VS,,2235,0,6,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,6,0,654.47,44.802
 2020-08-15,08:00,ZG,,312,0,0,0,,275,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,17.0,64.0,381.0,445.0,,,,,,,,47.157296,8.537294,Zug,09,0,0,248.8,7.177
 2020-08-15,14:30,ZH,,5095,0,26,,6.0,,139,https://www.zh.ch/de/gesundheit/coronavirus.html,536.0,703.0,,,,,,,,,,47.41275,8.65508,Zürich,01,61,0,338.7,9.24
 2020-08-16,03:00,AG,,1815,0,2,1,1.0,1170,50,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp,138.0,652.0,,,,,,,,,,47.40966,8.15688,Aargau,01,11,0,270.49,7.452
@@ -4043,7 +4043,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-16,09:00,SZ,10,436,0,1,,,390,25,https://www.sz.ch/public/upload/assets/48207/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,277.18,15.893
 2020-08-16,10:00,TG,276,524,0,5,2,,77,19,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,,,47.568715,9.091957,Thurgau,01,1,0,191.38,6.939
 2020-08-16,03:00,VD,,6349,1,10,4,,,428,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,3492.0,,,,,,,,,46.570091,6.557809000000001,Vaud,22,18,1,800.53,53.965
-2020-08-16,03:00,VS,,2240,0,5,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,6,0,655.93,44.802
+2020-08-16,03:00,VS,,2241,0,6,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,6,0,656.22,44.802
 2020-08-16,08:00,ZG,,312,0,0,0,,275,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,19.0,89.0,252.0,341.0,,,,,,,,47.157296,8.537294,Zug,09,0,0,248.8,7.177
 2020-08-16,14:30,ZH,,5124,3,29,,7.0,,139,https://www.zh.ch/de/gesundheit/coronavirus.html,536.0,703.0,,,,,,,,,,47.41275,8.65508,Zürich,01,29,0,340.62,9.24
 2020-08-17,03:00,AG,,1825,0,2,1,1.0,1170,50,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp,124.0,473.0,1285.0,,,,,,,,,47.40966,8.15688,Aargau,01,10,0,271.98,7.452
@@ -4069,7 +4069,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-17,08:00,TI,,3470,0,1,0,0.0,924,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,,46.295617,8.808924,Ticino,21,4,0,981.06,98.954
 2020-08-17,15:45,UR,85,126,0,0,,,111,7,https://www.ur.ch/themen/2962,,89.0,,,,,,,,,,46.771849,8.628586,Uri,04,3,0,347.11,19.284
 2020-08-17,03:00,VD,,6383,-2,8,4,,,429,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,109.0,1325.0,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,34,1,804.82,54.092
-2020-08-17,03:00,VS,,2249,0,5,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,9,0,658.57,44.802
+2020-08-17,03:00,VS,,2251,0,6,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,10,0,659.15,44.802
 2020-08-17,08:00,ZG,,315,1,1,0,,275,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,18.0,87.0,292.0,379.0,,,,,,,,47.157296,8.537294,Zug,09,3,0,251.2,7.177
 2020-08-17,14:30,ZH,,5168,4,33,,9.0,,139,https://www.zh.ch/de/gesundheit/coronavirus.html,536.0,703.0,,,,,,,,,,47.41275,8.65508,Zürich,01,44,0,343.55,9.24
 2020-08-18,03:00,AG,,1852,0,2,1,1.0,1170,51,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp,137.0,560.0,1305.0,,,,,,,,,47.40966,8.15688,Aargau,01,27,1,276.01,7.601
@@ -4096,7 +4096,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-18,08:00,TI,,3476,0,1,0,0.0,924,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,,46.295617,8.808924,Ticino,21,6,0,982.75,98.954
 2020-08-18,16:00,UR,85,127,0,0,,,113,7,https://www.ur.ch/themen/2962,,71.0,,,,,,,,,,46.771849,8.628586,Uri,04,1,0,349.86,19.284
 2020-08-18,03:00,VD,,6422,2,10,5,,,429,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,39,0,809.73,54.092
-2020-08-18,03:00,VS,,2253,1,6,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,4,0,659.74,44.802
+2020-08-18,03:00,VS,,2260,1,7,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,9,0,661.79,44.802
 2020-08-18,08:00,ZG,,317,0,1,0,,277,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,16.0,70.0,308.0,378.0,,,,,,,,47.157296,8.537294,Zug,09,2,0,252.79,7.177
 2020-08-18,14:30,ZH,,5235,0,33,,9.0,,139,https://www.zh.ch/de/gesundheit/coronavirus.html,651.0,1142.0,,,,,,,,,,47.41275,8.65508,Zürich,01,67,0,348.0,9.24
 2020-08-19,03:00,AG,,1882,0,2,1,1.0,1170,51,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,148.0,609.0,1203.0,,,,,,,,,47.40966,8.15688,Aargau,01,30,0,280.48,7.601
@@ -4121,9 +4121,9 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-19,09:00,SZ,10,451,0,1,,,399,25,https://www.sz.ch/public/upload/assets/48207/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,,47.061787,8.756585,Schwyz,05,12,0,286.71,15.893
 2020-08-19,10:00,TG,276,542,0,4,1,,78,19,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,,,47.568715,9.091957,Thurgau,01,4,0,197.95,6.939
 2020-08-19,08:00,TI,,3486,-1,0,0,0.0,925,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,,46.295617,8.808924,Ticino,21,10,0,985.58,98.954
-2020-08-19,16:00,UR,85,129,0,0,,,116,7,https://www.ur.ch/themen/2962,,59.0,,,,,,,,,,46.771849,8.628586,Uri,04,2,0,355.37,19.284
+2020-08-19,16:00,UR,85,129,0,0,,,113,7,https://www.ur.ch/themen/2962,,59.0,,,,,,,,,,46.771849,8.628586,Uri,04,2,0,355.37,19.284
 2020-08-19,03:00,VD,,6448,1,11,5,,,429,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,26,0,813.01,54.092
-2020-08-19,03:00,VS,,2253,0,6,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,659.74,44.802
+2020-08-19,03:00,VS,,2261,-1,6,1,1.0,315,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,662.08,44.802
 2020-08-19,08:00,ZG,,319,-1,0,0,,278,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,15.0,70.0,282.0,352.0,,,,,,,,47.157296,8.537294,Zug,09,2,0,254.39,7.177
 2020-08-19,14:30,ZH,,5304,-1,32,,9.0,,139,https://www.zh.ch/de/gesundheit/coronavirus.html,651.0,1142.0,,,,,,,,,,47.41275,8.65508,Zürich,01,69,0,352.59,9.24
 2020-08-20,08:00,BE,,2352,0,7,1,0.0,,98,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,11,0,228.11,9.504
@@ -4143,6 +4143,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-20,10:00,TG,276,549,0,4,1,,78,19,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,,,47.568715,9.091957,Thurgau,01,7,0,200.51,6.939
 2020-08-20,08:00,TI,,3492,0,0,0,0.0,925,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,,46.295617,8.808924,Ticino,21,6,0,987.28,98.954
 2020-08-20,16:00,UR,85,129,0,0,,,115,7,https://www.ur.ch/themen/2962,,50.0,,,,,,,,,,46.771849,8.628586,Uri,04,0,0,355.37,19.284
-2020-08-20,03:00,VS,,2253,-6,0,1,1.0,314,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,659.74,44.802
+2020-08-20,03:00,VS,,2261,0,6,1,1.0,315,153,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,662.08,44.802
 2020-08-20,08:00,ZG,,321,0,0,0,,287,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,,47.157296,8.537294,Zug,09,2,0,255.98,7.177
 2020-08-20,14:30,ZH,,5380,-2,30,,8.0,,139,https://www.zh.ch/de/gesundheit/coronavirus.html,514.0,934.0,,,,,,,,,,47.41275,8.65508,Zürich,01,76,0,357.64,9.24
