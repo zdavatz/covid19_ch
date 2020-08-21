@@ -4149,8 +4149,11 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-20,,VS,,2261.0,0.0,6.0,1.0,1.0,315.0,153.0,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,
 2020-08-20,08:00,ZG,,321.0,,0.0,,,287.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,16.0,84.0,259.0,343.0,,,,,,,
 2020-08-20,14:30,ZH,,5380.0,,30.0,,8.0,,139.0,https://www.zh.ch/de/gesundheit/coronavirus.html,514.0,934.0,,,,,,,,,
+2020-08-21,08:00,AI,,25.0,,,,,,0.0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,3.0,8.0,11.0,,,,,,,
+2020-08-21,08:00,BE,,2373.0,,5.0,2.0,1.0,,98.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,
 2020-08-21,08:20,BS,,1169.0,,8.0,0.0,,1039.0,53.0,https://www.gesundheit.bs.ch,77.0,129.0,343.0,472.0,,,,528.0,1.0,,7.0
 2020-08-21,,FR,,1487.0,,2.0,0.0,,160.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200821_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
+2020-08-21,12:00,GL,,157.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-08-21,,LU,,1004.0,,8.0,3.0,,,21.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,49.0,166.0,,,,,,,,,
 2020-08-21,09:30,SH,,160.0,,5.0,0.0,,,8.0,https://sh.ch/CMS/get/file/52dfb41c-1b35-4b82-9ef9-5d21c791a77c,,,,,,,,,,,
 2020-08-21,01:00,SO,,643.0,,2.0,,,,18.0,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,
