@@ -4175,4 +4175,5 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-21,14:30,ZH,,5463.0,,25.0,,7.0,,140.0,https://www.zh.ch/de/gesundheit/coronavirus.html,514.0,934.0,,,,,,,,,
 2020-08-22,08:00,BE,,2382.0,,,,,,98.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,
 2020-08-22,09:00,BS,,1179.0,,,,,1049.0,53.0,https://www.gesundheit.bs.ch,77.0,118.0,322.0,440.0,,,,528.0,,,
-2020-08-22,14:30,ZH,,5507.0,,23.0,,7.0,,140.0,https://www.zh.ch/de/gesundheit/coronavirus.html,,,,,,,,,,,
+2020-08-22,,FL,,99.0,,1.0,,,88.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
+2020-08-22,14:30,ZH,,5507.0,,23.0,,7.0,,140.0,https://www.zh.ch/de/gesundheit/coronavirus.html,514.0,934.0,,,,,,,,,
