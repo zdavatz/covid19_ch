@@ -4173,3 +4173,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-21,03:00,VS,,2269,2,8,1,1.0,315,154,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,664.42,45.095
 2020-08-21,08:00,ZG,,323,0,0,0,,287,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,,47.157296,8.537294,Zug,09,2,0,257.58,7.177
 2020-08-21,14:30,ZH,,5463,-5,25,,7.0,,140,https://www.zh.ch/de/gesundheit/coronavirus.html,514.0,934.0,,,,,,,,,,47.41275,8.65508,Zürich,01,83,1,363.16,9.307
+2020-08-22,09:00,BS,235,1179,0,8,0,,1049,53,https://www.gesundheit.bs.ch,77.0,118.0,322.0,440.0,,,,528.0,,,,47.564869,7.615259,Basel-Stadt,12,10,0,608.05,27.334
