@@ -2,17 +2,16 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-19,03:00,VD,,6448,1,11,5,,,429,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,26,0,813.01,54.092
 2020-08-21,03:00,JU,,264,0,0,0,,,7,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,,47.350744,7.156107,Jura,26,1,0,360.16,9.55
 2020-08-21,03:00,NW,,131,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,304.65,6.977
-2020-08-21,03:00,OW,6,101,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f3fe2813b994/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,268.62,0.0
 2020-08-21,16:00,UR,85,129,0,0,,,115,7,https://www.ur.ch/themen/2962,,55.0,,,,,,,,,,46.771849,8.628586,Uri,04,0,0,355.37,19.284
 2020-08-21,03:00,VS,,2269,2,8,1,1.0,315,154,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,664.42,45.095
 2020-08-23,03:00,AG,,1947,0,2,1,1.0,1170,51,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,142.0,548.0,,,,,,,,,,47.40966,8.15688,Aargau,01,15,0,290.16,7.601
-2020-08-23,03:00,GE,63642,6728,0,16,0,1.0,968,297,https://www.ge.ch/document/21502/telecharger,234.0,692.0,,,,,,,,,,46.220528,6.132935,Genève,25,22,0,1358.64,59.976
+2020-08-23,03:00,GE,63642,6728,0,16,0,1.0,968,297,https://www.ge.ch/document/21502/telecharger,234.0,692.0,2721.0,,0.0,,,,,,,46.220528,6.132935,Genève,25,22,0,1358.64,59.976
 2020-08-23,03:00,GR,,979,0,1,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,29.0,178.0,,,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,494.69,25.265
 2020-08-23,03:00,NE,,842,0,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,473.03,47.191
 2020-08-23,03:00,SG,,1217,0,9,1,4.0,226,41,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,241.13,8.124
 2020-08-23,14:30,ZH,,5549,2,25,,6.0,,140,https://www.zh.ch/de/gesundheit/coronavirus.html,514.0,934.0,,,,,,,,,,47.41275,8.65508,Zürich,01,42,0,368.88,9.307
 2020-08-24,12:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,3.0,10.0,13.0,,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
-2020-08-24,14:20,AR,,130,-2,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,11.0,61.0,,,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,3,0,235.51,5.435
+2020-08-24,14:20,AR,,130,-2,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,11.0,61.0,30.0,91.0,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,3,0,235.51,5.435
 2020-08-24,08:00,BE,,2409,0,4,1,1.0,,99,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,12,0,233.63,9.601
 2020-08-24,03:00,BL,,1009,0,1,1,1.0,924,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,55.0,183.0,275.0,458.0,,,,,,,,47.45176,7.702414,Basel-Landschaft,13,1,0,351.57,12.195
 2020-08-24,09:40,BS,235,1185,0,7,0,,1066,53,https://www.gesundheit.bs.ch,66.0,91.0,375.0,466.0,,,,527.0,1.0,,6.0,47.564869,7.615259,Basel-Stadt,12,2,0,611.14,27.334
@@ -20,6 +19,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-24,03:00,FR,30,1561,0,3,1,,160,85,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,11,0,495.4,26.976
 2020-08-24,11:00,GL,,161,0,0,,,,13,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,4,0,399.5,32.258
 2020-08-24,03:00,LU,,1013,0,8,3,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,33.0,128.0,,,,,,,,,,47.067763,8.1102,Luzern,03,9,0,249.2,5.166
+2020-08-24,03:00,OW,6,101,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f43bb160020c/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,268.62,0.0
 2020-08-24,09:30,SH,,161,-3,2,0,,,8,https://sh.ch/CMS/get/file/2f51bd36-7650-454b-9fec-2ebe41e47576,,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,197.79,9.828
 2020-08-24,01:00,SO,,651,1,3,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,,47.304135,7.639388,Solothurn,11,8,0,239.87,6.632
 2020-08-24,09:00,SZ,10,464,0,1,,,409,25,https://www.sz.ch/public/upload/assets/48241/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,,47.061787,8.756585,Schwyz,05,4,0,294.98,15.893
