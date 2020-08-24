@@ -3599,7 +3599,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-07-29,11:30,BS,,1043.0,,4.0,0.0,,971.0,52.0,https://www.gesundheit.bs.ch,20.0,21.0,462.0,483.0,,,,513.0,0.0,,4.0
 2020-07-29,,FL,,88.0,,,,,85.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-07-29,,FR,,1332.0,,1.0,1.0,,157.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-07-29,,GE,,5881.0,,14.0,1.0,,931.0,295.0,https://www.ge.ch/document/21502/telecharger,233.0,665.0,564.0,,2.0,,,,,,
+2020-07-29,,GE,,5882.0,,14.0,1.0,,931.0,295.0,https://www.ge.ch/document/21502/telecharger,233.0,665.0,564.0,,2.0,,,,,,
 2020-07-29,13:00,GL,,138.0,,1.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-07-29,,GR,,917.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,62.0,253.0,,,,,,,,,
 2020-07-29,,JU,,260.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
@@ -3626,7 +3626,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-07-30,09:15,BS,,1052.0,,5.0,0.0,,972.0,52.0,https://www.gesundheit.bs.ch,28.0,30.0,487.0,517.0,,,,514.0,0.0,,5.0
 2020-07-30,,FL,,88.0,,,,,85.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-07-30,,FR,,1342.0,,2.0,1.0,,157.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-07-30,,GE,,5935.0,,14.0,1.0,,933.0,295.0,https://www.ge.ch/document/21502/telecharger,255.0,733.0,593.0,,2.0,,,,,,
+2020-07-30,,GE,,5936.0,,14.0,1.0,,933.0,295.0,https://www.ge.ch/document/21502/telecharger,255.0,733.0,593.0,,2.0,,,,,,
 2020-07-30,11:30,GL,,139.0,,1.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-07-30,,GR,,922.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,66.0,236.0,,,,,,,,,
 2020-07-30,,JU,,260.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
@@ -3653,7 +3653,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-07-31,09:35,BS,,1054.0,,5.0,0.0,,973.0,52.0,https://www.gesundheit.bs.ch,29.0,30.0,555.0,585.0,,,,514.0,0.0,,5.0
 2020-07-31,,FL,,88.0,,,,,85.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-07-31,,FR,,1350.0,,2.0,1.0,,157.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-07-31,,GE,,5967.0,,14.0,1.0,,936.0,296.0,https://www.ge.ch/document/21502/telecharger,271.0,797.0,626.0,,2.0,,,,,,
+2020-07-31,,GE,,5968.0,,14.0,1.0,,936.0,296.0,https://www.ge.ch/document/21502/telecharger,271.0,797.0,626.0,,2.0,,,,,,
 2020-07-31,11:30,GL,,141.0,,1.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-07-31,,GR,,923.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,59.0,209.0,,,,,,,,,
 2020-07-31,,JU,,260.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
@@ -3678,7 +3678,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-01,10:10,BS,,1064.0,,5.0,1.0,,973.0,52.0,https://www.gesundheit.bs.ch,39.0,33.0,570.0,603.0,,,,515.0,0.0,,5.0
 2020-08-01,,FL,,88.0,,,,,85.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-01,,FR,,1353.0,,2.0,1.0,,157.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-01,,GE,,5996.0,,,,,,296.0,https://www.ge.ch/document/21502/telecharger,273.0,817.0,682.0,,,,,,,,
+2020-08-01,,GE,,5997.0,,,,,,296.0,https://www.ge.ch/document/21502/telecharger,273.0,817.0,684.0,,,,,,,,
 2020-08-01,,GR,,930.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,52.0,135.0,,,,,,,,,
 2020-08-01,,JU,,260.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
 2020-08-01,,LU,,878.0,,13.0,8.0,,,20.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,48.0,131.0,,,,,,,,,
@@ -3697,7 +3697,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-02,10:00,BS,,1068.0,,7.0,1.0,,974.0,52.0,https://www.gesundheit.bs.ch https://www.bag.admin.ch/dam/bag/de/dokumente/mt/k-und-i/aktuelle-ausbrueche-pandemien/2019-nCoV/covid-19-woechentlicher-lagebericht.pdf.download.pdf/BAG_COVID-19_Woechentliche_Lage.pdf,42.0,41.0,546.0,587.0,,,,515.0,0.0,1182.0,7.0
 2020-08-02,,FL,,88.0,,,,,85.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-02,,FR,,1358.0,,1.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-02,,GE,58038.0,6018.0,,,,,,296.0,https://www.ge.ch/document/21502/telecharger,272.0,839.0,771.0,,,,,,,,
+2020-08-02,,GE,58038.0,6019.0,,,,,,296.0,https://www.ge.ch/document/21502/telecharger,272.0,839.0,773.0,,,,,,,,
 2020-08-02,,GR,,932.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,30.0,86.0,,,,,,,,,
 2020-08-02,,JU,,260.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
 2020-08-02,,NE,,785.0,,2.0,0.0,0.0,,83.0,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,
@@ -3717,7 +3717,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-03,09:30,BS,,1069.0,,8.0,1.0,,975.0,52.0,https://www.gesundheit.bs.ch,42.0,44.0,467.0,511.0,,,,515.0,0.0,,8.0
 2020-08-03,,FL,,88.0,,,,,85.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-03,,FR,,1360.0,,1.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-03,,GE,,6052.0,,15.0,1.0,,936.0,296.0,https://www.ge.ch/document/21502/telecharger,274.0,838.0,819.0,,3.0,,,,,,
+2020-08-03,,GE,,6054.0,,15.0,1.0,,936.0,296.0,https://www.ge.ch/document/21502/telecharger,274.0,838.0,820.0,,3.0,,,,,,
 2020-08-03,11:30,GL,,141.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-08-03,,GR,,932.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,30.0,88.0,,,,,,,,,
 2020-08-03,,JU,,260.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
@@ -3743,7 +3743,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-04,09:00,BS,,1073.0,,8.0,1.0,,975.0,52.0,https://www.gesundheit.bs.ch,45.0,46.0,527.0,573.0,,,,515.0,0.0,,8.0
 2020-08-04,,FL,,88.0,,,,,86.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-04,,FR,,1360.0,,1.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-04,,GE,,6084.0,,20.0,1.0,,936.0,296.0,https://www.ge.ch/document/21502/telecharger,286.0,806.0,866.0,,3.0,,,,,,
+2020-08-04,,GE,,6086.0,,20.0,1.0,,936.0,296.0,https://www.ge.ch/document/21502/telecharger,285.0,806.0,869.0,,3.0,,,,,,
 2020-08-04,11:30,GL,,142.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-08-04,,GR,,934.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,28.0,70.0,,,,,,,,,
 2020-08-04,,JU,,260.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
@@ -3770,7 +3770,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-05,08:30,BS,,1079.0,,8.0,1.0,,981.0,52.0,https://www.gesundheit.bs.ch,43.0,52.0,498.0,550.0,,,,515.0,0.0,,8.0
 2020-08-05,,FL,,88.0,,,,,86.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-05,,FR,,1368.0,,1.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-05,,GE,,6115.0,,20.0,1.0,,937.0,296.0,https://www.ge.ch/document/21502/telecharger,289.0,768.0,843.0,,4.0,,,,,,
+2020-08-05,,GE,,6117.0,,20.0,1.0,,937.0,296.0,https://www.ge.ch/document/21502/telecharger,288.0,768.0,846.0,,4.0,,,,,,
 2020-08-05,11:30,GL,,144.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-08-05,,GR,,936.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,28.0,69.0,,,,,,,,,
 2020-08-05,,JU,,260.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
@@ -3796,7 +3796,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-06,09:30,BS,,1081.0,,8.0,0.0,,984.0,52.0,https://www.gesundheit.bs.ch,45.0,56.0,471.0,527.0,,,,515.0,0.0,,8.0
 2020-08-06,,FL,,88.0,,,,,86.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-06,,FR,,1373.0,,1.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-06,,GE,,6150.0,,16.0,2.0,,941.0,296.0,https://www.ge.ch/document/21502/telecharger,272.0,767.0,960.0,,3.0,,,,,,
+2020-08-06,,GE,,6152.0,,16.0,2.0,,941.0,296.0,https://www.ge.ch/document/21502/telecharger,271.0,767.0,963.0,,3.0,,,,,,
 2020-08-06,11:30,GL,,145.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-08-06,,GR,,937.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,26.0,62.0,,,,,,,,,
 2020-08-06,,JU,,260.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
@@ -3823,7 +3823,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-07,09:00,BS,,1082.0,,8.0,0.0,,988.0,52.0,https://www.gesundheit.bs.ch,42.0,53.0,428.0,481.0,,,,516.0,0.0,,8.0
 2020-08-07,,FL,,88.0,,,,,87.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-07,,FR,,1377.0,,1.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-07,,GE,,6195.0,,16.0,2.0,,945.0,296.0,https://www.ge.ch/document/21502/telecharger,243.0,739.0,1031.0,,2.0,,,,,,
+2020-08-07,,GE,,6197.0,,16.0,2.0,,945.0,296.0,https://www.ge.ch/document/21502/telecharger,242.0,739.0,1034.0,,2.0,,,,,,
 2020-08-07,12:30,GL,,145.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-08-07,,GR,,939.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,20.0,49.0,,,,,,,,,
 2020-08-07,,JU,,260.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
@@ -3848,7 +3848,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-08,09:30,BS,,1083.0,,8.0,0.0,,991.0,52.0,https://www.gesundheit.bs.ch,40.0,52.0,431.0,483.0,,,,516.0,0.0,,8.0
 2020-08-08,,FL,,88.0,,,,,87.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-08,,FR,,1378.0,,1.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-08,,GE,,6221.0,,,,,,296.0,https://www.ge.ch/document/21502/telecharger,233.0,778.0,1124.0,,,,,,,,
+2020-08-08,,GE,,6223.0,,,,,,296.0,https://www.ge.ch/document/21502/telecharger,232.0,778.0,1132.0,,,,,,,,
 2020-08-08,,GR,,940.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,20.0,53.0,,,,,,,,,
 2020-08-08,,JU,,260.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
 2020-08-08,,LU,,924.0,,11.0,3.0,,,21.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,55.0,150.0,,,,,,,,,
@@ -3867,7 +3867,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-09,09:30,BS,,1085.0,,7.0,0.0,,995.0,52.0,https://www.gesundheit.bs.ch https://www.bag.admin.ch/dam/bag/de/dokumente/mt/k-und-i/aktuelle-ausbrueche-pandemien/2019-nCoV/covid-19-woechentlicher-lagebericht.pdf.download.pdf/BAG_COVID-19_Woechentliche_Lage.pdf,38.0,44.0,370.0,414.0,,,,516.0,0.0,1115.0,7.0
 2020-08-09,,FL,,88.0,,,,,87.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-09,,FR,,1384.0,,1.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-09,,GE,61245.0,6254.0,,,,,,296.0,https://www.ge.ch/document/21502/telecharger,217.0,751.0,1304.0,,,,,,,,
+2020-08-09,,GE,61245.0,6256.0,,,,,,296.0,https://www.ge.ch/document/21502/telecharger,216.0,751.0,1314.0,,,,,,,,
 2020-08-09,,GR,,940.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,19.0,51.0,,,,,,,,,
 2020-08-09,,JU,,260.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
 2020-08-09,,NE,,794.0,,1.0,0.0,0.0,,84.0,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,
@@ -3888,7 +3888,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-10,09:45,BS,,1087.0,,8.0,0.0,,996.0,52.0,https://www.gesundheit.bs.ch,39.0,43.0,395.0,438.0,,,,516.0,0.0,,8.0
 2020-08-10,,FL,,88.0,,,,,87.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-10,,FR,,1389.0,,1.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-10,,GE,,6290.0,,16.0,2.0,,946.0,296.0,https://www.ge.ch/document/21502/telecharger,212.0,737.0,1541.0,,1.0,,,,,,
+2020-08-10,,GE,,6292.0,,16.0,2.0,,946.0,296.0,https://www.ge.ch/document/21502/telecharger,211.0,737.0,1552.0,,1.0,,,,,,
 2020-08-10,11:30,GL,,146.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-08-10,,GR,,944.0,,0.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,23.0,49.0,,,,,,,,,
 2020-08-10,,JU,,260.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
@@ -3914,7 +3914,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-11,08:45,BS,,1092.0,,9.0,0.0,,1006.0,53.0,https://www.gesundheit.bs.ch,33.0,41.0,466.0,507.0,,,,518.0,1.0,,8.0
 2020-08-11,,FL,,89.0,,,,,87.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-11,,FR,,1393.0,,2.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-11,,GE,,6346.0,,15.0,2.0,,948.0,296.0,https://www.ge.ch/document/21502/telecharger,225.0,795.0,1719.0,,2.0,,,,,,
+2020-08-11,,GE,,6348.0,,15.0,2.0,,948.0,296.0,https://www.ge.ch/document/21502/telecharger,224.0,796.0,1733.0,,2.0,,,,,,
 2020-08-11,11:30,GL,,147.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-08-11,,GR,,946.0,,0.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,16.0,57.0,,,,,,,,,
 2020-08-11,,JU,,260.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
@@ -3940,7 +3940,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-12,08:00,BS,,1098.0,,6.0,0.0,,1013.0,53.0,https://www.gesundheit.bs.ch,32.0,43.0,497.0,540.0,,,,520.0,1.0,,5.0
 2020-08-12,,FL,,90.0,,,,,87.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-12,,FR,,1401.0,,2.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-12,,GE,,6378.0,,19.0,2.0,,949.0,296.0,https://www.ge.ch/document/21502/telecharger,259.0,835.0,1813.0,,2.0,,,,,,
+2020-08-12,,GE,,6380.0,,19.0,2.0,,949.0,296.0,https://www.ge.ch/document/21502/telecharger,258.0,837.0,1827.0,,2.0,,,,,,
 2020-08-12,12:00,GL,,149.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-08-12,,GR,,946.0,,0.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,14.0,45.0,,,,,,,,,
 2020-08-12,,JU,,260.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
@@ -3966,7 +3966,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-13,09:50,BS,,1110.0,,5.0,0.0,,1015.0,53.0,https://www.gesundheit.bs.ch,41.0,42.0,474.0,516.0,,,,520.0,1.0,,4.0
 2020-08-13,,FL,,90.0,,,,,87.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-13,,FR,,1405.0,,2.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-13,,GE,,6421.0,,17.0,2.0,,951.0,296.0,https://www.ge.ch/document/21502/telecharger,272.0,854.0,2120.0,,1.0,,,,,,
+2020-08-13,,GE,,6423.0,,17.0,2.0,,951.0,296.0,https://www.ge.ch/document/21502/telecharger,272.0,857.0,2143.0,,1.0,,,,,,
 2020-08-13,12:00,GL,,150.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-08-13,,GR,,946.0,,0.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,13.0,34.0,,,,,,,,,
 2020-08-13,,JU,,261.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
@@ -3993,7 +3993,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-14,09:00,BS,,1115.0,,5.0,0.0,,1022.0,53.0,https://www.gesundheit.bs.ch,40.0,49.0,406.0,455.0,,,,520.0,1.0,,4.0
 2020-08-14,,FL,,91.0,,,,,87.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-14,,FR,,1408.0,,2.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-14,,GE,,6452.0,,20.0,2.0,,952.0,296.0,https://www.ge.ch/document/21502/telecharger,281.0,853.0,2514.0,,2.0,,,,,,
+2020-08-14,,GE,,6453.0,,20.0,2.0,,952.0,296.0,https://www.ge.ch/document/21502/telecharger,281.0,856.0,2535.0,,2.0,,,,,,
 2020-08-14,11:30,GL,,150.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-08-14,,GR,,950.0,,0.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,15.0,39.0,,,,,,,,,
 2020-08-14,,JU,,262.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
@@ -4017,7 +4017,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-15,,BL,,975.0,,1.0,1.0,0.0,901.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,32.0,112.0,331.0,443.0,,,,,,,
 2020-08-15,09:40,BS,,1135.0,,9.0,0.0,,1022.0,53.0,https://www.gesundheit.bs.ch,60.0,76.0,428.0,504.0,,,,521.0,2.0,,7.0
 2020-08-15,,FR,,1418.0,,3.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-15,,GE,,6479.0,,,,,,297.0,https://www.ge.ch/document/21502/telecharger,283.0,825.0,2810.0,,,,,,,,
+2020-08-15,,GE,,6480.0,,,,,,297.0,https://www.ge.ch/document/21502/telecharger,283.0,826.0,2840.0,,,,,,,,
 2020-08-15,,GR,,952.0,,0.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,14.0,38.0,,,,,,,,,
 2020-08-15,,JU,,262.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
 2020-08-15,,NE,,821.0,,0.0,0.0,0.0,,84.0,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,
@@ -4034,7 +4034,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-16,10:50,BS,,1140.0,,8.0,0.0,,1028.0,53.0,https://www.gesundheit.bs.ch https://www.bag.admin.ch/dam/bag/de/dokumente/mt/k-und-i/aktuelle-ausbrueche-pandemien/2019-nCoV/covid-19-woechentlicher-lagebericht.pdf.download.pdf/BAG_COVID-19_Woechentliche_Lage.pdf,59.0,97.0,451.0,548.0,,,,521.0,2.0,1289.0,6.0
 2020-08-16,,FL,,91.0,,,,,87.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-16,,FR,,1425.0,,3.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-16,,GE,63642.0,6498.0,,18.0,2.0,,958.0,297.0,https://www.ge.ch/document/21502/telecharger,265.0,855.0,3005.0,,1.0,,,,,,
+2020-08-16,,GE,63642.0,6499.0,,18.0,2.0,,958.0,297.0,https://www.ge.ch/document/21502/telecharger,266.0,857.0,3038.0,,1.0,,,,,,
 2020-08-16,,GR,,952.0,,0.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,12.0,33.0,,,,,,,,,
 2020-08-16,,JU,,262.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
 2020-08-16,,NE,,822.0,,0.0,0.0,0.0,,84.0,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,
@@ -4053,7 +4053,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-17,10:30,BS,,1144.0,,8.0,0.0,,1028.0,53.0,https://www.gesundheit.bs.ch,64.0,35.0,519.0,554.0,,,,521.0,2.0,,6.0
 2020-08-17,,FL,,94.0,,1.0,,,87.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-17,,FR,,1428.0,,3.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-17,,GE,,6540.0,,18.0,0.0,,959.0,297.0,https://www.ge.ch/document/21502/telecharger,236.0,754.0,3248.0,,1.0,,,,,,
+2020-08-17,,GE,,6541.0,,18.0,0.0,,959.0,297.0,https://www.ge.ch/document/21502/telecharger,237.0,758.0,3291.0,,1.0,,,,,,
 2020-08-17,11:30,GL,,151.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-08-17,,GR,,953.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,12.0,28.0,,,,,,,,,
 2020-08-17,,JU,,262.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
@@ -4080,7 +4080,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-18,08:00,BS,,1149.0,,8.0,0.0,,1031.0,53.0,https://www.gesundheit.bs.ch,65.0,132.0,462.0,594.0,,,,526.0,2.0,,6.0
 2020-08-18,,FL,,97.0,,1.0,,,88.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-18,,FR,,1434.0,,3.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-18,,GE,,6580.0,,15.0,0.0,,961.0,297.0,https://www.ge.ch/document/21502/telecharger,221.0,690.0,3244.0,,1.0,,,,,,
+2020-08-18,,GE,,6581.0,,15.0,0.0,,961.0,297.0,https://www.ge.ch/document/21502/telecharger,223.0,695.0,3294.0,,1.0,,,,,,
 2020-08-18,11:30,GL,,153.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-08-18,,GR,,957.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,14.0,58.0,,,,,,,,,
 2020-08-18,,JU,,262.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
@@ -4107,7 +4107,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-19,09:00,BS,,1160.0,,10.0,0.0,,1035.0,53.0,https://www.gesundheit.bs.ch,72.0,133.0,460.0,593.0,,,,526.0,2.0,,8.0
 2020-08-19,,FL,,98.0,,1.0,,,88.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-19,,FR,,1451.0,,4.0,1.0,,158.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-19,,GE,,6610.0,,11.0,0.0,,962.0,297.0,https://www.ge.ch/document/21502/telecharger,231.0,661.0,3101.0,,0.0,,,,,,
+2020-08-19,,GE,,6611.0,,11.0,0.0,,962.0,297.0,https://www.ge.ch/document/21502/telecharger,233.0,668.0,3167.0,,0.0,,,,,,
 2020-08-19,11:30,GL,,154.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-08-19,,GR,,964.0,,2.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,21.0,127.0,,,,,,,,,
 2020-08-19,,JU,,263.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
@@ -4132,7 +4132,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-20,09:20,BS,,1165.0,,8.0,0.0,,1036.0,53.0,https://www.gesundheit.bs.ch,76.0,129.0,364.0,493.0,,,,527.0,1.0,,7.0
 2020-08-20,,FL,,99.0,,1.0,,,88.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-20,,FR,,1464.0,,2.0,1.0,,160.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
-2020-08-20,,GE,,6647.0,,14.0,0.0,,965.0,297.0,https://www.ge.ch/document/21502/telecharger,242.0,626.0,2940.0,,0.0,,,,,,
+2020-08-20,,GE,,6651.0,,14.0,0.0,,965.0,297.0,https://www.ge.ch/document/21502/telecharger,245.0,637.0,3037.0,,0.0,,,,,,
 2020-08-20,12:00,GL,,156.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-08-20,,GR,,971.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,24.0,139.0,,,,,,,,,
 2020-08-20,,JU,,263.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
@@ -4158,6 +4158,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-21,08:20,BS,,1169.0,,8.0,0.0,,1039.0,53.0,https://www.gesundheit.bs.ch,77.0,129.0,343.0,472.0,,,,527.0,1.0,,7.0
 2020-08-21,,FL,,99.0,,1.0,,,88.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-21,,FR,,1487.0,,2.0,0.0,,160.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
+2020-08-21,,GE,,6691.0,,16.0,0.0,,968.0,297.0,https://www.ge.ch/document/21502/telecharger,233.0,746.0,,,,,,,,,
 2020-08-21,12:00,GL,,157.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
 2020-08-21,,GR,,973.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,25.0,160.0,,,,,,,,,
 2020-08-21,,JU,,264.0,,0.0,0.0,,,7.0,https://www.jura.ch/Htdocs/Files/v/35080.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees_internet_21_08.xlsx?download=1,,,,,,,,,,,
@@ -4177,9 +4178,11 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-21,14:30,ZH,,5463.0,,25.0,,7.0,,140.0,https://www.zh.ch/de/gesundheit/coronavirus.html,514.0,934.0,,,,,,,,,
 2020-08-22,,AG,,1932.0,,,,,,51.0,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp,,,,,,,,,,,
 2020-08-22,08:00,BE,,2382.0,,,,,,98.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,
-2020-08-22,09:00,BS,,1179.0,,,,,1049.0,53.0,https://www.gesundheit.bs.ch,77.0,118.0,322.0,440.0,,,,527.0,,,
+2020-08-22,,BL,,1006.0,,1.0,1.0,1.0,918.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,56.0,148.0,254.0,402.0,,,,,,,
+2020-08-22,09:00,BS,,1179.0,,7.0,1.0,,1049.0,53.0,https://www.gesundheit.bs.ch,77.0,118.0,322.0,440.0,,,,527.0,1.0,,6.0
 2020-08-22,,FL,,99.0,,1.0,,,88.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-22,,FR,,1516.0,,3.0,1.0,,160.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
+2020-08-22,,GE,,6706.0,,16.0,0.0,,,297.0,https://www.ge.ch/document/21502/telecharger,239.0,720.0,,,,,,,,,
 2020-08-22,,GR,,979.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,29.0,178.0,,,,,,,,,
 2020-08-22,,NE,,,,0.0,0.0,0.0,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,
 2020-08-22,09:00,SZ,,460.0,,,,,404.0,25.0,https://www.sz.ch/public/upload/assets/48241/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,
@@ -4188,9 +4191,11 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-22,14:30,ZH,,5507.0,,23.0,,7.0,,140.0,https://www.zh.ch/de/gesundheit/coronavirus.html,514.0,934.0,,,,,,,,,
 2020-08-23,,AG,,1947.0,,,,,,51.0,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,142.0,548.0,,,,,,,,,
 2020-08-23,08:00,BE,,2397.0,,,,,,99.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,
-2020-08-23,10:15,BS,,1183.0,,,,,1059.0,53.0,https://www.gesundheit.bs.ch,71.0,104.0,357.0,461.0,,,,527.0,,,
+2020-08-23,,BL,,1008.0,,1.0,1.0,1.0,920.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,58.0,163.0,265.0,428.0,,,,,,,
+2020-08-23,10:15,BS,,1183.0,,7.0,0.0,,1059.0,53.0,https://www.gesundheit.bs.ch,71.0,104.0,357.0,461.0,,,,527.0,1.0,,6.0
 2020-08-23,,FL,,99.0,,1.0,,,90.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,
 2020-08-23,,FR,,1550.0,,3.0,1.0,,160.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
+2020-08-23,,GE,,6728.0,,16.0,0.0,,,297.0,https://www.ge.ch/document/21502/telecharger,234.0,692.0,,,,,,,,,
 2020-08-23,,GR,,979.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,29.0,178.0,,,,,,,,,
 2020-08-23,,NE,,,,0.0,0.0,0.0,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,
 2020-08-23,,SG,,1217.0,,9.0,1.0,4.0,,41.0,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,
@@ -4198,8 +4203,11 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-23,10:00,TG,,557.0,0.0,4.0,1.0,,78.0,19.0,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,,
 2020-08-23,08:00,ZG,,323.0,,0.0,,,287.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,20.0,68.0,233.0,301.0,,,,,,,
 2020-08-23,14:30,ZH,,5549.0,,25.0,,6.0,,140.0,https://www.zh.ch/de/gesundheit/coronavirus.html,514.0,934.0,,,,,,,,,
+2020-08-24,12:00,AI,,25.0,,,,,,0.0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,3.0,10.0,13.0,,,,,,,
+2020-08-24,14:20,AR,,130.0,,0.0,0.0,,,3.0,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,11.0,61.0,,,,,,,,,
 2020-08-24,08:00,BE,,2409.0,,4.0,1.0,1.0,,99.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,
-2020-08-24,09:40,BS,,1185.0,,,,,1066.0,53.0,https://www.gesundheit.bs.ch,66.0,91.0,375.0,466.0,,,,527.0,,,
+2020-08-24,,BL,,1009.0,,1.0,1.0,1.0,924.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,55.0,183.0,275.0,458.0,,,,,,,
+2020-08-24,09:40,BS,,1185.0,,7.0,0.0,,1066.0,53.0,https://www.gesundheit.bs.ch,66.0,91.0,375.0,466.0,,,,527.0,1.0,,6.0
 2020-08-24,,FL,,100.0,,,,,,1.0,https://www.regierung.li/media/attachments/440-corona-situationsbericht-0824.pdf,,,,,,,,,,,
 2020-08-24,,FR,,1561.0,,3.0,1.0,,160.0,85.0,https://www.fr.ch/sites/default/files/2020-08/200824_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,
 2020-08-24,11:00,GL,,161.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,
