@@ -4264,8 +4264,10 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-25,03:00,VS,,2311,0,7,1,1.0,317,154,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,1,0,676.72,45.095
 2020-08-25,08:00,ZG,,338,0,3,0,,296,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,24.0,72.0,322.0,394.0,,,,,,,,47.157296,8.537294,Zug,09,4,0,269.54,7.177
 2020-08-25,14:30,ZH,,5628,-6,16,,5.0,,141,https://www.zh.ch/de/gesundheit/coronavirus.html,477.0,919.0,,,,,,,,,,47.41275,8.65508,Zürich,01,48,0,374.13,9.373
+2020-08-26,08:00,BE,,2443,0,4,1,1.0,,99,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,23,0,236.93,9.601
 2020-08-26,08:30,BS,235,1190,0,7,0,,1082,53,https://www.gesundheit.bs.ch,55.0,70.0,413.0,483.0,,,,527.0,,,,47.564869,7.615259,Basel-Stadt,12,5,0,613.72,27.334
 2020-08-26,03:00,FR,30,1595,0,2,0,,160,85,https://www.fr.ch/sites/default/files/2020-08/200826_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,,46.718391,7.074008,Fribourg,10,23,0,506.19,26.976
+2020-08-26,12:00,GL,,162,0,0,,,,13,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,401.99,32.258
 2020-08-26,03:00,LU,,1027,0,9,3,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,39.0,123.0,,,,,,,,,,47.067763,8.1102,Luzern,03,10,0,252.64,5.166
 2020-08-26,09:30,SH,,162,0,1,0,,,8,https://sh.ch/CMS/get/file/f8cb4f13-8965-4e44-9fe4-bce5eeb4a8c9,4.0,27.0,71.0,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,199.02,9.828
 2020-08-26,09:00,SZ,10,479,0,1,,,420,25,https://www.sz.ch/public/upload/assets/48260/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,,47.061787,8.756585,Schwyz,05,5,0,304.51,15.893
