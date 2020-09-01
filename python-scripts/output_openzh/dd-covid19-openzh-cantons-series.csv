@@ -4404,6 +4404,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-31,14:30,ZH,,6067,1,22,,6.0,,142,https://www.zh.ch/de/gesundheit/coronavirus.html,561.0,1062.0,,,,,,,,,47.41275,8.65508,Zürich,01,21,0,403.31,9.44
 2020-09-01,10:00,BS,235,1219,0,3,0,,1126,54,https://www.gesundheit.bs.ch,39.0,93.0,315.0,408.0,,,,535.0,0.0,3.0,47.564869,7.615259,Basel-Stadt,12,4,0,628.67,27.849
 2020-09-01,03:00,FR,30,1703,0,5,0,,163,85,https://www.fr.ch/sites/default/files/2020-09/2008901_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,46.718391,7.074008,Fribourg,10,17,0,540.46,26.976
+2020-09-01,11:30,GL,,166,0,0,,,,13,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,2,0,411.91,32.258
 2020-09-01,09:30,SH,,165,-1,0,0,,,8,https://sh.ch/CMS/get/file/e8fbde62-7b06-4db2-8fa2-2ff62f2455fb,3.0,20.0,58.0,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,202.7,9.828
 2020-09-01,09:00,SZ,10,491,0,1,,,436,25,https://www.sz.ch/public/upload/assets/48382/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,47.061787,8.756585,Schwyz,05,1,0,312.14,15.893
 2020-09-01,08:00,TI,,3543,0,1,0,0.0,928,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,46.295617,8.808924,Ticino,21,2,0,1001.7,98.954
