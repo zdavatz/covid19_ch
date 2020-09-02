@@ -4438,6 +4438,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-09-02,,FR,,1730.0,,5.0,0.0,,163.0,85.0,https://www.fr.ch/sites/default/files/2020-09/200902_statistiques_situation_COVID_site.xlsx,,,,,,,,,,
 2020-09-02,11:30,GL,,166.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,
 2020-09-02,,LU,,1067.0,,8.0,1.0,,,21.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,46.0,171.0,,,,,,,,
+2020-09-02,12:00,SG,,,,4.0,2.0,2.0,,,https://www.sg.ch/tools/informationen-coronavirus.html,53.0,354.0,,,,,,,,
 2020-09-02,09:30,SH,,166.0,,0.0,0.0,,,8.0,https://sh.ch/CMS/get/file/d7680e10-d506-4368-81c1-a4dabf0fbc97,5.0,43.0,71.0,,,,,,,
 2020-09-02,01:00,SO,,713.0,,0.0,,,,18.0,https://corona.so.ch/index.php?id=27979,,,,,,,,,,
 2020-09-02,09:00,SZ,,493.0,,,,,441.0,25.0,https://www.sz.ch/public/upload/assets/48409/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,
