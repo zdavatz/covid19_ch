@@ -6,7 +6,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-01,03:00,GR,,1003,1,1,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,23.0,51.0,,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,2,0,506.82,25.265
 2020-09-01,03:00,JU,,269,0,2,0,,,7,https://www.jura.ch/Htdocs/Files/v/35199.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees---Situation-au-1er-septembre-2020.xlsx?download=1,,,,,,,,,,,47.350744,7.156107,Jura,26,1,0,366.98,9.55
 2020-09-01,03:00,NE,,881,-1,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,494.94,47.191
-2020-09-01,03:00,OW,6,107,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f4e4de585059/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,284.57,0.0
 2020-09-01,03:00,VS,,2371,0,3,0,0.0,320,155,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,694.29,45.388
 2020-09-02,12:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,14.0,14.0,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-09-02,08:00,BE,,2561,0,5,2,1.0,,99,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,9,0,248.38,9.601
@@ -17,6 +16,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-02,11:30,GL,,166,0,0,,,,13,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,411.91,32.258
 2020-09-02,03:00,LU,,1067,-2,8,1,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,46.0,171.0,,,,,,,,,47.067763,8.1102,Luzern,03,3,0,262.48,5.166
 2020-09-02,03:00,NW,,134,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,311.63,6.977
+2020-09-02,03:00,OW,6,107,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f4fb30639f3a/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,284.57,0.0
 2020-09-02,12:00,SG,,1270,-1,4,2,2.0,226,42,https://www.sg.ch/tools/informationen-coronavirus.html,53.0,354.0,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,251.63,8.322
 2020-09-02,09:30,SH,,166,0,0,0,,,8,https://sh.ch/CMS/get/file/d7680e10-d506-4368-81c1-a4dabf0fbc97,5.0,43.0,71.0,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,203.93,9.828
 2020-09-02,01:00,SO,,713,0,0,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,11,0,262.71,6.632
