@@ -1,10 +1,7 @@
 date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,current_isolated,current_quarantined,current_quarantined_riskareatravel,current_quarantined_total,TotalPosTests1,ninst_ICU_intub,ncumul_ICF,ncumul_confirmed_non_resident,current_hosp_non_resident,current_hosp_resident,lat,long,name_canton,number_canton,new_positive_cases,new_deaths,total_currently_positive_per_100k,deaths_per_100k
-2020-08-31,10:30,AR,,133,0,1,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,8.0,68.0,33.0,101.0,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,240.94,5.435
 2020-08-31,03:00,VD,,7180,0,16,5,,,432,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,31,0,905.31,54.47
 2020-09-01,03:00,AG,,2126,0,2,1,1.0,1170,52,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,116.0,303.0,863.0,,,,,,,,47.40966,8.15688,Aargau,01,18,0,316.84,7.75
 2020-09-01,03:00,VS,,2371,0,3,0,0.0,320,155,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,694.29,45.388
-2020-09-02,12:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,14.0,14.0,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
-2020-09-02,08:00,BE,,2561,0,5,2,1.0,,99,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,9,0,248.38,9.601
 2020-09-02,03:00,BL,,1051,0,1,0,0.0,966,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,52.0,289.0,222.0,511.0,,,,,,,47.45176,7.702414,Basel-Landschaft,13,5,0,366.2,12.195
 2020-09-02,03:00,FL,900,107,0,0,,,99,1,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,277.2,2.591
 2020-09-02,03:00,GE,66873,7036,5,16,0,1.0,973,298,https://www.ge.ch/document/21502/telecharger,,,,,,,2.0,,,,46.220528,6.132935,Genève,25,0,0,1420.84,60.178
@@ -16,6 +13,9 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-02,12:00,SG,,1280,-2,3,1,0.0,226,43,https://www.sg.ch/tools/informationen-coronavirus.html,53.0,354.0,,,,,,,,,47.1832,9.274744,St. Gallen,17,10,1,253.62,8.52
 2020-09-02,16:00,UR,85,137,0,0,,,127,7,https://www.ur.ch/themen/2962,,16.0,,,,,,,,,46.771849,8.628586,Uri,04,0,0,377.41,19.284
 2020-09-02,14:30,ZH,,6225,1,27,,7.0,,142,https://www.zh.ch/de/gesundheit/coronavirus.html,503.0,1074.0,,,,,,,,,47.41275,8.65508,Zürich,01,91,0,413.81,9.44
+2020-09-03,12:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,1.0,11.0,12.0,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
+2020-09-03,13:30,AR,,135,2,3,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,6.0,48.0,,,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,2,0,244.57,5.435
+2020-09-03,08:00,BE,,2584,0,5,2,1.0,,99,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,23,0,250.61,9.601
 2020-09-03,09:30,BS,235,1229,0,3,0,,1127,54,https://www.gesundheit.bs.ch,48.0,100.0,296.0,396.0,,,,540.0,,,47.564869,7.615259,Basel-Stadt,12,3,0,633.83,27.849
 2020-09-03,03:00,FR,30,1765,0,5,1,,163,85,https://www.fr.ch/sites/default/files/2020-09/200903_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,46.718391,7.074008,Fribourg,10,35,0,560.14,26.976
 2020-09-03,12:00,GL,,166,0,0,,,,13,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,411.91,32.258
