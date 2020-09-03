@@ -13,7 +13,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-03,03:00,BL,,1058,-1,0,0,0.0,967,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,54.0,278.0,201.0,479.0,,,,,,,47.45176,7.702414,Basel-Landschaft,13,7,0,368.64,12.195
 2020-09-03,09:30,BS,235,1229,1,5,2,,1127,54,https://www.gesundheit.bs.ch,48.0,100.0,296.0,396.0,,,,540.0,2.0,3.0,47.564869,7.615259,Basel-Stadt,12,3,0,633.83,27.849
 2020-09-03,03:00,FR,30,1765,0,5,1,,163,85,https://www.fr.ch/sites/default/files/2020-09/200903_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,46.718391,7.074008,Fribourg,10,35,0,560.14,26.976
-2020-09-03,03:00,GE,66873,7072,5,21,0,1.0,973,299,https://www.ge.ch/document/21502/telecharger,,,,,,,1.0,,,,46.220528,6.132935,Genève,25,0,0,1428.11,60.38
+2020-09-03,03:00,GE,71961,7072,5,21,0,1.0,973,299,https://www.ge.ch/document/21502/telecharger,,,,,,,1.0,,,,46.220528,6.132935,Genève,25,0,0,1428.11,60.38
 2020-09-03,12:00,GL,,166,0,0,,,,13,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,411.91,32.258
 2020-09-03,03:00,JU,,273,0,3,0,,,7,https://www.jura.ch/Htdocs/Files/v/35220.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees---Situation-au-3-septembre-2020.xlsx?download=1,,,,,,,,,,,47.350744,7.156107,Jura,26,1,0,372.44,9.55
 2020-09-03,03:00,LU,,1077,-1,7,1,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,50.0,203.0,,,,,,,,,47.067763,8.1102,Luzern,03,10,0,264.94,5.166
