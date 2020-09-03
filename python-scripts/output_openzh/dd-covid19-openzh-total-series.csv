@@ -4378,7 +4378,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-08-30,09:00,SZ,,485.0,,,,,423.0,25.0,https://www.sz.ch/public/upload/assets/48428/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,
 2020-08-30,10:00,TG,,579.0,1.0,4.0,1.0,,80.0,19.0,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,,,,,,,,,,
 2020-08-30,,VD,,7150.0,,16.0,5.0,,,432.0,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,
-2020-08-30,,VS,,2368.0,0.0,3.0,0.0,0.0,320.0,155.0,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,
+2020-08-30,,VS,,2368.0,0.0,3.0,0.0,0.0,320.0,155.0,https://www.vs.ch/de/web/coronavirus,79.0,409.0,358.0,,,,,,,
 2020-08-30,08:00,ZG,,344.0,,3.0,,,301.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,19.0,43.0,213.0,256.0,,,,,,
 2020-08-30,14:30,ZH,,6047.0,,21.0,,5.0,,142.0,https://www.zh.ch/de/gesundheit/coronavirus.html,561.0,1062.0,,,,,,,,
 2020-08-31,,AG,,2108.0,,,,,,52.0,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp,124.0,367.0,903.0,,,,,,,
