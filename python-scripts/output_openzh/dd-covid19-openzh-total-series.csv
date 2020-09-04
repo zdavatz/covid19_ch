@@ -4473,7 +4473,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-09-03,,LU,,1077.0,,7.0,1.0,,,21.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,50.0,203.0,,,,,,,,
 2020-09-03,,NE,,887.0,,0.0,0.0,0.0,,,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,
 2020-09-03,00:00,OW,,107.0,,1.0,,,,0.0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,
-2020-09-03,12:00,SG,,1294.0,,7.0,1.0,0.0,,43.0,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,
+2020-09-03,12:00,SG,,1294.0,,7.0,1.0,0.0,,43.0,https://www.sg.ch/tools/informationen-coronavirus.html,59.0,381.0,,,,,,,,
 2020-09-03,09:30,SH,,166.0,,0.0,0.0,,,8.0,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,5.0,43.0,67.0,,,,,,,
 2020-09-03,01:00,SO,,718.0,,0.0,,,,18.0,https://corona.so.ch/index.php?id=27979,,,,,,,,,,
 2020-09-03,09:00,SZ,,494.0,,,,,445.0,25.0,https://www.sz.ch/public/upload/assets/48443/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,
@@ -4482,6 +4482,8 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-09-03,16:00,UR,,137.0,,0.0,,,127.0,7.0,https://www.ur.ch/themen/2962,,15.0,,,,,,,,
 2020-09-03,08:00,ZG,,361.0,,2.0,,,316.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,12.0,23.0,187.0,210.0,,,,,,
 2020-09-03,14:30,ZH,,6298.0,,28.0,,7.0,,142.0,https://www.zh.ch/de/gesundheit/coronavirus.html,593.0,1378.0,2658.0,,,,,,,
+2020-09-04,12:00,AI,,25.0,,,,,,0.0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,1.0,,,,,,,,
+2020-09-04,08:00,BE,,2610.0,,4.0,2.0,2.0,,99.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,
 2020-09-04,09:00,BS,,1233.0,,5.0,2.0,,1130.0,54.0,https://www.gesundheit.bs.ch,49.0,101.0,267.0,368.0,,,,539.0,2.0,3.0
 2020-09-04,,FR,,1799.0,,6.0,1.0,,163.0,85.0,https://www.fr.ch/sites/default/files/2020-09/200904_statistiques_situation_COVID_site.xlsx,,,,,,,,,,
 2020-09-04,12:30,GL,,166.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,
