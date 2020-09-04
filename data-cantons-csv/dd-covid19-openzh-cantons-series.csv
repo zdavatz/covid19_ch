@@ -477,7 +477,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-23,11:00,LU,,156,0,,,,,1,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,25,0,38.38,0.246
 2020-03-23,03:00,NE,,247,5,33,11,6.0,,5,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,31,1,138.76,2.809
 2020-03-23,03:00,NW,,39,0,5,,,,,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,3,0,90.7,
-2020-03-23,03:00,OW,6,24,0,,,,,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,23,0,63.83,0.0
+2020-03-23,03:00,OW,6,24,0,,,,,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,23,0,63.83,0.0
 2020-03-23,03:00,SG,,185,0,,,,,1,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,87,0,36.66,0.198
 2020-03-23,03:00,SH,,32,0,,,,,0,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,39.31,0.0
 2020-03-23,12:00,SO,,95,0,,,,,1,https://corona.so.ch/,,,,,,,,,,,47.304135,7.639388,Solothurn,11,29,0,35.0,0.368
@@ -503,7 +503,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-24,11:00,LU,,205,0,,,,,2,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,49,1,50.43,0.492
 2020-03-24,03:00,NE,,265,-1,32,8,6.0,,6,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,18,1,148.88,3.371
 2020-03-24,03:00,NW,,42,-1,4,,,,,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,3,0,97.67,
-2020-03-24,03:00,OW,6,25,0,,,,,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,66.49,0.0
+2020-03-24,03:00,OW,6,25,0,,,,,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,66.49,0.0
 2020-03-24,03:00,SG,,200,0,,,,,1,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,15,0,39.63,0.198
 2020-03-24,03:00,SH,,34,0,,,,,0,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,41.77,0.0
 2020-03-24,03:00,SO,,104,0,,,,,1,https://corona.so.ch/,,,,,,,,,,,47.304135,7.639388,Solothurn,11,9,0,38.32,0.368
@@ -530,7 +530,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-25,11:00,LU,,228,0,,,,,2,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,23,0,56.09,0.492
 2020-03-25,03:00,NE,,280,9,41,10,7.0,,9,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,15,3,157.3,5.056
 2020-03-25,03:00,NW,,44,-1,3,,,,,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,2,0,102.33,
-2020-03-25,03:00,OW,6,27,0,2,,,,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,71.81,0.0
+2020-03-25,03:00,OW,6,27,0,2,,,,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,71.81,0.0
 2020-03-25,03:00,SG,,228,0,,,,,1,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,28,0,45.18,0.198
 2020-03-25,03:00,SH,,35,0,10,1,,,0,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,43.0,0.0
 2020-03-25,03:00,SO,,129,0,,,,,1,https://corona.so.ch/,,,,,,,,,,,47.304135,7.639388,Solothurn,11,25,0,47.53,0.368
@@ -556,7 +556,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-26,11:00,LU,,253,0,,,,,3,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,25,1,62.24,0.738
 2020-03-26,03:00,NE,,299,1,42,9,7.0,,12,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,19,3,167.98,6.742
 2020-03-26,03:00,NW,,48,-1,2,,,,,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,4,0,111.63,
-2020-03-26,03:00,OW,6,30,1,3,,,,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,3,0,79.79,0.0
+2020-03-26,03:00,OW,6,30,1,3,,,,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,3,0,79.79,0.0
 2020-03-26,03:00,SG,,280,0,,,,,1,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,52,0,55.48,0.198
 2020-03-26,03:00,SH,,36,-4,6,1,,,0,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,44.23,0.0
 2020-03-26,03:00,SO,,141,0,,,,,1,https://corona.so.ch/,,,,,,,,,,,47.304135,7.639388,Solothurn,11,12,0,51.95,0.368
@@ -583,7 +583,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-27,11:00,LU,,287,0,,,,,3,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,34,0,70.6,0.738
 2020-03-27,03:00,NE,,316,3,45,9,7.0,,13,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,17,1,177.53,7.303
 2020-03-27,03:00,NW,,54,1,3,,,,,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,6,0,125.58,
-2020-03-27,03:00,OW,6,37,0,3,,,,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,7,0,98.4,0.0
+2020-03-27,03:00,OW,6,37,0,3,,,,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,7,0,98.4,0.0
 2020-03-27,03:00,SG,,306,0,,,,,2,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,26,1,60.63,0.396
 2020-03-27,03:00,SH,,37,4,10,1,,,0,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,45.45,0.0
 2020-03-27,03:00,SO,,157,0,,,,,1,https://corona.so.ch/,,,,,,,,,,,47.304135,7.639388,Solothurn,11,16,0,57.85,0.368
@@ -659,7 +659,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-30,11:00,LU,,351,0,,,,,6,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,12,1,86.35,1.476
 2020-03-30,03:00,NE,,378,-3,57,12,6.0,,20,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,32,2,212.36,11.236
 2020-03-30,03:00,NW,,63,4,8,,,,,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,4,0,146.51,
-2020-03-30,03:00,OW,6,46,0,3,,,,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,9,0,122.34,0.0
+2020-03-30,03:00,OW,6,46,0,3,,,,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,9,0,122.34,0.0
 2020-03-30,03:00,SG,,389,0,,,,,7,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,24,2,77.08,1.387
 2020-03-30,03:00,SH,,42,4,19,3,,,0,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,51.6,0.0
 2020-03-30,03:00,SZ,10,135,0,1,,,33,2,https://www.sz.ch/public/upload/assets/48443/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,47.061787,8.756585,Schwyz,05,7,0,85.82,1.271
@@ -685,7 +685,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-03-31,11:00,LU,,375,0,,,,,7,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,24,1,92.25,1.722
 2020-03-31,03:00,NE,,402,2,59,14,8.0,,22,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,24,2,225.84,12.36
 2020-03-31,03:00,NW,,70,-1,7,1,,,,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,7,0,162.79,
-2020-03-31,03:00,OW,6,47,0,3,,,,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,125.0,0.0
+2020-03-31,03:00,OW,6,47,0,3,,,,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,125.0,0.0
 2020-03-31,03:00,SG,,394,0,,,,,7,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,5,0,78.07,1.387
 2020-03-31,03:00,SH,,44,-1,18,3,,,1,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,2,1,54.05,1.229
 2020-03-31,03:00,SO,,196,0,,,,,2,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,6,0,72.22,0.737
@@ -711,7 +711,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-01,11:00,LU,,401,0,57,12,,,7,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,26,0,98.65,1.722
 2020-04-01,03:00,NE,,420,7,66,14,8.0,,24,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,18,2,235.96,13.483
 2020-04-01,03:00,NW,,70,2,9,2,,,,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,162.79,
-2020-04-01,03:00,OW,6,49,0,6,,,,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,130.32,0.0
+2020-04-01,03:00,OW,6,49,0,6,,,,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,130.32,0.0
 2020-04-01,03:00,SG,,414,0,,,,,7,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,20,0,82.03,1.387
 2020-04-01,03:00,SH,,44,-8,10,3,,,1,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,54.05,1.229
 2020-04-01,03:00,SO,,216,0,,,,,3,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,20,1,79.59,1.105
@@ -738,7 +738,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-02,11:00,LU,,422,9,66,11,,,7,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,21,0,103.81,1.722
 2020-04-02,03:00,NE,,430,-5,61,12,10.0,,27,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,10,3,241.57,15.169
 2020-04-02,03:00,NW,,76,0,9,2,,,,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,6,0,176.74,
-2020-04-02,03:00,OW,6,51,0,6,,,,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,135.64,0.0
+2020-04-02,03:00,OW,6,51,0,6,,,,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,135.64,0.0
 2020-04-02,03:00,SG,,455,0,64,11,,49,8,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,41,1,90.15,1.585
 2020-04-02,03:00,SH,,47,8,18,3,,,1,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,3,0,57.74,1.229
 2020-04-02,03:00,SO,,227,0,14,,,,3,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,11,0,83.64,1.105
@@ -765,7 +765,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-03,11:00,LU,,449,-17,49,12,,,7,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,27,0,110.46,1.722
 2020-04-03,03:00,NE,,444,0,61,11,9.0,,28,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,14,1,249.44,15.73
 2020-04-03,03:00,NW,,79,1,10,2,,,,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,3,0,183.72,
-2020-04-03,03:00,OW,6,56,-3,3,,,,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,5,0,148.94,0.0
+2020-04-03,03:00,OW,6,56,-3,3,,,,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,5,0,148.94,0.0
 2020-04-03,03:00,SG,,480,11,75,12,,50,8,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,25,0,95.11,1.585
 2020-04-03,03:00,SH,,47,-9,9,3,,,1,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,57.74,1.229
 2020-04-03,03:00,SO,,237,3,17,,,,3,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,10,0,87.32,1.105
@@ -841,7 +841,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-06,11:00,LU,,497,12,61,6,,,9,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,19,0,122.26,2.214
 2020-04-06,03:00,NE,,485,1,59,10,8.0,,36,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,22,5,272.47,20.225
 2020-04-06,03:00,NW,,86,2,11,2,,,,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,6,0,200.0,
-2020-04-06,03:00,OW,6,60,-2,1,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,4,0,159.57,0.0
+2020-04-06,03:00,OW,6,60,-2,1,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,4,0,159.57,0.0
 2020-04-06,03:00,SG,,532,0,70,12,,75,11,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,17,2,105.41,2.18
 2020-04-06,03:00,SH,,50,3,15,3,,,1,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,61.43,1.229
 2020-04-06,03:00,SO,,261,10,26,,,,3,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,3,0,96.17,1.105
@@ -868,7 +868,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-07,11:00,LU,,509,-4,57,6,,,9,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,12,0,125.22,2.214
 2020-04-07,03:00,NE,,509,5,64,10,5.0,,40,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,24,4,285.96,22.472
 2020-04-07,03:00,NW,,87,-2,9,2,,,,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,1,0,202.33,
-2020-04-07,03:00,OW,6,60,1,2,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,159.57,0.0
+2020-04-07,03:00,OW,6,60,1,2,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,159.57,0.0
 2020-04-07,03:00,SG,,557,-5,65,9,,79,13,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,25,2,110.36,2.576
 2020-04-07,09:30,SH,,50,-1,14,3,,,1,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,61.43,1.229
 2020-04-07,03:00,SO,,264,3,29,,,,3,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,3,0,97.27,1.105
@@ -895,7 +895,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-08,11:00,LU,,527,0,57,6,,,9,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,18,0,129.64,2.214
 2020-04-08,03:00,NE,,513,-1,63,10,7.0,,42,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,4,2,288.2,23.596
 2020-04-08,03:00,NW,,93,0,9,1,,,,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,6,0,216.28,
-2020-04-08,03:00,OW,6,61,-1,1,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,162.23,0.0
+2020-04-08,03:00,OW,6,61,-1,1,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,162.23,0.0
 2020-04-08,03:00,SG,,578,-13,52,12,,89,15,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,21,2,114.52,2.972
 2020-04-08,09:30,SH,,50,1,15,2,,,1,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,61.43,1.229
 2020-04-08,03:00,SO,,276,-7,22,,,,3,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,12,0,101.69,1.105
@@ -922,7 +922,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-09,13:00,LU,,542,0,62,6,,,9,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,15,0,133.33,2.214
 2020-04-09,03:00,NE,,545,-5,58,10,7.0,,44,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,32,2,306.18,24.719
 2020-04-09,03:00,NW,,96,0,9,1,,,,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,3,0,223.26,
-2020-04-09,03:00,OW,6,62,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,164.89,0.0
+2020-04-09,03:00,OW,6,62,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,164.89,0.0
 2020-04-09,03:00,SG,,604,0,52,13,,92,16,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,26,1,119.68,3.17
 2020-04-09,09:30,SH,,52,2,17,2,,,1,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,63.88,1.229
 2020-04-09,03:00,SO,,282,1,23,,,,5,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,6,2,103.91,1.842
@@ -1050,7 +1050,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-14,11:00,LU,,589,7,47,4,,,11,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,9,1,144.9,2.706
 2020-04-14,03:00,NE,,599,-7,60,11,10.0,,58,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,11,3,336.52,32.584
 2020-04-14,03:00,NW,,105,0,7,2,,,1,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,1,0,244.19,2.326
-2020-04-14,03:00,OW,6,64,-1,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,170.21,0.0
+2020-04-14,03:00,OW,6,64,-1,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,170.21,0.0
 2020-04-14,03:00,SG,,664,1,59,9,,120,21,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,7,0,131.56,4.161
 2020-04-14,09:30,SH,,57,-6,10,2,,,1,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,70.02,1.229
 2020-04-14,03:00,SO,,325,-1,22,,,,8,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,4,1,119.75,2.948
@@ -1077,7 +1077,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-15,11:00,LU,,596,-1,46,4,,,12,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,7,1,146.62,2.952
 2020-04-15,03:00,NE,,612,-6,54,12,10.0,,59,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,13,1,343.82,33.146
 2020-04-15,03:00,NW,,106,0,7,2,,,2,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,1,1,246.51,4.651
-2020-04-15,03:00,OW,6,64,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,170.21,0.0
+2020-04-15,03:00,OW,6,64,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,170.21,0.0
 2020-04-15,03:00,SG,,676,-12,47,9,,123,23,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,12,2,133.94,4.557
 2020-04-15,09:30,SH,,59,1,11,2,,,1,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,72.48,1.229
 2020-04-15,03:00,SO,,329,0,22,,,,8,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,4,0,121.22,2.948
@@ -1104,7 +1104,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-16,12:30,LU,,599,-6,40,3,,,13,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,3,1,147.36,3.198
 2020-04-16,03:00,NE,,621,-2,52,11,9.0,,61,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,9,2,348.88,34.27
 2020-04-16,03:00,NW,,106,-2,5,2,,,2,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,246.51,4.651
-2020-04-16,03:00,OW,6,65,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,172.87,0.0
+2020-04-16,03:00,OW,6,65,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,172.87,0.0
 2020-04-16,03:00,SG,,680,9,56,7,,138,25,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,4,2,134.73,4.953
 2020-04-16,09:30,SH,,60,-1,10,2,,,1,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,73.71,1.229
 2020-04-16,03:00,SO,,343,0,22,,,,8,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,14,0,126.38,2.948
@@ -1131,7 +1131,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-17,11:00,LU,,607,0,40,3,,,14,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,8,1,149.32,3.444
 2020-04-17,03:00,NE,,630,-8,44,10,8.0,,64,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,9,3,353.93,35.955
 2020-04-17,03:00,NW,,107,-1,4,2,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,1,1,248.84,6.977
-2020-04-17,03:00,OW,6,66,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,175.53,0.0
+2020-04-17,03:00,OW,6,66,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,175.53,0.0
 2020-04-17,03:00,SG,,693,-15,41,9,,144,27,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,13,2,137.31,5.35
 2020-04-17,09:30,SH,,60,-2,8,2,,,1,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,73.71,1.229
 2020-04-17,03:00,SO,,350,-2,20,,,,9,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,7,1,128.96,3.316
@@ -1207,7 +1207,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-20,11:00,LU,,633,7,33,5,,,15,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,7,0,155.72,3.69
 2020-04-20,03:00,NE,,643,1,44,10,5.0,,69,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,9,3,361.24,38.764
 2020-04-20,03:00,NW,,108,0,4,2,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,251.16,6.977
-2020-04-20,03:00,OW,6,67,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,178.19,0.0
+2020-04-20,03:00,OW,6,67,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,178.19,0.0
 2020-04-20,03:00,SG,,711,-3,42,7,,159,27,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,6,0,140.88,5.35
 2020-04-20,09:30,SH,,63,0,6,2,,,1,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,77.4,1.229
 2020-04-20,03:00,SO,,355,0,19,,,,11,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,130.8,4.053
@@ -1234,7 +1234,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-21,12:00,LU,,643,2,35,5,,,15,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,10,0,158.18,3.69
 2020-04-21,03:00,NE,,648,-7,37,7,4.0,,70,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,5,1,364.04,39.326
 2020-04-21,03:00,NW,,108,0,4,1,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,251.16,6.977
-2020-04-21,03:00,OW,6,67,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,178.19,0.0
+2020-04-21,03:00,OW,6,67,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,178.19,0.0
 2020-04-21,03:00,SG,,718,6,48,8,,159,29,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,7,2,142.26,5.746
 2020-04-21,09:30,SH,,63,4,10,2,,,2,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,1,77.4,2.457
 2020-04-21,03:00,SO,,359,0,19,,,,11,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,4,0,132.28,4.053
@@ -1261,7 +1261,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-22,11:00,LU,,648,0,35,5,,,15,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,5,0,159.41,3.69
 2020-04-22,03:00,NE,,655,0,37,6,4.0,,72,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,7,2,367.98,40.449
 2020-04-22,03:00,NW,,108,0,4,1,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,251.16,6.977
-2020-04-22,03:00,OW,6,67,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,178.19,0.0
+2020-04-22,03:00,OW,6,67,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,178.19,0.0
 2020-04-22,03:00,SG,,724,4,52,6,,162,29,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,6,0,143.45,5.746
 2020-04-22,09:30,SH,,63,0,10,2,,,3,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,1,77.4,3.686
 2020-04-22,03:00,SO,,368,-1,18,,,,11,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,9,0,135.59,4.053
@@ -1288,7 +1288,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-23,11:00,LU,,654,0,38,7,,,15,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,6,0,160.89,3.69
 2020-04-23,03:00,NE,,662,-2,35,6,4.0,,72,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,7,0,371.91,40.449
 2020-04-23,03:00,NW,,108,0,4,1,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,251.16,6.977
-2020-04-23,03:00,OW,6,68,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,180.85,0.0
+2020-04-23,03:00,OW,6,68,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,180.85,0.0
 2020-04-23,03:00,SG,,736,-15,37,2,,170,31,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,12,2,145.83,6.142
 2020-04-23,09:30,SH,,65,-2,8,2,,,3,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,79.85,3.686
 2020-04-23,03:00,SO,,375,-3,15,,,,12,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,7,1,138.17,4.422
@@ -1315,7 +1315,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-24,11:00,LU,,660,0,38,7,,,16,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,6,1,162.36,3.936
 2020-04-24,03:00,NE,,665,1,36,6,4.0,,74,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,3,2,373.6,41.573
 2020-04-24,03:00,NW,,108,-1,3,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,251.16,6.977
-2020-04-24,03:00,OW,6,71,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,3,0,188.83,0.0
+2020-04-24,03:00,OW,6,71,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,3,0,188.83,0.0
 2020-04-24,03:00,SG,,745,6,43,4,,175,31,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,9,0,147.61,6.142
 2020-04-24,09:30,SH,,70,-4,4,1,,,3,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,5,0,86.0,3.686
 2020-04-24,03:00,SO,,376,0,15,,,,14,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,2,138.54,5.158
@@ -1389,7 +1389,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-27,12:00,LU,,674,6,32,7,,,16,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,4,0,165.81,3.936
 2020-04-27,03:00,NE,,672,-4,28,3,3.0,,77,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,5,0,377.53,43.258
 2020-04-27,03:00,NW,,110,-1,2,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,255.81,6.977
-2020-04-27,03:00,OW,6,75,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,4,0,199.47,0.0
+2020-04-27,03:00,OW,6,75,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,4,0,199.47,0.0
 2020-04-27,03:00,SG,,767,1,39,2,,176,31,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,6,0,151.97,6.142
 2020-04-27,09:30,SH,,73,3,12,3,,,5,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,89.68,6.143
 2020-04-27,03:00,SO,,382,1,13,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,140.75,5.527
@@ -1416,7 +1416,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-28,03:00,LU,,677,-3,29,7,,,17,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,3,1,166.54,4.182
 2020-04-28,03:00,NE,,676,-2,26,3,3.0,,78,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,4,1,379.78,43.82
 2020-04-28,03:00,NW,,111,0,2,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,1,0,258.14,6.977
-2020-04-28,03:00,OW,6,78,1,1,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,3,0,207.45,0.0
+2020-04-28,03:00,OW,6,78,1,1,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,3,0,207.45,0.0
 2020-04-28,03:00,SG,,775,5,44,3,,176,33,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,8,2,153.56,6.539
 2020-04-28,09:30,SH,,74,-2,10,2,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,1,90.91,7.371
 2020-04-28,03:00,SO,,383,0,13,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,141.12,5.527
@@ -1443,7 +1443,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-29,03:00,LU,,687,2,31,8,,,17,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,10,0,169.0,4.182
 2020-04-29,03:00,NE,,680,0,26,4,4.0,,78,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,4,0,382.02,43.82
 2020-04-29,03:00,NW,,111,0,2,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,258.14,6.977
-2020-04-29,03:00,OW,6,78,1,2,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,207.45,0.0
+2020-04-29,03:00,OW,6,78,1,2,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,207.45,0.0
 2020-04-29,03:00,SG,,776,0,44,10,,176,33,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,1,0,153.75,6.539
 2020-04-29,09:30,SH,,74,2,12,2,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,90.91,7.371
 2020-04-29,03:00,SO,,384,-1,12,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,141.49,5.527
@@ -1470,7 +1470,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-04-30,03:00,LU,,694,0,31,8,,,17,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,7,0,170.73,4.182
 2020-04-30,03:00,NE,,685,-1,25,5,4.0,,80,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,5,2,384.83,44.944
 2020-04-30,03:00,NW,,113,-1,1,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,2,0,262.79,6.977
-2020-04-30,03:00,OW,6,78,-2,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,207.45,0.0
+2020-04-30,03:00,OW,6,78,-2,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,207.45,0.0
 2020-04-30,03:00,SG,,780,-7,37,3,,184,33,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,4,0,154.55,6.539
 2020-04-30,09:30,SH,,75,-4,8,2,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,92.14,7.371
 2020-04-30,03:00,SO,,388,0,12,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,4,0,142.96,5.527
@@ -1497,7 +1497,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-01,03:00,LU,,703,9,40,8,,,17,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,9,0,172.94,4.182
 2020-05-01,03:00,NE,,688,1,26,2,2.0,,80,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,3,0,386.52,44.944
 2020-05-01,03:00,NW,,113,0,1,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,262.79,6.977
-2020-05-01,03:00,OW,6,78,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,207.45,0.0
+2020-05-01,03:00,OW,6,78,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,207.45,0.0
 2020-05-01,03:00,SG,,788,-1,36,3,,187,33,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,8,0,156.13,6.539
 2020-05-01,09:30,SH,,75,-1,7,2,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,92.14,7.371
 2020-05-01,03:00,SO,,390,0,12,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,143.7,5.527
@@ -1572,7 +1572,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-04,03:00,LU,,705,-6,34,6,,,18,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,173.43,4.428
 2020-05-04,03:00,NE,,691,-1,25,3,3.0,,81,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,388.2,45.506
 2020-05-04,03:00,NW,,113,0,1,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,262.79,6.977
-2020-05-04,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,210.11,0.0
+2020-05-04,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,210.11,0.0
 2020-05-04,03:00,SG,,793,-7,29,2,,189,33,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,5,0,157.12,6.539
 2020-05-04,09:30,SH,,75,-2,4,2,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,92.14,7.371
 2020-05-04,03:00,SO,,400,0,11,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,147.38,5.527
@@ -1599,7 +1599,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-05,03:00,LU,,706,3,37,6,,,18,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,1,0,173.68,4.428
 2020-05-05,03:00,NE,,695,-4,21,3,2.0,,81,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,4,0,390.45,45.506
 2020-05-05,03:00,NW,,113,0,1,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,262.79,6.977
-2020-05-05,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
+2020-05-05,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
 2020-05-05,03:00,SG,,793,0,29,2,,189,33,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,157.12,6.539
 2020-05-05,09:30,SH,,75,2,6,4,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,92.14,7.371
 2020-05-05,03:00,SO,,402,-1,10,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,148.12,5.527
@@ -1626,7 +1626,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-06,03:00,LU,,709,-5,32,6,,,18,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,3,0,174.42,4.428
 2020-05-06,03:00,NE,,700,1,22,3,2.0,,81,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,5,0,393.26,45.506
 2020-05-06,03:00,NW,,113,0,1,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,262.79,6.977
-2020-05-06,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
+2020-05-06,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
 2020-05-06,03:00,SG,,794,0,29,2,,203,33,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,1,0,157.32,6.539
 2020-05-06,09:30,SH,,75,-1,5,4,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,92.14,7.371
 2020-05-06,03:00,SO,,403,1,11,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,148.49,5.527
@@ -1652,7 +1652,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-07,03:00,LU,,710,-1,31,6,,,19,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,1,1,174.66,4.674
 2020-05-07,03:00,NE,,704,-2,20,4,2.0,,82,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,4,1,395.51,46.067
 2020-05-07,03:00,NW,,115,0,1,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,2,0,267.44,6.977
-2020-05-07,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
+2020-05-07,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
 2020-05-07,03:00,SG,,795,0,29,2,,203,33,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,1,0,157.52,6.539
 2020-05-07,09:30,SH,,76,2,7,4,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,93.37,7.371
 2020-05-07,03:00,SO,,406,0,11,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,3,0,149.59,5.527
@@ -1678,7 +1678,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-08,03:00,LU,,713,-3,28,6,,,19,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,3,0,175.4,4.674
 2020-05-08,03:00,NE,,710,-4,16,2,2.0,,82,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,6,0,398.88,46.067
 2020-05-08,03:00,NW,,115,-1,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,267.44,6.977
-2020-05-08,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
+2020-05-08,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
 2020-05-08,03:00,SG,,798,0,29,2,,203,35,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,3,2,158.11,6.935
 2020-05-08,09:30,SH,,76,-3,4,3,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,93.37,7.371
 2020-05-08,03:00,SO,,407,0,11,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,149.96,5.527
@@ -1749,7 +1749,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-11,03:00,LU,,713,0,29,5,,,19,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,175.4,4.674
 2020-05-11,03:00,NE,,714,0,13,1,1.0,,82,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,401.12,46.067
 2020-05-11,03:00,NW,,117,-1,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,2,0,272.09,6.977
-2020-05-11,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
+2020-05-11,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
 2020-05-11,03:00,SG,,801,0,22,1,,210,36,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,3,1,158.71,7.133
 2020-05-11,09:30,SH,,78,-2,4,3,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-11,03:00,SO,,420,-4,7,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,13,0,154.75,5.527
@@ -1776,7 +1776,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-12,03:00,LU,,715,3,32,5,,,19,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,2,0,175.89,4.674
 2020-05-12,03:00,NE,,716,0,13,1,1.0,,82,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,402.25,46.067
 2020-05-12,03:00,NW,,118,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,1,0,274.42,6.977
-2020-05-12,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
+2020-05-12,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
 2020-05-12,03:00,SG,,802,0,22,1,,210,36,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,1,0,158.91,7.133
 2020-05-12,09:30,SH,,78,4,8,3,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-12,03:00,SO,,421,5,12,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,155.12,5.527
@@ -1801,7 +1801,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-13,03:00,LU,,715,-3,29,4,,,19,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,175.89,4.674
 2020-05-13,03:00,NE,,716,-1,12,1,1.0,,82,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,402.25,46.067
 2020-05-13,03:00,NW,,120,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,2,0,279.07,6.977
-2020-05-13,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
+2020-05-13,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
 2020-05-13,03:00,SG,,802,0,10,2,,215,36,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,158.91,7.133
 2020-05-13,09:30,SH,,78,-2,6,3,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-13,03:00,SO,,423,0,12,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,155.86,5.527
@@ -1827,7 +1827,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-14,03:00,LU,,715,0,29,4,,,19,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,175.89,4.674
 2020-05-14,03:00,NE,,716,-1,11,1,1.0,,82,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,402.25,46.067
 2020-05-14,03:00,NW,,122,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,2,0,283.72,6.977
-2020-05-14,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
+2020-05-14,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
 2020-05-14,03:00,SG,,802,0,10,2,,215,36,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,158.91,7.133
 2020-05-14,09:30,SH,,78,0,6,3,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-14,03:00,SO,,425,-1,11,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,156.6,5.527
@@ -1853,7 +1853,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-15,03:00,LU,,715,-2,27,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,1,175.89,4.92
 2020-05-15,03:00,NE,,716,0,11,1,1.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,1,402.25,46.629
 2020-05-15,03:00,NW,,122,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,283.72,6.977
-2020-05-15,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
+2020-05-15,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
 2020-05-15,03:00,SG,,803,0,11,2,,216,36,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,1,0,159.1,7.133
 2020-05-15,09:30,SH,,78,0,6,3,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-15,03:00,SO,,427,-5,6,,,,15,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,157.33,5.527
@@ -1919,7 +1919,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-18,03:00,LU,,726,0,26,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,3,0,178.6,4.92
 2020-05-18,03:00,NE,,719,-1,11,2,1.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,403.93,46.629
 2020-05-18,03:00,NW,,123,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,286.05,6.977
-2020-05-18,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
+2020-05-18,03:00,OW,6,79,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,210.11,0.0
 2020-05-18,03:00,SG,,806,-3,8,1,,217,36,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,3,0,159.7,7.133
 2020-05-18,09:30,SH,,78,0,5,3,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-18,03:00,SO,,432,0,6,,,,16,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,5,1,159.17,5.895
@@ -1944,7 +1944,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-19,03:00,LU,,727,-3,23,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,1,0,178.84,4.92
 2020-05-19,03:00,NE,,721,-4,7,1,1.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,405.06,46.629
 2020-05-19,03:00,NW,,123,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,286.05,6.977
-2020-05-19,03:00,OW,6,80,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,212.77,0.0
+2020-05-19,03:00,OW,6,80,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,212.77,0.0
 2020-05-19,03:00,SG,,806,0,8,1,,217,36,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,159.7,7.133
 2020-05-19,09:30,SH,,78,3,8,2,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-19,03:00,SO,,434,0,6,,,,16,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,159.91,5.895
@@ -1971,7 +1971,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-20,03:00,LU,,732,-4,19,3,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,5,0,180.07,4.92
 2020-05-20,03:00,NE,,723,0,7,1,1.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,406.18,46.629
 2020-05-20,03:00,NW,,123,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,286.05,6.977
-2020-05-20,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,218.09,0.0
+2020-05-20,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,218.09,0.0
 2020-05-20,03:00,SG,,807,0,11,1,,217,36,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,1,0,159.9,7.133
 2020-05-20,09:30,SH,,78,-1,7,1,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-20,03:00,SO,,436,0,6,,,,16,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,160.65,5.895
@@ -2082,7 +2082,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-25,03:00,LU,,733,0,25,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,180.32,4.92
 2020-05-25,03:00,NE,,724,0,4,1,1.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,406.74,46.629
 2020-05-25,03:00,NW,,123,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,286.05,6.977
-2020-05-25,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-05-25,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-05-25,03:00,SG,,807,0,11,1,,217,36,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,159.9,7.133
 2020-05-25,09:30,SH,,78,0,5,1,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-25,03:00,SO,,439,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,0,1,161.75,6.264
@@ -2107,7 +2107,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-26,03:00,LU,,734,0,25,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,1,0,180.57,4.92
 2020-05-26,03:00,NE,,725,0,4,1,1.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,407.3,46.629
 2020-05-26,03:00,NW,,123,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,286.05,6.977
-2020-05-26,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-05-26,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-05-26,03:00,SG,,807,0,11,1,,217,36,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,159.9,7.133
 2020-05-26,09:30,SH,,78,3,8,2,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-26,03:00,SO,,439,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,161.75,6.264
@@ -2134,7 +2134,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-27,03:00,LU,,735,1,26,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,1,0,180.81,4.92
 2020-05-27,03:00,NE,,725,1,5,2,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,407.3,46.629
 2020-05-27,03:00,NW,,123,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,286.05,6.977
-2020-05-27,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-05-27,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-05-27,03:00,SG,,808,0,11,1,,217,37,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,1,1,160.1,7.331
 2020-05-27,09:30,SH,,78,-2,6,2,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-27,03:00,SO,,439,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,161.75,6.264
@@ -2160,7 +2160,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-28,03:00,LU,,735,0,26,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,180.81,4.92
 2020-05-28,03:00,NE,,725,-3,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,407.3,46.629
 2020-05-28,03:00,NW,,123,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,286.05,6.977
-2020-05-28,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-05-28,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-05-28,03:00,SG,,808,0,11,1,,217,37,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,160.1,7.331
 2020-05-28,09:30,SH,,78,2,8,2,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-28,03:00,SO,,440,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,162.12,6.264
@@ -2187,7 +2187,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-05-29,03:00,LU,,735,0,26,5,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,180.81,4.92
 2020-05-29,03:00,NE,,726,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,407.87,46.629
 2020-05-29,03:00,NW,,123,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,286.05,6.977
-2020-05-29,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-05-29,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-05-29,03:00,SG,,808,0,11,1,,217,37,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,160.1,7.331
 2020-05-29,09:30,SH,,78,-3,5,2,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-05-29,03:00,SO,,440,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,162.12,6.264
@@ -2271,7 +2271,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-02,03:00,LU,,735,0,26,5,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,180.81,4.92
 2020-06-02,03:00,NE,,727,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,408.43,46.629
 2020-06-02,03:00,NW,,124,-1,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-02,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-06-02,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-02,09:30,SH,,78,4,9,1,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-06-02,03:00,SO,,443,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,3,0,163.23,6.264
 2020-06-02,10:00,SZ,10,307,0,1,,,284,23,https://www.sz.ch/public/upload/assets/48443/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.17,14.622
@@ -2297,7 +2297,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-03,03:00,LU,,735,0,20,5,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,180.81,4.92
 2020-06-03,03:00,NE,,730,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,3,0,410.11,46.629
 2020-06-03,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-03,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-06-03,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-03,03:00,SG,,809,0,8,2,,223,37,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,1,0,160.29,7.331
 2020-06-03,09:30,SH,,78,-5,4,1,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-06-03,03:00,SO,,445,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,163.96,6.264
@@ -2322,7 +2322,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-04,03:00,LU,,735,0,20,5,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,180.81,4.92
 2020-06-04,03:00,NE,,731,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,410.67,46.629
 2020-06-04,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-04,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-06-04,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-04,09:30,SH,,78,0,4,1,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-06-04,03:00,SO,,446,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,164.33,6.264
 2020-06-04,10:00,SZ,10,307,0,1,,,284,23,https://www.sz.ch/public/upload/assets/48443/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.17,14.622
@@ -2346,7 +2346,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-05,03:00,LU,,735,0,20,5,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,180.81,4.92
 2020-06-05,03:00,NE,,732,1,3,1,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,411.24,46.629
 2020-06-05,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-05,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-06-05,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-05,09:30,SH,,78,1,5,1,,,6,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,95.82,7.371
 2020-06-05,03:00,SO,,446,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,164.33,6.264
 2020-06-05,10:00,SZ,10,307,0,1,,,284,23,https://www.sz.ch/public/upload/assets/48443/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.17,14.622
@@ -2407,7 +2407,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-08,03:00,LU,,736,0,5,3,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,181.06,4.92
 2020-06-08,03:00,NE,,735,1,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,412.92,46.629
 2020-06-08,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-08,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-06-08,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-08,03:00,SG,,809,1,9,2,,223,37,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,160.29,7.331
 2020-06-08,09:30,SH,,79,0,5,1,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,97.05,8.6
 2020-06-08,03:00,SO,,446,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,164.33,6.264
@@ -2432,7 +2432,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-09,03:00,LU,,736,0,5,3,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,181.06,4.92
 2020-06-09,03:00,NE,,735,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,412.92,46.629
 2020-06-09,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-09,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-06-09,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-09,09:30,SH,,79,2,7,1,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,97.05,8.6
 2020-06-09,03:00,SO,,446,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,164.33,6.264
 2020-06-09,10:00,SZ,10,307,0,1,,,284,23,https://www.sz.ch/public/upload/assets/48443/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.17,14.622
@@ -2456,7 +2456,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-10,03:00,LU,,736,0,8,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,181.06,4.92
 2020-06-10,03:00,NE,,735,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,412.92,46.629
 2020-06-10,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-10,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-06-10,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-10,03:00,SG,,811,0,9,2,,223,37,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,160.69,7.331
 2020-06-10,09:30,SH,,79,-4,3,1,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,97.05,8.6
 2020-06-10,10:00,SZ,10,307,0,1,,,284,23,https://www.sz.ch/public/upload/assets/48443/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.17,14.622
@@ -2562,7 +2562,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-15,03:00,JU,,206,0,1,0,,,7,https://www.jura.ch/Htdocs/Files/v/35220.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees---Situation-au-3-septembre-2020.xlsx?download=1,,,,,,,,,,,47.350744,7.156107,Jura,26,0,0,281.04,9.55
 2020-06-15,03:00,NE,,737,0,3,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,414.04,46.629
 2020-06-15,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-15,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-06-15,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-15,03:00,SG,,811,0,7,2,,223,37,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,160.69,7.331
 2020-06-15,09:30,SH,,81,0,1,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,99.51,8.6
 2020-06-15,03:00,SO,,448,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,165.07,6.264
@@ -2587,7 +2587,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-16,03:00,LU,,740,0,8,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,2,0,182.04,4.92
 2020-06-16,03:00,NE,,738,-1,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,414.61,46.629
 2020-06-16,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-16,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-06-16,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-16,09:30,SH,,81,1,2,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,99.51,8.6
 2020-06-16,03:00,SO,,448,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,165.07,6.264
 2020-06-16,10:00,SZ,10,308,0,1,,,284,23,https://www.sz.ch/public/upload/assets/48443/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.8,14.622
@@ -2611,7 +2611,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-17,03:00,LU,,740,0,13,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,182.04,4.92
 2020-06-17,03:00,NE,,739,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,415.17,46.629
 2020-06-17,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-17,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-06-17,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-17,03:00,SG,,820,0,7,2,,223,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,162.47,7.529
 2020-06-17,09:30,SH,,81,-1,1,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,99.51,8.6
 2020-06-17,03:00,SO,,449,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,165.44,6.264
@@ -2635,7 +2635,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-18,03:00,LU,,740,0,13,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,182.04,4.92
 2020-06-18,03:00,NE,,739,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,415.17,46.629
 2020-06-18,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-18,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-06-18,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-18,09:30,SH,,81,1,2,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,99.51,8.6
 2020-06-18,03:00,SO,,449,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,165.44,6.264
 2020-06-18,10:00,SZ,10,308,0,1,,,284,23,https://www.sz.ch/public/upload/assets/48443/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,47.061787,8.756585,Schwyz,05,0,0,195.8,14.622
@@ -2660,7 +2660,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-19,03:00,LU,,741,-4,9,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,1,0,182.29,4.92
 2020-06-19,03:00,NE,,741,3,5,1,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,416.29,46.629
 2020-06-19,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-19,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-06-19,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-19,09:30,SH,,81,0,2,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,99.51,8.6
 2020-06-19,03:00,SO,,451,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,166.18,6.264
 2020-06-19,10:00,SZ,10,309,0,1,,,285,23,https://www.sz.ch/public/upload/assets/48443/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,47.061787,8.756585,Schwyz,05,1,0,196.44,14.622
@@ -2722,7 +2722,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-22,03:00,LU,,745,0,9,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,1,0,183.27,4.92
 2020-06-22,03:00,NE,,743,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,417.42,46.629
 2020-06-22,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-22,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-06-22,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-22,03:00,SG,,822,0,7,2,,223,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,2,0,162.87,7.529
 2020-06-22,09:30,SH,,81,0,3,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,99.51,8.6
 2020-06-22,03:00,SO,,451,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,166.18,6.264
@@ -2747,7 +2747,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-23,03:00,LU,,746,0,9,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,1,0,183.52,4.92
 2020-06-23,03:00,NE,,744,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,417.98,46.629
 2020-06-23,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-23,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-06-23,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-23,03:00,SG,,823,0,7,2,,223,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,1,0,163.07,7.529
 2020-06-23,09:30,SH,,81,-1,2,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,99.51,8.6
 2020-06-23,03:00,SO,,451,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,166.18,6.264
@@ -2772,7 +2772,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-24,03:00,LU,,747,0,10,1,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,1,0,183.76,4.92
 2020-06-24,03:00,NE,,744,-1,1,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,417.98,46.629
 2020-06-24,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-24,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-06-24,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-24,03:00,SG,,825,0,12,3,,226,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,2,0,163.46,7.529
 2020-06-24,09:30,SH,,81,0,2,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,99.51,8.6
 2020-06-24,03:00,SO,,452,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,166.54,6.264
@@ -2797,7 +2797,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-25,03:00,LU,,747,0,10,1,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,183.76,4.92
 2020-06-25,03:00,NE,,744,0,1,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,417.98,46.629
 2020-06-25,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-25,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-06-25,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-25,03:00,SG,,828,0,12,3,,226,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,3,0,164.06,7.529
 2020-06-25,09:30,SH,,81,0,2,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,99.51,8.6
 2020-06-25,03:00,SO,,453,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,166.91,6.264
@@ -2823,7 +2823,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-26,03:00,LU,,749,0,10,1,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,2,0,184.26,4.92
 2020-06-26,03:00,NE,,745,2,3,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,418.54,46.629
 2020-06-26,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-26,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
+2020-06-26,03:00,OW,6,82,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,218.09,0.0
 2020-06-26,03:00,SG,,831,0,12,3,,226,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,3,0,164.65,7.529
 2020-06-26,09:30,SH,,81,0,2,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,99.51,8.6
 2020-06-26,03:00,SO,,453,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,166.91,6.264
@@ -2887,7 +2887,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-29,03:00,LU,,754,0,10,1,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,2,0,185.49,4.92
 2020-06-29,03:00,NE,,746,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,419.1,46.629
 2020-06-29,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-29,03:00,OW,6,83,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,220.74,0.0
+2020-06-29,03:00,OW,6,83,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,220.74,0.0
 2020-06-29,03:00,SG,,837,0,12,3,,226,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,6,0,165.84,7.529
 2020-06-29,09:30,SH,,83,0,3,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,101.97,8.6
 2020-06-29,03:00,SO,,456,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,3,0,168.02,6.264
@@ -2913,7 +2913,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-06-30,03:00,LU,,760,0,10,1,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,6,0,186.96,4.92
 2020-06-30,03:00,NE,,748,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,420.22,46.629
 2020-06-30,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-06-30,03:00,OW,6,83,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,220.74,0.0
+2020-06-30,03:00,OW,6,83,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,220.74,0.0
 2020-06-30,03:00,SG,,843,0,12,3,,226,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,6,0,167.03,7.529
 2020-06-30,09:30,SH,,83,-1,2,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,101.97,8.6
 2020-06-30,03:00,SO,,459,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,3,0,169.12,6.264
@@ -2940,7 +2940,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-01,03:00,LU,,763,0,9,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,3,0,187.7,4.92
 2020-07-01,03:00,NE,,748,-1,1,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,420.22,46.629
 2020-07-01,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-07-01,03:00,OW,6,83,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,220.74,0.0
+2020-07-01,03:00,OW,6,83,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,220.74,0.0
 2020-07-01,03:00,SG,,859,0,12,3,,226,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,16,0,170.2,7.529
 2020-07-01,09:30,SH,,83,0,2,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,101.97,8.6
 2020-07-01,03:00,SO,,461,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,169.86,6.264
@@ -2966,7 +2966,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-02,03:00,LU,,763,0,9,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,187.7,4.92
 2020-07-02,03:00,NE,,750,0,1,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,421.35,46.629
 2020-07-02,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-07-02,03:00,OW,6,83,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,220.74,0.0
+2020-07-02,03:00,OW,6,83,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,220.74,0.0
 2020-07-02,03:00,SG,,859,0,12,3,,226,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,170.2,7.529
 2020-07-02,09:30,SH,,83,0,2,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,101.97,8.6
 2020-07-02,03:00,SO,,463,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,170.6,6.264
@@ -2992,7 +2992,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-03,03:00,LU,,767,0,9,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,,,,,,47.067763,8.1102,Luzern,03,4,0,188.68,4.92
 2020-07-03,03:00,NE,,751,1,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,421.91,46.629
 2020-07-03,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-07-03,03:00,OW,6,83,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,220.74,0.0
+2020-07-03,03:00,OW,6,83,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,220.74,0.0
 2020-07-03,03:00,SG,,870,0,12,3,,226,38,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,11,0,172.38,7.529
 2020-07-03,09:30,SH,,83,2,4,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,101.97,8.6
 2020-07-03,03:00,SO,,464,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,170.97,6.264
@@ -3057,7 +3057,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-06,03:00,LU,,771,0,9,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,20.0,71.0,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,189.67,4.92
 2020-07-06,03:00,NE,,752,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,422.47,46.629
 2020-07-06,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-07-06,03:00,OW,6,84,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,223.4,0.0
+2020-07-06,03:00,OW,6,84,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,223.4,0.0
 2020-07-06,03:00,SG,,881,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,11,1,174.56,7.727
 2020-07-06,09:30,SH,,85,0,2,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,104.42,8.6
 2020-07-06,03:00,SO,,472,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,4,0,173.91,6.264
@@ -3082,7 +3082,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-07,03:00,LU,,772,0,9,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,21.0,64.0,,,,,,,,,47.067763,8.1102,Luzern,03,1,0,189.91,4.92
 2020-07-07,03:00,NE,,752,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,422.47,46.629
 2020-07-07,03:00,NW,,124,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,288.37,6.977
-2020-07-07,03:00,OW,6,84,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,223.4,0.0
+2020-07-07,03:00,OW,6,84,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,223.4,0.0
 2020-07-07,03:00,SG,,883,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,2,0,174.96,7.727
 2020-07-07,09:30,SH,,86,-1,1,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,105.65,8.6
 2020-07-07,03:00,SO,,475,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,3,0,175.02,6.264
@@ -3108,7 +3108,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-08,03:00,LU,,775,0,5,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,23.0,41.0,,,,,,,,,47.067763,8.1102,Luzern,03,3,0,190.65,4.92
 2020-07-08,03:00,NE,,752,-1,1,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,422.47,46.629
 2020-07-08,03:00,NW,,125,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,1,0,290.7,6.977
-2020-07-08,03:00,OW,6,84,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,223.4,0.0
+2020-07-08,03:00,OW,6,84,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,223.4,0.0
 2020-07-08,03:00,SG,,893,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,10,0,176.94,7.727
 2020-07-08,09:30,SH,,86,-1,0,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,105.65,8.6
 2020-07-08,03:00,SO,,479,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,4,0,176.49,6.264
@@ -3133,7 +3133,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-09,03:00,LU,,778,0,5,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,19.0,51.0,,,,,,,,,47.067763,8.1102,Luzern,03,3,0,191.39,4.92
 2020-07-09,03:00,NE,,754,0,1,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,423.6,46.629
 2020-07-09,03:00,NW,,125,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,290.7,6.977
-2020-07-09,03:00,OW,6,87,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,3,0,231.38,0.0
+2020-07-09,03:00,OW,6,87,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,3,0,231.38,0.0
 2020-07-09,03:00,SG,,900,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,7,0,178.32,7.727
 2020-07-09,09:30,SH,,86,2,2,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,105.65,8.6
 2020-07-09,03:00,SO,,481,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,177.23,6.264
@@ -3160,7 +3160,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-10,03:00,LU,,784,0,5,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,23.0,34.0,,,,,,,,,47.067763,8.1102,Luzern,03,6,0,192.87,4.92
 2020-07-10,03:00,NE,,755,2,3,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,424.16,46.629
 2020-07-10,03:00,NW,,126,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,1,0,293.02,6.977
-2020-07-10,03:00,OW,6,87,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,231.38,0.0
+2020-07-10,03:00,OW,6,87,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,231.38,0.0
 2020-07-10,03:00,SG,,910,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,10,0,180.31,7.727
 2020-07-10,09:30,SH,,86,1,3,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,105.65,8.6
 2020-07-10,10:00,SZ,10,358,0,1,,,306,23,https://www.sz.ch/public/upload/assets/48443/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,47.061787,8.756585,Schwyz,05,2,0,227.59,14.622
@@ -3221,7 +3221,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-13,03:00,LU,,793,0,5,2,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,27.0,64.0,,,,,,,,,47.067763,8.1102,Luzern,03,3,0,195.08,4.92
 2020-07-13,03:00,NE,,757,2,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,425.28,46.629
 2020-07-13,03:00,NW,,126,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,293.02,6.977
-2020-07-13,03:00,OW,6,88,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,234.04,0.0
+2020-07-13,03:00,OW,6,88,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,234.04,0.0
 2020-07-13,03:00,SG,,919,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,9,0,182.09,7.727
 2020-07-13,09:30,SH,,90,4,7,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,4,0,110.57,8.6
 2020-07-13,01:00,SO,,491,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,10,0,180.91,6.264
@@ -3248,7 +3248,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-14,03:00,LU,,796,-1,4,3,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,21.0,75.0,,,,,,,,,47.067763,8.1102,Luzern,03,3,0,195.82,4.92
 2020-07-14,03:00,NE,,758,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,425.84,46.629
 2020-07-14,03:00,NW,,126,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,293.02,6.977
-2020-07-14,03:00,OW,6,88,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,234.04,0.0
+2020-07-14,03:00,OW,6,88,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,234.04,0.0
 2020-07-14,03:00,SG,,925,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,6,0,183.28,7.727
 2020-07-14,09:30,SH,,94,-2,5,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,4,0,115.48,8.6
 2020-07-14,01:00,SO,,493,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,181.65,6.264
@@ -3273,7 +3273,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-15,03:00,LU,,806,1,5,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,31.0,103.0,,,,,,,,,47.067763,8.1102,Luzern,03,10,0,198.28,4.92
 2020-07-15,03:00,NE,,761,-1,1,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,3,0,427.53,46.629
 2020-07-15,03:00,NW,,127,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,1,0,295.35,6.977
-2020-07-15,03:00,OW,6,88,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,234.04,0.0
+2020-07-15,03:00,OW,6,88,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,234.04,0.0
 2020-07-15,03:00,SG,,925,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,183.28,7.727
 2020-07-15,09:30,SH,,96,0,5,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,117.94,8.6
 2020-07-15,01:00,SO,,497,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,4,0,183.12,6.264
@@ -3299,7 +3299,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-16,03:00,LU,,807,0,5,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,30.0,115.0,,,,,,,,,47.067763,8.1102,Luzern,03,1,0,198.52,4.92
 2020-07-16,03:00,NE,,761,0,1,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,427.53,46.629
 2020-07-16,03:00,NW,,127,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,295.35,6.977
-2020-07-16,03:00,OW,6,88,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,234.04,0.0
+2020-07-16,03:00,OW,6,88,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,234.04,0.0
 2020-07-16,03:00,SG,,932,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,7,0,184.66,7.727
 2020-07-16,09:30,SH,,98,-1,4,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,120.39,8.6
 2020-07-16,01:00,SO,,499,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,183.86,6.264
@@ -3326,7 +3326,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-17,03:00,LU,,813,1,6,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,36.0,86.0,,,,,,,,,47.067763,8.1102,Luzern,03,6,0,200.0,4.92
 2020-07-17,03:00,NE,,765,0,1,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,4,0,429.78,46.629
 2020-07-17,03:00,NW,,127,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,295.35,6.977
-2020-07-17,03:00,OW,6,88,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,234.04,0.0
+2020-07-17,03:00,OW,6,88,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,234.04,0.0
 2020-07-17,09:30,SH,,100,3,7,0,,,7,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,122.85,8.6
 2020-07-17,01:00,SO,,500,0,6,,,,17,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,184.23,6.264
 2020-07-17,10:00,SZ,10,374,0,1,,,327,24,https://www.sz.ch/public/upload/assets/48443/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,47.061787,8.756585,Schwyz,05,1,0,237.76,15.257
@@ -3387,7 +3387,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-20,03:00,LU,,819,0,7,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,37.0,60.0,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,201.48,4.92
 2020-07-20,03:00,NE,,767,1,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,430.9,46.629
 2020-07-20,03:00,NW,,128,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,297.67,6.977
-2020-07-20,03:00,OW,6,89,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,236.7,0.0
+2020-07-20,03:00,OW,6,89,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,236.7,0.0
 2020-07-20,03:00,SG,,944,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,12,0,187.04,7.727
 2020-07-20,09:30,SH,,101,0,3,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,124.08,9.828
 2020-07-20,01:00,SO,,503,0,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,3,1,185.34,6.632
@@ -3414,7 +3414,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-21,03:00,LU,,828,0,7,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,48.0,28.0,,,,,,,,,47.067763,8.1102,Luzern,03,9,0,203.69,4.92
 2020-07-21,03:00,NE,,768,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,431.46,46.629
 2020-07-21,03:00,NW,,128,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,297.67,6.977
-2020-07-21,03:00,OW,6,90,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,239.36,0.0
+2020-07-21,03:00,OW,6,90,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,239.36,0.0
 2020-07-21,03:00,SG,,948,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,4,0,187.83,7.727
 2020-07-21,09:30,SH,,102,3,6,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,125.31,9.828
 2020-07-21,01:00,SO,,505,0,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,186.07,6.632
@@ -3439,7 +3439,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-22,03:00,LU,,832,0,7,3,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,47.0,49.0,,,,,,,,,47.067763,8.1102,Luzern,03,4,0,204.67,4.92
 2020-07-22,03:00,NE,,769,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,432.02,46.629
 2020-07-22,03:00,NW,,128,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,297.67,6.977
-2020-07-22,03:00,OW,6,90,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,239.36,0.0
+2020-07-22,03:00,OW,6,90,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,239.36,0.0
 2020-07-22,03:00,SG,,958,0,12,3,,226,39,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,10,0,189.82,7.727
 2020-07-22,09:30,SH,,103,-1,5,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,126.54,9.828
 2020-07-22,01:00,SO,,506,-1,1,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,186.44,6.632
@@ -3465,7 +3465,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-23,03:00,LU,,832,-2,5,3,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,41.0,52.0,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,204.67,4.92
 2020-07-23,03:00,NE,,770,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,432.58,46.629
 2020-07-23,03:00,NW,,128,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,297.67,6.977
-2020-07-23,03:00,OW,6,90,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,239.36,0.0
+2020-07-23,03:00,OW,6,90,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,239.36,0.0
 2020-07-23,03:00,SG,,974,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,16,1,192.99,7.926
 2020-07-23,09:30,SH,,105,1,6,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,128.99,9.828
 2020-07-23,01:00,SO,,509,0,1,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,3,0,187.55,6.632
@@ -3492,7 +3492,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-24,03:00,LU,,839,1,6,3,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,38.0,84.0,,,,,,,,,47.067763,8.1102,Luzern,03,7,0,206.4,4.92
 2020-07-24,03:00,NE,,771,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,433.15,46.629
 2020-07-24,03:00,NW,,128,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,297.67,6.977
-2020-07-24,03:00,OW,6,90,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,239.36,0.0
+2020-07-24,03:00,OW,6,90,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,239.36,0.0
 2020-07-24,03:00,SG,,974,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,192.99,7.926
 2020-07-24,09:30,SH,,105,1,7,1,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,128.99,9.828
 2020-07-24,01:00,SO,,511,0,1,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,188.28,6.632
@@ -3554,7 +3554,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-27,03:00,LU,,841,0,6,3,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,32.0,89.0,,,,,,,,,47.067763,8.1102,Luzern,03,0,0,206.89,4.92
 2020-07-27,03:00,NE,,772,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,433.71,46.629
 2020-07-27,03:00,NW,,128,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,297.67,6.977
-2020-07-27,03:00,OW,6,90,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,239.36,0.0
+2020-07-27,03:00,OW,6,90,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,239.36,0.0
 2020-07-27,03:00,SG,,986,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,12,0,195.36,7.926
 2020-07-27,09:30,SH,,106,0,4,1,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,130.22,9.828
 2020-07-27,01:00,SO,,519,1,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,8,0,191.23,6.632
@@ -3579,7 +3579,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-28,03:00,LU,,848,0,6,4,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,32.0,53.0,,,,,,,,,47.067763,8.1102,Luzern,03,7,0,208.61,4.92
 2020-07-28,03:00,NE,,774,-1,1,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,434.83,46.629
 2020-07-28,03:00,NW,,128,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,297.67,6.977
-2020-07-28,03:00,OW,6,90,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,239.36,0.0
+2020-07-28,03:00,OW,6,90,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,239.36,0.0
 2020-07-28,03:00,SG,,991,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,5,0,196.35,7.926
 2020-07-28,09:30,SH,,109,-1,3,1,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,3,0,133.91,9.828
 2020-07-28,01:00,SO,,521,0,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,191.97,6.632
@@ -3606,7 +3606,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-29,03:00,LU,,854,2,8,3,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,35.0,66.0,,,,,,,,,47.067763,8.1102,Luzern,03,6,0,210.09,4.92
 2020-07-29,03:00,NE,,777,-1,0,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,3,0,436.52,46.629
 2020-07-29,03:00,NW,,128,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,297.67,6.977
-2020-07-29,03:00,OW,6,91,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,242.02,0.0
+2020-07-29,03:00,OW,6,91,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,242.02,0.0
 2020-07-29,03:00,SG,,1000,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,9,0,198.14,7.926
 2020-07-29,09:30,SH,,115,1,4,1,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,6,0,141.28,9.828
 2020-07-29,01:00,SO,,522,0,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,192.34,6.632
@@ -3633,7 +3633,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-30,03:00,LU,,866,1,9,5,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,43.0,78.0,,,,,,,,,47.067763,8.1102,Luzern,03,12,0,213.04,4.92
 2020-07-30,03:00,NE,,781,3,3,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,4,0,438.76,46.629
 2020-07-30,03:00,NW,,129,1,1,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,1,0,300.0,6.977
-2020-07-30,03:00,OW,6,92,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,244.68,0.0
+2020-07-30,03:00,OW,6,92,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,244.68,0.0
 2020-07-30,03:00,SG,,1008,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,8,0,199.72,7.926
 2020-07-30,09:30,SH,,116,3,7,1,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,142.51,9.828
 2020-07-30,01:00,SO,,524,-1,1,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,193.07,6.632
@@ -3660,7 +3660,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-07-31,03:00,LU,,874,3,12,5,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,46.0,113.0,,,,,,,,,47.067763,8.1102,Luzern,03,8,0,215.01,4.92
 2020-07-31,03:00,NE,,782,-1,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,439.33,46.629
 2020-07-31,03:00,NW,,129,0,1,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,300.0,6.977
-2020-07-31,03:00,OW,6,92,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,244.68,0.0
+2020-07-31,03:00,OW,6,92,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,244.68,0.0
 2020-07-31,03:00,SG,,1014,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,6,0,200.91,7.926
 2020-07-31,09:30,SH,,117,0,7,2,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,143.73,9.828
 2020-07-31,01:00,SO,,526,1,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,2,0,193.81,6.632
@@ -3724,7 +3724,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-03,03:00,LU,,882,0,13,8,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,47.0,147.0,,,,,,,,,47.067763,8.1102,Luzern,03,4,0,216.97,4.92
 2020-08-03,03:00,NE,,786,0,2,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,441.57,46.629
 2020-08-03,03:00,NW,,129,0,1,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,300.0,6.977
-2020-08-03,03:00,OW,6,92,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,244.68,0.0
+2020-08-03,03:00,OW,6,92,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,244.68,0.0
 2020-08-03,03:00,SG,,1022,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,8,0,202.5,7.926
 2020-08-03,09:30,SH,,121,0,9,2,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,148.65,9.828
 2020-08-03,01:00,SO,,535,1,3,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,9,0,197.13,6.632
@@ -3750,7 +3750,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-04,03:00,LU,,892,1,14,5,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,46.0,135.0,,,,,,,,,47.067763,8.1102,Luzern,03,10,0,219.43,4.92
 2020-08-04,03:00,NE,,788,-1,1,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,442.7,46.629
 2020-08-04,03:00,NW,,129,0,1,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,300.0,6.977
-2020-08-04,03:00,OW,6,94,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,250.0,0.0
+2020-08-04,03:00,OW,6,94,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,250.0,0.0
 2020-08-04,03:00,SG,,1025,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,3,0,203.09,7.926
 2020-08-04,09:30,SH,,124,-5,4,2,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,3,0,152.33,9.828
 2020-08-04,01:00,SO,,536,0,3,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,197.49,6.632
@@ -3777,7 +3777,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-05,03:00,LU,,905,0,14,5,,,20,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,51.0,157.0,,,,,,,,,47.067763,8.1102,Luzern,03,13,0,222.63,4.92
 2020-08-05,03:00,NE,,789,0,1,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,443.26,46.629
 2020-08-05,03:00,NW,,130,0,1,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,1,0,302.33,6.977
-2020-08-05,03:00,OW,6,94,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,250.0,0.0
+2020-08-05,03:00,OW,6,94,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,250.0,0.0
 2020-08-05,03:00,SG,,1031,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,6,0,204.28,7.926
 2020-08-05,09:30,SH,,131,-1,3,2,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,7,0,160.93,9.828
 2020-08-05,01:00,SO,,544,0,3,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,8,0,200.44,6.632
@@ -3803,7 +3803,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-06,03:00,LU,,910,-1,13,5,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,54.0,163.0,,,,,,,,,47.067763,8.1102,Luzern,03,5,1,223.86,5.166
 2020-08-06,03:00,NE,,790,0,1,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,443.82,46.629
 2020-08-06,03:00,NW,,130,-1,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,302.33,6.977
-2020-08-06,03:00,OW,6,94,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,250.0,0.0
+2020-08-06,03:00,OW,6,94,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,250.0,0.0
 2020-08-06,03:00,SG,,1046,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,15,0,207.25,7.926
 2020-08-06,09:30,SH,,132,3,6,2,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,162.16,9.828
 2020-08-06,01:00,SO,,545,0,3,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,200.81,6.632
@@ -3830,7 +3830,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-07,03:00,LU,,916,-1,12,4,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,56.0,155.0,,,,,,,,,47.067763,8.1102,Luzern,03,6,0,225.34,5.166
 2020-08-07,03:00,NE,,793,0,1,0,0.0,,83,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,3,0,445.51,46.629
 2020-08-07,03:00,NW,,130,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,302.33,6.977
-2020-08-07,03:00,OW,6,94,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,250.0,0.0
+2020-08-07,03:00,OW,6,94,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,250.0,0.0
 2020-08-07,03:00,SG,,1053,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,7,0,208.64,7.926
 2020-08-07,09:30,SH,,135,-1,5,2,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,3,0,165.85,9.828
 2020-08-07,01:00,SO,,548,-1,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,3,0,201.92,6.632
@@ -3895,7 +3895,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-10,03:00,LU,,925,-1,10,3,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,47.0,110.0,,,,,,,,,47.067763,8.1102,Luzern,03,1,0,227.55,5.166
 2020-08-10,03:00,NE,,798,-1,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,4,0,448.31,47.191
 2020-08-10,03:00,NW,,131,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,304.65,6.977
-2020-08-10,03:00,OW,6,95,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,252.66,0.0
+2020-08-10,03:00,OW,6,95,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,252.66,0.0
 2020-08-10,03:00,SG,,1081,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,20,0,214.19,7.926
 2020-08-10,09:30,SH,,137,0,9,2,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,168.3,9.828
 2020-08-10,01:00,SO,,558,-1,1,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,10,0,205.6,6.632
@@ -3921,7 +3921,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-11,03:00,LU,,932,-2,8,3,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,52.0,115.0,,,,,,,,,47.067763,8.1102,Luzern,03,7,0,229.27,5.166
 2020-08-11,03:00,NE,,803,0,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,5,0,451.12,47.191
 2020-08-11,03:00,NW,,131,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,304.65,6.977
-2020-08-11,03:00,OW,6,95,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,252.66,0.0
+2020-08-11,03:00,OW,6,95,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,252.66,0.0
 2020-08-11,03:00,SG,,1089,0,12,3,,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,8,0,215.77,7.926
 2020-08-11,09:30,SH,,139,-4,5,2,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,170.76,9.828
 2020-08-11,01:00,SO,,563,1,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,5,0,207.44,6.632
@@ -3947,7 +3947,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-12,03:00,LU,,940,1,9,4,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,51.0,128.0,,,,,,,,,47.067763,8.1102,Luzern,03,8,0,231.24,5.166
 2020-08-12,03:00,NE,,810,0,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,7,0,455.06,47.191
 2020-08-12,03:00,NW,,131,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,304.65,6.977
-2020-08-12,03:00,OW,6,95,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,252.66,0.0
+2020-08-12,03:00,OW,6,95,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,252.66,0.0
 2020-08-12,03:00,SG,,1099,0,9,5,5.0,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,10,0,217.75,7.926
 2020-08-12,09:30,SH,,147,2,7,2,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,8,0,180.59,9.828
 2020-08-12,01:00,SO,,573,-1,1,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,10,0,211.13,6.632
@@ -3973,7 +3973,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-13,03:00,LU,,957,1,10,4,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,61.0,141.0,,,,,,,,,47.067763,8.1102,Luzern,03,17,0,235.42,5.166
 2020-08-13,03:00,NE,,817,0,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,7,0,458.99,47.191
 2020-08-13,03:00,NW,,131,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,304.65,6.977
-2020-08-13,03:00,OW,6,95,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,252.66,0.0
+2020-08-13,03:00,OW,6,95,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,252.66,0.0
 2020-08-13,03:00,SG,,1112,0,9,5,4.0,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,13,0,220.33,7.926
 2020-08-13,09:30,SH,,147,-1,6,2,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,180.59,9.828
 2020-08-13,01:00,SO,,589,-1,0,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,16,0,217.02,6.632
@@ -4000,7 +4000,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-14,03:00,LU,,970,0,10,4,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,65.0,201.0,,,,,,,,,47.067763,8.1102,Luzern,03,13,0,238.62,5.166
 2020-08-14,03:00,NE,,820,0,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,3,0,460.67,47.191
 2020-08-14,03:00,NW,,131,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,304.65,6.977
-2020-08-14,03:00,OW,6,95,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,252.66,0.0
+2020-08-14,03:00,OW,6,95,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,252.66,0.0
 2020-08-14,03:00,SG,,1124,-2,7,0,4.0,226,40,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,12,0,222.71,7.926
 2020-08-14,09:30,SH,,151,-2,4,2,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,4,0,185.5,9.828
 2020-08-14,01:00,SO,,598,0,0,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,9,0,220.34,6.632
@@ -4060,7 +4060,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-17,03:00,LU,,984,0,10,4,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,58.0,218.0,,,,,,,,,47.067763,8.1102,Luzern,03,14,0,242.07,5.166
 2020-08-17,03:00,NE,,826,0,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,4,0,464.04,47.191
 2020-08-17,03:00,NW,,131,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,304.65,6.977
-2020-08-17,03:00,OW,6,95,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,252.66,0.0
+2020-08-17,03:00,OW,6,95,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,252.66,0.0
 2020-08-17,03:00,SG,,1154,0,7,0,5.0,226,41,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,9,1,228.65,8.124
 2020-08-17,09:30,SH,,157,2,6,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,6,0,192.87,9.828
 2020-08-17,01:00,SO,,613,3,3,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,15,0,225.87,6.632
@@ -4087,7 +4087,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-18,03:00,LU,,986,-2,8,4,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,54.0,222.0,,,,,,,,,47.067763,8.1102,Luzern,03,2,0,242.56,5.166
 2020-08-18,03:00,NE,,831,0,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,5,0,466.85,47.191
 2020-08-18,03:00,NW,,131,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,304.65,6.977
-2020-08-18,03:00,OW,6,97,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,257.98,0.0
+2020-08-18,03:00,OW,6,97,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,257.98,0.0
 2020-08-18,03:00,SG,,1169,0,7,1,4.0,226,41,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,15,0,231.62,8.124
 2020-08-18,09:30,SH,,158,4,10,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,194.1,9.828
 2020-08-18,01:00,SO,,625,0,3,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,12,0,230.29,6.632
@@ -4114,7 +4114,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-19,03:00,LU,,995,0,8,4,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,58.0,223.0,,,,,,,,,47.067763,8.1102,Luzern,03,9,0,244.77,5.166
 2020-08-19,03:00,NE,,832,0,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,467.42,47.191
 2020-08-19,03:00,NW,,131,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,304.65,6.977
-2020-08-19,03:00,OW,6,99,1,1,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,263.3,0.0
+2020-08-19,03:00,OW,6,99,1,1,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,2,0,263.3,0.0
 2020-08-19,03:00,SG,,1187,0,7,1,4.0,226,41,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,18,0,235.19,8.124
 2020-08-19,09:30,SH,,159,-2,8,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,195.33,9.828
 2020-08-19,01:00,SO,,635,-2,1,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,10,0,233.97,6.632
@@ -4139,7 +4139,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-20,03:00,LU,,998,-1,7,4,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,49.0,178.0,,,,,,,,,47.067763,8.1102,Luzern,03,3,0,245.51,5.166
 2020-08-20,03:00,NE,,839,0,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,7,0,471.35,47.191
 2020-08-20,03:00,NW,,131,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,304.65,6.977
-2020-08-20,03:00,OW,6,100,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,265.96,0.0
+2020-08-20,03:00,OW,6,100,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,265.96,0.0
 2020-08-20,03:00,SG,,1202,0,9,1,4.0,226,41,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,15,0,238.16,8.124
 2020-08-20,09:30,SH,,160,-5,3,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,196.56,9.828
 2020-08-20,01:00,SO,,640,1,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,5,0,235.81,6.632
@@ -4166,7 +4166,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-21,03:00,LU,,1004,1,8,3,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,49.0,166.0,,,,,,,,,47.067763,8.1102,Luzern,03,6,0,246.99,5.166
 2020-08-21,03:00,NE,,842,0,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,3,0,473.03,47.191
 2020-08-21,03:00,NW,,131,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,304.65,6.977
-2020-08-21,03:00,OW,6,101,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,268.62,0.0
+2020-08-21,03:00,OW,6,101,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,268.62,0.0
 2020-08-21,03:00,SG,,1202,0,9,1,4.0,226,41,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,238.16,8.124
 2020-08-21,09:30,SH,,160,2,5,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,196.56,9.828
 2020-08-21,01:00,SO,,643,0,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,3,0,236.92,6.632
@@ -4228,7 +4228,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-24,03:00,LU,,1013,0,8,3,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,33.0,128.0,,,,,,,,,47.067763,8.1102,Luzern,03,9,0,249.2,5.166
 2020-08-24,03:00,NE,,850,0,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,3,0,477.53,47.191
 2020-08-24,03:00,NW,,131,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,304.65,6.977
-2020-08-24,03:00,OW,6,101,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,268.62,0.0
+2020-08-24,03:00,OW,6,101,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,268.62,0.0
 2020-08-24,03:00,SG,,1218,2,9,1,4.0,226,41,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,1,0,241.33,8.124
 2020-08-24,09:30,SH,,161,-3,2,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,,,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,197.79,9.828
 2020-08-24,01:00,SO,,651,1,3,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,8,0,239.87,6.632
@@ -4254,7 +4254,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-25,03:00,LU,,1017,1,9,3,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,31.0,117.0,,,,,,,,,47.067763,8.1102,Luzern,03,4,0,250.18,5.166
 2020-08-25,03:00,NE,,852,1,1,1,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,478.65,47.191
 2020-08-25,03:00,NW,,132,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,1,0,306.98,6.977
-2020-08-25,03:00,OW,6,102,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,271.28,0.0
+2020-08-25,03:00,OW,6,102,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,271.28,0.0
 2020-08-25,12:00,SG,,1232,-3,6,3,3.0,226,41,https://www.sg.ch/tools/informationen-coronavirus.html,72.0,373.0,,,,,,,,,47.1832,9.274744,St. Gallen,17,14,0,244.11,8.124
 2020-08-25,09:30,SH,,162,-1,1,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,7.0,25.0,72.0,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,199.02,9.828
 2020-08-25,01:00,SO,,652,-1,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,1,0,240.24,6.632
@@ -4280,7 +4280,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-26,03:00,LU,,1027,0,9,3,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,39.0,123.0,,,,,,,,,47.067763,8.1102,Luzern,03,10,0,252.64,5.166
 2020-08-26,03:00,NE,,854,-1,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,479.78,47.191
 2020-08-26,03:00,NW,,133,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,1,0,309.3,6.977
-2020-08-26,03:00,OW,6,105,2,3,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,3,0,279.26,0.0
+2020-08-26,03:00,OW,6,105,2,3,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,3,0,279.26,0.0
 2020-08-26,12:00,SG,,1240,-1,5,3,2.0,226,41,https://www.sg.ch/tools/informationen-coronavirus.html,77.0,367.0,,,,,,,,,47.1832,9.274744,St. Gallen,17,8,0,245.69,8.124
 2020-08-26,09:30,SH,,162,0,1,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,4.0,27.0,71.0,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,199.02,9.828
 2020-08-26,01:00,SO,,660,0,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,8,0,243.18,6.632
@@ -4307,7 +4307,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-27,03:00,LU,,1034,1,10,3,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,45.0,126.0,,,,,,,,,47.067763,8.1102,Luzern,03,7,0,254.37,5.166
 2020-08-27,03:00,NE,,860,0,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,6,0,483.15,47.191
 2020-08-27,03:00,NW,,133,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,309.3,6.977
-2020-08-27,03:00,OW,6,105,0,3,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,279.26,0.0
+2020-08-27,03:00,OW,6,105,0,3,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,279.26,0.0
 2020-08-27,12:00,SG,,1249,-1,4,3,2.0,226,42,https://www.sg.ch/tools/informationen-coronavirus.html,79.0,443.0,,,,,,,,,47.1832,9.274744,St. Gallen,17,9,1,247.47,8.322
 2020-08-27,09:30,SH,,162,0,1,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,4.0,23.0,60.0,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,199.02,9.828
 2020-08-27,01:00,SO,,666,1,3,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,6,0,245.39,6.632
@@ -4334,7 +4334,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-28,03:00,LU,,1045,0,10,3,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,50.0,137.0,,,,,,,,,47.067763,8.1102,Luzern,03,11,0,257.07,5.166
 2020-08-28,03:00,NE,,869,0,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,9,0,488.2,47.191
 2020-08-28,03:00,NW,,133,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,309.3,6.977
-2020-08-28,03:00,OW,6,106,0,3,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,281.91,0.0
+2020-08-28,03:00,OW,6,106,0,3,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,281.91,0.0
 2020-08-28,12:00,SG,,1249,0,4,3,2.0,226,42,https://www.sg.ch/tools/informationen-coronavirus.html,67.0,347.0,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,247.47,8.322
 2020-08-28,09:30,SH,,162,0,1,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,4.0,16.0,48.0,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,199.02,9.828
 2020-08-28,01:00,SO,,687,0,3,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,21,0,253.13,6.632
@@ -4380,7 +4380,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-30,03:00,VD,,7150,0,16,5,,,432,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,47,0,901.53,54.47
 2020-08-30,03:00,VS,,2368,0,3,0,0.0,320,155,https://www.vs.ch/de/web/coronavirus,79.0,409.0,358.0,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,693.41,45.388
 2020-08-30,08:00,ZG,,344,0,3,0,,301,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,19.0,43.0,213.0,256.0,,,,,,,47.157296,8.537294,Zug,09,0,0,274.32,7.177
-2020-08-30,14:30,ZH,,6047,2,21,,5.0,,142,https://www.zh.ch/de/gesundheit/coronavirus.html,561.0,1062.0,,,,,,,,,47.41275,8.65508,Zürich,01,52,1,401.98,9.44
+2020-08-30,14:30,ZH,,6048,2,21,,5.0,,142,https://www.zh.ch/de/gesundheit/coronavirus.html,561.0,1062.0,,,,,,,,,47.41275,8.65508,Zürich,01,53,1,402.05,9.44
 2020-08-31,03:00,AG,,2108,0,2,1,1.0,1170,52,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp,124.0,367.0,903.0,,,,,,,,47.40966,8.15688,Aargau,01,7,0,314.16,7.75
 2020-08-31,12:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,10.0,10.0,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-08-31,10:30,AR,,133,0,1,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,8.0,68.0,33.0,101.0,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,1,0,240.94,5.435
@@ -4396,7 +4396,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-31,03:00,LU,,1060,0,10,4,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,46.0,142.0,,,,,,,,,47.067763,8.1102,Luzern,03,15,0,260.76,5.166
 2020-08-31,03:00,NE,,881,0,1,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,494.94,47.191
 2020-08-31,03:00,NW,,133,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,309.3,6.977
-2020-08-31,03:00,OW,6,107,-2,1,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,284.57,0.0
+2020-08-31,03:00,OW,6,107,-2,1,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,1,0,284.57,0.0
 2020-08-31,12:00,SG,,1262,-2,4,2,2.0,226,42,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,2,0,250.05,8.322
 2020-08-31,09:00,SH,,164,0,1,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,5.0,13.0,57.0,,,,,,,,47.71357,8.59167,Schaffhausen,14,2,0,201.47,9.828
 2020-08-31,01:00,SO,,702,-2,1,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,15,0,258.66,6.632
@@ -4407,7 +4407,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-08-31,03:00,VD,,7242,0,16,5,,,432,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,92,0,913.13,54.47
 2020-08-31,03:00,VS,,2371,0,3,0,0.0,320,155,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,3,0,694.29,45.388
 2020-08-31,08:00,ZG,,349,1,4,0,,311,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,19.0,40.0,247.0,287.0,,,,,,,47.157296,8.537294,Zug,09,5,0,278.31,7.177
-2020-08-31,14:30,ZH,,6067,1,22,,6.0,,142,https://www.zh.ch/de/gesundheit/coronavirus.html,561.0,1062.0,,,,,,,,,47.41275,8.65508,Zürich,01,20,0,403.31,9.44
+2020-08-31,14:30,ZH,,6068,1,22,,6.0,,142,https://www.zh.ch/de/gesundheit/coronavirus.html,561.0,1062.0,,,,,,,,,47.41275,8.65508,Zürich,01,20,0,403.38,9.44
 2020-09-01,03:00,AG,,2126,0,2,1,1.0,1170,52,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp,116.0,303.0,863.0,,,,,,,,47.40966,8.15688,Aargau,01,18,0,316.84,7.75
 2020-09-01,12:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,14.0,14.0,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-09-01,08:00,BE,,2552,0,7,2,2.0,,99,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,16,0,247.5,9.601
@@ -4422,7 +4422,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-01,03:00,LU,,1064,0,10,3,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,45.0,152.0,,,,,,,,,47.067763,8.1102,Luzern,03,4,0,261.75,5.166
 2020-09-01,03:00,NE,,883,-1,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,2,0,496.07,47.191
 2020-09-01,03:00,NW,,134,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,1,0,311.63,6.977
-2020-09-01,03:00,OW,6,107,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,284.57,0.0
+2020-09-01,03:00,OW,6,107,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,284.57,0.0
 2020-09-01,12:00,SG,,1270,1,5,3,2.0,226,42,https://www.sg.ch/tools/informationen-coronavirus.html,,,,,,,,,,,47.1832,9.274744,St. Gallen,17,8,0,251.63,8.322
 2020-09-01,09:30,SH,,165,-1,0,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,3.0,20.0,58.0,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,202.7,9.828
 2020-09-01,01:00,SO,,702,-1,0,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,0,0,258.66,6.632
@@ -4433,7 +4433,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-01,03:00,VD,,7330,0,16,5,,,432,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,88,0,924.22,54.47
 2020-09-01,03:00,VS,,2371,0,3,0,0.0,320,155,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,694.29,45.388
 2020-09-01,08:00,ZG,,353,0,4,0,,311,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,14.0,33.0,248.0,281.0,,,,,,,47.157296,8.537294,Zug,09,4,0,281.5,7.177
-2020-09-01,14:30,ZH,,6135,4,26,,6.0,,142,https://www.zh.ch/de/gesundheit/coronavirus.html,503.0,1074.0,,,,,,,,,47.41275,8.65508,Zürich,01,68,0,407.83,9.44
+2020-09-01,14:30,ZH,,6136,4,26,,6.0,,142,https://www.zh.ch/de/gesundheit/coronavirus.html,503.0,1074.0,,,,,,,,,47.41275,8.65508,Zürich,01,68,0,407.9,9.44
 2020-09-02,03:00,AG,,2146,0,2,1,1.0,1170,52,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp,131.0,382.0,806.0,,,,,,,,47.40966,8.15688,Aargau,01,20,0,319.82,7.75
 2020-09-02,12:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,14.0,14.0,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-09-02,08:00,BE,,2561,0,5,2,1.0,,99,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,9,0,248.38,9.601
@@ -4448,7 +4448,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-02,03:00,LU,,1067,-2,8,1,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,46.0,171.0,,,,,,,,,47.067763,8.1102,Luzern,03,3,0,262.48,5.166
 2020-09-02,03:00,NE,,886,0,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,3,0,497.75,47.191
 2020-09-02,03:00,NW,,134,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,311.63,6.977
-2020-09-02,03:00,OW,6,107,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,284.57,0.0
+2020-09-02,03:00,OW,6,107,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,284.57,0.0
 2020-09-02,12:00,SG,,1280,2,7,1,0.0,226,43,https://www.sg.ch/tools/informationen-coronavirus.html,53.0,354.0,,,,,,,,,47.1832,9.274744,St. Gallen,17,10,1,253.62,8.52
 2020-09-02,09:30,SH,,166,0,0,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,5.0,43.0,71.0,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,203.93,9.828
 2020-09-02,01:00,SO,,713,0,0,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,11,0,262.71,6.632
@@ -4458,7 +4458,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-02,16:00,UR,85,137,0,0,,,127,7,https://www.ur.ch/themen/2962,,16.0,,,,,,,,,46.771849,8.628586,Uri,04,0,0,377.41,19.284
 2020-09-02,03:00,VD,,7380,-3,13,4,,,432,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,50,0,930.53,54.47
 2020-09-02,08:00,ZG,,354,-1,3,0,,314,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,13.0,31.0,216.0,247.0,,,,,,,47.157296,8.537294,Zug,09,1,0,282.3,7.177
-2020-09-02,14:30,ZH,,6226,1,27,,7.0,,142,https://www.zh.ch/de/gesundheit/coronavirus.html,503.0,1074.0,,,,,,,,,47.41275,8.65508,Zürich,01,91,0,413.88,9.44
+2020-09-02,14:30,ZH,,6227,1,27,,7.0,,142,https://www.zh.ch/de/gesundheit/coronavirus.html,503.0,1074.0,,,,,,,,,47.41275,8.65508,Zürich,01,91,0,413.95,9.44
 2020-09-03,03:00,AG,,2173,0,2,1,1.0,1170,52,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,116.0,409.0,700.0,,,,,,,,47.40966,8.15688,Aargau,01,27,0,323.85,7.75
 2020-09-03,12:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,1.0,11.0,12.0,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-09-03,13:30,AR,,135,2,3,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,6.0,48.0,36.0,84.0,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,2,0,244.57,5.435
@@ -4473,7 +4473,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-03,03:00,JU,,273,0,3,0,,,7,https://www.jura.ch/Htdocs/Files/v/35220.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees---Situation-au-3-septembre-2020.xlsx?download=1,,,,,,,,,,,47.350744,7.156107,Jura,26,1,0,372.44,9.55
 2020-09-03,03:00,LU,,1077,-1,7,1,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,50.0,203.0,,,,,,,,,47.067763,8.1102,Luzern,03,10,0,264.94,5.166
 2020-09-03,03:00,NE,,887,0,0,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,1,0,498.31,47.191
-2020-09-03,03:00,OW,6,107,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f50e2c068518/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,284.57,0.0
+2020-09-03,03:00,OW,6,107,0,1,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,284.57,0.0
 2020-09-03,12:00,SG,,1294,0,7,1,0.0,226,43,https://www.sg.ch/tools/informationen-coronavirus.html,59.0,381.0,,,,,,,,,47.1832,9.274744,St. Gallen,17,14,0,256.39,8.52
 2020-09-03,09:30,SH,,166,0,0,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,5.0,43.0,67.0,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,203.93,9.828
 2020-09-03,01:00,SO,,718,0,0,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,5,0,264.55,6.632
@@ -4482,7 +4482,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-03,08:00,TI,,3551,0,1,0,0.0,928,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,46.295617,8.808924,Ticino,21,3,0,1003.96,98.954
 2020-09-03,16:00,UR,85,137,0,0,,,127,7,https://www.ur.ch/themen/2962,,15.0,,,,,,,,,46.771849,8.628586,Uri,04,0,0,377.41,19.284
 2020-09-03,08:00,ZG,,361,-1,2,0,,316,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,12.0,23.0,187.0,210.0,,,,,,,47.157296,8.537294,Zug,09,7,0,287.88,7.177
-2020-09-03,14:30,ZH,,6298,1,28,,7.0,,142,https://www.zh.ch/de/gesundheit/coronavirus.html,593.0,1378.0,2658.0,,,,,,,,47.41275,8.65508,Zürich,01,72,0,418.67,9.44
+2020-09-03,14:30,ZH,,6299,1,28,,7.0,,142,https://www.zh.ch/de/gesundheit/coronavirus.html,593.0,1378.0,2658.0,,,,,,,,47.41275,8.65508,Zürich,01,72,0,418.73,9.44
 2020-09-04,12:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,1.0,9.0,10.0,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-09-04,08:00,BE,,2610,0,4,2,2.0,,99,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,26,0,253.13,9.601
 2020-09-04,03:00,BL,,1059,0,0,0,0.0,971,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,56.0,228.0,197.0,425.0,,,,,,,47.45176,7.702414,Basel-Landschaft,13,1,0,368.99,12.195
@@ -4490,6 +4490,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-04,03:00,FR,30,1799,1,6,1,,163,85,https://www.fr.ch/sites/default/files/2020-09/200904_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,46.718391,7.074008,Fribourg,10,34,0,570.93,26.976
 2020-09-04,12:30,GL,,166,0,0,,,,13,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,411.91,32.258
 2020-09-04,03:00,LU,,1083,1,8,1,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,57.0,142.0,,,,,,,,,47.067763,8.1102,Luzern,03,6,0,266.42,5.166
+2020-09-04,03:00,OW,6,107,-1,0,,,1,0,https://www.ow.ch/dl.php/de/5f52337da4b73/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,284.57,0.0
 2020-09-04,09:30,SH,,167,0,0,0,,,8,https://sh.ch/CMS/get/file/95d7902e-2764-431d-aa67-b0f4e2a36e8b,5.0,46.0,62.0,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,205.16,9.828
 2020-09-04,01:00,SO,,721,0,0,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,3,0,265.66,6.632
 2020-09-04,09:00,SZ,10,496,0,1,,,454,25,https://www.sz.ch/public/upload/assets/48443/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,47.061787,8.756585,Schwyz,05,2,0,315.32,15.893
@@ -4497,3 +4498,4 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-04,08:00,TI,,3556,0,1,0,0.0,928,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,46.295617,8.808924,Ticino,21,5,0,1005.37,98.954
 2020-09-04,10:00,UR,85,137,0,0,,,127,7,https://www.ur.ch/themen/2962,,15.0,,,,,,,,,46.771849,8.628586,Uri,04,0,0,377.41,19.284
 2020-09-04,08:00,ZG,,371,0,2,0,,317,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,47.157296,8.537294,Zug,09,10,0,295.85,7.177
+2020-09-04,14:30,ZH,,6395,0,28,,7.0,,142,https://www.zh.ch/de/gesundheit/coronavirus.html,593.0,1378.0,,,,,,,,,47.41275,8.65508,Zürich,01,96,0,425.11,9.44
