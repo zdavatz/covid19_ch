@@ -4464,6 +4464,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-09-03,08:00,BE,,2584.0,,,,,,99.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,
 2020-09-03,,BL,,1058.0,,0.0,0.0,0.0,967.0,35.0,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,54.0,278.0,201.0,479.0,,,,,,
 2020-09-03,09:30,BS,,1229.0,,5.0,2.0,,1127.0,54.0,https://www.gesundheit.bs.ch,48.0,100.0,296.0,396.0,,,,540.0,2.0,3.0
+2020-09-03,,FL,,107.0,,0.0,,,101.0,1.0,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,
 2020-09-03,,FR,,1765.0,,5.0,1.0,,163.0,85.0,https://www.fr.ch/sites/default/files/2020-09/200903_statistiques_situation_COVID_site.xlsx,,,,,,,,,,
 2020-09-03,,GE,,,,21.0,0.0,,,,https://www.ge.ch/document/21502/telecharger,,,,,,,1.0,,,
 2020-09-03,12:00,GL,,166.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,
@@ -4479,3 +4480,4 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-09-03,16:00,UR,,137.0,,0.0,,,127.0,7.0,https://www.ur.ch/themen/2962,,15.0,,,,,,,,
 2020-09-03,08:00,ZG,,361.0,,2.0,,,316.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,
 2020-09-03,14:30,ZH,,6298.0,,28.0,,7.0,,142.0,https://www.zh.ch/de/gesundheit/coronavirus.html,593.0,1378.0,2658.0,,,,,,,
+2020-09-04,08:00,ZG,,371.0,,2.0,,,317.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,
