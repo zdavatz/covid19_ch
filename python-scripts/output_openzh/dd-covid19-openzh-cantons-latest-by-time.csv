@@ -1,9 +1,7 @@
 date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,current_isolated,current_quarantined,current_quarantined_riskareatravel,current_quarantined_total,TotalPosTests1,ninst_ICU_intub,ncumul_ICF,ncumul_confirmed_non_resident,current_hosp_non_resident,current_hosp_resident,lat,long,name_canton,number_canton,new_positive_cases,new_deaths,total_currently_positive_per_100k,deaths_per_100k
-2020-09-01,03:00,VS,,2371,0,3,0,0.0,320,155,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,694.29,45.388
 2020-09-02,03:00,NW,,134,0,0,0,,,3,http://www.nw.ch/coronastatistik,,,,,,,,,,,46.926755,8.405302,Nidwalden,07,0,0,311.63,6.977
 2020-09-02,03:00,VD,,7380,-3,13,4,,,432,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,50,0,930.53,54.47
 2020-09-04,03:00,GE,71961,7136,-5,16,0,1.0,973,299,https://www.ge.ch/document/21502/telecharger,,,,,,,1.0,,,,46.220528,6.132935,Genève,25,0,0,1441.03,60.38
-2020-09-04,03:00,JU,,274,0,3,0,,,7,https://www.jura.ch/Htdocs/Files/v/35228.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees---Situation-au-4-septembre-2020.xlsx?download=1,,,,,,,,,,,47.350744,7.156107,Jura,26,1,0,373.81,9.55
 2020-09-06,03:00,AG,,2225,0,2,1,1.0,1170,52,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp,,,,,,,,,,,47.40966,8.15688,Aargau,01,5,0,331.59,7.75
 2020-09-06,03:00,GR,,1022,0,1,0,0.0,,50,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,28.0,114.0,,,,,,,,,46.656248,9.628198,Graubünden/Grigioni,01,0,0,516.42,25.265
 2020-09-06,03:00,NE,,903,0,1,0,0.0,,84,https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx,,,,,,,,,,,46.995534,6.780126,Neuchâtel,24,0,0,507.3,47.191
@@ -16,6 +14,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-07,03:00,FL,900,107,0,0,,,105,1,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,277.2,2.591
 2020-09-07,03:00,FR,30,1898,0,5,1,,164,87,https://www.fr.ch/sites/default/files/2020-09/200907_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,46.718391,7.074008,Fribourg,10,24,0,602.35,27.61
 2020-09-07,11:30,GL,,166,0,0,,,,13,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,411.91,32.258
+2020-09-07,03:00,JU,,279,0,4,0,,,7,https://www.jura.ch/Htdocs/Files/v/35235.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees---Situation-au-7-septembre-2020.xlsx?download=1,,,,,,,,,,,47.350744,7.156107,Jura,26,2,0,380.63,9.55
 2020-09-07,03:00,LU,,1092,0,8,2,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,43.0,119.0,,,,,,,,,47.067763,8.1102,Luzern,03,9,0,268.63,5.166
 2020-09-07,03:00,OW,6,107,0,0,,,1,0,https://www.ow.ch/dl.php/de/5f5629531eedf/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,,46.804527,8.144317000000001,Obwalden,06,0,0,284.57,0.0
 2020-09-07,09:00,SH,,168,0,0,0,,,9,https://sh.ch/CMS/get/file/b6b64e4d-ebc2-4850-8f0c-4932a1cc6023,6.0,57.0,68.0,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,1,206.39,11.057
@@ -24,5 +23,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-07,10:00,TG,276,592,0,4,2,,82,19,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,23.0,,,,,,,,,,47.568715,9.091957,Thurgau,01,0,0,216.22,6.939
 2020-09-07,08:00,TI,,3561,-1,0,0,0.0,929,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,46.295617,8.808924,Ticino,21,5,0,1006.79,98.954
 2020-09-07,16:00,UR,85,138,0,0,,,128,7,https://www.ur.ch/themen/2962,,11.0,,,,,,,,,46.771849,8.628586,Uri,04,1,0,380.17,19.284
+2020-09-07,03:00,VS,,2439,0,3,0,0.0,320,155,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,714.2,45.388
 2020-09-07,08:00,ZG,,377,-1,1,0,,318,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,47.157296,8.537294,Zug,09,6,0,300.64,7.177
 2020-09-07,14:30,ZH,,6558,3,34,,8.0,,142,https://www.zh.ch/de/gesundheit/coronavirus.html,593.0,1378.0,,,,,,,,,47.41275,8.65508,Zürich,01,44,0,435.95,9.44
