@@ -4584,6 +4584,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-09-08,,FR,,1920.0,,6.0,0.0,,164.0,88.0,https://www.fr.ch/sites/default/files/2020-09/200908_statistiques_situation_COVID_site_1.xlsx,,,,,,,,,,
 2020-09-08,,GE,,,,20.0,1.0,,,,https://www.ge.ch/document/21502/telecharger,,,,,,,3.0,,,
 2020-09-08,11:00,GL,,166.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,
+2020-09-08,,GR,,1028.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,25.0,112.0,,,,,,,,
 2020-09-08,,JU,,280.0,,5.0,0.0,,,,https://www.jura.ch/Htdocs/Files/v/35261.xlsx/Departements/CHA/SIC/Carrousel/Coronavirus/Cornavirus/Chiffres/Donnees---Situation-au-8-septembre-2020.xlsx?download=1,,,,,,,,,,
 2020-09-08,,LU,,1093.0,,6.0,1.0,,,21.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,37.0,120.0,,,,,,,,
 2020-09-08,,NW,,138.0,,1.0,1.0,,,3.0,http://www.nw.ch/coronastatistik,,,,,,,,,,
