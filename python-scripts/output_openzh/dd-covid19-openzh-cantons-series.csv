@@ -4460,7 +4460,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-02,03:00,VS,,2400,0,3,0,0.0,320,155,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,13,0,702.78,45.388
 2020-09-02,08:00,ZG,,354,-1,3,0,,314,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,13.0,31.0,216.0,247.0,,,,,,,47.157296,8.537294,Zug,09,1,0,282.3,7.177
 2020-09-02,14:30,ZH,,6226,1,27,,7.0,,142,https://www.zh.ch/de/gesundheit/coronavirus.html,503.0,1074.0,,,,,,,,,47.41275,8.65508,Zürich,01,91,0,413.88,9.44
-2020-09-03,03:00,AG,,2173,0,2,1,1.0,1170,52,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,116.0,409.0,700.0,,,,,,,,47.40966,8.15688,Aargau,01,27,0,323.85,7.75
+2020-09-03,03:00,AG,,2173,0,2,1,1.0,1170,52,https://www.ag.ch/de/themen_1/coronavirus_2/lagebulletins/lagebulletins_1.jsp,116.0,409.0,700.0,,,,,,,,47.40966,8.15688,Aargau,01,27,0,323.85,7.75
 2020-09-03,12:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,1.0,11.0,12.0,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-09-03,13:30,AR,,135,2,3,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,6.0,48.0,36.0,84.0,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,2,0,244.57,5.435
 2020-09-03,08:00,BE,,2584,0,5,2,1.0,,99,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,23,0,250.61,9.601
@@ -4544,6 +4544,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-06,03:00,VS,,2439,0,3,0,0.0,320,155,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,2,0,714.2,45.388
 2020-09-06,08:00,ZG,,371,0,2,0,,317,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,28.0,36.0,144.0,208.0,,,,,,,47.157296,8.537294,Zug,09,0,0,295.85,7.177
 2020-09-06,14:30,ZH,,6514,1,31,,8.0,,142,https://www.zh.ch/de/gesundheit/coronavirus.html,593.0,1378.0,,,,,,,,,47.41275,8.65508,Zürich,01,42,0,433.03,9.44
+2020-09-07,03:00,AG,,2240,0,2,1,1.0,1170,52,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,145.0,332.0,702.0,,,,,,,,47.40966,8.15688,Aargau,01,15,0,333.83,7.75
 2020-09-07,12:00,AI,,25,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,0.0,0.0,10.0,10.0,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,155.28,0.0
 2020-09-07,13:35,AR,,139,-3,0,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,8.0,16.0,37.0,53.0,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,4,0,251.81,5.435
 2020-09-07,08:00,BE,,2681,0,3,2,1.0,,99,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,8,0,260.01,9.601
