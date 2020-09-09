@@ -4601,9 +4601,11 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-08,03:00,VS,,2451,0,4,0,0.0,321,155,https://www.vs.ch/de/web/coronavirus,,,,,,,,,,,46.209567,7.604659,Valais/Wallis,23,6,0,717.72,45.388
 2020-09-08,08:00,ZG,,384,-1,0,0,,327,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,38.0,51.0,174.0,225.0,,,,,,,47.157296,8.537294,Zug,09,7,0,306.22,7.177
 2020-09-08,14:30,ZH,,6656,-3,31,,9.0,,142,https://www.zh.ch/de/gesundheit/coronavirus.html,506.0,1043.0,,,,,,,,,47.41275,8.65508,Zürich,01,99,0,442.46,9.44
+2020-09-09,08:00,BE,,2722,0,6,2,1.0,,99,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,24,0,263.99,9.601
 2020-09-09,09:00,BS,235,1258,0,4,1,,1158,54,https://www.gesundheit.bs.ch,46.0,83.0,304.0,387.0,,,,545.0,,,47.564869,7.615259,Basel-Stadt,12,4,0,648.79,27.849
 2020-09-09,03:00,FL,900,108,0,0,,,105,1,https://www.regierung.li/media/attachments/472-corona-situationsbericht-0909.pdf,,,,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,1,0,279.79,2.591
 2020-09-09,03:00,FR,30,1975,0,6,0,,164,88,https://www.fr.ch/sites/default/files/2020-09/200909_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,46.718391,7.074008,Fribourg,10,55,0,626.79,27.928
+2020-09-09,03:00,LU,,1097,0,6,1,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,39.0,101.0,,,,,,,,,47.067763,8.1102,Luzern,03,4,0,269.86,5.166
 2020-09-09,11:00,SH,,175,0,0,0,,,8,https://sh.ch/CMS/get/file/8b03c510-7b8b-48d2-ae53-72a161129c64,11.0,39.0,67.0,,,,,,,,47.71357,8.59167,Schaffhausen,14,4,0,214.99,9.828
 2020-09-09,09:00,SZ,10,512,0,1,,,466,25,https://www.sz.ch/public/upload/assets/48493/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,47.061787,8.756585,Schwyz,05,1,0,325.49,15.893
 2020-09-09,10:00,TG,276,600,0,3,2,,83,19,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,18.0,,,,,,,,,,47.568715,9.091957,Thurgau,01,5,0,219.14,6.939
