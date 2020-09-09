@@ -4581,6 +4581,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-08,08:00,BE,,2698,0,3,2,1.0,,99,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,17,0,261.66,9.601
 2020-09-08,03:00,BL,,1075,0,0,0,0.0,995,35,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,44.0,94.0,211.0,305.0,,,,,,,47.45176,7.702414,Basel-Landschaft,13,8,0,374.56,12.195
 2020-09-08,09:00,BS,235,1254,0,4,1,,1154,54,https://www.gesundheit.bs.ch,46.0,67.0,305.0,372.0,,,,544.0,1.0,3.0,47.564869,7.615259,Basel-Stadt,12,7,0,646.73,27.849
+2020-09-08,03:00,FL,900,107,0,0,,,105,1,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,277.2,2.591
 2020-09-08,03:00,FR,30,1920,1,6,0,,164,88,https://www.fr.ch/sites/default/files/2020-09/200908_statistiques_situation_COVID_site_1.xlsx,,,,,,,,,,,46.718391,7.074008,Fribourg,10,22,1,609.33,27.928
 2020-09-08,03:00,GE,71961,7268,6,20,1,1.0,973,300,https://www.ge.ch/document/21502/telecharger,,,,,,,3.0,,,,46.220528,6.132935,Genève,25,0,0,1467.69,60.582
 2020-09-08,11:00,GL,,166,0,0,,,,13,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,411.91,32.258
