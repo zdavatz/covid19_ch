@@ -4655,6 +4655,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-11,08:00,BE,,2784,0,8,2,1.0,,99,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,34,0,270.0,9.601
 2020-09-11,09:00,BS,235,1265,0,2,1,,1165,54,https://www.gesundheit.bs.ch,46.0,94.0,235.0,329.0,,546.0,1.0,1.0,,,47.564869,7.615259,Basel-Stadt,12,2,0,652.4,27.849
 2020-09-11,03:00,FR,30,2037,7,18,1,,164,88,https://www.fr.ch/sites/default/files/2020-09/200911_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,46.718391,7.074008,Fribourg,10,20,0,646.46,27.928
+2020-09-11,13:00,GL,,168,0,0,,,,13,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,1,0,416.87,32.258
 2020-09-11,03:00,LU,,1115,0,6,1,,,21,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,50.0,96.0,,,,,,,,,47.067763,8.1102,Luzern,03,8,0,274.29,5.166
 2020-09-11,03:00,SG,,1341,0,9,2,1.0,226,41,https://stada.sg.ch/covid/ContactTracing.html,113.0,540.0,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,265.7,8.124
 2020-09-11,08:45,SH,,177,0,0,0,,,8,https://sh.ch/CMS/get/file/effcfb03-86f2-4655-8254-e3eaf95b8f68,11.0,38.0,54.0,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,217.44,9.828
