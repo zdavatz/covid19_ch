@@ -4655,6 +4655,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-09-11,08:00,BE,,2784.0,,8.0,2.0,1.0,,99.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,
 2020-09-11,09:00,BS,,1265.0,,2.0,1.0,,1165.0,54.0,https://www.gesundheit.bs.ch,46.0,94.0,235.0,329.0,,546.0,1.0,1.0,,
 2020-09-11,,FR,,2037.0,,18.0,1.0,,164.0,88.0,https://www.fr.ch/sites/default/files/2020-09/200911_statistiques_situation_COVID_site.xlsx,,,,,,,,,,
+2020-09-11,13:00,GL,,168.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,
 2020-09-11,,LU,,1115.0,,6.0,1.0,,,21.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,50.0,96.0,,,,,,,,
 2020-09-11,,SG,,,,,,,,,https://stada.sg.ch/covid/ContactTracing.html,113.0,540.0,,,,,,,,
 2020-09-11,08:45,SH,,177.0,,0.0,0.0,,,8.0,https://sh.ch/CMS/get/file/effcfb03-86f2-4655-8254-e3eaf95b8f68,11.0,38.0,54.0,,,,,,,
