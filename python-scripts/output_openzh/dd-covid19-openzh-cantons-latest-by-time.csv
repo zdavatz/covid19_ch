@@ -23,6 +23,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-11,16:00,UR,85,138,0,0,,,128,7,https://www.ur.ch/themen/2962,,19.0,,,,,,,,,46.771849,8.628586,Uri,04,0,0,380.17,19.284
 2020-09-11,03:00,VS,,2474,0,5,0,0.0,321,155,https://www.vs.ch/de/web/coronavirus,84.0,188.0,166.0,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,724.45,45.388
 2020-09-11,08:00,ZG,,392,0,0,0,,338,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,47.157296,8.537294,Zug,09,4,0,312.6,7.177
-2020-09-11,14:30,ZH,,6886,-1,25,,8.0,,143,https://www.zh.ch/de/gesundheit/coronavirus.html,569.0,1066.0,,,,,,,,,47.41275,8.65508,Zürich,01,88,0,457.75,9.506
 2020-09-12,08:00,BE,,2810,0,8,2,1.0,,99,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,26,0,272.52,9.601
 2020-09-12,09:00,BS,235,1265,0,2,1,,1165,54,https://www.gesundheit.bs.ch,46.0,94.0,235.0,329.0,,546.0,,,,,47.564869,7.615259,Basel-Stadt,12,0,0,652.4,27.849
+2020-09-12,14:30,ZH,,6962,-3,22,,8.0,,144,https://www.zh.ch/de/gesundheit/coronavirus.html,,,,,,,,,,,47.41275,8.65508,Zürich,01,76,0,462.81,9.573
