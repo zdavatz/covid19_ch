@@ -4681,3 +4681,4 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-09-12,,GR,,1049.0,,1.0,0.0,0.0,,50.0,https://services1.arcgis.com/YAuo6vcW85VPu7OE/arcgis/rest/services/Fallzahlen_Total_Kanton/FeatureServer/0/query?where=1%3D1&objectIds=&time=&resultType=none&outFields=*&returnHiddenFields=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=Eingangs_Datum&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=standard&f=pjson,36.0,108.0,,,,,,,,
 2020-09-12,14:30,ZH,,6962.0,,22.0,,8.0,,144.0,https://www.zh.ch/de/gesundheit/coronavirus.html,569.0,1066.0,,,,,,,,
 2020-09-13,08:00,BE,,2852.0,,,,,,99.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,
+2020-09-13,09:40,BS,,1272.0,,,,,1171.0,54.0,https://www.gesundheit.bs.ch,47.0,104.0,244.0,348.0,,546.0,,,,
