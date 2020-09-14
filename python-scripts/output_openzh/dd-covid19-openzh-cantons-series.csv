@@ -4698,6 +4698,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-14,09:40,BS,235,1274,0,2,1,,1174,54,https://www.gesundheit.bs.ch,46.0,115.0,249.0,364.0,,546.0,,,,,47.564869,7.615259,Basel-Stadt,12,2,0,657.04,27.849
 2020-09-14,03:00,FR,30,2125,1,22,2,,164,88,https://www.fr.ch/sites/default/files/2020-09/200914_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,46.718391,7.074008,Fribourg,10,19,0,674.39,27.928
 2020-09-14,11:15,GL,,168,0,0,,,,13,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,416.87,32.258
+2020-09-14,03:00,LU,,1124,1,7,0,,,23,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,36.0,111.0,,,,,,,,,47.067763,8.1102,Luzern,03,9,2,276.51,5.658
 2020-09-14,03:00,SG,,1409,0,9,2,1.0,226,41,https://stada.sg.ch/covid/ContactTracing.html,113.0,667.0,,,,,,,,,47.1832,9.274744,St. Gallen,17,0,0,279.18,8.124
 2020-09-14,09:15,SH,,177,0,0,0,,,8,https://sh.ch/CMS/get/file/3284dfd9-6370-4d5f-965c-47eaa2d3689c,10.0,28.0,39.0,,,,,,,,47.71357,8.59167,Schaffhausen,14,0,0,217.44,9.828
 2020-09-14,01:00,SO,,755,1,2,,,,18,https://corona.so.ch/index.php?id=27979,,,,,,,,,,,47.304135,7.639388,Solothurn,11,11,0,278.19,6.632

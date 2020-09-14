@@ -4698,6 +4698,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-09-14,09:40,BS,,1274.0,,,,,1174.0,54.0,https://www.gesundheit.bs.ch,46.0,115.0,249.0,364.0,,546.0,,,,
 2020-09-14,,FR,,2125.0,,22.0,2.0,,164.0,88.0,https://www.fr.ch/sites/default/files/2020-09/200914_statistiques_situation_COVID_site.xlsx,,,,,,,,,,
 2020-09-14,11:15,GL,,168.0,,0.0,,,,13.0,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,
+2020-09-14,,LU,,1124.0,,7.0,0.0,,,23.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,36.0,111.0,,,,,,,,
 2020-09-14,,SG,,,,,,,,,https://stada.sg.ch/covid/ContactTracing.html,113.0,667.0,,,,,,,,
 2020-09-14,09:15,SH,,177.0,,0.0,0.0,,,8.0,https://sh.ch/CMS/get/file/3284dfd9-6370-4d5f-965c-47eaa2d3689c,10.0,28.0,39.0,,,,,,,
 2020-09-14,01:00,SO,,755.0,,2.0,,,,18.0,https://corona.so.ch/index.php?id=27979,,,,,,,,,,
