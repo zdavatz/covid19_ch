@@ -3,7 +3,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-13,03:00,AG,,2364,0,2,1,1.0,1170,53,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,189.0,511.0,,,,,,,,,47.40966,8.15688,Aargau,01,13,0,352.31,7.899
 2020-09-14,12:00,AI,,27,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,2.0,12.0,9.0,21.0,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,1,0,167.7,0.0
 2020-09-14,13:55,AR,,151,1,1,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,11.0,123.0,42.0,165.0,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,12,0,273.55,5.435
-2020-09-14,08:00,BE,,2866,0,7,2,1.0,,99,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,14,0,277.96,9.601
 2020-09-14,03:00,BL,,1100,0,2,0,0.0,1016,36,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,43.0,133.0,223.0,356.0,,,,,,,47.45176,7.702414,Basel-Landschaft,13,0,0,383.28,12.544
 2020-09-14,03:00,FL,900,111,0,1,,,106,1,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,287.56,2.591
 2020-09-14,03:00,GE,71961,7522,3,21,0,1.0,973,300,https://www.ge.ch/document/21502/telecharger,,,,,3.0,,,,,,46.220528,6.132935,Genève,25,0,0,1518.98,60.582
@@ -17,6 +16,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-14,16:00,UR,85,139,0,0,,,130,7,https://www.ur.ch/themen/2962,,22.0,,,,,,,,,46.771849,8.628586,Uri,04,1,0,382.92,19.284
 2020-09-14,03:00,VS,,2500,0,8,0,0.0,321,155,https://www.vs.ch/de/web/coronavirus,68.0,216.0,119.0,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,732.06,45.388
 2020-09-14,14:30,ZH,,7028,2,25,,9.0,,145,https://www.zh.ch/de/gesundheit/coronavirus.html,569.0,1066.0,2295.0,,,,,,,,47.41275,8.65508,Zürich,01,19,0,467.19,9.639
+2020-09-15,08:00,BE,,2893,0,7,2,1.0,,99,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,27,0,280.57,9.601
 2020-09-15,10:30,BS,235,1278,0,4,1,,1178,54,https://www.gesundheit.bs.ch,46.0,97.0,249.0,346.0,,547.0,1.0,3.0,,,47.564869,7.615259,Basel-Stadt,12,4,0,659.1,27.849
 2020-09-15,03:00,FR,30,2151,-5,17,2,,165,88,https://www.fr.ch/sites/default/files/2020-09/200915_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,46.718391,7.074008,Fribourg,10,26,0,682.64,27.928
 2020-09-15,11:15,GL,,168,0,0,,,,13,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,0,0,416.87,32.258
