@@ -4753,7 +4753,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-09-15,,LU,,1135.0,,5.0,0.0,,,23.0,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,43.0,120.0,,,,,,,,
 2020-09-15,,NW,,139.0,,1.0,1.0,,,3.0,http://www.nw.ch/coronastatistik,,,,,,,,,,
 2020-09-15,00:00,OW,,108.0,,0.0,,,,0.0,https://www.ow.ch/dl.php/de/5f60cdb9865b3/OW-1103775-v1-Statistik_OW_Covid-19.XLSX,,,,,,,,,,
-2020-09-15,,SG,,,,,,,,,https://stada.sg.ch/covid/ContactTracing.html,115.0,652.0,,,,,,,,
+2020-09-15,,SG,,1441.0,,9.0,1.0,1.0,,41.0,https://stada.sg.ch/covid/BAG_uebersicht.html,115.0,652.0,,,,,,,,
 2020-09-15,08:45,SH,,177.0,,0.0,0.0,,,8.0,https://sh.ch/CMS/get/file/1ee8258d-79d2-4a86-a396-7d5abd59a5d5,9.0,23.0,46.0,,,,,,,
 2020-09-15,01:00,SO,,759.0,,2.0,,,,18.0,https://corona.so.ch/index.php?id=27979,,,,,,,,,,
 2020-09-15,09:00,SZ,,536.0,,,,,484.0,25.0,https://www.sz.ch/public/upload/assets/48601/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,
@@ -4763,3 +4763,4 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-09-15,,VS,,2517.0,0.0,9.0,0.0,0.0,321.0,155.0,https://www.vs.ch/de/web/coronavirus,84.0,229.0,242.0,,,,,,,
 2020-09-15,08:00,ZG,,408.0,,1.0,,,359.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,
 2020-09-15,14:30,ZH,,7080.0,,28.0,,9.0,,145.0,https://www.zh.ch/de/gesundheit/coronavirus.html,548.0,1030.0,,,,,,,,
+2020-09-16,08:00,ZG,,409.0,,1.0,,,363.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,
