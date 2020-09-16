@@ -4764,7 +4764,9 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-15,03:00,VS,,2517,0,9,0,0.0,321,155,https://www.vs.ch/de/web/coronavirus,84.0,229.0,242.0,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,737.04,45.388
 2020-09-15,08:00,ZG,,408,0,1,0,,359,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,20.0,54.0,145.0,199.0,,,,,,,47.157296,8.537294,Zug,09,4,0,325.36,7.177
 2020-09-15,14:30,ZH,,7080,3,28,,9.0,,145,https://www.zh.ch/de/gesundheit/coronavirus.html,548.0,1030.0,,,,,,,,,47.41275,8.65508,Zürich,01,52,0,470.65,9.639
-2020-09-16,10:35,SH,,178,0,0,0,,,8,https://sh.ch/CMS/get/file/b5a38340-0fef-4be7-8346-a9c5bbcd794e,6.0,10.0,,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,218.67,9.828
+2020-09-16,08:00,BS,235,1279,0,4,1,,1181,54,https://www.gesundheit.bs.ch,44.0,93.0,304.0,397.0,,547.0,,,,,47.564869,7.615259,Basel-Stadt,12,1,0,659.62,27.849
+2020-09-16,11:00,GL,,169,0,0,,,,13,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,1,0,419.35,32.258
+2020-09-16,10:35,SH,,178,0,0,0,,,8,https://sh.ch/CMS/get/file/b5a38340-0fef-4be7-8346-a9c5bbcd794e,6.0,10.0,57.0,,,,,,,,47.71357,8.59167,Schaffhausen,14,1,0,218.67,9.828
 2020-09-16,09:00,SZ,10,541,0,1,,,486,25,https://www.sz.ch/public/upload/assets/48604/COVID-19_Fallzahlen_Kanton_Schwyz.xlsx,,,,,,,,,,,47.061787,8.756585,Schwyz,05,5,0,343.93,15.893
 2020-09-16,10:00,TG,276,654,0,3,2,,83,19,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,53.0,,,,,,,,,,47.568715,9.091957,Thurgau,01,11,0,238.86,6.939
 2020-09-16,08:00,TI,,3596,0,1,0,0.0,929,350,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,,46.295617,8.808924,Ticino,21,6,0,1016.68,98.954
