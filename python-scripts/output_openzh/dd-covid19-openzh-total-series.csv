@@ -4765,7 +4765,7 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-09-15,16:00,UR,,139.0,,0.0,,,130.0,7.0,https://www.ur.ch/themen/2962,,22.0,,,,,,,,
 2020-09-15,,VS,,2529.0,0.0,9.0,0.0,0.0,321.0,155.0,https://www.vs.ch/de/web/coronavirus,86.0,291.0,268.0,,,,,,,
 2020-09-15,08:00,ZG,,408.0,,1.0,,,359.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,20.0,54.0,145.0,199.0,,,,,,
-2020-09-15,14:30,ZH,,7080.0,,28.0,,9.0,,145.0,https://www.zh.ch/de/gesundheit/coronavirus.html,548.0,1030.0,,,,,,,,
+2020-09-15,14:30,ZH,,7079.0,,28.0,,9.0,,145.0,https://www.zh.ch/de/gesundheit/coronavirus.html,548.0,1030.0,,,,,,,,
 2020-09-16,,AG,,2435.0,,,,,,53.0,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,174.0,560.0,775.0,,,,,,,
 2020-09-16,12:00,AI,,28.0,,,,,,0.0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,3.0,10.0,11.0,21.0,,,,,,
 2020-09-16,08:00,BE,,2947.0,,12.0,2.0,1.0,,99.0,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,
@@ -4804,3 +4804,4 @@ date,time,abbreviation_canton_and_fl,ncumul_tested,ncumul_conf,new_hosp,current_
 2020-09-17,10:00,TG,,671.0,0.0,3.0,2.0,,83.0,19.0,https://www.tg.ch/news/fachstab-gesundheit-coronavirus.html/10552,61.0,,,,,,,,,
 2020-09-17,08:00,TI,,3604.0,,1.0,0.0,0.0,929.0,350.0,https://www4.ti.ch/fileadmin/DSS/DSP/UMC/malattie_infettive/Coronavirus/dati/COVID19_Dati_TI_per_github.xlsx,,,,,,,,,,
 2020-09-17,08:00,ZG,,410.0,,0.0,,,376.0,9.0,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,
+2020-09-17,14:30,ZH,,7230.0,,27.0,,9.0,,145.0,https://www.zh.ch/de/gesundheit/coronavirus.html,,,,,,,,,,
