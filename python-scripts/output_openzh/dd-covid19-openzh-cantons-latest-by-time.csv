@@ -1,8 +1,7 @@
 date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,total_hospitalized,intensive_care,ncumul_vent,released,deaths,source,current_isolated,current_quarantined,current_quarantined_riskareatravel,current_quarantined_total,ncumul_ICF,ncumul_confirmed_non_resident,current_hosp_non_resident,current_hosp_resident,TotalPosTests1,ninst_ICU_intub,lat,long,name_canton,number_canton,new_positive_cases,new_deaths,total_currently_positive_per_100k,deaths_per_100k
 2020-09-14,13:55,AR,,151,1,1,0,,,3,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,11.0,123.0,42.0,165.0,,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,12,0,273.55,5.435
 2020-09-14,03:00,VD,,8824,-4,30,4,,,437,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/point-de-situation-statistique-dans-le-canton-de-vaud/,,,,,,,,,,,46.570091,6.557809000000001,Vaud,22,44,0,1112.6,55.1
-2020-09-15,03:00,AG,,2399,0,2,1,1.0,1170,53,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,167.0,566.0,768.0,,,,,,,,47.40966,8.15688,Aargau,01,28,0,357.53,7.899
-2020-09-16,12:00,AI,,28,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,3.0,10.0,11.0,21.0,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,1,0,173.91,0.0
+2020-09-16,03:00,AG,,2435,0,2,1,1.0,1170,53,https://www.ag.ch/de/themen_1/coronavirus_2/coronavirus.jsp,174.0,560.0,775.0,,,,,,,,47.40966,8.15688,Aargau,01,36,0,362.89,7.899
 2020-09-16,03:00,BL,,1110,0,3,0,0.0,1024,36,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,43.0,85.0,206.0,291.0,,,,,,,47.45176,7.702414,Basel-Landschaft,13,2,0,386.76,12.544
 2020-09-16,03:00,FL,900,111,0,1,,,106,1,https://www.llv.li/files/ag/aktuelle-fallzahlen.pdf,,,,,,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,0,0,287.56,2.591
 2020-09-16,03:00,GE,71961,7637,0,29,1,1.0,973,303,https://www.ge.ch/document/21502/telecharger,,,,,2.0,,,,,,46.220528,6.132935,Genève,25,0,0,1542.21,61.187
@@ -15,6 +14,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-16,16:00,UR,85,139,0,0,,,130,7,https://www.ur.ch/themen/2962,,20.0,,,,,,,,,46.771849,8.628586,Uri,04,0,0,382.92,19.284
 2020-09-16,03:00,VS,,2529,0,9,0,0.0,321,155,https://www.vs.ch/de/web/coronavirus,86.0,314.0,248.0,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,740.56,45.388
 2020-09-16,14:30,ZH,,7143,-3,25,,9.0,,145,https://www.zh.ch/de/gesundheit/coronavirus.html,548.0,1030.0,,,,,,,,,47.41275,8.65508,Zürich,01,63,0,474.84,9.639
+2020-09-17,12:00,AI,,31,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,5.0,15.0,10.0,25.0,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,3,0,192.55,0.0
 2020-09-17,08:00,BE,,2990,0,12,2,1.0,,99,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,,,,,,46.823608,7.636667,Bern/Berne,02,43,0,289.98,9.601
 2020-09-17,09:00,BS,235,1282,0,4,1,,1184,54,https://www.gesundheit.bs.ch,44.0,101.0,260.0,361.0,,547.0,,,,,47.564869,7.615259,Basel-Stadt,12,3,0,661.17,27.849
 2020-09-17,03:00,FR,30,2197,1,15,1,,166,97,https://www.fr.ch/sites/default/files/2020-09/200917_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,46.718391,7.074008,Fribourg,10,18,2,697.24,30.784
