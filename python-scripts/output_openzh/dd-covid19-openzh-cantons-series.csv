@@ -4816,6 +4816,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,new_hosp,tota
 2020-09-17,03:00,VS,,2550,-1,8,0,0.0,322,155,https://www.vs.ch/de/web/coronavirus,71.0,287.0,259.0,,,,,,,,46.209567,7.604659,Valais/Wallis,23,0,0,746.71,45.388
 2020-09-17,08:00,ZG,,410,-1,0,0,,376,9,https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona,,,,,,,,,,,47.157296,8.537294,Zug,09,1,0,326.95,7.177
 2020-09-17,14:30,ZH,,7230,2,27,,9.0,,145,https://www.zh.ch/de/gesundheit/coronavirus.html,568.0,1003.0,,,,,,,,,47.41275,8.65508,Zürich,01,87,0,480.62,9.639
+2020-09-18,12:00,AI,,31,0,1,,,,0,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,6.0,32.0,9.0,41.0,,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,0,0,192.55,0.0
 2020-09-18,09:30,BS,235,1289,0,3,1,,1188,54,https://www.gesundheit.bs.ch,47.0,101.0,283.0,384.0,,549.0,1.0,2.0,,,47.564869,7.615259,Basel-Stadt,12,7,0,664.78,27.849
 2020-09-18,03:00,FR,30,2223,-1,14,2,,168,98,https://www.fr.ch/sites/default/files/2020-09/200918_statistiques_situation_COVID_site.xlsx,,,,,,,,,,,46.718391,7.074008,Fribourg,10,26,1,705.49,31.101
 2020-09-18,11:15,GL,,172,0,0,,,,13,https://www.gl.ch/public/upload/assets/30317/COVID-19_Fallzahlen_Kanton_Glarus.xlsx,,,,,,,,,,,46.931042000000005,9.065751,Glarus,08,2,0,426.8,32.258
